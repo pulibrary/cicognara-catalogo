@@ -8,7 +8,7 @@ namespace tei = "http://www.tei-c.org/ns/1.0"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2015-10-17T02:48:45Z. .
+# Schema generated from ODD source 2015-10-17T22:06:34Z. .
 # TEI Edition: Version 2.9.1. Last updated on
 #	15th October 2015, revision 46ac023
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 2.9.1/
@@ -878,6 +878,32 @@ sch:pattern [
   "\x{a}" ~
   "   "
 ]
+tei_att.tableDecoration.attributes =
+  tei_att.tableDecoration.attribute.role,
+  tei_att.tableDecoration.attribute.rows,
+  tei_att.tableDecoration.attribute.cols
+tei_att.tableDecoration.attribute.role =
+  
+  ## indicates the kind of information held in this cell or in each cell of this row.
+  ## Suggested values include: 1] label; 2] data
+  [ a:defaultValue = "data" ]
+  attribute role {
+    
+    ## labelling or descriptive information only.
+    "label"
+    | 
+      ## data values.
+      "data"
+    | xsd:Name
+  }?
+tei_att.tableDecoration.attribute.rows =
+  
+  ## indicates the number of rows occupied by this cell or row.
+  [ a:defaultValue = "1" ] attribute rows { tei_data.count }?
+tei_att.tableDecoration.attribute.cols =
+  
+  ## (columns) indicates the number of columns occupied by this cell or row.
+  [ a:defaultValue = "1" ] attribute cols { tei_data.count }?
 tei_att.timed.attributes =
   tei_att.timed.attribute.start, tei_att.timed.attribute.end
 tei_att.timed.attribute.start =
@@ -1055,7 +1081,8 @@ tei_model.egLike_sequence = empty
 tei_model.egLike_sequenceOptional = empty
 tei_model.egLike_sequenceOptionalRepeatable = empty
 tei_model.egLike_sequenceRepeatable = notAllowed
-tei_model.graphicLike = tei_media | tei_graphic | tei_binaryObject
+tei_model.graphicLike =
+  tei_media | tei_graphic | tei_binaryObject | tei_formula
 tei_model.offsetLike = notAllowed
 tei_model.offsetLike_alternation = notAllowed
 tei_model.offsetLike_sequence = empty
@@ -1246,15 +1273,17 @@ tei_model.labelLike_sequence = tei_desc, tei_label
 tei_model.labelLike_sequenceOptional = tei_desc?, tei_label?
 tei_model.labelLike_sequenceOptionalRepeatable = tei_desc*, tei_label*
 tei_model.labelLike_sequenceRepeatable = tei_desc+, tei_label+
-tei_model.listLike = tei_list | tei_listApp | tei_listWit
-tei_model.listLike_alternation = tei_list | tei_listApp | tei_listWit
-tei_model.listLike_sequence = tei_list, tei_listApp, tei_listWit
+tei_model.listLike = tei_list | tei_listApp | tei_listWit | tei_table
+tei_model.listLike_alternation =
+  tei_list | tei_listApp | tei_listWit | tei_table
+tei_model.listLike_sequence =
+  tei_list, tei_listApp, tei_listWit, tei_table
 tei_model.listLike_sequenceOptional =
-  tei_list?, tei_listApp?, tei_listWit?
+  tei_list?, tei_listApp?, tei_listWit?, tei_table?
 tei_model.listLike_sequenceOptionalRepeatable =
-  tei_list*, tei_listApp*, tei_listWit*
+  tei_list*, tei_listApp*, tei_listWit*, tei_table*
 tei_model.listLike_sequenceRepeatable =
-  tei_list+, tei_listApp+, tei_listWit+
+  tei_list+, tei_listApp+, tei_listWit+, tei_table+
 tei_model.noteLike = tei_note | tei_witDetail
 tei_model.lLike = tei_l
 tei_model.lLike_alternation = tei_l
@@ -1444,6 +1473,8 @@ tei_model.global =
   | tei_model.noteLike
   | tei_model.global.edit
   | tei_metamark
+  | tei_notatedMusic
+  | tei_figure
 tei_model.biblPart =
   tei_model.respLike
   | tei_model.imprintPart
@@ -5248,7 +5279,9 @@ tei_app =
       | tei_delSpan
       | tei_gap
       | tei_space
-      | tei_metamark)*,
+      | tei_figure
+      | tei_metamark
+      | tei_notatedMusic)*,
      (tei_lem,
       (tei_model.global.meta
        | tei_model.milestoneLike
@@ -5258,7 +5291,9 @@ tei_app =
        | tei_delSpan
        | tei_gap
        | tei_space
-       | tei_metamark)*,
+       | tei_figure
+       | tei_metamark
+       | tei_notatedMusic)*,
       (tei_wit,
        (tei_model.global.meta
         | tei_model.milestoneLike
@@ -5268,7 +5303,9 @@ tei_app =
         | tei_delSpan
         | tei_gap
         | tei_space
-        | tei_metamark)*)?)?,
+        | tei_figure
+        | tei_metamark
+        | tei_notatedMusic)*)?)?,
      ((tei_model.rdgLike,
        (tei_model.global.meta
         | tei_model.milestoneLike
@@ -5278,7 +5315,9 @@ tei_app =
         | tei_delSpan
         | tei_gap
         | tei_space
-        | tei_metamark)*,
+        | tei_figure
+        | tei_metamark
+        | tei_notatedMusic)*,
        (tei_wit,
         (tei_model.global.meta
          | tei_model.milestoneLike
@@ -5288,7 +5327,9 @@ tei_app =
          | tei_delSpan
          | tei_gap
          | tei_space
-         | tei_metamark)*)?)
+         | tei_figure
+         | tei_metamark
+         | tei_notatedMusic)*)?)
       | (tei_rdgGrp,
          (tei_model.global.meta
           | tei_model.milestoneLike
@@ -5298,7 +5339,9 @@ tei_app =
           | tei_delSpan
           | tei_gap
           | tei_space
-          | tei_metamark)*,
+          | tei_figure
+          | tei_metamark
+          | tei_notatedMusic)*,
          (tei_wit,
           (tei_model.global.meta
            | tei_model.milestoneLike
@@ -5308,7 +5351,9 @@ tei_app =
            | tei_delSpan
            | tei_gap
            | tei_space
-           | tei_metamark)*)?))*),
+           | tei_figure
+           | tei_metamark
+           | tei_notatedMusic)*)?))*),
     tei_att.global.attributes,
     
     ## classifies the variation contained in this element according to some convenient typology.
@@ -5521,5 +5566,86 @@ tei_variantEncoding =
          "         "
        ],
     empty
+  }
+tei_table =
+  
+  ## contains text displayed in tabular form, in rows and columns. [14.1.1. TEI Tables]
+  element tei:table {
+    ((tei_model.headLike | tei_model.global)*,
+     ((tei_row, tei_model.global*)+
+      | (tei_model.graphicLike, tei_model.global*)+),
+     (tei_model.divBottom, tei_model.global*)*),
+    tei_att.global.attributes,
+    
+    ## indicates the number of rows in the table.
+    attribute rows { tei_data.count }?,
+    
+    ## (columns) indicates the number of columns in each row of the table.
+    attribute cols { tei_data.count }?,
+    empty
+  }
+tei_row =
+  
+  ## contains one row of a table. [14.1.1. TEI Tables]
+  element tei:row {
+    tei_cell+,
+    tei_att.global.attributes,
+    tei_att.tableDecoration.attributes,
+    empty
+  }
+tei_cell =
+  
+  ## contains one cell of a table. [14.1.1. TEI Tables]
+  element tei:cell {
+    tei_macro.specialPara,
+    tei_att.global.attributes,
+    tei_att.tableDecoration.attributes,
+    empty
+  }
+tei_formula =
+  
+  ## contains a mathematical or other formula. [14.2. Formulæ and
+  ## Mathematical Expressions]
+  element tei:formula {
+    (text | tei_model.graphicLike | tei_model.hiLike)*,
+    tei_att.global.attributes,
+    
+    ## names the notation used for the content of the element.
+    attribute notation { tei_data.enumerated }?,
+    empty
+  }
+tei_notatedMusic =
+  
+  ## encodes the presence of music notation in a text [14.3. Notated Music in Written Text]
+  element tei:notatedMusic {
+    (tei_model.labelLike
+     | tei_model.ptrLike
+     | tei_graphic
+     | tei_binaryObject)*,
+    tei_att.global.attributes,
+    tei_att.placement.attributes,
+    tei_att.typed.attributes,
+    empty
+  }
+tei_figure =
+  
+  ## groups elements representing or containing graphic information such as an illustration, formula, or figure. [14.4. Specific Elements for Graphic Images]
+  element tei:figure {
+    (tei_model.headLike
+     | tei_model.common
+     | tei_figDesc
+     | tei_model.graphicLike
+     | tei_model.global
+     | tei_model.divBottom)*,
+    tei_att.global.attributes,
+    tei_att.placement.attributes,
+    tei_att.typed.attributes,
+    empty
+  }
+tei_figDesc =
+  
+  ## (description of figure) contains a brief prose description of the appearance or content of a graphic figure, for use when documenting an image without displaying it. [14.4. Specific Elements for Graphic Images]
+  element tei:figDesc {
+    tei_macro.limitedContent, tei_att.global.attributes, empty
   }
 start = tei_TEI | tei_teiCorpus
