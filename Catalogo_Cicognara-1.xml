@@ -312,15 +312,18 @@
 	<pb type="cico" n="1"/>
 	<head>Delle belle arti in generale</head>
 	<list type="catalog">
-	  <item n="1">
+	  <item n="1" xml:id="cico-item-1">
 	    <label>1.</label>
 	  
-	    <bibl><author>AGINCOURT (d’) Seroux</author>, <title>Histoire de
-	    l’Art par les Monumens depuis sa decadence au 4ᵐᵉ siecle, jusque à
-	    son renouvellement au 16.me pour servir de suite à l’histoire de
-	    l’art chez les Anciens.</title> <pubPlace>Paris</pubPlace>
-	    <date>1811</date> et <date>1820</date>, <extent>6
-	    vol. fol. fig. ornés de 325 pl. en 24 livraisons.</extent>
+	    <bibl xml:id="bibl_az217x3"
+	    corresp="http://www.cicognara.com/cico:3"><author>AGINCOURT
+	    (d’) Seroux</author>, <title>Histoire de l’Art par les
+	    Monumens depuis sa decadence au 4ᵐᵉ siecle, jusque à son
+	    renouvellement au 16.me pour servir de suite à l’histoire
+	    de l’art chez les Anciens.</title>
+	    <pubPlace>Paris</pubPlace> <date>1811</date> et
+	    <date>1820</date>, <extent>6 vol. fol. fig. ornés de 325
+	    pl. en 24 livraisons.</extent>
 	    </bibl>
 	    <note>La piccola dimensione delle figure e l’inesattezza de’ disegni
 	    non tolgono a quest’opera il merito intrinseco di cui è ripiena,
@@ -331,17 +334,26 @@
 	  
 	  <item n="2">
 	    <label>2.</label>
-	    <bibl><author>Agrippae Henrici Corn.</author>, <title>De incertitude et vanitate scientiarum, declamatio invectiva, ex postrema
+	    <bibl xml:id="bibl_2w57yz"><author>Agrippae Henrici
+	    Corn.</author>, <title>De incertitude et vanitate
+	    scientiarum, declamatio invectiva, ex postrema
 	    <fw type="foot"/>
 	    <pb type="memofonte"/>
 	    <fw type="head"/>
 	    
-	    auctoris recognitione</title>, <pubPlace>Coloniæ</pubPlace> <date>1584</date>, <extent>in 16</extent>.</bibl>
+	    auctoris recognitione</title>,
+	    <pubPlace>Coloniæ</pubPlace> <date>1584</date>, <extent>in
+	    16</extent>.</bibl>
 
-	    <note> È trattata la materia estesamente, e quindi la musica, l’ottica. l’architettura, la pittura, la scultura sono prese in
-	    esame: ma quanto al pregio dell’opera ritiensi più rara la prima edizione del 1527, e le altre che apparvero fino al
-	    1536 poiché non erano in quelle stati tolti alcuni passi che l’autore (per quietamente vivere) tolse egli stesso dalle
-	    posteriori edizioni, come può leggersi nella sua interessantissima prefazione.</note>
+	    <note> È trattata la materia estesamente, e quindi la
+	    musica, l’ottica. l’architettura, la pittura, la scultura
+	    sono prese in esame: ma quanto al pregio dell’opera
+	    ritiensi più rara la prima edizione del 1527, e le altre
+	    che apparvero fino al 1536 poiché non erano in quelle
+	    stati tolti alcuni passi che l’autore (per quietamente
+	    vivere) tolse egli stesso dalle posteriori edizioni, come
+	    può leggersi nella sua interessantissima
+	    prefazione.</note>
 	  </item>
 	  
 	  <item n="3"><label>3.</label> <bibl>ALGAROTTI C. Francesco, Opere. Edizione novissima, Venezia 1791, vol. 17, in 8.</bibl>
