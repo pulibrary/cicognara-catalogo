@@ -1055,7 +1055,7 @@
 	  </item>
 
 	  <item n="122"><label>122.</label> <bibl><title>ÉSCOLE de la mignature, dans la quelle ou peut aisement apprendre a peindre sans maître, avec
-	  le secret de faire le plus beau couleur d’or et l’or en coquille,</title><pubPlace> Lion</pubPlace> <damage>1679,</damage> <extent>in 12,</extent> seconda
+	  le secret de faire le plus beau couleur d’or et l’or en coquille,</title><pubPlace> Lion</pubPlace> <date>1679,</date> <extent>in 12,</extent> seconda
 	  edizione.</bibl>
 	  </item>
 
@@ -1183,8 +1183,8 @@
 	  <item n="143"><label>143.</label> <bibl><author>DE JORIO Andrea,</author><title> Sul metodo degli antichi nel di pingere i vasi e sulle rappresentanze de’ più
 	  interessanti del R. Museo,</title> <pubPlace>Napoli</pubPlace> <date>1813,</date> <extent>in 8, M. 66.</extent></bibl>
 	  </item>
-<!-- Do i tag plates with extent, or no? -->
-	  <item n="144"><label>144.</label> <bibl><author>DE JORIO Andrea,</author> <title>Scheletri cumani dilucidati,</title> <pubPlace>Napoli</pubPlace> <date>1810,</date> in 8, fig., M. 66, con cinque tavole
+
+	  <item n="144"><label>144.</label> <bibl><author>DE JORIO Andrea,</author> <title>Scheletri cumani dilucidati,</title> <pubPlace>Napoli</pubPlace> <date>1810,</date><extent> in 8, fig., M. 66,</extent> con cinque tavole
 	  in rame.</bibl>
 	  <note>Memoria piena di curiose ed interessanti notizie.</note>
 	  
@@ -1200,7 +1200,7 @@
 	  <note>Stravagantissimo libro, dettato da un caldo fanatismo nella maniera di vedere di questo scrittore.
 	  Estendesi a 400 pagine stampate in due colonne.</note>	  
 	  </item>
-    <!-- Should I tag notes where the tags haven't automatically been added? -->
+    
 	  <item n="147"><label>147.</label> <bibl><author>JUNII Francisci,</author><title> De pictura veterum lib. 3,</title> <pubPlace>Amstelodami</pubPlace> <date>1637,</date> <extent>in 8.</extent>
 	 <note> In questa prima edizione non sono gli elenchi ragionati degli artefici antichi, come trovansi nell’edizione in
 	  foglio.</note></bibl>	  
@@ -1220,15 +1220,15 @@
 	  <item n="150"><label>150.</label> <bibl><author>LACOMBE,</author> <title>Le spectacle des beaux arts, ou considerations touchantes leur nature etc.,</title> <pubPlace>Paris</pubPlace>
 	  <date>1758,</date><extent> in 12.</extent></bibl>
 	  <note>Quest’opera si estene più sulla musica e la poesia che sulla pittura.</note>
-	 <!--This item has two bibl tags?-->
-	  <bibl>– Aggiuntovi: Les moyens de dévénir peintres en trois heures et d’exécuter au pinceau les
-	  ouvrages des plus grands maîtres, sans avoir appris le dessein, Paris 1755.</bibl>
+	 
+	  <bibl>– Aggiuntovi: <title>Les moyens de dévénir peintres en trois heures et d’exécuter au pinceau les
+	  ouvrages des plus grands maîtres, sans avoir appris le dessein,</title> <pubPlace>Paris</pubPlace> <date>1755</date>.</bibl>
 	  <note>Questo libro col mezzo di dialoghi insegna ad attaccare al vetro le stampe dopo averle imbrattate di colore e
 	  porta lo specioso titolo indicato.</note>
 	  </item>
-    <!--Tag "tomo figurato" outside extent?-->
-	  <item n="151"><label>151.</label> <bibl><author>LAIRESSE Gerard,</author><title> il gran libro dei pittori stampato in olandese,</title> <pubPlace>Amsterdam</pubPlace> <date>1716,</date> vol. 2 in 1
-	  tomo figurato.</bibl>
+ 
+	  <item n="151"><label>151.</label> <bibl><author>LAIRESSE Gerard,</author><title> il gran libro dei pittori stampato in olandese,</title> <pubPlace>Amsterdam</pubPlace> <date>1716,</date> <extent>vol. 2 in 1
+	  tomo figurato.</extent></bibl>
 	  <note>Edizione originale, ove le incisioni molto più numerose e <pb type="cico" n="24"/> pregievoli che nella versione francese, la
 	  rendono di pregio maggiore, aggiuntovi un terzo volume legato assieme dei principi del disegno, stampato nel
           1713.</note>
@@ -1285,7 +1285,7 @@
 	  Giovan Battista Passeri. Il secondo è pieno di notizie critiche intorno a molte opere di celebri artisti e di lettere
 	  pittoriche.</note>	  
 	  </item>
-<!-- ISSUE: Should I tag strictly according to catalog? Inconsistency in tagging exact author vs. including 'translated from' details (for instance) in titles! -->
+
 	  <item n="158"><label>158.</label> <bibl><author>LESSING G. E., </author><title>Du Laocoon,ou des limites respectifs de la poésie et de la peinture, traduit de
 	      l’allemand par Vanderbourg,</title> <pubPlace>Paris</pubPlace> <date>1802,</date> <extent>in 8, fig.</extent></bibl>
 	  <note>Opera eccellente piena di giusta critica, col gruppo del Laocoonte in principio, intagliato da S. Aubin.</note>	  
@@ -1301,10 +1301,9 @@
 	  
 	  </item>
 
-<!--Can't find in catalog?-->
 	  <item n="160"><label>160.</label> <bibl><author>LOMAZZO Giovanni Paolo</author> milanese pittore,<title>La stessa opera con molto più estese indicazioni
 	  sul frontespizio, oltre ciò che sta sopra espresso e il cenno della dedica al Duca di Savoia e i
-	  privilegi,</title> <pubPlace>Milano,</pubPlace> <publisher>per Gottardo Pontio</publisher> stampatore regio a istanza di Pietro Tini, 1585.</bibl>
+	  privilegi,</title> <pubPlace>Milano,</pubPlace> <publisher>per Gottardo Pontio</publisher> stampatore regio a istanza di Pietro Tini, <date>1585</date>.</bibl>
 	  <note>L’edizione è la stessa né avvi altra variazione che il frontespizio e la distribuzione delle linee nella dedicatoria, la
 	  quale segue immediatamente ed è composta con una riga di più nella seconda pagina della medesima, senza
 	  varianti.</note>
@@ -1312,7 +1311,7 @@
 	  sesto libro dopo il cap. 16 a carte 328 intitolato: dell’arte di allongare la vista quanto si vuole e parimenti di far
 	  gli appa rati delle scene col quadro sopra detto geometrico; in questo esemplare il foglietto è manoscritto.</note>
 	  </item>
-    <!--Title??-->
+<!--What is the title here?-->
 	  <item n="161"><label>161.</label> <bibl><author>LOMAZZO Giovanni Paolo</author> milanese pittore, La stessa opera col primo frontispizio del 1584 e il
 	  foglietto in fine da collocarsi a carte 328 stampato.</bibl>
 	  <note>Esemplare rarissimo e prezioso che stava nelle biblioteche Bianconi, poi Bossi. Non conosciamo simile
@@ -1345,9 +1344,9 @@
 	  <note>La celerità con cui comparve in Roma una seconda edizione di quest’opera dà a conoscere quanto utili pratiche
 	  contenga.</note>	  
 	  </item>
-<!-- Check author-->
+
 	  <item n="166"><label>166.</label> <bibl>MARINO il Cavalier,<title> Dicerie sacre sulla pittura, la musica e il cielo,</title> presso <publisher>Giacomo Violati,</publisher>
-	  <pubPlace>Venezia</pubPlace> <damage>1615,</damage><extent> in 12.</extent></bibl>
+	  <pubPlace>Venezia</pubPlace> <date>1615,</date><extent> in 12.</extent></bibl>
 	  <pb type="cico" n="27"/>
 	  <note>La fantasia e la dottrina dell’autore gli aprirono un campo in questo soggetto, sul quale spaziava senza
 	  freno, siccome suoleva in ogni altra cosa poetica.</note>
@@ -1382,7 +1381,7 @@
 	  45.</bibl>
 	  <note>Questa è una dissertazione, ossiano tesi sostenute in una pubblica funzione all’università di Jena.</note>	  
 	  </item>
-<!-- Check? Can't find in catalog -->
+
 	  <item n="171"><label>171.</label> <bibl><author>NEU Mayr Antonio,</author><title> Memoria storico-critica sopra la pittura,</title> <pubPlace>Padova</pubPlace> <date>1811,</date><extent> in 8.</extent></bibl>
 	  <note>Trovasi in fine del catalogo delle pitture esistenti presso il marchese Manfredini, M 104.</note>	  
 	  </item>
@@ -1407,15 +1406,15 @@
 	  per le mani di tutti passarono e non vennero mai ristampati o tutt’al più ne fu fatta alcuna volta una seconda
 	  edizione.</note>	  
 	  </item>
-<!--Can't tag "aggiuntevi" sections?-->
+
 	  <item n="175"><label>175.</label> <bibl><title>OSSERVAZIONI intorno al discorso della cera punica de sig. cavalier Lorgna umiliate a S. E. il
 	  Capitano di Verona. Estese da un anonimo.</title> <pubPlace>Verona</pubPlace> <date>1785,</date><extent> in 4.</extent></bibl>
 	  <note>
-	  – Aggiuntevi: <title>Riflessioni sull’olio combinato da dipingere suggerite ai docili pittori, nella
-	  dissertazione stampata nel tomo 6 della Società italiana,</title> <date>1793.</date>
-	  – Aggiuntovi: Fabroni, Antichità, vantaggi e metodo della pittura encausta, Venezia 1800.
-	  – Aggiuntovi: Astorri Giammaria, Della pittura colla cera all’encausto, Memoria, Venezia 1786,
-	  in 8.
+	  <bibl>– Aggiuntevi: <title>Riflessioni sull’olio combinato da dipingere suggerite ai docili pittori, nella
+	  dissertazione stampata nel tomo 6 della Società italiana,</title> <date>1793.</date></bibl>
+	  <bibl>– Aggiuntovi: <author>Fabroni,</author> <title>Antichità, vantaggi e metodo della pittura encausta,</title> <pubPlace>Venezia</pubPlace> <date>1800</date>.</bibl>
+	  <bibl>– Aggiuntovi: <author>Astorri Giammaria,</author> <title>Della pittura colla cera all’encausto,</title> Memoria, <pubPlace>Venezia</pubPlace> <date>1786</date>,
+	  <extent>in 8.</extent></bibl>
 	  </note>
 	  </item>
 
@@ -1434,13 +1433,13 @@
 	  Morghen, e Volpato, e cento altri elevavano precisamente le arti dalla lor [p. 29] decadenza. Singolarissima è una
 	  dissertazione.</note>	  
 	  </item>
-<!-- Can't find this author -->
-	  <item n="178"><label>178.</label> <bibl>PELLEGRINO Fulvio mantovano, Significato dei colori e dei mazzoli, Venezia 1618, appresso
+
+	  <item n="178"><label>178.</label> <bibl><author>PELLEGRINO Fulvio mantovano,</author> <title>Significato dei colori e dei mazzoli, Venezia 1618, appresso
 	  Comia Gallina, in 8; aggiuntovi il Trattato dei colori nelle arme e nelle livree e nelle divise, di
-	  Sicillo araldo del re Alfonso di Aragona, Venezia 1606, presso lucio Spineda, in 8.</bibl>
+	  Sicillo araldo del re Alfonso di Aragona,</title> <pubPlace>Venezia</pubPlace> <date>1606</date>, presso <publisher>lucio Spineda,</publisher><extent> in 8.</extent></bibl>
 	  <note>Questi opuscoletti non sono comuni, ma hanno relazione alle allegorie e agli emblemi più che alla pittura.</note>	  
 	  </item>
-    <!--Can't find in catalog-->
+    
 	  <item n="179"><label>179.</label> <bibl><title>PENSIERI sulla credulità e sulla prminenza tra la pittura e la musica, con note e un’appendice
 	  sul senso morale,</title> <pubPlace>Bologna</pubPlace> <date>1807,</date> <extent>in 8, e anche M. 35.</extent></bibl>
 	  <note>L’anonimo autore è il D. Araldi modonese segretario dell’Istituto Nazionale Italiano.</note>	  
@@ -1503,7 +1502,7 @@
 	  materie pittoriche.</note>	  
 	  </item>
 
-	  <item n="189"><label>189.</label> <bibl>POSSEVINI Antonii, Bibliotheca selecta de ratione studiorum, Venetiis 1603, in fol., vol. 2.</bibl>
+	  <item n="189"><label>189.</label> <bibl><author>POSSEVINI Antonii,</author> <title>Bibliotheca selecta de ratione studiorum,</title> <pubPlace>Venetiis</pubPlace> <date>1603</date>,<extent> in fol., vol. 2.</extent></bibl>
 	  <note>Trovasi in quest’opera il suddetto trattato.</note>	  
 	  </item>
 
@@ -1511,9 +1510,9 @@
 	  <note>Nelle quattro parti in cui è diviso questo libro sono epilogate una quantità di nozioni teoriche e storiche e una
 	  quantità immensa di sentenze e di giudizi, che la brevità dell’opera non ha permesso giustificare.</note>	  
 	  </item>
-<!--Check title/publisher-->
-	  <item n="191"><label>191.</label> <bibl><author>PUCCINI Tommaso,</author> Esame critico dell’opera sulla pittura di Daniel Webb, tradotto dall’inglese
-	  e commentato da Francesco Pizzetti. Articolo del Giornale di Pisa, <date>1807,</date><extent> in 8.</extent></bibl>
+
+	  <item n="191"><label>191.</label> <bibl><author>PUCCINI Tommaso,</author> <title>Esame critico dell’opera sulla pittura di Daniel Webb, tradotto dall’inglese
+	  e commentato da Francesco Pizzetti.</title> Articolo del <publisher>Giornale</publisher> <pubPlace>di Pisa,</pubPlace> <date>1807,</date><extent> in 8.</extent></bibl>
 	  <note>Questo esame fu diretto dall’autore al sig. Luigi Lanzi.</note>	  
 	  </item>
 
@@ -1537,7 +1536,7 @@
 	  <pubPlace>Bologna</pubPlace> <date>1785,</date><extent> in 8, M. 87.</extent></bibl>
 	  <note>Questa è in risposta al discorso che leggesi inserto nella seconda edizione dei Saggi sul ristabilimento ec.</note>	  
 	  </item>
-<!--What is the extent here?-->
+
 	  <item n="196"><label>196.</label> <bibl><author>REVELLI Vincenzo Antonio,</author><title> Opere filosofiche pittoriche dedicati a’ professori ed amatori delle
 	  belle arti,</title> <pubPlace>Torino</pubPlace> <date>1797,</date> <extent>in 4 gr., t.</extent> I cui va annesso un piccolo atlante in foglio di 13 tav.</bibl>
 	  <note>Divaga in questo primo volume l’autore in una varietà di materie, sulle fisionomie, sulle opere di Camper, sul
@@ -1618,7 +1617,7 @@
 	  <note>Sotto il nome di Giuripeno anagramma di Perugino, lo Scaramuccia descrive tutto ciò che di bello ha veduto
 	  viaggiando l’Italia, accompagnato dal genio di Raffaello. Dopo di che seguono alcuno precetti dell’arte.</note>	  
 	  </item>
-<!--What is pubplace/publisher?-->
+
 	  <item n="207"><label>207.</label> <bibl><author>SCARMILIONI Vidi Antonii,</author> <title>De coloribus, libri duo,</title> Marpurgi Cattorum 1601, in 8.</bibl>
 	  <note>La materia è trattata filosoficamente e secondo le antiche dottrine, non già per le pratiche dell’arte.</note>
 	  <fw type="foot"/>
@@ -1633,12 +1632,12 @@
 	  <note>Non tratta l’autore questa materia secondo le pratiche dell’arte moderna, ma riferisce e commenta gli autori che
 	  hanno trattato della pittura presso gli antichi.</note>	  
 	  </item>
-<!--Why wont tags work?-->
+
 	  <item n="209"><label>209.</label> <bibl><author>SCHERFER,</author><title> De coloribus accidentalibus. Dissertatio physica,</title> <pubPlace>Vindobonae</pubPlace> <date>1761,</date><extent> in 4, M. 25.</extent></bibl>
 	  <note>
-	  – <title>De emendatione telescopiorum dioptricorum per vitrum objectivum compositum,</title> Viennae
-	  1762, in 4, fig.
-	  – De iride, disser. Physica, Viennae 1761, fig. M. 25.
+	<bibl>  – <title>De emendatione telescopiorum dioptricorum per vitrum objectivum compositum,</title> <pubPlace>Viennae</pubPlace>
+	  <date>1762</date>,<extent> in 4, fig.</extent></bibl>
+	 <bibl> – <title>De iride, disser. Physica,</title> <pubPlace>Viennae</pubPlace> <date>1761</date>, <extent>fig. M. 25.</extent></bibl>
 	  </note>
 	  <note>Queste dissertazioni sono presso che unicamente risguardanti la fisica.</note>
 	  
@@ -1652,7 +1651,7 @@
 	  <note>– SICILLO, Trattato de’ colori nelle arme.</note>
 	  <note>Vedi Pellegrino.</note>	  
 	  </item>
-<!-- Tag notes? -->
+
 	  <item n="211"><label>211.</label> <bibl><title>SOGGETTI per quadri ad uso de’ giovani pittori,</title> <pubPlace>Vienna</pubPlace>, <publisher>nella stamperia Alberti,</publisher> <date>1798</date>,<extent> in 8.</extent>
 	  L’anonimo di questa scelta fatta dall’Iliade, dall’Eneide e dalla Gerusalemme liberata in 36 soggetti, è il M.
 	  Malaspina.</bibl>	  
@@ -1699,8 +1698,8 @@
 	  In fine sta un’ode di C. di Caux in onore di M. Fratrel.</note>	  
 	  </item>
 
-	  <item n="216"><label>216.</label> <bibl><author>THYLESII Antonii cosentini,</author> Libellus de coloribus, ubi multa leguntur praeter aliorum
-	  opinionum, editio saec. XV Const. Car. 14, M. 99, senza luogo ed anno e nome di stampatore.</bibl>
+	  <item n="216"><label>216.</label> <bibl><author>THYLESII Antonii cosentini,</author> <title>Libellus de coloribus, ubi multa leguntur praeter aliorum
+	  opinionum, editio saec.</title> <extent>XV Const. Car. 14, M. 99,</extent> senza luogo ed anno e nome di stampatore.</bibl>
 
 	  <note>Questo raro e singolare opuscolo indica sul suo principio l’oggetto con cui fu scritto ed è forse l’opera più
 	  erudita che abbiasi, presa sotto l’aspetto seguente.</note>
@@ -1712,42 +1711,42 @@
 	  bianco.</note>
 	  </item>
 
-	  <item n="217"><label>217.</label> <bibl>TILLEMANO Paul Henr., De eo quod iustum est circa nuditatem, Jenae 1692, in 4, M 45.</bibl>
+	  <item n="217"><label>217.</label> <bibl><author>TILLEMANO Paul Henr.,</author> <title>De eo quod iustum est circa nuditatem,</title> <pubPlace>Jenae</pubPlace> <date>1692</date>,<extent> in 4, M 45.</extent></bibl>
 	  <note>Questa è una dissertazione letta nell’ubiversità da alcuno dei giovani studenti assistito dal citato professore.</note>	  
 	  </item>
 
-	  <item n="218"><label>218.</label> <bibl>TINGRY, Traité théorique et pratique sur l’art de faire et d’appliquer les vernis, Géneve 1803, 2
-	  vol., in 8, fig.</bibl>
+	  <item n="218"><label>218.</label> <bibl><author>TINGRY</author>, <title>Traité théorique et pratique sur l’art de faire et d’appliquer les vernis,</title> <pubPlace>Géneve</pubPlace> <date>1803</date>, <extent>2
+	  vol., in 8, fig.</extent></bibl>
 	  <note>Questa è un’ottima opera in questo genere.</note>	  
 	  </item>
 
-	  <item n="219"><label>219.</label> <bibl>TOMASELLI Giuseppe, Della cerografia, Verona 1785, in 8.</bibl>
+	  <item n="219"><label>219.</label> <bibl><author>TOMASELLI Giuseppe,</author> <title>Della cerografia,</title> <pubPlace>Verona</pubPlace> <date>1785</date>,<extent> in 8.</extent></bibl>
 	  <note>Impugnasi in quest’opera il metodo pubblicato dall’abate Requeno.</note>	  
 	  </item>
 
-	  <item n="220"><label>220.</label> <bibl>TRAITÉ de mignature pour apprendre aisement à peindre sans maître, avec le sécret de faire les
+	  <item n="220"><label>220.</label> <bibl><title>TRAITÉ de mignature pour apprendre aisement à peindre sans maître, avec le sécret de faire les
 	  plus [p. 36] belles couleurs d’or bruny et d’or en coquille: sixieme édition avec un traité de la
-	  peinture ec. et un discours pour peindre à fresque, Lion 1693, in 12.</bibl>
+	  peinture ec. et un discours pour peindre à fresque,</title> <pubPlace>Lion</pubPlace> <date>1693</date>, in 12.</bibl>
 	  <note>È incredibile come questi libretti siano stati tradotti e ristampati gran numero di volte per il poco loro prezzo e
 	  l’allettamento del loro titolo frivolissimo. Questo libro non varia che nel titolo dall’altro. V587111edi Escole de
 	  la mignature.</note>	  
 	  </item>
 
-	  <item n="221"><label>221.</label> <bibl>TRATTATO del disegno della pittura in miniatura. Aggiuntivi ancora i trattenimenti sulla pittura,
-	  ossia la verissima maniera di diventar pittore in tre sole ore, Venezia 1768, in 8.</bibl>
+	  <item n="221"><label>221.</label> <bibl><title>TRATTATO del disegno della pittura in miniatura. Aggiuntivi ancora i trattenimenti sulla pittura,
+	  ossia la verissima maniera di diventar pittore in tre sole ore,</title> <pubPlace>Venezia</pubPlace> <date>1768</date>,<extent> in 8.</extent></bibl>
 	  <note>Traduzione dal francese del precedente, dove per altro è massa la versione del Trattato della pittura.</note>	  
 	  </item>
 
-	  <item n="222"><label>222.</label> <bibl>TRATTATO della pittura e scultura, uso ed abuso loro, composto da un teologo e da un pittore
-	  per offerirlo ai sigg. accademici del disegno di Firenze e di altre città ec., Firenze 1652, in 4.</bibl>
+	  <item n="222"><label>222.</label> <bibl><title>TRATTATO della pittura e scultura, uso ed abuso loro, composto da un teologo e da un pittore
+	  per offerirlo ai sigg. accademici del disegno di Firenze e di altre città ec.,</title> <pubPlace>Firenze</pubPlace> <date>1652</date>,<extent> in 4.</extent></bibl>
 	  <note>L’Ottonelli da Fano e il Berettini da Cortona, l’uno teologo e l’altro pittore, ascosero per cristiana modestia il
 	  loro nome transfuso in sciocchi anagrammi nel frontispizio, Odominigio Lelonotti da Fanano e Britio Prenetteri.
 	  Vi è più erudizione teologica che arte e nessuna cosa che non sia stata da altri prima di loro pubblicata.</note>	  
 	  </item>
 
-	  <item n="223"><label>223.</label> <bibl>VARCHI Benedetto, Due lezioni, nella prima di cui si dichiara un sonetto di Michel Angelo
-	  Buonarroti, nell’altra si disputa sulla nobiltà della scultura e della pittura, Firenze, Torrentino,
-	  1549, in 4.</bibl>
+	  <item n="223"><label>223.</label> <bibl><author>VARCHI Benedetto,</author><title> Due lezioni, nella prima di cui si dichiara un sonetto di Michel Angelo
+	  Buonarroti, nell’altra si disputa sulla nobiltà della scultura e della pittura,</title> <pubPlace>Firenze</pubPlace>, <publisher>Torrentino</publisher>,
+	  <date>1549</date>, <extent>in 4.</extent></bibl>
 	  <note>Il Varchi indirizzò questa seconda lezione a Luca Martini, acciò trasmettendola al Buonarroti attestasse la brevità
 	  del tempo che ha avuta di dettarla e gli mandasse poi copia della risposta di esso Buonarroti.</note>
 	  
@@ -1756,62 +1755,62 @@
 	  <fw type="head"/>
 	  
 	  </item>
-	  <item n="224"><label>224.</label> <bibl>VARCHI Benedetto, Lezioni da lui pubblicate lette nell’accademia fiorentina sopra diverse
-	  materia pratiche e filosofiche (nelle quali sono anche inserte le due sopraindicate), Firenze,
-	  per i Giunti, 1590, in 4.</bibl>
+	  <item n="224"><label>224.</label> <bibl><author>VARCHI Benedetto,</author> <title>Lezioni da lui pubblicate lette nell’accademia fiorentina sopra diverse
+	  materia pratiche e filosofiche (nelle quali sono anche inserte le due sopraindicate),</title> <pubPlace>Firenze</pubPlace>,
+	  per <publisher>i Giunti,</publisher> <date>1590</date>,<extent> in 4.</extent></bibl>
 	  </item>
 
-	  <item n="225"><label>225.</label> <bibl>VASARI Giorgio sig. cavaliere, pittore e architetto aretino, Ragionamenti sopra le invenzioni da
+	  <item n="225"><label>225.</label> <bibl><author>VASARI Giorgio sig. cavaliere,</author> pittore e architetto aretino, <title>Ragionamenti sopra le invenzioni da
 	  lui dipinte in Firenze nel palazzo di LL. AA. SS. con lo illust. ed eccel. Sig. D. Francesco
 	  Medici allora principe di Firenze: insieme con la invenzione della pittura da lui cominciata
-	  della cupola, con due tavole, una delle cose più notabili, e l’altra degli [p. 37] uomini illustri
-	  che sono ritratti e nominati in quest’opera, in Firenze, ap. Filippo Giunti, 1588, in 4.</bibl>
+	  della cupola, con due tavole, una delle cose più notabili, e l’altra degli uomini illustri
+	  che sono ritratti e nominati in quest’opera,</title> <pubPlace>in Firenze,</pubPlace> ap. Filippo Giunti, <date>1588</date>, <extent>in 4.</extent></bibl>
 	  <note>Al frontispizio segue la dedica al card. Ferdinando de’ Medici fatta dal nipote Giorgio Vasari, che per la prima
 	  volta pubblicò l’opera postuma dello zio. Vengono due epigrammi in onore del Vasari e il suo ritratto in legno;
 	  segue il testo, indi le tavole. E questa è la vera prima edizione di tale opera.</note>	  
 	  </item>
 
-	  <item n="226"><label>226.</label> <bibl>VASARI, Trattato della pittura, nel quale si contiene la pratica di essa, divisata in tre giornate e
+	  <item n="226"><label>226.</label> <bibl><author>VASARI,</author> <title>Trattato della pittura, nel quale si contiene la pratica di essa, divisata in tre giornate e
 	  ridotto in ragionamenti nei quali si spiegano le invenzioni da lui dipinte in Firenze nel palazzo
-	  di loro AA. SS. con due tavole copiose, Firenze, presso i Giunti, 1619, in 4.</bibl>
+	  di loro AA. SS. con due tavole copiose,</title> <pubPlace>Firenze</pubPlace>, presso <publisher>i Giunti,</publisher> <date>1619</date>, <extent>in 4</extent>.</bibl>
 	  <note>Questa è la seconda edizione dei ragionamenti, mutato l’ordine della parola sul frontispizio ed omessa la dedica,
 	  quantunque non vi sia alcuna varietà nei tipi e venisse riprodotta soltanto col mutare i primi fogli e l’ultimo del
 	  volume.</note>	  
 	  </item>
 
-	  <item n="227"><label>227.</label> <bibl>VASARI, Ragionamenti sopra le invenzioni da lui dipinte in firenze nel palazzo R. Seconda
-	  edizione, Arezzo 1762, in 4.</bibl>
+	  <item n="227"><label>227.</label> <bibl><author>VASARI,</author> <title>Ragionamenti sopra le invenzioni da lui dipinte in firenze nel palazzo R. Seconda
+	  edizione,</title> <pubPlace>Arezzo</pubPlace> <date>1762</date>, <extent>in 4.</extent></bibl>
 	  <note>Al frontispizio precede il ritratto del Vasari e questa ristampa è dedicata al sig. Angelo Bassi. L’editore ritenne,
 	  come avvi tutta l’apparenza, malgrado le variazioni indicate che le due edizioni del Giunti fossero una sola, e
 	  perciò disse questa seconda e non terza edizione. Questi ragionamenti, a guisa di dialogo, hanno per interlocutori
 	  il principe di Firenze e il pittore.</note>
 	  </item>
 
-	  <item n="228"><label>228.</label> <bibl>VENTURI Giambatista, Indagine fisica sui colori coronata dal Premio della Società italiana di
-	  scienze. Edizione seconda, in Modena anno X Rep., 1801, presso la Società Tipografica, in 8.</bibl>
+	  <item n="228"><label>228.</label> <bibl><author>VENTURI Giambatista,</author> <title>Indagine fisica sui colori coronata dal Premio della Società italiana di
+	  scienze. </title>Edizione seconda, in Modena anno X Rep., <date>1801</date>, presso <publisher>la Società Tipografica,</publisher> <extent>in 8.</extent></bibl>
 	  <note>La chiarezza e la precisione di tutte le profonde ricerche di questo autore renderanno sempre pregevolissimo
 	  ogni suo scritto. Oltre una tavola di figure dimostrative, trovasi in fine intagliata anche la medaglia d’oro, che il
 	  marchese Gherardo Rangone, uno de’ più distinti e più colti mecenati italiani, soleva dare in premio di quelle
 	  memorie che venivano coronate dal voto dei letterati riuniti nel suo palazzo in privata adunanza.</note>	  
 	  </item>
 
-	  <item n="229"><label>229.</label> <bibl>Le VERNISSEUR parfait, ou Manuel du vernisseur pour servir de suite au tenturier parfait, Paris,
-	  chez Jombert, 1771, in 8.</bibl>
+	  <item n="229"><label>229.</label> <bibl><title>Le VERNISSEUR parfait, ou Manuel du vernisseur pour servir de suite au tenturier parfait,</title> <pubPlace>Paris</pubPlace>,
+	  chez <publisher>Jombert</publisher>, <date>1771</date>,<extent> in 8.</extent></bibl>
 	  </item>
 
-	  <item n="230"><label>230.</label> <bibl>Le VIEIL, L’art de la peinture sur verre et de la [p. 38] vitrérie, Parigi 1774, fogl. fig., con
+	  <item n="230"><label>230.</label> <bibl><author>Le VIEIL,</author><title> L’art de la peinture sur verre et de la vitrérie,</title> <pubPlace>Parigi</pubPlace> <date>1774</date>, <extent>fogl. fig.,</extent> con
 	  tredici grandi tavole dimostrative.</bibl>
 	  <note>Quest’opera raccoglie un’estesa quantità di notizie e può riguardarsi preziosa in questo genere.</note>	  
 	  </item>
 
-	  <item n="231"><label>231.</label> <bibl>De VINCI Leonard, Traité de la peinture donné au public et traduit d’italien en françois par R.
-	  F. S. D. C., Paris, chez Langlois, 1651, fol fig.</bibl>
+	  <item n="231"><label>231.</label> <bibl><author>De VINCI Leonard,</author> <title>Traité de la peinture donné au public et traduit d’italien en françois par R.
+	  F. S. D. C.,</title> <pubPlace>Paris</pubPlace>, chez <publisher>Langlois</publisher>, <date>1651</date>, <extent>fol fig.</extent></bibl>
 	  <note>Questa è la prima versione francese che comparve nello stesso anno dell’originale con diverse infedeltà ed
 	  omissioni nella parte del testo. Le tavole sono le stesse ma tirate dopo l’edizione italiana.</note>	  
 	  </item>
 
-	  <item n="232"><label>232.</label> <bibl>Da VINCI Lionardo, Trattato della pittura nuovamente dato in luce colla vita dell’istesso autore
-	  scritta da Raffaello Dufresne, Parigi, presso Giacomo Langlois, 1651, fol. fig.</bibl>
+	  <item n="232"><label>232.</label> <bibl><author>Da VINCI Lionardo,</author> <title>Trattato della pittura nuovamente dato in luce colla vita dell’istesso autore
+	  scritta da Raffaello Dufresne,</title> <pubPlace>Parigi</pubPlace>, presso <publisher>Giacomo Langlois</publisher>, <date>1651</date>, <extent>fol. fig.</extent></bibl>
 	  <note>Prima e magnifica edizione. Per cui gl’Italiani professano riconoscenza a questo illustre francese. È dedicata alla
 	  <fw type="foot"/>
 	  <pb type="memofonte"/>
@@ -1823,14 +1822,14 @@
 	  francese di Rholand Freart pubblicata nello stesso anno, è perché le stampe servirono prima all’italiana.</note>	  
 	  </item>
 
-	  <item n="233"><label>233.</label> <bibl>Da VINCI Lionardo, Trattato della pittura di nuovo ristampato e corretto, Napoli, presso
-	  Francesco Ricciardo, 1733, a spese di Niccola e Vincenzo Rispoli.</bibl>
+	  <item n="233"><label>233.</label> <bibl><author>Da VINCI Lionardo,</author> <title>Trattato della pittura di nuovo ristampato e corretto,</title> <pubPlace>Napoli</pubPlace>, presso
+	  <publisher>Francesco Ricciardo</publisher>, <date>1733</date>, a spese di Niccola e Vincenzo Rispoli.</bibl>
 	  <note>Questa è una ristampa dell’edizione precedente; ma uno de’ pochissimi esemplari in carta grande.</note>	  
 	  </item>
 
-	  <item n="234"><label>234.</label> <bibl>Da VINCI Lionardo, Trattato della pittura ridotto alla sua vera lezione sopra una sua copia a
-	  penna di mano di Stefanino della Bella con le figure disegnate dal medesimo, Firenze 1792, in
-	  4.</bibl>
+	  <item n="234"><label>234.</label> <bibl><author>Da VINCI Lionardo,</author> <title>Trattato della pittura ridotto alla sua vera lezione sopra una sua copia a
+	  penna di mano di Stefanino della Bella con le figure disegnate dal medesimo,</title> <pubPlace>Firenze</pubPlace> <date>1792</date>, <extent>in
+	  4.</extent></bibl>
 	  <note>
 	  Il chiaro sig. ab. Francesco Fontani trovò nella Riccardiana il manoscritto di Leonardo e lo credette di mano di
 	  Stefano della Bella con figure marginali illustrate e segnate da questo valente intagliatore e conoscendo che
@@ -1843,22 +1842,22 @@
 	  una bella lezione accademica del Lami intorno agli artisti che fiorirono dal 1000 al 1300.
 	  </note>
 	  </item>
-
-	  <item n="235"><label>235.</label> <bibl>Da VINCI Lionardo, Traité de la peinture precedé de la vie de l’auteur et du catalogue de ses
+<!--Are we tagging plates "tav" with extent?-->
+	  <item n="235"><label>235.</label> <bibl><author>Da VINCI Lionardo,</author> <title>Traité de la peinture precedé de la vie de l’auteur et du catalogue de ses
 	  ouvrages avec des notes et observationes par le traducteur M. de Gault de S. Germain,
-	  nouvelle édition, Paris 1803, in 8, fig. con 30 tav.</bibl>
+	  nouvelle édition,</title> <pubPlace>Paris</pubPlace> <date>1803</date>, <extent>in 8, fig.</extent> con 30 tav.</bibl>
 	  <note>Pare incredibile come malgrado le ottime intenzioni dell’autore egli non siasi prevalso delle notizie di fatto
 	  esattissime, pubblicate in Parigi nel 1801 dall’abate Venturi e sbagli d’otto anni la nascita di Leonardo, e fra
 	  molti altri equivochi asserisca che il suo Cenacolo fosse dipinto a fresco.</note>	  
 	  </item>
 
-	  <item n="236"><label>236.</label> <bibl>Da VINCI Lionardo, Trattato della pittura. Colle memorie storiche sulla vita di Leonardo scritte
-	  da Carlo Amoretti, Milano 1804, in 4, fig.</bibl>
+	  <item n="236"><label>236.</label> <bibl><author>Da VINCI Lionardo,</author> <title>Trattato della pittura. Colle memorie storiche sulla vita di Leonardo scritte
+	  da Carlo Amoretti,</title> <pubPlace>Milano</pubPlace> <date>1804</date>,<extent> in 4, fig.</extent></bibl>
 	  <note>Sta fra la collezione de’ classici italiani.</note>	  
 	  </item>
 
-	  <item n="237"><label>237.</label> <bibl>Da VINCI Lionardo, Trattato della pittura tratto da un codice della Biblioteca Vaticana e
-	  pubblicato da Guglielmo Manzi, Roma 1817, in 4; unitovi un atlante di stampe.</bibl>
+	  <item n="237"><label>237.</label> <bibl><author>Da VINCI Lionardo,</author> <title>Trattato della pittura tratto da un codice della Biblioteca Vaticana</title> e
+	  pubblicato da <publisher>Guglielmo Manzi</publisher>, <pubPlace>Roma</pubPlace> <date>1817</date>,<extent> in 4;</extent> unitovi un atlante di stampe.</bibl>
 	  <note>Questo codice esisteva nella libreria dei duchi d’Urbino, e per la morte di Francesco M. della Rovere passò cogli
 	  stati al dominio pontificio. Le figure furono lumeggiate dal codice senza la biasimevole, che vedesi nell’edizione
 	  di Parigi per opera del pittore Errard. Può questo ritenersi per l’edizione la più ampia e corretta a seconda
@@ -1866,11 +1865,11 @@
 	  note al trattato estese dal sig. Giovanni Gherardo de’ Rossi; e prima delle tavole è il ritratto di Leonardo.</note>	  
 	  </item>
 
-	  <item n="238"><label>238.</label> <bibl>VOLPATO Giovan Battista, Il vagante corriero ai curiosi che si dilettano di pittura ed ai giovani
-	  studiosi, annunzio fortunato, Vicenza 1685 per Giovanni Berno, in 8.</bibl>
+	  <item n="238"><label>238.</label> <bibl><author>VOLPATO Giovan Battista,</author> <title>Il vagante corriero ai curiosi che si dilettano di pittura ed ai giovani
+	  studiosi, annunzio fortunato,</title> <pubPlace>Vicenza</pubPlace> <date>1685</date> per <publisher>Giovanni Berno,</publisher> <extent>in 8.</extent></bibl>
 	  <note>Questo libretto di quaranta sole pagine di stampa non contiene che l’indice delle materie su cui l’autore
 	  intendeva di volere scrivere, ma l’opera non venne poi pubblicata. I suoi manoscritti in copia esistevano presso il
-	  conte Alga [p. 40] rotti, il Zilotti ed il Verci. Conservasi presso di noi Mss il proemio e il primo dialogo di
+	  conte Alga rotti, il Zilotti ed il Verci. Conservasi presso di noi Mss il proemio e il primo dialogo di
 	  quest’opera, ove si discorre che cosa sia la pittura, come nasca dalla natura e delle teorie e pratiche della
 	  medesima; e gl’interlocutori sono Ottavio e Florindo. In conclusione sembra poter dedursi che l’opera, senza
 	  principio e senza fine, fosse un zibaldone confuso di cognizioni indigeste e disordinate.</note>
@@ -1881,49 +1880,49 @@
 	  </item>
 
 
-	  <item n="239"><label>239.</label> <bibl>VOLPATO, Altro esemplare di questo rarissimo libretto con due teste intagliate in legno al fine,
-	  dimostrative di tutte le rughe della pelle del volto, che non sono nel sopra descritto esemplare.</bibl>
+	  <item n="239"><label>239.</label> <bibl><author>VOLPATO</author>, <title>Altro esemplare di questo rarissimo libretto con due teste intagliate in legno al fine,
+	  dimostrative di tutte le rughe della pelle del volto, che non sono nel sopra descritto esemplare.</title></bibl>
 	  </item>
 
-	  <item n="240"><label>240.</label> <bibl>WATIN, L’art du peindre, doreur, vernisseur, Paris 1802, in 8.</bibl>
+	  <item n="240"><label>240.</label> <bibl><author>WATIN</author>, <title>L’art du peindre, doreur, vernisseur,</title> <pubPlace>Paris</pubPlace> <date>1802</date>,<extent> in 8.</extent></bibl>
 	  <note>Opera pienissima di utili avvertimenti per le pratiche d’ogni sorta di lavori di pennello.</note>	  
 	  </item>
 
-	  <item n="241"><label>241.</label> <bibl>WEBB Daniele, Ricerche sopra le bellezze della pittura e sul merito dei più celebri pittori
-	  antichi e moderni. Opera tradotta in italiano da una dama veneta, Venezia 1791.</bibl>
+	  <item n="241"><label>241.</label> <bibl><author>WEBB Daniele,</author> <title>Ricerche sopra le bellezze della pittura e sul merito dei più celebri pittori
+	  antichi e moderni. Opera tradotta in italiano da una dama veneta,</title> <pubPlace>Venezia</pubPlace> <date>1791</date>.</bibl>
 	  <note>La modestia, che non permise a questa dama assai colta e distinta se non di porre le iniziali del suo nome nella
 	  dedica della versione alla sig. Elisabetta Foscarini, non toglierà che da noi si sveli il nome della nob. D. sig.
 	  Maria Querint Stampalia, nata Lippamano, versatissima nelle arti del disegno e nelle amene lettere, oltre le solide
 	  qualilità di cuore e di spirito che la costituiscono uno de’ principali ornamenti della sua patria.</note>	  
 	  </item>
 
-	  <item n="242"><label>242.</label> <bibl>WEBB Daniele, Ricerche sulle bellezze delle pitture e sul merito dei più celebri pittori antichi e
-	  moderni, tradotte e commentate da Francesco Pizzetti, Parma 1804, vol. 2, in 4.</bibl>
+	  <item n="242"><label>242.</label> <bibl><author>WEBB Daniele,</author> <title>Ricerche sulle bellezze delle pitture e sul merito dei più celebri pittori antichi e
+	  moderni, tradotte e commentate da Francesco Pizzetti,</title> <pubPlace>Parma</pubPlace> <date>1804</date>,<extent> vol. 2, in 4</extent>.</bibl>
 	  <note>Il primo volume è consecrato alla versione del testo, il secondo contiene le riflessioni del traduttore. La filosofia
 	  delle arti si svolge assai bene in quest’opera.</note>	  
 	  </item>
 
-	  <item n="243"><label>243.</label> <bibl>ZANNOTTI Giampietro, Avvertimenti per l’incaminamento d’un giovine alla pittura, Bologna
-	  1756, in 8.</bibl>
+	  <item n="243"><label>243.</label> <bibl><author>ZANNOTTI Giampietro,</author> <title>Avvertimenti per l’incaminamento d’un giovine alla pittura,</title> <pubPlace>Bologna</pubPlace>
+	  <date>1756</date>, <extent>in 8.</extent></bibl>
 	  <note>Tutto ciò che ha scritto questo ben ordinato ingegno è pieno di saviezza, quantunque senza pregio di novità.</note>	  
 	  </item>
 
-	  <item n="244"><label>244.</label> <bibl>ZUCCARI Federico, Origine e progresso dell’accademia del disegno dei pittori, scultori e
-	  architetti di Roma: con molti discorsi raccolti da Ro [p. 41] mano Alberti segretario
-	  dell’accademia, pavia, per Pietro Bartoli, 1604, in 4.</bibl>
+	  <item n="244"><label>244.</label> <bibl><author>ZUCCARI Federico</author>, <title>Origine e progresso dell’accademia del disegno dei pittori, scultori e
+	  architetti di Roma: con molti discorsi raccolti da Romano Alberti segretario
+	  dell’accademia,</title> pavia, <publisher>per Pietro Bartoli,</publisher> <date>1604</date>, <extent>in 4.</extent></bibl>
 	  </item>
 
-	  <item n="245"><label>245.</label> <bibl>ZUCCARI, L’idea degli scultori, pittori e architetti divisa in due libri a Carlo Emanuele di
-	  Savoia, Torino, Per Agostino di Serolio, 1607, in 4.</bibl>
+	  <item n="245"><label>245.</label> <bibl><author>ZUCCARI,</author> <title>L’idea degli scultori, pittori e architetti divisa in due libri a Carlo Emanuele di
+	  Savoia,</title> <pubPlace>Torino</pubPlace>, Per <publisher>Agostino di Serolio,</publisher> <date>1607</date>,<extent> in 4.</extent></bibl>
 	  </item>
 	  
-	  <item n="246"><label>246.</label> <bibl>ZUCCARI, Il passaggio per l’Italia con la dimora in Parma del cavalier Federico Zuccaro, dove
+	  <item n="246"><label>246.</label> <bibl><author>ZUCCARI</author>, <title>Il passaggio per l’Italia con la dimora in Parma del cavalier Federico Zuccaro, dove
 	  si narrano le feste fatte in Mantova e le nozze del principe Francesco Gonzaga coll’infanta
-	  Margherita di Savoia, Bologna 1608, in 4 pic.</bibl>
+	  Margherita di Savoia,</title> <pubPlace>Bologna</pubPlace> <date>1608</date>, <extent>in 4 pic.</extent></bibl>
 	  </item>
 	  
-	  <item n="247"><label>247.</label> <bibl>ZUCCARI, La dimora in Parma del sig. cavalier Federico Zuccaro, colle feste e trionfi
-	  maravigliosi celebrati in Mantova, Bologna 1608, in 4.</bibl>
+	  <item n="247"><label>247.</label> <bibl><author>ZUCCARI</author>, <title>La dimora in Parma del sig. cavalier Federico Zuccaro, colle feste e trionfi
+	  maravigliosi celebrati in Mantova,</title> <pubPlace>Bologna</pubPlace> <date>1608</date>, <extent>in 4.</extent></bibl>
 	  <note>Tutti questi opuscoletti di Federico Zuccari sono della più gran rarità, non tanto per essere estesi da un artista,
 	  quanto perché vennero stampati in piccol numero di copie e divulgati senza farsene mai la seconda edizione.</note>
 	  </item>
@@ -1936,54 +1935,54 @@
 	
 	<head>Dell’intaglio in Rame e in Legno</head>
 	<list type="catalog">
-	  <item n="248"><label>248.</label> <bibl>BALDINUCCI Filippo, Cominciamento e progressi dell’arte dell’intagliare in rame, colle vite de’
-	  più eccellenti maestri della stessa professione, Firenze 1686, per Pietro Marini, in 4.</bibl>
+	  <item n="248"><label>248.</label> <bibl><author>BALDINUCCI Filippo,</author> <title>Cominciamento e progressi dell’arte dell’intagliare in rame, colle vite de’
+	  più eccellenti maestri della stessa professione,</title> <pubPlace>Firenze</pubPlace> <date>1686</date>, per <publisher>Pietro Marini</publisher>,<extent> in 4.</extent></bibl>
 	  <note>Opera sempre pregevole, poiché la prima che ci ha parlato delle teorie e delle memorie di questa classe d’artisti e
 	  di opere, oltre al servire per i vocaboli tecnici di testo di lingua. L’autore la intitolò all’insigne Francesco
 	  Marucelli, fondatore e datore del suo nome alla biblioteca.</note>	  
 	  </item>
 
-	  <item n="249"><label>249.</label> <bibl>BENINCASA Bartolommeo, Descrizione della raccolta di stampe del cavalier Durazzo, esposta
-	  in una dissertazione sull’arte dell’intaglio e stampa, Parma 1784, in 4. Col ritratto in principio
+	  <item n="249"><label>249.</label> <bibl><author>BENINCASA Bartolommeo,</author> <title>Descrizione della raccolta di stampe del cavalier Durazzo, esposta
+	  in una dissertazione sull’arte dell’intaglio e stampa, </title><pubPlace>Parma</pubPlace> <date>1784</date>, <extent>in 4.</extent> Col ritratto in principio
 	  del collettore.</bibl>
 	  <note>Bellissima edizione resa oggi rara.</note>	  
 	  </item>
 
-	  <item n="250"><label>250.</label> <bibl>LE BLOND, L’art d’imprimer les tableaux, traité d’après les ecrits, les operations et les
-	  instructions verbales de I. C. le Blond, Paris 1756, in 8.</bibl>
-	  <note>Questo libro contiene anche in ristretto i metodi di Abr. [p. 42] Bosse, molti preliminari, una tavola amplissima
+	  <item n="250"><label>250.</label> <bibl><author>LE BLOND,</author> <title>L’art d’imprimer les tableaux, traité d’après les ecrits, les operations et les
+	  instructions verbales de I. C. le Blond,</title> <pubPlace>Paris</pubPlace> <date>1756,</date> <extent>in 8.</extent></bibl>
+	  <note>Questo libro contiene anche in ristretto i metodi di Abr. Bosse, molti preliminari, una tavola amplissima
 	  delle materie e tre tavole. Il testo stampato in gran caratteri e in carta assai grossa, occupa un piccolissimo
 	  spazio.</note>	  
 	  </item>
 
-	  <item n="251"><label>251.</label> <bibl>BOSSE Abr., Traicté des manières de graver en taille douce sur l’airaïn par le moyen de l’eaux
+	  <item n="251"><label>251.</label> <bibl><author>BOSSE Abr.,</author> <title>Traicté des manières de graver en taille douce sur l’airaïn par le moyen de l’eaux
 	  forte et des vernix durs et mols. Ensemble de façons d’en emprimer les planches et d’en
-	  construire la presse et autres choses concernentes les dits arts, Paris, chez le dit Bosse, 1645,
-	  in 8.</bibl>
+	  construire la presse et autres choses concernentes les dits arts,</title> <pubPlace>Paris</pubPlace>,<publisher> chez le dit Bosse,</publisher> <date>1645,</date>
+	 <extent> in 8.</extent></bibl>
 	  <note>Tavole 19 comprese il frontispizio figurato: in questo esemplare la tavola 6 è impressa da entrambe le parte del
 	  foglio. Prima edizione.</note>	  
 	  </item>
 
-	  <item n="252"><label>252.</label> <bibl>BOSSE Abr., Traité des manières de graver en taille douce sur l’airaïn par le moyen des eaux
+	  <item n="252"><label>252.</label> <bibl><author>BOSSE Abr.,</author> <title>Traité des manières de graver en taille douce sur l’airaïn par le moyen des eaux
 	  fortes et de vernix durs et mols, d’imprimer les planches et de construire la presse par le sieur
-	  Ab Bosse. Augmenté de la nouvelle manière, dont se sert m. Le Clerc graveur du roi, Paris,
-	  chez Pierre Emeroy, 1701, con 18 tav. compreso il frontispizio. Edizione seconda.</bibl>
+	  Ab Bosse. Augmenté de la nouvelle manière, dont se sert m. Le Clerc graveur du roi,</title> <pubPlace>Paris</pubPlace>,
+	  <publisher>chez Pierre Emeroy,</publisher> <date>1701</date>,<extent> con 18 tav. compreso il frontispizio. Edizione seconda.</extent></bibl>
 	  </item>
 
-	  <item n="253"><label>253.</label> <bibl>BOSSE Abr., La stessa opera nello stesso anno, o dopo alcun poco, ma sempre colla data del
-	  1701 fu pubblicata a Parigi dai librai Pierre Anbonin et Charles Clousier.</bibl>
+	  <item n="253"><label>253.</label> <bibl><author>BOSSE Abr.,</author> <title>La stessa opera nello stesso anno, o dopo alcun poco, ma sempre colla data del
+	  1701 fu pubblicata a Parigi dai librai Pierre Anbonin et Charles Clousier.</title></bibl>
 	  <note>Questa parimente trovasi fra’ nostri libri.</note>	  
 	  </item>
 
-	  <item n="254"><label>254.</label> <bibl>BOSSE Abr., De la manière de graver à l’eau forte et au burin; et de la gravure en manière
+	  <item n="254"><label>254.</label> <bibl><author>BOSSE Abr.,</author> <title>De la manière de graver à l’eau forte et au burin; et de la gravure en manière
 	  noire, avec la façon de construire les presses modernes et d’imprimer en taille douce, nouvelle
-	  édition augmentée du double et enrichie de 19 pl. en taille douce, Paris 1745, in 8, fig.</bibl>
+	  édition augmentée du double et enrichie de 19 pl. en taille douce,</title> <pubPlace>Paris</pubPlace> <date>1745</date>,<extent> in 8, fig.</extent></bibl>
 	  <note>Questa è la terza edizione aumentata da M. Cochin in 8.</note>	  
 	  </item>
 
-	  <item n="255"><label>255.</label> <bibl>BOSSE Abr., La stessa, Parigi 1758. Augmentée de l’impression qui imite les tableaux, de la
+	  <item n="255"><label>255.</label> <bibl><author>BOSSE Abr.,</author> <title>La stessa, Parigi 1758. Augmentée de l’impression qui imite les tableaux, de la
 	  gravure en manière de crayon et de celle qui imite le levis, enrichie de vignettes et de 21 pl.
-	  En taille douce, in 8.</bibl>
+	  En taille douce,</title> <extent>in 8.</extent></bibl>
 	  <note>La più antica di queste edizioni di Ab. Bosse del 1645 è molto rara, e anche la seconda del 1701non è comune,
 	  essendo libri che furono meritamente apprezzati ed operati dagli artisti.</note>
 	  <fw type="foot"/>
@@ -1993,19 +1992,19 @@
 	  </item>
 
 
-	  <item n="256"><label>256.</label> <bibl>BOSSI Luigi, Estratto dell’Essai sur l’origine de la [p. 43] gravure, pubblicato in Parigi 1808,
-	  dal sig. Jansen, M. 97. Vedi Jansen.</bibl>
+	  <item n="256"><label>256.</label> <bibl><author>BOSSI Luigi,</author> <title>Estratto dell’Essai sur l’origine de la gravure,</title> <pubPlace>pubblicato in Parigi</pubPlace> <date>1808</date>,
+	  <publisher>dal sig. Jansen,</publisher> <extent>M. 97.</extent> Vedi Jansen.</bibl>
 	  </item>
 
-	  <item n="257"><label>257.</label> <bibl>BYLAERT Jean Jacques, Nouvelle manière de graver en cuivre des estampes coloriées de façon
+	  <item n="257"><label>257.</label> <bibl><author>BYLAERT Jean Jacques,</author> <title>Nouvelle manière de graver en cuivre des estampes coloriées de façon
 	  que quoique imprimées dans une presse ordinaire, elles conservent l’air et le caractère du
-	  dessein, Leyde 1772, 8 fig.</bibl>
+	  dessein,</title> <pubPlace>Leyde</pubPlace> <date>1772</date>, <extent>8 fig.</extent></bibl>
 	  <note>Traduzione dall’olandese di L. G. F. Kerroux, maestro di lingua, con due tavole.</note>
 	  
 	  </item>
-	  <item n="258"><label>258.</label> <bibl>Evelyn Jean., Sculptura, or the history and art of calchography and engraving in copper. With
-	  an ample enumeration of the most renowned masters and their works etc., London 1662, in 9,
-	  figurato. Colla stampa del Principe Roberto e con l’elegante frontispizio intagliato da A
+	  <item n="258"><label>258.</label> <bibl><author>Evelyn Jean.,</author> <title>Sculptura, or the history and art of calchography and engraving in copper. With
+	  an ample enumeration of the most renowned masters and their works etc.,</title> <pubPlace>London</pubPlace> <date>1662</date>,<extent> in 9,
+	  figurato. </extent>Colla stampa del Principe Roberto e con l’elegante frontispizio intagliato da A
 	  Hertocks, come è detto a pag. 81.</bibl>
 	  <note>Nel nostro legato in marocchino dorato, trovasi scritto di mano di Mariette come segue:
 	  «Cette histoire de la gravure par Jean Evelyn est introuvable même en Angleterre, où le livre a été imprimé: mais
@@ -2044,9 +2043,9 @@
 	  Waillant lui-même à qui on dit que le prince communiqua bien tot son secret.»</note>	  
 	</item>
 
-	<item n="259"><label>259.</label> <bibl>FOURNIER, Dissertation sur l’origine et les progrès de l’art de graver en bois pour éclaircir
-	quelques traits de l’hostoire de l’imprimerie et prouver que Guttemberg n’est pas l’inventeur,
-	Paris, Darbou, 1758, 8.</bibl>
+	<item n="259"><label>259.</label> <bibl><author>FOURNIER,</author> <title>Dissertation sur l’origine et les progrès de l’art de graver en bois pour éclaircir
+	quelques traits de l’hostoire de l’imprimerie et prouver que Guttemberg n’est pas l’inventeur,</title>
+	<pubPlace>Paris</pubPlace>, <publisher>Darbou</publisher>, <date>1758</date>,<extent> 8.</extent></bibl>
 	<note>Libro pieno di buone e utili notizie e non comune.</note>
 	<fw type="foot"/>
 	<pb type="memofonte"/>
@@ -2055,43 +2054,43 @@
 	</item>
 
 
-	<item n="260"><label>260.</label> <bibl>GORI GANDELLINI, Notizie storiche degl’intagliatori, Siene, vol. 3, 1771, in 8, colla
+	<item n="260"><label>260.</label> <bibl>GORI GANDELLINI, <title>Notizie storiche degl’intagliatori,</title> <pubPlace>Siene</pubPlace>, vol. 3, <date>1771</date>, <extent>in 8,</extent> colla
 	continuazione del P. de Angelis, vol. 12, leg. in 6, Siena dal 1808 al 1816.</bibl>
 	<note>Questa continuazione ripete tutti gli errori degli scrittori a lui precedenti, riconfermando il cattivo, senza
 	scegliere il buono od apportar alcuna nuova od utile notizia.</note>	
 	</item>
 
-	<item n="261"><label>261.</label> <bibl>GILPIN WILLIAM, Éssai sur les gravures, traduit de l’anglais par le B. de B., Breslau 1800, in 8.
+	<item n="261"><label>261.</label> <bibl><author>GILPIN WILLIAM,</author><title> Éssai sur les gravures, traduit de l’anglais par le B. de B.,</title> <pubPlace>Breslau</pubPlace> <date>1800</date>, <extent>in 8.</extent>
 	La periferia ove si aggirano queste osservazioni è estremamente ristretta.</bibl>
 	
 	<pb type="cico" n="45"/>
 	</item>
 
-	<item n="262"><label>262.</label> <bibl>HUBER ET ROST, Manuel des curieux et des amateurs de l’art avec une notice des principaux
-	graveurs, Zuric 1797 a 1804, vol. 8, rel. In 4, in 12.</bibl>
+	<item n="262"><label>262.</label> <bibl><author>HUBER ET ROST,</author> <title>Manuel des curieux et des amateurs de l’art avec une notice des principaux
+	graveurs,</title> <pubPlace>Zuric</pubPlace><date> 1797 a 1804,</date> <extent>vol. 8, rel. In 4, in 12.</extent></bibl>
 	<note>Opera da tenersi come un ristretto de’ più grandiosi lavori che abbiamo in tal genere, ma che ha qualche pregio.</note>	
 	</item>
 
-	<item n="263"><label>263.</label> <bibl>JANSEN, Essai sur l’origine de la gravure en bois et en taille douce et sur la connoissance des
-	estampes des XV et XVI siècle, Paris 1808, 2 vol. in 8, fig.</bibl>
+	<item n="263"><label>263.</label> <bibl><author>JANSEN</author>, <title>Essai sur l’origine de la gravure en bois et en taille douce et sur la connoissance des
+	estampes des XV et XVI siècle,</title> <pubPlace>Paris</pubPlace> <date>1808</date>,<extent> 2 vol. in 8, fig.</extent></bibl>
 	<note>Opera ripiena di cognizioni anche sull’origine della fabricazione della carta e sulle prime carte da giuoco.</note>	
 	</item>
 
-	<item n="264"><label>264.</label> <bibl>MASINI LORENZO veneto incisore, Considerazioni sopra alcuni supplementi e note d’un autore
+	<item n="264"><label>264.</label> <bibl><author>MASINI LORENZO</author> veneto incisore, <title>Considerazioni sopra alcuni supplementi e note d’un autore
 	fiorentino traduttore del secondo trattato della storia di Mariette, che segue le Memorie
 	degl’intagliatori moderni in gemme, con la dissertazione d’un nuove castelletto per incider le
-	pietre orientali, Venezia 1756, in 4, con una tavola in rame che esprime il castelletto e varie
+	pietre orientali,</title> <pubPlace>Venezia</pubPlace> <date>1756</date>, <extent>in 4,</extent> con una tavola in rame che esprime il castelletto e varie
 	vignette allusive alla maniera.</bibl>
 	<note>Curioso e caustico libro.</note>	
 	</item>
 
-	<item n="265"><label>265.</label> <bibl>MILIZIA Francesco, Della incisione delle stampe; articolo tratto dal Dizionario delle arti dello
-	stesso, corretto ed arricchito di notizie, Bassano 1796, 8.</bibl>
+	<item n="265"><label>265.</label> <bibl><author>MILIZIA Francesco,</author> <title>Della incisione delle stampe; articolo tratto dal Dizionario delle arti dello
+	stesso, corretto ed arricchito di notizie,</title> <pubPlace>Bassano</pubPlace> <date>1796</date>, <extent>8.</extent></bibl>
 	</item>
-	<item n="266"><label>266.</label> <bibl>OTTLEY WILLIAM Joung, An inquiris in to the origin and early history of engraving upon
+	<item n="266"><label>266.</label> <bibl><author>OTTLEY WILLIAM Joung,</author> <title>An inquiris in to the origin and early history of engraving upon
 	copper and in wood with an account of engravers and their works from the invention of
-	calchography by Maso Finiguerra to the time of Marcantonio Raimondi, London 1816, vol. 2,
-	4.</bibl>
+	calchography by Maso Finiguerra to the time of Marcantonio Raimondi,</title> <pubPlace>London</pubPlace> <date>1816</date>, <extent>vol. 2,
+	4.</extent></bibl>
 	<note>
 	Opera assai stimabile per le estese cognizioni del dottissimo autore e per le preziose tavole collocate fra il testo
 	ove sono i fac simile delle antiche stampe in legno e in rame de’ più celebrati intagliatori e i nielli più insigni
@@ -2099,38 +2098,38 @@
 	</note>
 	</item>
 	
-	<item n="267"><label>267.</label> <bibl>PAPILLON, Traité historique et pratique de la gravure en bois, ouvrage enrichi des plus jolis
-	morceaux de sa composition et de sa gravure, Paris 1766, 8 fig., 2 vol.</bibl>
+	<item n="267"><label>267.</label> <bibl><author>PAPILLON,</author> <title>Traité historique et pratique de la gravure en bois, ouvrage enrichi des plus jolis
+	morceaux de sa composition et de sa gravure,</title> <pubPlace>Paris</pubPlace> <date>1766</date>, <extent>8 fig., 2 vol.</extent></bibl>
 	<note>L’opera è copiosa e laboriosa e con molte tavole, ma non molto lodata per la sua esattezza.</note>
 	<pb type="cico" n="46"/>
-	<!-- The following appears to be a bibliographic entry for Joseph Strutt but it has no number. -->
-	<note>– <bibl>STRUTT Joseph, Biographical dictionnary containing an historical account of all the engravers
-	(vedilo fra i dizionari).</bibl></note>
+	<!-- The following appears to be a bibliographic entry for Joseph Strutt but it has no number. Point to item number 2178-->
+	<note>– <bibl><author>STRUTT Joseph,</author> <title>Biographical dictionnary containing an historical account of all the engravers
+	(vedilo fra i dizionari).</title></bibl></note>
 	</item>
 
-	<item n="268"><label>268</label> <bibl>WELLER Singer Samuel, Rescerches into the history of payng card, with illustrations of the
+	<item n="268"><label>268</label> <bibl><author>WELLER Singer Samuel,</author> <title>Rescerches into the history of payng card, with illustrations of the
 	<fw type="foot"/>
 	<pb type="memofonte"/>
 	<fw type="head"/>
 	
-	origin of painting and engraving on wood, London 1816, in 4, fig.</bibl>
+	origin of painting and engraving on wood,</title> <pubPlace>London</pubPlace> <date>1816</date>, <extent>in 4, fig.</extent></bibl>
 	<note>Questo è il più prezioso libro che abbiasi finora sulle ricerche intorno alle origini delle carte da giuoco, connesso
 	all’origine dell’intaglio e a’ progressi delle arti. È arricchito di rarissimi e preziosi fac simile superiormente
 	intagliati e produce una serie interessantissima di monumenti e di nozioni nelle note e nelle appendici. Molte
 	stampe sono tirate in carta della China e il numero delle tavole ascende a 19 compreso il frontispizio.</note>
 	
 	</item>
-	<item n="269"><label>269.</label> <bibl>ZANNI Pietro, Materiali per servire alla storia dell’origine e de’ progressi dell’incisione in rame
-	e in legno, Parma 1802, in 8.</bibl>
+	<item n="269"><label>269.</label> <bibl><author>ZANNI Pietro,</author><title> Materiali per servire alla storia dell’origine e de’ progressi dell’incisione in rame
+	e in legno,</title> <pubPlace>Parma</pubPlace> <date>1802</date>, <extent>in 8.</extent></bibl>
 	</item>
 
 	<!-- cew -->
 
 
-<item n="270"><label>270.</label> ZANNI Pietro, ENCICLOPEDIA metodica, critico-ragionata delle belle arti.
-	Quest’opera, che si annunzia con un immenso apparato, è il frutto d’una serie senza confine di cognizioni che
+<item n="270"><label>270.</label><bibl> <author>ZANNI Pietro,</author> <title>ENCICLOPEDIA metodica, critico-ragionata delle belle arti.</title>
+	<note>Quest’opera, che si annunzia con un immenso apparato, è il frutto d’una serie senza confine di cognizioni che
 	questo benemerito autore ha riunito nel corso della miglior parte della sua vita e che sta rendendo ora di pubblico
-	benefizio, ma che domanda un luogo periodo di tempo per essere pubblicata.</item>
+	benefizio, ma che domanda un luogo periodo di tempo per essere pubblicata.</note></bibl></item>
       </list>
       
       <fw type="foot"/>
@@ -2144,11 +2143,11 @@
       <head>Della scultura trattati</head>
       
       <list type="catalog">
-	<item n="271"><label>271.</label> BORRONI Giovanni Andrea, Delle statue, Roma 1661, in 4, fig.
-	Sono in questo volume 12 statue disegnate da Lazaro Baldi, editore della famosa vita di San Lazaro monaco e
+	<item n="271"><label>271.</label> <bibl><author>BORRONI Giovanni Andrea,</author><title> Delle statue,</title> <pubPlace>Roma</pubPlace> <date>1661</date>, <extent>in 4, fig.</extent>
+	<note>Sono in questo volume 12 statue disegnate da Lazaro Baldi, editore della famosa vita di San Lazaro monaco e
 	pittore (Vedi fra le vite degli artisti) e intagliate da Francesco Spiere e altri buoni artisti, e una 13 tavola che
 	rappresenta le due colonne Antonina e Traiana, e il frontispizio figurato di accurata e nitida esecuzione. Il testo
-	dell’opera è senza critica, esteso secondo le viste di un dottor teologo, com’era questo frate e nulla più.
+	dell’opera è senza critica, esteso secondo le viste di un dottor teologo, com’era questo frate e nulla più.</note></bibl>
 	
 	</item>
 	<item n="272"><label>272.</label> BOSSUIT Van Francis, Cabinet de l’art de la sculpture executé en ivoire, ou ebauché en terre,
@@ -2157,103 +2156,104 @@
 	Tavole 103 di prima freschezza e bellissima esecuzione.
 	
 	</item>
-	<item n="273"><label>273.</label> CELLINI Benvenuto scultore fiorentino, Due trattati, uno intorno alle otto principali arti
+          <item n="273"><label>273.</label> <bibl><author>CELLINI Benvenuto</author> scultore fiorentino,<title> Due trattati, uno intorno alle otto principali arti
 	dell’orificieria; l’altro in materia dell’arte della scultura, dove si veggono infiniti segreti nel
-	lavorare le figure di marmo et nel gettarle di bronzo, in Fiorenza, per Valente Panizii e Marco
-	Peri, 1568, 4, prima edizione.
+	lavorare le figure di marmo et nel gettarle di bronzo,</title><pubPlace> in Fiorenza,</pubPlace> <publisher>per Valente Panizii e Marco
+	Peri,</publisher> <date>1568</date>,<extent> 4, prima edizione.</extent></bibl>
 	</item>
-	<item n="274"><label>274.</label> CELLINI Benvenuto scultore fiorentino, Gli stessi due trattati, Firenze 1731, 4, edizione citata
+	<item n="274"><label>274.</label><bibl> <author>CELLINI Benvenuto</author> scultore fiorentino, <title>Gli stessi due trattati,</title> <pubPlace>Firenze</pubPlace> <date>1731</date>,<extent> 4,</extent> edizione citata
 	dalla Crusca.
 	Questo prezioso libro contiene una quantità di notizie per la pratica dell’arte e non differisce la prima dalla
 	seconda edizione essenzialmente, se non per essere nella seconda una prefazione con qualche notizia intorno
 	all’autore.
-	
+	</bibl>
 	</item>
-	<item n="275"><label>275.</label> CIAMPI Sebastiano, Dell’antica toreutica. Dissertazione, Firenze 1815, in 8, M. 34.
-	– BREVE prospetto dell’origine della statuaria e delle varie maniere in diversi tempi adoperate
-	per le statue degli dei e degli uomini, in 8, M. 34.
-	CICOGNARA Leopoldo, Storia della scultura.
-	Vedi fra i trattati delle arti in generale.
+	<item n="275"><label>275.</label><bibl> <author>CIAMPI Sebastiano,</author><title> Dell’antica toreutica. Dissertazione,</title> <pubPlace>Firenze</pubPlace> <date>1815</date>, <extent>in 8, M. 34.</extent>
+	– <author>BREVE</author> <title>prospetto dell’origine della statuaria e delle varie maniere in diversi tempi adoperate
+	per le statue degli dei e degli uomini,</title> <extent>in 8, M. 34.</extent>
+	<author>CICOGNARA Leopoldo,</author><title> Storia della scultura.</title>
+	Vedi fra i trattati delle arti in generale.</bibl>
 	
 	<pb type="cico" n="48"/>
 	</item>
-	<item n="276"><label>276.</label> DAVID Emeric, Recherches sur l’art statuaire considerée chez les anciens et chez les modernes,
-	Paris 1805, in 8.
+	<item n="276"><label>276.</label><bibl> <author>DAVID Emeric,</author> <title>Recherches sur l’art statuaire considerée chez les anciens et chez les modernes,</title>
+	<pubPlace>Paris</pubPlace> <date>1805</date>, <extent>in 8.</extent>
 	Questa dissertazione fu coronata di premio dall’Istituto. L’autore non si lascia trasportare in favore delle arti
 	italiane.
-	
+	</bibl>
 	</item>
-	<item n="277"><label>277.</label> GAURICI POMPONII napoletani, De sculptura ad divum Herculem Ferrariae principem, Flor.
-	VIII cal. Jan. 1504, in 8.
+	<item n="277"><label>277.</label><bibl><author> GAURICI POMPONII</author> napoletani, <title>De sculptura ad divum Herculem Ferrariae principem, Flor.
+	VIII cal.</title> <publisher>Jan.</publisher> <date>1504,</date> <extent>in 8.</extent>
 	La lettera di M. Antonio Placido a Lorenzo Strozza che leggesi a principio ci avvisa che questa è òa prima
-	edizione del prezioso libretto. Esemplare intonso.
+	edizione del prezioso libretto. Esemplare intonso.</bibl>
 	
 	</item>
-	<item n="278"><label>278.</label> GAURICI POMPONII napoletani, De sculptura, Norimbergae ec., apud Jo. Petreium, 1542, in 4.
+	<item n="278"><label>278.</label><bibl><author> GAURICI POMPONII</author> napoletani, <title>De sculptura, Norimbergae ec., apud Jo. Petreium,</title> <date>1542,</date><extent> in 4.</extent>
 	<fw type="foot"/>
 	<pb type="memofonte"/>
 	<fw type="head"/>
-	Magnifica edizione, esemplare del Thuano.
+	Magnifica edizione, esemplare del Thuano.</bibl>
 	
 	</item>
-	<item n="279"><label>279.</label> GAURICI POMPONII napoletani, De sculptura liber. Demontiosii Lud. De veterum sculptura,
-	Gorlaei Abr. Dactyliotheca, Antuerpiae 1609, in 4, con frontispizio figurato.
-	Non bisogna cercare in questo autore le teorie dell’arte di cui promette il titolo, ma bisogna soffrire che si parli di
+	<item n="279"><label>279.</label><bibl><author> GAURICI POMPONII</author> napoletani, <title>De sculptura liber. Demontiosii Lud. De veterum sculptura,
+	Gorlaei Abr. Dactyliotheca,</title> <pubPlace>Antuerpiae</pubPlace> <date>1609</date>,<extent> in 4</extent>, con frontispizio figurato.
+	<note>Non bisogna cercare in questo autore le teorie dell’arte di cui promette il titolo, ma bisogna soffrire che si parli di
 	fisionomia e di tutt’altro, contentandosi di poche e rare notizie sfigurate di qualche artefice in un tempo che di 50
-	anni precedeva il Vasari.
-	
+	anni precedeva il Vasari.</note>
+	</bibl>
 	</item>
-	<item n="280"><label>280.</label> GIULIANELLI Andrea Pietro, Memorie degl’intagliatori moderni in pietre dure, camei e gioie.
-	Vedi nella numismatica.
+	<item n="280"><label>280.</label> <bibl>GIULIANELLI Andrea Pietro, Memorie degl’intagliatori moderni in pietre dure, camei e gioie.
+	Vedi nella numismatica.</bibl>
 	</item>
-	<item n="281"><label>281.</label> GUASCO, De l’usage des statues chez les anciens. Essai historique, à Bruxelles 1768, in 4.
-	Con dodici tavole intagliate in rame: edizione però tanto scorretta che nel nostro esemplare trovansi al fine
+	<item n="281"><label>281.</label><bibl> <author>GUASCO</author>, <title>De l’usage des statues chez les anciens. Essai historique,</title> <pubPlace>à Bruxelles</pubPlace> <date>1768</date>,<extent> in 4.</extent>
+	<note>Con dodici tavole intagliate in rame: edizione però tanto scorretta che nel nostro esemplare trovansi al fine
 	aggiunti sette foglietti manoscritti impiegati al registro degli errori e correzioni e forse dall’autore medesimo, o
-	per suo ordine, eseguite. Opera commendevole e piena di buona erudizione.
+	per suo ordine, eseguite. Opera commendevole e piena di buona erudizione.</note></bibl>
 	
 	</item>
-	<item n="282"><label>282.</label> HEMSTERHUIS M., Lettre sur la sculpture a M. Theod de Smeth. Vedi fra le lettere pittoriche,
-	M. 26.
+	<item n="282"><label>282.</label> <bibl><author>HEMSTERHUIS M.,</author> <title>Lettre sur la sculpture a M. Theod de Smeth.</title> Vedi fra le lettere pittoriche,
+	<extent>M. 26.</extent></bibl>
 	</item>
-	<item n="283"><label>283.</label> LEMÉE François, Traité des statues, Paris 1688, 12.
-	Si tratta dell’origine delle statue, degli scultori, della materia, della forma, degli ornamenti, grandezza piedistalli,
+	<item n="283"><label>283.</label><bibl> <author>LEMÉE François,</author> <title>Traité des statues,</title> <pubPlace>Paris</pubPlace> <date>1688</date>,<extent> 12.</extent>
+	<note>Si tratta dell’origine delle statue, degli scultori, della materia, della forma, degli ornamenti, grandezza piedistalli,
 	iscrizioni, luogo, utilità, decoro, diritto, consecrazione ec. In fine è registrato l’atto di donazione, inter vivos, del
 	marchese de la Feuillade a suo figlio di alcuni fondi per il mantenimento e doratura da rinovarsi ogni 25 anni alla
-	statua del re di Francia, eretta sulla piazza della Vittoria.
+	statua del re di Francia, eretta sulla piazza della Vittoria.</note></bibl>
 	
 	<pb type="cico" n="49"/>
 	</item>
-	<item n="284"><label>284.</label> NATTER Laurent, Traité de la méthode antique de graver en pierres fines comparée avec la
-	méthode moderne et expliquée en diverses palches, Londres 1754. Magnifico esemplare in
+	<item n="284"><label>284.</label><bibl> <author>NATTER Laurent,</author> <title>Traité de la méthode antique de graver en pierres fines comparée avec la
+	méthode moderne et expliquée en diverses palches,</title> <pubPlace>Londres</pubPlace> <date>1754</date>. Magnifico esemplare in
 	vit. dor.
-	Uno de’ migliori e più esatti libri in questo genere, ove sono 37 tav. in rame oltre il frontespizio inciso da
+	<note>Uno de’ migliori e più esatti libri in questo genere, ove sono 37 tav. in rame oltre il frontespizio inciso da
 	Hemmerich. L’autore era egli stesso intagliatore di pietre dure assai distinto; le stampe sono eccellenti ed oltre al
 	disegno in faccia è marcato in alcune anche il profilo a maniera di spaccato longitudinale che indica la profondità
-	dell’incavo. Tutte le pietre incise, che trovansi in questo volume, sono tolte dai gabinetti d’Inghilterra.
+	dell’incavo. Tutte le pietre incise, che trovansi in questo volume, sono tolte dai gabinetti d’Inghilterra.</note></bibl>
 	
 	</item>
-	<item n="285"><label>285.</label> QUATREMÈRE DE QUINCI, Le Jupiter Olimpien, ou l’art de la sculpture antique, considérée sous
-	un nouveau point de vue, Paris, chez Didot, 1815, in f. figur. Con 31 tavole miniate.
-	Esemplare in carta velina ove sono in gran copia preziose notizie raccolte con molta critica.
+	<item n="285"><label>285.</label><bibl> <author>QUATREMÈRE DE QUINCI,</author> <title>Le Jupiter Olimpien, ou l’art de la sculpture antique, considérée sous
+	un nouveau point de vue,</title> <publisher>Paris,</publisher> <publisher>chez Didot,</publisher> <date>1815, </date><extent>in f. figur. Con 31 tavole miniate.</extent>
+	Esemplare in carta velina ove sono in gran copia preziose notizie raccolte con molta critica.</bibl>
 	
 	</item>
-	<item n="286"><label>286.</label> SANDRART Joachim, Sculpturae veteris admiranda, sive delineatio vera perfectissimarum
-	eminentissimarumque statuarum una cum artis huius nobilissimae theoria, Norimbergae 1680,
-	in fol. fig.
-	Splendida edizione d’una delle più insigni opere di Sandrart in settanta e una tavola ricca e infedelissima
+	<item n="286"><label>286.</label><bibl> <author>SANDRART Joachim,</author> <title>Sculpturae veteris admiranda, sive delineatio vera perfectissimarum
+	eminentissimarumque statuarum una cum artis huius nobilissimae theoria,</title> <pubPlace>Norimbergae</pubPlace> <date>1680</date>,
+	<extent>in fol. fig.</extent>
+	<note>Splendida edizione d’una delle più insigni opere di Sandrart in settanta e una tavola ricca e infedelissima
 	esecuzione, le quali non hanno il menomo carattere de’ monumenti in esse prodotti, intagliate da vari autori e più
-	di tutti da Ricard Collin, C. G. Amling e dall’autore dell’opera.
-	
+	di tutti da Ricard Collin, C. G. Amling e dall’autore dell’opera.</note>
+	</bibl>
 	</item>
-	<item n="287"><label>287.</label> VIVIO Dottor Jacomo dell’Aquila, Discorso sopra la mirabil opera di basso rilievodi cera
-	stuccata con colori scolpita in pietra negra con storie del vecchio e del Nuovo Testamento,
-	Roma 1590, in 4 fig.
+	
+     <item n="287"><label>287.</label><bibl> <author>VIVIO Dottor Jacomo dell’Aquila, </author><title>Discorso sopra la mirabil opera di basso rilievodi cera
+	stuccata con colori scolpita in pietra negra con storie del vecchio e del Nuovo Testamento,</title>
+	<pubPlace>Roma</pubPlace> <date>1590</date>,<extent> in 4 fig.</extent>
 	<fw type="foot"/>
 	<pb type="memofonte"/>
 	<fw type="head"/>
-	Colla tavola della pianta e ripartimento dell’opera in principio, e l’altra coll’obelisco e gl’emblemi nel fine,
+	<note>Colla tavola della pianta e ripartimento dell’opera in principio, e l’altra coll’obelisco e gl’emblemi nel fine,
 	esemplare in carta grande. Opera stampata con eleganza e che contiene notizie erudite intorno alle 146 imagini
-	che erano rappresentate in questo lavoro.</item>
+	che erano rappresentate in questo lavoro.</note></bibl></item>
       </list>
       
       <fw type="foot"/>
@@ -2266,118 +2266,118 @@
       
       <head>Elementi proporzioni e anatomia</head>
       <list type="catalog">
-	<item n="288"><label>288.</label> ALBERTOLLI Giocondo, Corso elementare d’ornamenti architettonici, ideato e disegnato ad uso
-	de’ principianti, Milano 1805, in fol. gr.
-	Queste sono 28 tavole progressive per i giovani che incominciano a disegnare, cominciando dalla foglia più
-	semplice all’ornamento più complicato, intagliate con diligenza dal Mercoli e da altri ec.
-	
+	<item n="288"><label>288.</label><bibl> <author>ALBERTOLLI Giocondo,</author> <title>Corso elementare d’ornamenti architettonici, ideato e disegnato ad uso
+	de’ principianti,</title> <pubPlace>Milano</pubPlace> <date>1805</date>, <extent>in fol. gr.</extent>
+	<note>Queste sono 28 tavole progressive per i giovani che incominciano a disegnare, cominciando dalla foglia più
+	semplice all’ornamento più complicato, intagliate con diligenza dal Mercoli e da altri ec.</note>
+	</bibl>
 	</item>
-	<item n="289"><label>289.</label> DE ARPHE y Villafanne, Varia consummeracion para la escultura y arquitectura, Madrid 1736,
-	f. fig.
-	In fronte è il ritratto dell’autore. L’opera è divisa in quattro libri: il primo tratta della geometria, il secondo delle
+	<item n="289"><label>289.</label><bibl> <author>DE ARPHE</author> y Villafanne, <title>Varia consummeracion para la escultura y arquitectura,</title> <pubPlace>Madrid</pubPlace> <date>1736</date>,
+	<extent>f. fig.</extent>
+	<note>In fronte è il ritratto dell’autore. L’opera è divisa in quattro libri: il primo tratta della geometria, il secondo delle
 	proporzioni e dell’anatomia, il terzo de’ quadrupedi e dei volatili, il quarto dell’architettura. Le tavole sono
 	numerosissime, alcune frammiste al testo a tutta pagina e altre marginali intagliate in legno con grandissimo
-	magistero e rendono per conseguenza l’opera assai preziosa, giustificandone la rarità.
+	magistero e rendono per conseguenza l’opera assai preziosa, giustificandone la rarità.</note>
+	</bibl>
+	</item>
+	<item n="290"><label>290.</label><bibl><title> L’ARTE di scrivere tratta dal dizionario d’arti e mestieri dell’Enciclopedia metodica,</title><pubPlace> Padova</pubPlace>
+	<date>1796</date>, <extent>in 4, grande.</extent>
+    <note>	Il testo è di pag. 56, oltre 15 tavole di calligrafia.</note>
+	</bibl>
+	</item>
+	<item n="291"><label>291.</label> <bibl><author>AUDRAN Girard,</author> <title>Les proportions du corps humain mesurées sur les plus belles figures de
+	l’antiquité,</title> <pubPlace>Paris</pubPlace>,<publisher> chez Girard Audran graveur</publisher>, <date>1683</date>,<extent> in fol. fig. Tav. 30 con 4 carte di testo.</extent>
+	<note>Quest’opera è molto raccomandabile e potrebbe meritare un’impressione nuova, poiché nulla fu fatto di meglio
+	finora in questo genere.</note></bibl>
 	
 	</item>
-	<item n="290"><label>290.</label> L’ARTE di scrivere tratta dal dizionario d’arti e mestieri dell’Enciclopedia metodica, Padova
-	1796, in 4, grande.
-	Il testo è di pag. 56, oltre 15 tavole di calligrafia.
-	
-	</item>
-	<item n="291"><label>291.</label> AUDRAN Girard, Les proportions du corps humain mesurées sur les plus belles figures de
-	l’antiquité, Paris, chez Girard Audran graveur, 1683, in fol. fig. Tav. 30 con 4 carte di testo.
-	Quest’opera è molto raccomandabile e potrebbe meritare un’impressione nuova, poiché nulla fu fatto di meglio
-	finora in questo genere.
-	
-	</item>
-	<item n="292"><label>292.</label> BARISIONI Giovanni, Il vero lume dell’arte dello scrivere, col quale Giovanni Barisioni
+	<item n="292"><label>292.</label><bibl><author> BARISIONI Giovanni,</author> <title>Il vero lume dell’arte dello scrivere, col quale Giovanni Barisioni
 	privilegiato dalla Ser. Rep. di Venezia insegna in una sola lezione a formare il vero carattere
-	cancelleresco ad ogni persona, dedicato al sig. Paolo Sarotti, stampato in Venezia dall’autore,
-	l’anno 1607, in 4, obl.
-	Questo esemplare di dedica è tutto in fondo d’oro lucente nelle prime tre pagine miniate e figurate. 8 foglietti
-	sono im [p. 51] pressi coi tipi e dodici sono le tavole di caratteri intagliate in rame.
-	
+	cancelleresco ad ogni persona, dedicato al sig. Paolo Sarotti,</title> stampato in Venezia dall’autore,
+	<date>l’anno 1607,</date> <extent>in 4, obl.</extent>
+	<note>Questo esemplare di dedica è tutto in fondo d’oro lucente nelle prime tre pagine miniate e figurate. 8 foglietti
+	sono im pressi coi tipi e dodici sono le tavole di caratteri intagliate in rame.</note>
+	</bibl>
 	</item>
-	<item n="293"><label>293.</label> BARTOLOZZI Francesco, Elementi del disegno intagliati sui disegni di G. B. Cipriani, Londra
-	1796, in 4, obl.
-	Sono 10 tavole compreso il frontispizio seguite da 9 foglietti di testo francese e italiano, ove si svolgono i
-	principi elementari dell’arte.
-	
+	<item n="293"><label>293.</label> <bibl><author>BARTOLOZZI Francesco,</author><title> Elementi del disegno intagliati sui disegni di G. B. Cipriani,</title> <pubPlace>Londra</pubPlace>
+	<date>1796</date>, <extent>in 4, obl.</extent>
+	<note>Sono 10 tavole compreso il frontispizio seguite da 9 foglietti di testo francese e italiano, ove si svolgono i
+	principi elementari dell’arte.</note>
+	</bibl>
 	</item>
-	<item n="294"><label>294.</label> BENVENUTI Niccola, Corso elementare di disegno diviso in quaranta tavole, tratte dalle più
-	eccellenti opere greche e da alcune pitture di Raffaello, disegnate, incise e pubblicate da
-	Giuseppe Calendi, diretto da Pietro Benvenuti e Raffaello Morghen, Firenze 1808, in fol. atl.
+	<item n="294"><label>294.</label><bibl><author> BENVENUTI Niccola,</author> <title>Corso elementare di disegno diviso in quaranta tavole, tratte dalle più
+	eccellenti opere greche e da alcune pitture di Raffaello, disegnate, incise</title> <publisher>e pubblicate da
+	Giuseppe Calendi,</publisher> diretto da Pietro Benvenuti e Raffaello Morghen, <pubPlace>Firenze</pubPlace> <date>1808</date>, <extent>in fol. atl.</extent>
 	Questa è una delle migliori opere elementari.
-	
+	</bibl>
 	</item>
-	<item n="295"><label>295.</label> BIDLOO Godefridi, Anatomia humani corporis, centum quinque tabulis G. de Lairesse ad
-	vivum delineatis demonstrata, Amstelodamii 1685, in fol.
-	La bellezza delle tavole tanto commendate di quest’opera consiste non già nel disegno, ma nel solo meccanismo
+	<item n="295"><label>295.</label> <bibl><author>BIDLOO Godefridi,</author> <title>Anatomia humani corporis, centum quinque tabulis G. de Lairesse ad
+	vivum delineatis demonstrata, </title><pubPlace>Amstelodamii</pubPlace> <date>1685</date>, <extent>in fol.</extent>
+	<note>La bellezza delle tavole tanto commendate di quest’opera consiste non già nel disegno, ma nel solo meccanismo</note>
 	<fw type="foot"/>
 	<pb type="memofonte"/>
 	<fw type="head"/>
 	del bulino.
-	
+	</bibl>
 	</item>
-	<item n="296"><label>296.</label> BOSSE A., Recueil de figures pour apprendre a dessiner sans maître le portrait, la figure,
-	l’histoire et le paysage, Paris, chez Jombert, 1737, in 4.
-	Sono queste 122 stampe raccolte dall’editore da tutte le opere di Bosse e da’ suoi stessi frontispizi con studi
+	<item n="296"><label>296.</label><bibl><author>BOSSE A.,</author> <title>Recueil de figures pour apprendre a dessiner sans maître le portrait, la figure,
+	l’histoire et le paysage,</title> <pubPlace>Paris</pubPlace>, <publisher>chez Jombert,</publisher> <date>1737</date>, <extent>in 4.</extent>
+	<note>Sono queste 122 stampe raccolte dall’editore da tutte le opere di Bosse e da’ suoi stessi frontispizi con studi
 	elementari d’altri maestri e intagliatori, fra’ quali trovansi anche i putti e li mascheroni di Paolo Farinati
 	pubblicati nell’anno precedente a Parigi: e non è se non che una miscellanea mediocre e di pochissimo uso, cui
-	gli editori posero un titolo specioso per oggetto di speculazione.
-	
+	gli editori posero un titolo specioso per oggetto di speculazione.</note>
+	</bibl>
 	</item>
-	<item n="297"><label>297.</label> BOTTMAN, Cours d’anatomie à l’usage des artistes, Paris 1788, in 12.
-	Operetta che senza le dimostrazioni delle tavole riesce troppo astratta e può adoperarsi applicandola ad altre
-	opere.
-	
+	<item n="297"><label>297.</label> <bibl><author>BOTTMAN,</author> <title>Cours d’anatomie à l’usage des artistes,</title> <pubPlace>Paris</pubPlace> <date>1788</date>, <extent>in 12.</extent>
+	<note>Operetta che senza le dimostrazioni delle tavole riesce troppo astratta e può adoperarsi applicandola ad altre
+	opere.</note>
+	</bibl>
 	</item>
-	<item n="298"><label>298.</label> BOUCHARDON, L’anatomie necessaire pour l’usage du Delfin, Paris, chez Huquier, fol. fig.
-	Sono 15 tavole assai bene e chiaramente intagliate compreso il frontispizio e un avviso al lettore in principio, e
-	un indice per le nomenclature anatomiche al fine, intagliate in rame. Vedi GENGA.
-	
+	<item n="298"><label>298.</label><bibl><author> BOUCHARDON,</author> <title>L’anatomie necessaire pour l’usage du Delfin,</title> <pubPlace>Paris</pubPlace>,<publisher> chez Huquier,</publisher> <extent>fol. fig.</extent>
+	<note>Sono 15 tavole assai bene e chiaramente intagliate compreso il frontispizio e un avviso al lettore in principio, e
+	un indice per le nomenclature anatomiche al fine, intagliate in rame.</note> Vedi GENGA.
+	</bibl>
 	</item>
-	<item n="299"><label>299.</label> BROWNE Alexander, Ars pictoria, or an academy treating of drawing, painting, linning, etching
-	to [p. 52] which are added 31 copper plates, London 1765. Con un’appendice sull’arte in
+	<item n="299"><label>299.</label><bibl><author> BROWNE Alexander,</author> <title>Ars pictoria, or an academy treating of drawing, painting, linning, etching
+	to which are added 31 copper plates,</title> <pubPlace>London</pubPlace> <date>1765</date>. Con un’appendice sull’arte in
 	miniatura.
-	Quest’opera è tratta da vari elementi di disegno e in ispecie da quelli di Annibale Carracci, del Colombina, di
-	Bloemrt e del Palma: il tutto intagliato da Desode, col ritratto dell’autore in fronte.
-	
+	<note>Quest’opera è tratta da vari elementi di disegno e in ispecie da quelli di Annibale Carracci, del Colombina, di
+	Bloemrt e del Palma: il tutto intagliato da Desode, col ritratto dell’autore in fronte.</note>
+	</bibl>
 	</item>
-	<item n="300"><label>300.</label> LE BRUN, Conference sur l’expression générale et particulière des passions enrichi de figures
-	suivant l’édition d’Amsterdam de l’année 1713, Verona 1751, in 8, ital. e franc. con figure.
-	La traduzione è di Pier Antonio Perotti pittor veronese, dedicata al pittore conte Pietro Rottario.
-	
+	<item n="300"><label>300.</label> <bibl><author>LE BRUN,</author><title> Conference sur l’expression générale et particulière des passions enrichi de figures
+	suivant l’édition d’Amsterdam de l’année 1713,</title> <pubPlace>Verona</pubPlace> <date>1751</date>, <extent>in 8,</extent> ital. e franc. con figure.
+	<note>La traduzione è di Pier Antonio Perotti pittor veronese, dedicata al pittore conte Pietro Rottario.</note>
+	</bibl>
 	</item>
-	<item n="301"><label>301.</label> BUCHOTTE, Les regles du dessein et du lavis, Paris 1722, in 8. Prima edizione con minor
-	numero di tavole della seguente.
+	<item n="301"><label>301.</label><bibl> <author>BUCHOTTE, </author><title>Les regles du dessein et du lavis,</title> <pubPlace>Paris </pubPlace><date>1722,</date> <extent>in 8.</extent> Prima edizione con minor
+	numero di tavole della seguente.</bibl>
 	</item>
-	<item n="302"><label>302.</label> BUCHOTTE, Les regles du dessein et du lavis pour les plans particuliers des ouvrages et des
-	bâtiments etc., nouvelle édition, Paris 1743, chez Jombert, in 8.
-	Questa edizione contiene 22 tavole ben intagliate mentre la prima non ne ha che 14 e serve specialmente per gli
+	<item n="302"><label>302.</label><bibl> <author>BUCHOTTE,</author><title> Les regles du dessein et du lavis pour les plans particuliers des ouvrages et des
+	bâtiments etc., nouvelle édition,</title> <pubPlace>Paris</pubPlace><date> 1743,</date> <publisher>chez Jombert,</publisher><extent> in 8.</extent>
+	<note>Questa edizione contiene 22 tavole ben intagliate mentre la prima non ne ha che 14 e serve specialmente per gli
 	ombreggiatori e aquarellatori di mappe e piante e alzati d’ogni genere e per tutto ciò che riguarda la topografia e
-	l’architettura.
-	CAMUCCINI, Vedi Studio del disegno.
-	
+	l’architettura.</note>
+	CAMUCCINI, Vedi Studio del disegno. <!--No item number? :Pointing to item 359-->
+	</bibl>
 	</item>
-	<item n="303"><label>303.</label> CARACCI Annibale, Scuola perfetta per imparare a disegnare tutto il corpo umano, cavata dallo
-	studio e disegni de’ Caracci, fol. fig. con tavole 44 compreso il frontispizio.
+	<item n="303"><label>303.</label> <bibl><author>CARACCI Annibale,</author> <title>Scuola perfetta per imparare a disegnare tutto il corpo umano, cavata dallo
+	studio e disegni de’ Caracci,</title> <extent>fol. fig.</extent> con tavole 44 compreso il frontispizio.</bibl>
 	</item>
-	<item n="304"><label>304.</label> CARACCI Annibale, Altro esemplare con alcune tavole variate, e più fresco del primo in
+	<item n="304"><label>304.</label> <bibl><author>CARACCI Annibale,</author> Altro esemplare con alcune tavole variate, e più fresco del primo in
 	numero di 48 tav.
 	Queste tavole elementari sono tratte da disegni originali di Annibale Carraci e marcate al basso da un P. S. F. che
 	vuol dire Petrus Steffanoni fecit. Non si cita quest’opera dai bibliografi che in numero di 40 tavole, ma ne
-	vennero sempre aggiunte alcune altre in diversi esemplari di mano dello stesso Carracci.
+	vennero sempre aggiunte alcune altre in diversi esemplari di mano dello stesso Carracci.</bibl>
 	
 	</item>
-	<item n="305"><label>305.</label> ELEMENTI del disegno di Annibale Carracci, intagliati da Poilly in 30 tavole in fol. obl.
+	<item n="305"><label>305.</label><bibl> ELEMENTI del disegno di Annibale Carracci, intagliati da Poilly in 30 tavole in fol. obl.
 	La lindura del bulino pare aver tolto all’originalità delle stampe antiche tutto il sapore e il gusto, che le
 	rendevano tanto pregiate.
 	<fw type="foot"/>
 	<pb type="memofonte"/>
 	<fw type="head"/>
-	
+	</bibl>
 	</item>
 	<item n="306"><label>306.</label> CARRADORI Francesco, Istruzione elementare per gli studiosi della scultura, Firen. 1802, in 4,
 	figura [p. 53]to. Con 17 tavole oltre il frontespizio figurato.
