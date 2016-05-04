@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="schemas/cicognara.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/cicognara.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -395,7 +397,11 @@ legato in un tomo di miscellanee segnate a tergo di quel numero.</note>
             <fw type="head"/>
             <pb type="cico" n="1"/>
 
-            <div type="section" n="2.1" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.1"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
   
                <head>DELL’ANTICHITÀ IN GENERE</head>
                <list type="catalog">
@@ -493,7 +499,9 @@ senza gusto e senza scelta e senza ordine tutti i libri di antichità e producen
 numero di tavole orribilmente disegnate e peggio intagliate.
 </item>
 
-                  <item xml:id="c2d1e640" n="2488" corresp="cico:vvf cico:hs4 cico:5kd cico:bpc">
+                  <item xml:id="c2d1e640"
+                        n="2488"
+                        corresp="cico:vvf cico:hs4 cico:5kd cico:bpc">
                      <label>2488.</label> GRAEVII Joan. Georgii, Jacobi Gronovii etc., Thesaurus antiquitatum graecarum et romanarum 33 vol. in fol. fig.
 compresivi i tre volumi del Sallengre e i cinque del supplemento del Poleni, Venezia 1732-37.
 È inutile che di un’opera sì vasta e sì accreditata si pongano qui annotazioni. Troppo nota è la preziosità della
@@ -574,7 +582,7 @@ preziosissime.
 Harduinus. Ad usum Delphini, Parisiis 1723, vol. 2, in fol. Vedi Durand David.
 </item>
 
-                  <item xml:id="c2d1e718" n="2499">
+                  <item xml:id="c2d1e718" n="2499" corresp="cico:jfz">
                      <label>2499.</label> QUATREMERE de Quinci, Le Jupiter Olimpien. Vedi fra i Trattati d’Arte.
 </item>
 
@@ -618,7 +626,9 @@ disamine e studi hanno reso quest’opera di poca utilità a fronte di tante alt
 <pb type="cico" n="6"/>
                   </item>
 
-                  <item xml:id="c2d1e763" n="2506" corresp="cico:4zx cico:5s2 cico:x7t cico:hg2 cico:pc8 cico:kc6">
+                  <item xml:id="c2d1e763"
+                        n="2506"
+                        corresp="cico:4zx cico:5s2 cico:x7t cico:hg2 cico:pc8 cico:kc6">
                      <label>2506.</label> WINCKELMANN, Monumenti antichi inediti spiegati ed illustrati, Roma 1767, in fol., fig., vol. 3.
 Il terzo volume composto di sette opuscoli da varj eruditi va sempre unito all’opera precedente e sono i seguenti.
 — Raffei Stefano, Saggio di osservazioni sopra un basso rilievo di Villa Albani; e osservazioni sopra un altro
@@ -640,7 +650,11 @@ monumento della medesima Villa, Roma 1773.
 
                <fw type="foot"/>
             </div>
-            <div type="section" n="2.2" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.2"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <pb type="memofonte"/>
                <fw type="head"/>
                <pb type="cico" n="7"/>
@@ -885,7 +899,9 @@ Francia. Tutto il primo volume è consecrato al testo: il secondo alle tavole in
 
                   </item>
 
-                  <item xml:id="c2d1e1036" n="2542" corresp="cico:8p7 cico:9s5 cico:38v cico:mcf cico:k88 cico:s89 cico:3pc cico:8s5 cico:5s7">
+                  <item xml:id="c2d1e1036"
+                        n="2542"
+                        corresp="cico:8p7 cico:9s5 cico:38v cico:mcf cico:k88 cico:s89 cico:3pc cico:8s5 cico:5s7">
                      <label>2542.</label> OBELISCI Vaticani Opuscula. Sive Gallesini Petri, obeliscus vaticanus, pietate invictissimae crucis sacerd. ad
 perpetuitatem praeclaris litteris laudatus, Romae 1587.
 — Ordo dedicationis obelisci, Romae 1586.
@@ -925,12 +941,12 @@ Con 18 tavole intagliate in rame. Dissertazione premiata dall’Accademia di Fra
 critica e profonda erudizione.
 </item>
 
-                  <item xml:id="c2d1e1062" n="2546">
+                  <item xml:id="c2d1e1062" n="2546" corresp="cico:6zz">
                      <label>2546.</label> RICAULT, Histoire de l’état present de l’empire ottoman traduite de l’anglais par M. Briot, Paris 1670, in 12. Avec
 figures par Sebastien le Clerc.
 </item>
 
-                  <item xml:id="c2d1e1068" n="2547">
+                  <item xml:id="c2d1e1068" n="2547" corresp="cico:qjp">
                      <label>2547.</label> Del ROSSO Giuseppe, Ricerche sull’architettura egiziana, Firenze 1787, in 8.
 </item>
 
@@ -964,11 +980,15 @@ esemplare.
 Con otto tavole in rame grandissime, opera insigne e profonda.
 </item>
 
-                  <item xml:id="c2d1e1107" n="2552">
+                  <item xml:id="c2d1e1107" n="2552" corresp="cico:8kd">
                      <label>2552.</label> ZOEGA Georgii, Nummi Egyptii. Vedi nella Numismatica.</item>
                </list>
             </div>
-            <div type="section" n="2.3" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.3"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <head>ANTICHITÁ ETRUSCHE E ITALIANE AVANTI I ROMANI</head>
                <list type="catalog">
 
@@ -1506,7 +1526,11 @@ fig.</item>
 
                <fw type="foot"/>
             </div>
-            <div type="section" n="2.4" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.4"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <pb type="memofonte"/>
                <fw type="head"/>
 
@@ -1531,7 +1555,9 @@ Sono le stesse cattive e immense tavole del Pancrazj con poche illustrazioni del
 speculazione dello stampatore.
 </item>
 
-                  <item xml:id="c2d1e1763" n="2645" corresp="cico:vjt cico:78s cico:rvn cico:sg4 cico:f2n">
+                  <item xml:id="c2d1e1763"
+                        n="2645"
+                        corresp="cico:vjt cico:78s cico:rvn cico:sg4 cico:f2n">
                      <label>2645.</label> Le ANTICHITÀ di Ercolano esposte, volumi 9, Napoli 1755, in fol., fig.
 <list>
                         <item n="1">
@@ -1591,7 +1617,7 @@ greche antichità. Ma questa magnificenza la quale ogni giorno maggiormente si r
 libri, cessando di essere la supellettile dei dotti, non sarà più che quella dei Re.
 </item>
 
-                  <item xml:id="c2d1e1838" n="2647">
+                  <item xml:id="c2d1e1838" n="2647" corresp="cico:fg9">
                      <label>2647.</label> AZARI Antonio, Marmo taurobolico, locarnese, ossia dissertazione su d’un basso rilievo esistente in Locarnio con
 testa di toro ec., Milano 1795, in 8.
 </item>
@@ -2034,7 +2060,9 @@ parte per maggior comodo le 14 tavole di medaglie che veggonsi al fine dei 14 ca
 Con due grandi tavole in fine.
 </item>
 
-                  <item xml:id="c2d1e2281" n="2710" corresp="cico:k5b cico:68r cico:s5b cico:p84 cico:f5q">
+                  <item xml:id="c2d1e2281"
+                        n="2710"
+                        corresp="cico:k5b cico:68r cico:s5b cico:p84 cico:f5q">
                      <label>2710.</label> SECONDO Giuseppe Maria, Relazione storica dell’antichità, rovine e residui di Capri umiliata al Re. Con tutti gli
 altri opuscoli d’antiquaria inserti nel terzo volume della Deca Romana delle Simbole Letterarie pubblicate dal
 proposto Ant. Fran. Gori, Roma 1752, in 8, M. 95.
@@ -2077,7 +2105,7 @@ Neapoli 1767, in 8, M. 48.
 Col frontespizio figurato, opera piena di erudizione.
 </item>
 
-                  <item xml:id="c2d1e2320" n="2716">
+                  <item xml:id="c2d1e2320" n="2716" corresp="cico:fcq">
                      <label>2716.</label> VILLAMENA Franciscus, Ager Puteolanus sive prospectus ejusdem insigniores, Romae 1626, in 8, constat
 tabularum 24.
 <fw type="foot"/>
@@ -2129,7 +2157,11 @@ Queste sono le due prime opere che diedero movimento al lusso enorme introdottos
 Esemplari legati in mar. der.</item>
                </list>
             </div>
-            <div type="section" n="2.5" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.5"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <head>NUMISMATICA E PIETRE INTAGLIATE</head>
                <list type="catalog">  
 
@@ -2400,7 +2432,9 @@ Questi preziosi e non comuni opuscoli sono ornati di copiose tavole intagliate i
 suoi luoghi.
 </item>
 
-                  <item xml:id="c2d1e2638" n="2759" corresp="cico:s29 cico:pc9 cico:t2c cico:7zw cico:gnx">
+                  <item xml:id="c2d1e2638"
+                        n="2759"
+                        corresp="cico:s29 cico:pc9 cico:t2c cico:7zw cico:gnx">
                      <label>2759.</label> BEGERII Laurentii, Paenae infernales Ixionis, Sisyphi, Ocni, et Danaidum ex delineatoine Pighiana desumptae et
 dialogo illustratae, Coloniae Marcichae 1703, fig.
 — Addito: Alcestis pro marito moriens, et vitae ab Hercule restituta, Coloniae Brandeburgicae 1703.
@@ -2665,7 +2699,7 @@ amendue sono contraffazioni.
 Colla medaglia stampata in rame sul testo.
 </item>
 
-                  <item xml:id="c2d1e2888" n="2795">
+                  <item xml:id="c2d1e2888" n="2795" corresp="cico:kk0">
                      <label>2795.</label> CASSINI Joan. Mariae, Vedi Passeri.
 </item>
 
@@ -3125,7 +3159,7 @@ Romanae Historiae perutilis, Parisiis 1634, in 4, M. 33.
 Opuscoletto prezioso per la sua erudizione.
 </item>
 
-                  <item xml:id="c2d1e3347" n="2861">
+                  <item xml:id="c2d1e3347" n="2861" corresp="cico:w5b">
                      <label>2861.</label> GODOFREDI Jo. goettingensi, Deam monetam ex memoria veteri auspiciis amplissimi philosophorum ordinis etc.,
 Helmstadii 1717, in 4, M. 57.
 Con quattro medaglie su1 frontespizio.
@@ -3578,7 +3612,9 @@ espone nel tempio di S. Alessandro, Milano 1694, in 12, M. 73.
 A carte dieci trovasi fra il testo riportata la medaglia.
 </item>
 
-                  <item xml:id="c2d1e3785" n="2924" corresp="cico:cp4 cico:j89 cico:zzc cico:p86">
+                  <item xml:id="c2d1e3785"
+                        n="2924"
+                        corresp="cico:cp4 cico:j89 cico:zzc cico:p86">
                      <label>2924.</label> MEDAILLES sur les principaux événémens du regne de Lovis le grand, avec des explications historiques par
 l’Académie Royale des médailles et des inscriptions, Paris 1702, en 4. Esemplare in mar. dor.
 Quest’edizione in quarto comparve contemporanea nello <pb type="cico" n="71"/> stesso anno che quella in foglio ed è eseguita
@@ -3604,7 +3640,7 @@ parimente di Milano del 1683. Le medaglie intagliate in rame sono riportate fra 
 Tutto dipende dalla lettura dell’iscrizione sulla quale non sarebbe strano il promuovere qualche dubbio.
 </item>
 
-                  <item xml:id="c2d1e3812" n="2927">
+                  <item xml:id="c2d1e3812" n="2927" corresp="cico:b8d">
                      <label>2927.</label> MENESTRIER Claude François, Lettre à M. Mayer sur une piece antique qu’il a apporté de Rome, in 4, M. 27.
 </item>
 
@@ -3710,7 +3746,9 @@ Con molte medaglie intagliate in rame fra il testo.
 51.
 </item>
 
-                  <item xml:id="c2d1e3920" n="2943" corresp="cico:js0 cico:6ch cico:xbw cico:rrs cico:mch">
+                  <item xml:id="c2d1e3920"
+                        n="2943"
+                        corresp="cico:js0 cico:6ch cico:xbw cico:rrs cico:mch">
                      <label>2943</label> NORIS Enrico, Duplex dissertatio de duobus nummis Diocletiani, et Licinii, Florentiae 1775.
 — Addita alia opuscula auctoris in 4.
 — In notas Jo. Garnerii ad inscriptiones Epistolarum Synodalium.
@@ -3866,7 +3904,9 @@ panegirici antichi col testo a fronte. Bombycum lib. III Poema. Le analisi alle 
 serie di lettere italiane con 27 tavole al fine intagliate diligentemente.
 </item>
 
-                  <item xml:id="c2d1e4062" n="2963" corresp="cico:c5s cico:206 cico:b8j cico:362">
+                  <item xml:id="c2d1e4062"
+                        n="2963"
+                        corresp="cico:c5s cico:206 cico:b8j cico:362">
                      <label>2963.</label> PATTINO Carlo, Introduzione alla storia della pratica delle medaglie tradotta dal francese da Costantino Belli,
 Venezia 1673, fig. in legno, in 12.
 Avanti che lo studio della numismatica avesse fatto grandi progressi, questo era uno dei migliori ristretti
@@ -3906,7 +3946,7 @@ alquanto sono sempre pieni di grazia per l’invenzione e per l’esecuzione. Le
 inferiori e non hanno alcuna relazione col testo.
 </item>
 
-                  <item xml:id="c2d1e4100" n="2968">
+                  <item xml:id="c2d1e4100" n="2968" corresp="cico:2gf">
                      <label>2968.</label> PATINUS, Familiae romanae, vedi Ursini Fulvii 1663.
 </item>
 
@@ -4057,7 +4097,7 @@ Arnstadio-Schwartzburgico obviis, Francofurti 1708, in 8, fig.
 Con due tavole in rame.
 </item>
 
-                  <item xml:id="c2d1e4254" n="2991">
+                  <item xml:id="c2d1e4254" n="2991" corresp="cico:jc7">
                      <label>2991.</label> RUDIL de Berriae Huberti, Monumentorum galaticorum synopsis, sive ad inscriptiones et numismata quae ad res
 galaticas spectant breves conjecturae, Liburni 1772, in 4, M. 8.
 È singolare il modo con cui quest’autore rimanda i suoi <pb type="cico" n="82"/> lettori ad una quantità di opere numismatiche
@@ -4112,7 +4152,9 @@ L’elenco delle medaglie è esposto con segnali progressivi dalla minima alla m
 <pb type="cico" n="83"/>
                   </item>
 
-                  <item xml:id="c2d1e4314" n="2999" corresp="cico:wfr cico:f8g cico:pcc cico:391">
+                  <item xml:id="c2d1e4314"
+                        n="2999"
+                        corresp="cico:wfr cico:f8g cico:pcc cico:391">
                      <label>2999.</label> SEGUINI Petri, Selecta numismata antiqua ex suo musaeo, ejusdem observationibus illustrata, Lutetiae Parisiorum
 1666, in 4, fig.
 Edizione accuratamente eseguita ove le medaglie sono finamente intagliate.
@@ -4772,7 +4814,11 @@ Opera di molta dottrina illustrata con 22 tavole.
 Venezia 1747, in 4, M. 10.</item>
                </list>
             </div>
-            <div type="section" n="2.6" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.6"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <head>ISCRIZIONI</head>
                <list type="catalog">
 
@@ -4808,7 +4854,9 @@ Con quattro foglietti di aggiunte autografe manoscritte.
                      <label>3093.</label> AMADUTII, De veteri inscriptione Ursi Togati ludi pilae vitreae inventoris epistola, Romae 1775, in 12, M. 67.
 </item>
 
-                  <item xml:id="c2d1e4992" n="3094" corresp="cico:kp5 cico:z24 cico:pvk cico:d8n cico:xz9">
+                  <item xml:id="c2d1e4992"
+                        n="3094"
+                        corresp="cico:kp5 cico:z24 cico:pvk cico:d8n cico:xz9">
                      <label>3094.</label> AMADUTII, Lettera sopra un antico marmo contenente il catalogo delle tragedie di Euripide, Lucca 1767, in 12,
 M. 67.
 </item>
@@ -4844,12 +4892,12 @@ in 4, fig.
 Le iniziali, le vignette e il frontespizio recano antichi monumenti veronesi.
 </item>
 
-                  <item xml:id="c2d1e5024" n="3099">
+                  <item xml:id="c2d1e5024" n="3099" corresp="cico:kc8">
                      <label>3099.</label> BARUFFALDI Girolamo, Osservazioni sopra un’antica iscrizione del Vico Aventino oggidì Voghenza, villaggio
 nel territorio ferrarese, trovata nelle possessioni Cicognara, Ferrara 1810, in 4.
 </item>
 
-                  <item xml:id="c2d1e5031" n="3100">
+                  <item xml:id="c2d1e5031" n="3100" corresp="cico:rvd">
                      <label>3100.</label> BIANCHI D. Giovanni, Lettera sopra alcune antiche iscrizioni, Rimino 1765, in 12.
 </item>
 
@@ -5211,7 +5259,11 @@ Con una tavola nel fine.</item>
 
                <fw type="foot"/>
             </div>
-            <div type="section" n="2.7" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.7"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <pb type="memofonte"/>
                <fw type="head"/>
 
@@ -5404,7 +5456,9 @@ Sono la più parte con le rispettive tavole a’ luoghi indicati nel testo.
 S. Marco, Venezia 1811, in 8.
 </item>
 
-                  <item xml:id="c2d1e5669" n="3192" corresp="cico:3km cico:p2h cico:mg8 cico:vjv">
+                  <item xml:id="c2d1e5669"
+                        n="3192"
+                        corresp="cico:3km cico:p2h cico:mg8 cico:vjv">
                      <label>3192.</label> CARYOPHILI Paschalis, De thermis Herculanis, nuper in Dacia detectis, Mantuae 1739, in 4.
 — Accedit ejusdem de usu et praestantia thermarum Herculanarum, Mantuae 1739, in 4, fig.
 L’erudizione di cui sono sparse queste due dissertazioni è arida in un argomento che prestavasi ad una maggiore
@@ -5584,7 +5638,7 @@ Non sonovi altre tavole che le medaglie a ciò relative in un foglietto e fra il
 intagliato in legno.
 </item>
 
-                  <item xml:id="c2d1e5855" n="3219">
+                  <item xml:id="c2d1e5855" n="3219" corresp="cico:9w0">
                      <label>3219.</label> FABRONI Giovanni, Due memorie lette nella società degli amatori della Storia Patria Fiorentina su la derivazione
 e coltura degli antichi popoli d’Italia e sulle epoche della storia fiorentina fino al 1292, Firenze, in 8, 1803.
 </item>
@@ -5638,7 +5692,7 @@ frontespizio istoriato di Romain de Hooghe.
 
                   </item>
 
-                  <item xml:id="c2d1e5913" n="3227">
+                  <item xml:id="c2d1e5913" n="3227" corresp="cico:cp7">
                      <label>3227.</label> GCHROTERI Ernesti Frid., De Lamiis, dissertatio juridica, Jenae 1670, in 4, M. 64.
 La singolarità di alcuni opuscoli e il bizzarro genere di erudizione che contengono ci ha spesso determinato ad
 accoglierli in questa collezione, sebbene per il loro titolo non sembri a prima vista che possano appartenervi.
@@ -5674,7 +5728,9 @@ Hackius, 1669, in 8, M. 66.
 Bella ed accurata edizione stampata in colonna.
 </item>
 
-                  <item xml:id="c2d1e5952" n="3233" corresp="cico:hgd cico:bgr cico:7zz cico:x2d cico:262 cico:hk5 cico:czw cico:r5k cico:xc1 cico:2wb cico:fzx cico:f2r cico:pjz cico:p5h cico:c04 cico:32z">
+                  <item xml:id="c2d1e5952"
+                        n="3233"
+                        corresp="cico:hgd cico:bgr cico:7zz cico:x2d cico:262 cico:hk5 cico:czw cico:r5k cico:xc1 cico:2wb cico:fzx cico:f2r cico:pjz cico:p5h cico:c04 cico:32z">
                      <label>3233.</label> GROPPO Antonio, Dissertazioni varie in materia d’antichità e di teatri, Venezia 1769, in 4.
 </item>
 
@@ -5880,7 +5936,7 @@ Con tre grandi e belle tavole in rame intagliate da Tommaso Piroli.
 mitologica degli antichi messicani di D. Antonio Leone e Gama, Roma 1804, in 8, fig.
 </item>
 
-                  <item xml:id="c2d1e6188" n="3268">
+                  <item xml:id="c2d1e6188" n="3268" corresp="cico:n81">
                      <label>3268.</label> MARQUEZ D. Pietro Giuseppe, Delle ville di Plinio il Giovine, Roma 1696, in 8.
 </item>
 
@@ -5932,7 +5988,7 @@ Dondi Orologio vescovo di Padova nel seminario, 1808, in 4, M. 78.
 nel Ferrarese, Venezia 1780, in 4, M. 30.
 </item>
 
-                  <item xml:id="c2d1e6257" n="3278">
+                  <item xml:id="c2d1e6257" n="3278" corresp="cico:n86">
                      <label>3278.</label> MOLISI di Nola Giovan Battista, Cronica della antichissima e nobilissima città di Crotone e della Magna Grecia,
 Napoli 1649, in 4 pic.
 </item>
@@ -6018,7 +6074,7 @@ Con una tavola intagliata in rame.
                      <label>3294.</label> OSII Theodati, De agriculturae et agrimensurae nobilitate, Mediolani 1639, in 8.
 </item>
 
-                  <item xml:id="c2d1e6370" n="3295">
+                  <item xml:id="c2d1e6370" n="3295" corresp="cico:f2p">
                      <label>3295.</label> Ovenabii Joannes Christianus, Dissertatio historica architectonica de Artemisia et Mausolo, Lipsiae 1714, in 8,
 fig., M. 57.
 </item>
@@ -6132,7 +6188,9 @@ Col ritratto in principio e due tavole in rame e una tavola coll’iscrizione.
 anni rationem attinentes, Patavii 1740, in 4.
 </item>
 
-                  <item xml:id="c2d1e6491" n="3313" corresp="cico:tvk cico:9g6 cico:wz2 cico:2p6 cico:tv9 cico:75m cico:nvh">
+                  <item xml:id="c2d1e6491"
+                        n="3313"
+                        corresp="cico:tvk cico:9g6 cico:wz2 cico:2p6 cico:tv9 cico:75m cico:nvh">
                      <label>3313.</label> PORTII Simonis, De rerum naturalium principiis, Neapoli 1561. <pb type="cico" n="124"/>
 — An homo bonus vel malus voleus fiat, disputatio, Florentiae 1551.
 — De humana mente disputatio, Florentiae 1551.
@@ -6179,12 +6237,12 @@ Gubbio l’anno 1781. Al sig. Anni <pb type="cico" n="125"/> bale degli Abati Ol
 Avvi un’aggiunta ed emenda intitolata all’ab. Lanzi e 5 tav. intagliate in rame.
 </item>
 
-                  <item xml:id="c2d1e6538" n="3319">
+                  <item xml:id="c2d1e6538" n="3319" corresp="cico:p88">
                      <label>3319.</label> RAPONI Ignatii, De quodam epigrammate graeco. Romae in hortis Coelimontanis extante, Velitris 1788, in 4, M.
 23.
 </item>
 
-                  <item xml:id="c2d1e6544" n="3320">
+                  <item xml:id="c2d1e6544" n="3320" corresp="cico:vrm">
                      <label>3320.</label> RAPPORTO della commissione di commercio al gran consiglio sopra il nuovo campione di misura lineare con
 annotazioni del cittadino Venturi rappresentante del popolo, Milano, dalla Tipografia Nazionale, anno VI, in 8.
 </item>
@@ -6222,7 +6280,7 @@ Libro di quasi mille pagine assai ben impresso con nitidez <pb type="cico" n="12
 immensa dottrina ed erudizione.
 </item>
 
-                  <item xml:id="c2d1e6589" n="3327">
+                  <item xml:id="c2d1e6589" n="3327" corresp="cico:5wd">
                      <label>3327.</label> SANTI Bartoli Pietro, Raccolta di varie antichità e lucerne antiche intagliate, Roma, in 4.
 Questa non è che una raccolta di 31 tavole, prodotta in altre diverse opere, riunite sotto questo frontespizio per
 speculazione libraria.
@@ -6368,7 +6426,7 @@ In questi primi due volumi stanno le dissertazioni del Gori, del Passeri relativ
 volume trovasi legalo colle miscellanee nel tomo 95.
 </item>
 
-                  <item xml:id="c2d1e6747" n="3350">
+                  <item xml:id="c2d1e6747" n="3350" corresp="cico:xvj">
                      <label>3350.</label> TANURSI Fran. M. patricii Ripani, Historiae patriae epitome et Joa. Garzonii ac Theodosii Quatrini de rebus
 Ripanis nunc primum edita. Omnia recensuit <pb type="cico" n="129"/> atque emendavit Cajetanus Fr. M. Tanursi filius, Romae
 1787, in 8, M. 58.
@@ -6460,7 +6518,11 @@ scoperte, discorso, Venezia 1766, in 4, fig., M. 11.</item>
 
                <fw type="foot"/>
             </div>
-            <div type="section" n="2.8" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.8"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <pb type="memofonte"/>
                <fw type="head"/>
                <pb type="cico" n="131"/>
@@ -6885,7 +6947,9 @@ illustrative oltre le indicate. Opera raccomandabile, ma che potrebbe essere rif
 <pb type="cico" n="141"/>
                   </item>
 
-                  <item xml:id="c2d1e7269" n="3417" corresp="cico:x2g cico:mcm cico:136 cico:fs4">
+                  <item xml:id="c2d1e7269"
+                        n="3417"
+                        corresp="cico:x2g cico:mcm cico:136 cico:fs4">
                      <label>3417.</label> MUSEUM Florentinum exhibens insigniora vetustatis monumenta quae Florentiae sunt Jo. Gastoni Etruriae Magno
 Duci dedicatum, Florentiae 1731, fig., vol. 10.
 Il nostro esemplare è distribuito come segue:
@@ -6949,7 +7013,7 @@ Musée Central des arts, des tableaux, statues, et bustes de la Galérie du Pala
 14 pet. vol. sous diverses dates, Paris, en 8.
 </item>
 
-                  <item xml:id="c2d1e7321" n="3424">
+                  <item xml:id="c2d1e7321" n="3424" corresp="cico:kk3">
                      <label>3424.</label> NOTICE des tableaux de la Galérie Royale à Munic, 1818, in 12.
 </item>
 
@@ -6987,7 +7051,7 @@ freschezza.
 8, M. 102.
 </item>
 
-                  <item xml:id="c2d1e7366" n="3431">
+                  <item xml:id="c2d1e7366" n="3431" corresp="cico:fcg">
                      <label>3431.</label> PATCH, Collezione delle teste di Masaccio. Vedi Masaccio tra le vite degli artisti.
 </item>
 
@@ -7048,7 +7112,7 @@ Esemplare magnifico in vitello dor. Sembra che ora per opera di artefici più ac
 lavori in miglior forma.
 </item>
 
-                  <item xml:id="c2d1e7423" n="3439">
+                  <item xml:id="c2d1e7423" n="3439" corresp="cico:x21">
                      <label>3439.</label> PITTURE di Antonio Allegri detto il Correggio. Descrizione d’una pittura di Antonio Allegri detto il Correggio, in
 16.
 Lo stampatore Bodoni pubblicò questo libretto in quel momento che distendevasi la grand’opera.
@@ -7340,7 +7404,11 @@ ma presso che tutte di un certo Fabbri e da posporsi a quelle pubblicate avanti 
                      <label>3473.</label> ZUCCARI Federico e Ottaviano, Palazzo di Caprarola. Vedi Prenner.</item>
                </list>
             </div>
-            <div type="section" n="2.9" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.9"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
   
                <head>OPERE DI SCULTURA
 D’OGNI GENERE ANTICHE E MODERNE ILLUSTRATE.</head>
@@ -7402,7 +7470,9 @@ Queste sette statue, dai migliori intagliatori in gran foglio con diligenza dise
 84.
 </item>
 
-                  <item xml:id="c2d1e7732" n="3480" corresp="cico:v57 cico:92r cico:705 cico:snz">
+                  <item xml:id="c2d1e7732"
+                        n="3480"
+                        corresp="cico:v57 cico:92r cico:705 cico:snz">
                      <label>3480.</label> BARZONI Vittorio, L’Ebe di Antonio Canova ordinata e posseduta dal c. Giuseppe Albrizzi, Venezia 1803, in 8,
 con varj sonetti intorno la stessa, M. 100.
 </item>
@@ -7438,7 +7508,7 @@ Opera eseguita con molta magnificenza ed esattezza: con 20 tavole ma 19 per esse
 vede netto il getto della statua, nel cominciare e nel finire del volume.
 </item>
 
-                  <item xml:id="c2d1e7771" n="3486">
+                  <item xml:id="c2d1e7771" n="3486" corresp="cico:5kh">
                      <label>3486.</label> BOUCHARDON Edmundo, Statua antiquae. Vedi Preisler.
 </item>
 
@@ -7494,7 +7564,9 @@ Questo insigne marmo fu fatto eseguire dalle Provincie Venete e da noi presentat
 all’Imperatrice di Austria.
 </item>
 
-                  <item xml:id="c2d1e7828" n="3494" corresp="cico:v27 cico:3kn cico:3gm cico:92s cico:nfx cico:zfj cico:cs8">
+                  <item xml:id="c2d1e7828"
+                        n="3494"
+                        corresp="cico:v27 cico:3kn cico:3gm cico:92s cico:nfx cico:zfj cico:cs8">
                      <label>3494.</label> CICOGNARA, Schleghel, Mustoxidi, Dandolo, Ciampi, Collezione d’opuscoli intorno ai cavalli di S. Marco: sono
 otto dissertazioni, In Venezia e in Firenze, in Padova e in Varsavia, M. 79.
 Nel 1815, mentre furono rimessi all’antica loro sede i quattro cavalli reduci da Parigi, noi pubblicammo una
@@ -7966,7 +8038,11 @@ colle rispettive illustrazioni contiene il secondo volume.</item>
                <pb type="cico" n="166"/>
                <fw type="foot"/>
             </div>
-            <div type="section" n="2.10" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.10"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <pb type="memofonte"/>
                <fw type="head"/>
 
@@ -8014,7 +8090,7 @@ pontificj.
 1515, Romae die 20 Octobris, in 4 parv., seconda edizione.
 </item>
 
-                  <item xml:id="c2d1e8378" n="3572">
+                  <item xml:id="c2d1e8378" n="3572" corresp="cico:pzn">
                      <label>3572.</label> ALDOVRANDI Ulisse, Le statue antiche ec. Vedi Mauro Lucio, Martinelli e Giovanni.
 </item>
 
@@ -8213,7 +8289,7 @@ Il librajo Molini riprodusse quest’opera in Parigi con questa 2 edizione non i
 più completa di quella. Tirata al numero di soli 100 esemplari.
 </item>
 
-                  <item xml:id="c2d1e8570" n="3599">
+                  <item xml:id="c2d1e8570" n="3599" corresp="cico:czn">
                      <label>3599.</label> BARTOLI Santi Pietro, Vedi fra i poeti all’articolo Virgiliani Codicis Fragmenta.
 </item>
 
@@ -8232,7 +8308,7 @@ BASILICAE veteris Vaticanae descriptio auctore romano ejusdem basilicae canonico
 Vedi de Angelis.
 </item>
 
-                  <item xml:id="c2d1e8591" n="3602">
+                  <item xml:id="c2d1e8591" n="3602" corresp="cico:0w6">
                      <label>3602.</label> BELLINO Gentile, Columna Theodosiana. Vedi Meneteri Claudii.
 </item>
 
@@ -8404,7 +8480,9 @@ le giuste critiche fatte da’ geografi a tutti gli sbagli corsi nell’opera de
 Volaterrano ec.
 </item>
 
-                  <item xml:id="c2d1e8744" n="3624" corresp="cico:68t cico:z2d cico:gck cico:hc8">
+                  <item xml:id="c2d1e8744"
+                        n="3624"
+                        corresp="cico:68t cico:z2d cico:gck cico:hc8">
                      <label>3624.</label> BLONDI Flavii, De Roma triumphante libri decem Brixiae 1503 per Angelum Brittannicum. Accedit: ejusdem de
 Roma instaurata lib. III. De gestis venetorum ad Franciscum Foscari ducem etc. et de Italia illustrata lib. VIII,
 Venetiis, 1510, per G. regnante Leonardo Lauretano duce.
@@ -8818,7 +8896,9 @@ In questa edizione le fabbriche intagliate in legno sono elegantemente eseguite,
 guida.
 </item>
 
-                  <item xml:id="c2d1e9173" n="3686" corresp="cico:h32 cico:rnt cico:fgb cico:pfx">
+                  <item xml:id="c2d1e9173"
+                        n="3686"
+                        corresp="cico:h32 cico:rnt cico:fgb cico:pfx">
                      <label>3686.</label> Le COSE meravigliose dell’alma città di Roma, Le stesse. Roma, presso Giovanni Martinelli, 1589, in 8.
 — Aggiunte: Le antichità di Roma di M. Andrea Palladio raccolte brevemente dagli autori antichi, e moderni ec.,
 Roma, per Vincenzo Accolti, 1589.
@@ -8870,7 +8950,7 @@ Opera assai ben fatta ed erudita per le antichità sacre di Roma con 6 tavole in
 Sonovi 29 tavole di romani edifici, e un frontespizio figurato colle relative illustrazioni.
 </item>
 
-                  <item xml:id="c2d1e9230" n="3694">
+                  <item xml:id="c2d1e9230" n="3694" corresp="cico:d2m">
                      <label>3694.</label> DAVIDE Lodovico pittore, Dichiarazione della pittura della cappella del Collegio Clementino in Roma, Roma
 1695, in 4, M. 37.
 </item>
@@ -9369,7 +9449,7 @@ Nella seconda di queste operette sono confutate molte opinioni intorno le antich
 esemplare in vit. dor.
 </item>
 
-                  <item xml:id="c2d1e9714" n="3763">
+                  <item xml:id="c2d1e9714" n="3763" corresp="cico:kgc">
                      <label>3763.</label> LIGORIO M. Pyrro, Pianta della villa Tiburtina di Adriano Cesare, italiano e latino, Roma 1751, fig., M. 82.
 Con due tavole in rame.
 <pb type="cico" n="198"/>
@@ -9564,7 +9644,7 @@ Con nuovi ritrovamenti di varie meccaniche divise in due parti. Roma 1696, in fo
 
                   </item>
 
-                  <item xml:id="c2d1e9927" n="3793">
+                  <item xml:id="c2d1e9927" n="3793" corresp="cico:jzd">
                      <label>3793.</label> MILIZIA Francesco, Roma delle belle arti del disegno, Bassano 1787, in 8.
 In altri luoghi in proposito di questo autore abbiamo fatto bastevoli osservazioni.
 </item>
@@ -9770,7 +9850,9 @@ di Roma, Roma 1677, in 16, M. 73.
 
                   </item>
 
-                  <item xml:id="c2d1e10052" n="3809" corresp="cico:109 cico:c5w cico:w5g cico:rnv">
+                  <item xml:id="c2d1e10052"
+                        n="3809"
+                        corresp="cico:109 cico:c5w cico:w5g cico:rnv">
                      <label>3809.</label> PALLADIO Andrea, Le antichità di Roma raccolte brevemente dagli autori antichi, e moderni, Venezia 1554, in 8.
 — Aggiuntovi il sommario di tutte le leggi, e parti ottenute nel Senato Veneto in materia di beni inculti, Venezia,
 per Giovanni Grifio, 1558, in 8.
@@ -10035,7 +10117,9 @@ rappresentante le nozze Aldobrandine. È da osservarsi però che le belle lucern
 prove sono di prima freschezza, non sono punto comprese in quelle pubblicate dal Bellori.
 </item>
 
-                  <item xml:id="c2d1e10329" n="3849" corresp="cico:qcb cico:s5h cico:139 cico:801 cico:bpj cico:d5c cico:4d0 cico:qrj">
+                  <item xml:id="c2d1e10329"
+                        n="3849"
+                        corresp="cico:qcb cico:s5h cico:139 cico:801 cico:bpj cico:d5c cico:4d0 cico:qrj">
                      <label>3849.</label> RACCOLTA di scrittori sulla cupola di S. Pietro, in 4.
 — Parere dei tre matematici le Sneur, Jacquier, e Boscovich, 1742 Roma. Serie di lettere, e viglietti, tra la
 Segreteria di Stato, e alcuni matematici, lettere di monsignor Bottari, e di Gabriello Manfredi, e di Giovanni
@@ -10206,7 +10290,9 @@ riprodotti da Michel Angelo Rossi, negli anni indicati: sonovi anche molte stamp
 migliori quelle di Roma moderna.
 </item>
 
-                  <item xml:id="c2d1e10472" n="3869" corresp="cico:28p cico:vfx cico:tvp cico:bcs cico:sjv cico:svj">
+                  <item xml:id="c2d1e10472"
+                        n="3869"
+                        corresp="cico:28p cico:vfx cico:tvp cico:bcs cico:sjv cico:svj">
                      <label>3869.</label> ROSSINI Pietro, Il Mercurio errante delle grandezze di Roma tanto antiche che moderne, diviso in due parti, o
 volumi, Roma 1789, vol. 2, in 12.
 Questo per molto tempo è stato giustamente riguardato come uno de’ libri meglio fatti per il forestiere, e
@@ -10311,7 +10397,7 @@ uno, Roma 1750 anno del Giubileo, in 8.
 Libro fatto con sterilità, e fallacia di cognizioni.
 </item>
 
-                  <item xml:id="c2d1e10583" n="3885">
+                  <item xml:id="c2d1e10583" n="3885" corresp="cico:b8c">
                      <label>3885.</label> SILOS Jo. Michaelis, Pinacotheca sive romana pictura et sculptura, libri duo, Roae 1673, in 12.
 In questo libretto sono citate e lodate in tanti epigrammi una quantità di pitture e sculture di Roma, tanto in
 luoghi pubblici che privati.
@@ -10548,7 +10634,9 @@ questa in gran foglio, da noi posseduta, non trovasi in commercio, ma ci venne r
 di Luigi XVIII.
 </item>
 
-                  <item xml:id="c2d1e10814" n="3918" corresp="cico:460 cico:snx cico:g2p cico:krr">
+                  <item xml:id="c2d1e10814"
+                        n="3918"
+                        corresp="cico:460 cico:snx cico:g2p cico:krr">
                      <label>3918.</label> ZACCARIAE Franc. Ant., Dissertationes in S. Flavii Clementis tumulum; in S. Marii et Alexandri epitaphiis; de S.
 Barbarae Nicomediensis cultu; de inventione S. Crucis, in 4, M. 30.
 </item>
@@ -10588,7 +10676,11 @@ Con una sola tavola in fine.
                      <label>3922</label> ZUZZERI, Lucae de Tuscolano M. T. Ciceronis nunc Grotta Ferrata etc. etc., Romae 1757, in 4. Vedi all’art. Cardoni.</item>
                </list>
             </div>
-            <div type="section" n="2.11" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.11"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <head>VEDUTE DI CITTÀ
 E DESCRIZIONI DI MONUMENTI, E ANTICHITÀ,
 TEMPLI, PALAZZI, ED ALTRI EDIFICI
@@ -10639,7 +10731,7 @@ Questo letterato laborioso ha il merito di aver raccolte molte memorie, e non pu
 profonda critica nell’illustrarle.
 </item>
 
-                  <item xml:id="c2d1e10916" n="3931">
+                  <item xml:id="c2d1e10916" n="3931" corresp="cico:rzm">
                      <label>3931.</label> AMADUTIO Jo. Christoph., Francisci Aligeri Dantis III filii Dialogus de antiquitatibus Valentinis ex cod. memb.
 saec. XVI nunc primum in lucem editus, Romae 1773, in 8, M. 61.
 </item>
@@ -10710,7 +10802,7 @@ Il testo è in francese, e in olandese. Vi sono i due ritratti di Giacomo Campen
 statuario. Le tavole intagliate con gusto pittoresco sono di Uberto Quellino. Opera grande, e pregevole.
 </item>
 
-                  <item xml:id="c2d1e10986" n="3941">
+                  <item xml:id="c2d1e10986" n="3941" corresp="cico:h8f">
                      <label>3941.</label> Le ARME ovvero le insegne di tutti i nobili della magnifica ed illustrissima città di Venezia che ora vivono,
 Venezia 1541, in 4.
 </item>
@@ -10912,7 +11004,9 @@ Si avverta che non manchi il bellissimo frontespizio figurato di Pickart, il rit
 geografiche in principio del I vol.: opera piena di cognizioni utili per le costumanze, e non comune in Italia.
 </item>
 
-                  <item xml:id="c2d1e11192" n="3970" corresp="cico:6zv cico:hjz cico:58m cico:bk3 cico:gvk cico:664 cico:hjx cico:p55 cico:r53 cico:s8c cico:rnk cico:x7s cico:gvm cico:5k7 cico:b5h cico:4kb cico:hvm">
+                  <item xml:id="c2d1e11192"
+                        n="3970"
+                        corresp="cico:6zv cico:hjz cico:58m cico:bk3 cico:gvk cico:664 cico:hjx cico:p55 cico:r53 cico:s8c cico:rnk cico:x7s cico:gvm cico:5k7 cico:b5h cico:4kb cico:hvm">
                      <label>3970.</label> BRY (Theodorus, Jo. Theodorus, Israel de) et Mattheus Merian, Collectiones peregrinationum in Indiam
 Orientalem et Indiam Occidentalem XXV partibus comprehensae, Francf. ad Moenum 1590 a 1634, in fol., fig.,
 rilegato in 4 vol., due in foglio maggiore, e due in minore.
@@ -11157,7 +11251,7 @@ Progetto vastissimo, ove incontrarebbesi alcune difficoltà, ma che potrebbe mig
 formarebbe il principale abbellimento di Parigi. Con 8 gran tavole in rame.
 </item>
 
-                  <item xml:id="c2d1e11426" n="4003">
+                  <item xml:id="c2d1e11426" n="4003" corresp="cico:50c">
                      <label>4003.</label> ECCLESIARUM Angliae et Galliae prospectus. Vues de toutes les cathédrales d’Angleterre et du Pais de Galles, des
 eglises de Westminster et de Sonthevell, et de la Chapelle Royale de S. George à Windsor, avec une relation
 historique etc., London, chez Jos. Smith, 1719, in fol. gr., fig.
@@ -11205,7 +11299,7 @@ Contiene questo libro una quantità di piante, di prospetti di reali edifici di 
 in 32 grandi tavole senza illustrazioni.
 </item>
 
-                  <item xml:id="c2d1e11471" n="4010">
+                  <item xml:id="c2d1e11471" n="4010" corresp="cico:r5q">
                      <label>4010.</label> FERDINANDI Principis Paderbonensis. Vedi Monumenta Paderbonensia.
 </item>
 
@@ -11548,7 +11642,9 @@ foglio) un tesoro di erudizione che mette più in evidenza l’autore che le cos
                      <label>4057.</label> N. N., Notizie istoriche dell’antica, e presente magnifica cattedrale d’Orvieto, Roma 1781, in 4 piccolo.
 </item>
 
-                  <item xml:id="c2d1e11813" n="4058" corresp="cico:26b cico:86b cico:0wf cico:jw0">
+                  <item xml:id="c2d1e11813"
+                        n="4058"
+                        corresp="cico:26b cico:86b cico:0wf cico:jw0">
                      <label>4058.</label> PANCIROLI Guidi, (Sebbene annunciato col frontespizio seguente), Notizia utraque tum Orientis tum Occidentis
 ultra Arcadii, Honoriique Caesarum tempora, illustre vetustatis monumentum, imo thesaurus prorsum
 imcomparabilis. Praecedit D. Andreae Alciati libellus: De magistratibus, civilibusque ac militaribus officiis.
@@ -12069,7 +12165,11 @@ potrebbe servire di esempio, specialmente per il testo a molte illustrazioni che
 
                <fw type="foot"/>
             </div>
-            <div type="section" n="2.12" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.12"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <pb type="memofonte"/>
                <fw type="head"/>
                <pb type="cico" n="260"/>
@@ -12249,7 +12349,7 @@ Pochissimo noto è in Italia questo viaggio pubblicato con 40 tavole in rame, no
 stampate fra il testo. Vi sono al solito molti errori, ma anche molta semplicità, e poche sinistre prevenzioni.
 </item>
 
-                  <item xml:id="c2d1e12500" n="4154">
+                  <item xml:id="c2d1e12500" n="4154" corresp="cico:wp1">
                      <label>4154.</label> W. L., The painters voyage of Italy, London 1679, in 8. Nel quale si parla delle pitture e sculture delle principali
 città d’Italia tanto nei luoghi pubblici che privati, e singolarmente del Museo Setalla in Milano.
 Scritto originalmente in italiano da Giacomo Barri pittor veneziano, e tradotto in inglese.
@@ -12261,7 +12361,11 @@ Le figure di pessimo intaglio sono sparse fra il testo dell’opera eruditissima
 1762.</item>
                </list>
             </div>
-            <div type="section" n="2.13" part="N" org="uniform" sample="complete">
+            <div type="section"
+                 n="2.13"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
                <head>GUIDE</head>
                <div part="N" org="uniform" sample="complete">
                   <head>AMSTERDAM</head>
@@ -12356,7 +12460,7 @@ d’observations sur la connoissance et le commerce des tableaux, Berlin 1804, i
                   <head>BOLOGNA</head>
                   <list type="catalog">
 
-                     <item xml:id="c2d1e12664" n="4168">
+                     <item xml:id="c2d1e12664" n="4168" corresp="cico:mnz">
                         <label>4168.</label> Della CHIESA del S. Sepolcro riputata l’antico Battisterio di Bologna, e in generale dei Battisteri. Discorso
 dedicato a Gesù Cristo, e al suo amico e battezzatore Giovanni, Bologna 1772, in 8, M. 50, con una tavola della
 pianta.
@@ -12368,7 +12472,7 @@ in che direzione l’autore abbia rivolte le sue ricerche.
                         <label>4169.</label> CRESPI canonico Luigi, La Certosa di Bologna descritta nelle sue pitture, Bologna 1772, in 4 pic.
 </item>
 
-                     <item xml:id="c2d1e12676" n="4170">
+                     <item xml:id="c2d1e12676" n="4170" corresp="cico:9p1">
                         <label>4170.</label> CROCE M. Giulio Cesare, Descrizione del nobil palazzo posto nella contà di Bologna detto Tuscolano, Bologna
 1582, in 8, M. 51.
 </item>
@@ -12470,7 +12574,9 @@ private gallerie, Brescia 1760, in 8.
                   <head>CENEDA</head>
                   <list type="catalog">
 
-                     <item xml:id="c2d1e12802" n="4186" corresp="cico:7gk cico:nrt cico:vzg cico:606 cico:z8h">
+                     <item xml:id="c2d1e12802"
+                           n="4186"
+                           corresp="cico:7gk cico:nrt cico:vzg cico:606 cico:z8h">
                         <label>4186.</label> GRAZIANI Giorgio, La vera descrizione della città di Ceneda coll’orazione in lode di Venezia.
 — Aggiuntivi: Altri discorsi, e poesie dello stesso, Trevigi 1621, in 12.</item>
                   </list>
@@ -12710,7 +12816,7 @@ Opera scritta con molta accuratezza, con qualche tavola, ma di poca importanza.<
                   <head>FORLÌ</head>
                   <list type="catalog">
 
-                     <item xml:id="c2d1e13133" n="4221">
+                     <item xml:id="c2d1e13133" n="4221" corresp="cico:gc5">
                         <label>4221.</label> BEZZI Giuliano, Il fuoco trionfante: racconto della traslazione della Madonna del Fuoco di Forlì, solennizzato nel
 1636, stampato in detta città nel 1637, in 4, fig.</item>
                   </list>
@@ -13146,7 +13252,7 @@ tavola degli scrittori del T. V. del P. Le Long al nome Dubois.
 du Luxembourg, Paris 1818, in 8.
 </item>
 
-                     <item xml:id="c2d1e13710" n="4286">
+                     <item xml:id="c2d1e13710" n="4286" corresp="cico:wjk">
                         <label>4286.</label> FELIBIEN, Recueil des déscriptions des peintures et autres ouvrages faites pour le Roy, Paris 1682, in 12, fig.
 Libretto elegantissimo in mar. dor. ove sono due bei ritratti del re, e della regina. Contiene le descrizioni delle 8
 tappezzerie di le Brun, dell’Arco alla piazza del Delfino, della famiglia di Dario dipinta per gabinetto reale, la
@@ -13289,7 +13395,9 @@ Toscana, Bologna 1772, in 8.</item>
                   <head>PISA</head>
                   <list type="catalog">
 
-                     <item xml:id="c2d1e13909" n="4308" corresp="cico:8kg cico:hk7 cico:g5x cico:np1 cico:7pd cico:d5v cico:s2n">
+                     <item xml:id="c2d1e13909"
+                           n="4308"
+                           corresp="cico:8kg cico:hk7 cico:g5x cico:np1 cico:7pd cico:d5v cico:s2n">
                         <label>4308.</label> CIAMPI Sebastiano e altri, Diatribe letterarie sulla Pisa illustrata. Cominciasi colle osservazioni sopra l’opera del
 Morrona che ha per titolo la Pisa illustrata, Pisa 1812, in 8, fig., M. 34, con quattro tavole in rame. <pb type="cico" n="282"/>
 CIAMPI, Appendice alle osservazioni sull’opera del Morrona, Pisa 1812.
@@ -13714,7 +13822,7 @@ Professa l’autore d’essersi servito delle migliori guide come lo Stringa, il
 Boschini. L’opera non è in fatti spregevole.
 </item>
 
-                     <item xml:id="c2d1e14487" n="4371">
+                     <item xml:id="c2d1e14487" n="4371" corresp="cico:9zq">
                         <label>4371.</label> MEMORIE intorno l’antichissima Scuola della Madonna de’ Mascoli, eretta nella ducale basilica di S. Marco,
 Venezia 1778, in 8.
 </item>
@@ -14705,7 +14813,7 @@ coi prezzi.
 bronzes etc. du Cabinet de M. de Vendreuil, Paris 1787, in 8.
 </item>
 
-                     <item xml:id="c2d1e15939" n="4532">
+                     <item xml:id="c2d1e15939" n="4532" corresp="cico:m2n">
                         <label>4532.</label> Le BRUN, Catalogue des tableaux capiteaux, et objets rares et curieux du Cabinet de M. le Chev. Lambert, et de
 <fw type="foot"/>
                         <pb type="memofonte"/>
@@ -15531,7 +15639,7 @@ ricercate edizioni, Venezia 1816, in 4.
                      <label>4660.</label> MURR (de) Cristoph. Teoph., Bibliothéque de peintures, sculptures, et grâvures, Francfort 1770, vol. 2, in 8.
 </item>
 
-                  <item xml:id="c2d1e17035" n="4661">
+                  <item xml:id="c2d1e17035" n="4661" corresp="cico:vvp">
                      <label>4661.</label> OPICELLO Jacobi Philippi, Monumenta Bibliothecae Ambrosianae, Mediolani 1618, in 8.
 </item>
 
@@ -15876,7 +15984,7 @@ greci conosciuta con una gran tavola in foglio, che rappresenta una pagode cines
 Sonovi poche tavole in rame mediocri, e sparse fra il testo del volume.
 </item>
 
-                  <item xml:id="c2d1e17421" n="4716">
+                  <item xml:id="c2d1e17421" n="4716" corresp="cico:6kg">
                      <label>4716.</label> IKENIO Conrado, Antiquitates Hebraicae secundum triplicem Judaeorum statum, ecclesiasticum, politicum, et
 oeconomicum, Bremae 1764, in 8.
 </item>
@@ -16256,7 +16364,7 @@ mezzo d’un oratore le memorie d’uno degli antichi artisti della sua scuola, 
 dell’eloquenza in tante inutili ripetizioni di cose dette e ridette.
 </item>
 
-                  <item xml:id="c2d1e17845" n="4776">
+                  <item xml:id="c2d1e17845" n="4776" corresp="cico:c5h">
                      <label>4776.</label> DISCORSO letto nella grande aula dell’I. R. Palazzo delle Scienze ed Arti in occasione della distribuzione de’
 premj nell’I. R. Accademia delle Belle Arti l’anno 1820, in Milano, in 8.
 Questo è un discorso teorico del signor Fumagalli segretario di quell’Accademia.

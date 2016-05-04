@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="schemas/cicognara.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/cicognara.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -353,7 +355,11 @@
       </front>
     
       <body>
-         <div type="section" n="1.1" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.1"
+              part="N"
+              org="uniform"
+              sample="complete">
 	           <pb type="cico" n="1"/>
 	           <head>Delle belle arti in generale</head>
 	           <list type="catalog">
@@ -491,7 +497,7 @@
 	  monumenti in ogni genere che trovansi in Baviera.</note>
                </item>
 	  
-	              <item xml:id="c1d1e666" n="10">
+	              <item xml:id="c1d1e666" n="10" corresp="cico:rbz">
                   <label>10.</label> 
                   <bibl default="false" status="draft">
                      <author>BIANCHI Isidoro,</author> 
@@ -600,7 +606,9 @@
 	                 <note anchored="true">Negli ultimi due volumi si tratta delle belle arti colla stessa rapidità e brevità che si discorre d’ogni altra materia.</note>
                </item>
 	  
-	              <item xml:id="c1d1e897" n="18" corresp="cico:mc0 cico:7rz cico:8zr cico:1kg cico:qg0">
+	              <item xml:id="c1d1e897"
+                     n="18"
+                     corresp="cico:mc0 cico:7rz cico:8zr cico:1kg cico:qg0">
                   <label>18.</label> 
                   <bibl default="false" status="draft">
                      <author>CICOGNARA Leopoldo,</author>
@@ -1247,7 +1255,7 @@
 	                 <note anchored="true">Il prodromo di quest’opera esce stampato nello stesso luogo nel 1791.</note>
                </item>
 	  
-	              <item xml:id="c1d1e2194" n="64">
+	              <item xml:id="c1d1e2194" n="64" corresp="cico:0p9">
                   <label>64.</label> 
                   <bibl default="false" status="draft">
                      <author>ZANI D. Pietro,</author>
@@ -1276,7 +1284,11 @@
 	
 	           <fw type="foot"/>
          </div>
-         <div type="section" n="1.2" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.2"
+              part="N"
+              org="uniform"
+              sample="complete">
 	           <pb type="memofonte"/>
 	           <fw type="head"/>
 	           <head>Della Pittura Trattati</head>
@@ -2232,7 +2244,7 @@
 	                 <note anchored="true">Operetta scritta con molto giudizio eccellente per le pratiche che insegna.</note>	  
 	              </item>
 
-	              <item xml:id="c1d1e4124" n="133">
+	              <item xml:id="c1d1e4124" n="133" corresp="cico:4cn">
                   <label>133.</label> 
                   <bibl default="false" status="draft">
                      <author>GEORGII Joannis,</author>
@@ -2813,7 +2825,9 @@
 	  edizione.</note>	  
 	              </item>
 
-	              <item xml:id="c1d1e5291" n="175" corresp="cico:55m cico:fvn cico:v23 cico:m55">
+	              <item xml:id="c1d1e5291"
+                     n="175"
+                     corresp="cico:55m cico:fvn cico:v23 cico:m55">
                   <label>175.</label> 
                   <bibl default="false" status="draft">
                      <title>OSSERVAZIONI intorno al discorso della cera punica de sig. cavalier Lorgna umiliate a S. E. il
@@ -2908,7 +2922,9 @@
 	  Dialogue sur le coloris, Paris, chez Langlais, 1699.</note>
 	  
 	              </item>
-	              <item xml:id="c1d1e5501" n="181" corresp="cico:s25 cico:pjq cico:fzh cico:sbv cico:7vv">
+	              <item xml:id="c1d1e5501"
+                     n="181"
+                     corresp="cico:s25 cico:pjq cico:fzh cico:sbv cico:7vv">
                   <label>181.</label> 
                   <ref xml:id="Piles">PILES (de)</ref>,
 	  	<list type="multivolume">
@@ -3871,7 +3887,11 @@
 	           </list>
 	           <fw type="foot"/>
          </div>
-         <div type="section" n="1.3" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.3"
+              part="N"
+              org="uniform"
+              sample="complete">
 	           <pb type="memofonte"/>
 	           <fw type="head"/>
 	
@@ -3891,7 +3911,7 @@
 	  Marucelli, fondatore e datore del suo nome alla biblioteca.</note>	  
 	              </item>
 
-	              <item xml:id="c1d1e7497" n="249">
+	              <item xml:id="c1d1e7497" n="249" corresp="cico:trp">
                   <label>249.</label> 
                   <bibl default="false" status="draft">
                      <author>BENINCASA Bartolommeo,</author> 
@@ -4227,7 +4247,11 @@
       
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.4" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.4"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
       
@@ -4345,7 +4369,7 @@
 	anni precedeva il Vasari.</note>
 	                 </bibl>
 	              </item>
-	              <item xml:id="c1d1e8372" n="280">
+	              <item xml:id="c1d1e8372" n="280" corresp="cico:x57">
                   <label>280.</label>
                   <bibl default="false" status="draft">GIULIANELLI Andrea Pietro, Memorie degl’intagliatori moderni in pietre dure, camei e gioie.
 	Vedi nella numismatica.</bibl>
@@ -4449,7 +4473,11 @@
       
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.5" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.5"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
       
@@ -4977,7 +5005,9 @@
 	di quest’opera, notandosi che le prime 36 sono tirate doppie cioè due lamine per pagina. Opera mediocre.
 	</note>
 	              </item>
-	              <item xml:id="c1d1e9673" n="328" corresp="cico:knp cico:8rz cico:85n cico:k2c cico:15v cico:k56 cico:zr6 cico:dvq cico:72r cico:1ck cico:k57 cico:crt">
+	              <item xml:id="c1d1e9673"
+                     n="328"
+                     corresp="cico:knp cico:8rz cico:85n cico:k2c cico:15v cico:k56 cico:zr6 cico:dvq cico:72r cico:1ck cico:k57 cico:crt">
                   <label>328.</label>
                   <bibl default="false" status="draft">
                      <author>HOUET J. B.</author> peintre du roi, <title>Fragments et principes de dessein, differens cahiers, en tout 77
@@ -5403,7 +5433,7 @@
 	                 <note anchored="true">Queste non sono che 18 teste intagliate da Tassaert in foglio, e tratte dai migliori artisti. M. 81.
 	</note>
 	              </item>
-	              <item xml:id="c1d1e10500" n="357">
+	              <item xml:id="c1d1e10500" n="357" corresp="cico:hc2">
                   <label>357.</label>
                   <bibl default="false" status="draft">
                      <author> SCHEINER Cristophori,</author>
@@ -5462,7 +5492,7 @@
 	disegno di Testelin.</note>
 	
 	              </item>
-	              <item xml:id="c1d1e10607" n="361">
+	              <item xml:id="c1d1e10607" n="361" corresp="cico:sg7">
                   <label>361.</label> 
                   <bibl default="false" status="draft">
                      <author>TORTEBAT,</author>
@@ -5587,7 +5617,11 @@
             </list>
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.6" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.6"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
       
@@ -6085,7 +6119,7 @@
                   </bibl>
 	
 	              </item>
-	              <item xml:id="c1d1e11755" n="402">
+	              <item xml:id="c1d1e11755" n="402" corresp="cico:sbs">
                   <label>402.</label>
                   <bibl default="false" status="draft">
                      <title> ARCHITETTURA secondo i principii di Vitruvio, di Barozzi, di Blumer ec., tedesco</title>
@@ -6178,7 +6212,9 @@
                   <bibl default="false" status="draft">
                      <author>BALDO Bernardino,</author> Altro esemplare dello stesso, che apparteneva al Tuano, leg. mar. dor.</bibl>
 	              </item> 
-               <item xml:id="c1d1e11944" n="411" corresp="cico:snj cico:mfw cico:wv5 cico:rbw cico:88f">
+               <item xml:id="c1d1e11944"
+                     n="411"
+                     corresp="cico:snj cico:mfw cico:wv5 cico:rbw cico:88f">
                   <label>411.</label>
                   <bibl default="false" status="draft">
                      <author> BIRBET J.,</author> 
@@ -6573,7 +6609,7 @@
                   </bibl>
 	
 	              </item>
-	              <item xml:id="c1d1e12729" n="438">
+	              <item xml:id="c1d1e12729" n="438" corresp="cico:wbs">
                   <label>438.</label>
                   <bibl default="false" status="draft">
                      <author> BLONDEL François,</author>
@@ -7206,7 +7242,9 @@
 	l’opera è annunciata anonima, ma trovasi segnato sotto alcune delle stampe.</note>
 	
 	              </item>
-	              <item xml:id="c1d1e14017" n="483" corresp="cico:dvp cico:7ck cico:42t cico:zz3 cico:9nz">
+	              <item xml:id="c1d1e14017"
+                     n="483"
+                     corresp="cico:dvp cico:7ck cico:42t cico:zz3 cico:9nz">
                   <label>483.</label>
                   <bibl default="false" status="draft">
                      <author> CRISTIANI Gir. Franc.,</author>
@@ -7390,7 +7428,9 @@
                   </bibl>
 	
 	              </item>
-	              <item xml:id="c1d1e14390" n="495" corresp="cico:7cg cico:g86 cico:5zt cico:65n">
+	              <item xml:id="c1d1e14390"
+                     n="495"
+                     corresp="cico:7cg cico:g86 cico:5zt cico:65n">
                   <label>495.</label> 
                   <bibl default="false" status="draft">
                      <author>DURERI</author> 
@@ -7616,7 +7656,7 @@
 	impiegarono le tavole originali della prima più antica edizione e non mutilarono, altri accrebbero anche il testo.</note>
 	
 	              </item>
-	              <item xml:id="c1d1e14821" n="511">
+	              <item xml:id="c1d1e14821" n="511" corresp="cico:50j">
                   <label>511.</label>
                   <bibl default="false" status="draft"> 
                      <author>FRONTINI Sesti Julii,</author> 
@@ -8453,7 +8493,9 @@
 	figure prese da Rafaello pubblicate da Mariette; in tutto dugento [...].</note>
 	
 	              </item>
-	              <item xml:id="c1d1e16444" n="569" corresp="cico:p2r cico:6k6 cico:c5d cico:fvq">
+	              <item xml:id="c1d1e16444"
+                     n="569"
+                     corresp="cico:p2r cico:6k6 cico:c5d cico:fvq">
                   <label>569.</label>
                   <bibl default="false" status="draft"> 
                      <author>MITELLI Agostino,</author> 
@@ -8478,7 +8520,9 @@
 	bolognese con in fine 22 vedute prospettiche antiche ripubblicate nel 1647 da Giovan
 	Giacomo de’ Rossi. 
 	</item>
-	              <item xml:id="c1d1e16469" n="570" corresp="cico:12v cico:9rw cico:gc4 cico:dc5">
+	              <item xml:id="c1d1e16469"
+                     n="570"
+                     corresp="cico:12v cico:9rw cico:gc4 cico:dc5">
                   <label>570.</label>
                   <bibl default="false" status="draft"> 
                      <author>MONTANO Giovan Battista</author> milanese, <title>Libro d’architettura con diversi ornamenti cavati
@@ -9347,7 +9391,7 @@
                      <extent>in fol. pic.</extent>
                   </bibl>
 	              </item>
-	              <item xml:id="c1d1e18122" n="626">
+	              <item xml:id="c1d1e18122" n="626" corresp="cico:65p">
                   <label>626.</label>
                   <bibl default="false" status="draft"> 
                      <author>QUENOT F.</author> sculpteur et architecte, <title>Livre d’architecture, où il enseigne la facilité de
@@ -9911,7 +9955,9 @@
 	mentre è la seconda.</note>
 	
 	              </item>
-	              <item xml:id="c1d1e19200" n="664" corresp="cico:jzv cico:7gp cico:qg9 cico:mzt">
+	              <item xml:id="c1d1e19200"
+                     n="664"
+                     corresp="cico:jzv cico:7gp cico:qg9 cico:mzt">
                   <label>664.</label>
                   <bibl default="false" status="draft"> 
                      <author>SERLIO Sebastiano,</author> 
@@ -9945,7 +9991,9 @@
 	
 	              </item>
 	
-	              <item xml:id="c1d1e19254" n="666" corresp="cico:f5f cico:zrp cico:668 cico:ccn cico:8pq">
+	              <item xml:id="c1d1e19254"
+                     n="666"
+                     corresp="cico:f5f cico:zrp cico:668 cico:ccn cico:8pq">
                   <label>666.</label>
                   <bibl default="false" status="draft"> 
                      <author>SERLIO,</author> 
@@ -9961,7 +10009,9 @@
 	Questi quattro libri sono legati assieme.
 	
 	</item>
-	              <item xml:id="c1d1e19278" n="667" corresp="cico:vvw cico:ggh cico:9ph cico:s5k cico:d8t">
+	              <item xml:id="c1d1e19278"
+                     n="667"
+                     corresp="cico:vvw cico:ggh cico:9ph cico:s5k cico:d8t">
                   <label>667.</label>
                   <bibl default="false" status="draft"> 
                      <author>SERLIO,</author> 
@@ -10782,7 +10832,9 @@
 	proporzioni con cui sono figurati.
 	
 	</item>
-	              <item xml:id="c1d1e20128" n="746" corresp="cico:b02 cico:gs3 cico:8gm cico:ng1">
+	              <item xml:id="c1d1e20128"
+                     n="746"
+                     corresp="cico:b02 cico:gs3 cico:8gm cico:ng1">
                   <label>746.</label> VEDREMAN Joannes, Architecture traduite du bas allemand en français par Kemp, Anversae
 	1677.
 	Questo esemplare apparteneva all’architetto Scamozzi ed è composto come segue: il frontespizio è figurato e
@@ -10811,7 +10863,11 @@
 	aemulationem, Vitembergae 1732, in 4, M. 45.</item>
             </list>
          </div>
-         <div type="section" n="1.7" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.7"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Architettura teatrale moderna</head>
             <list type="catalog">
 	              <item xml:id="c1d1e20161" n="749">
@@ -11063,7 +11119,11 @@
       
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.8" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.8"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
       
@@ -11071,7 +11131,9 @@
       
             <head>Architettura teatrale antica</head>
             <list type="catalog">
-	              <item xml:id="c1d1e20415" n="784" corresp="cico:trw cico:g2w cico:26c cico:fkf cico:7gr">
+	              <item xml:id="c1d1e20415"
+                     n="784"
+                     corresp="cico:trw cico:g2w cico:26c cico:fkf cico:7gr">
                   <label>784.</label> DEL BENE Benedetto, Osservazioni sopra l’origine ultimamente attribuita all’anfiteatro di
 	Verona, Verona 1786, in 8.
 	— Aggiunta: Lettera ad un amico, ossia scritto polemico in risposta alle dette osservazioni: del
@@ -11109,7 +11171,9 @@
 	Quest’opera è anche stampata nelle antichità italiche di questo autore con 15 tavole intagliate in rame.
 	
 	</item>
-	              <item xml:id="c1d1e20454" n="790" corresp="cico:064 cico:6sj cico:d01 cico:4pt cico:093">
+	              <item xml:id="c1d1e20454"
+                     n="790"
+                     corresp="cico:064 cico:6sj cico:d01 cico:4pt cico:093">
                   <label>790.</label> FEA Carlo, Osservazioni sull’arena e sul podio dell’anfiteatro Flavio, discusse contro quelle del
 	Sig. Pietro Bianchi e del Sig. Lorenzo de Romano, Roma 1713, parti due.
 	— Aggiuntevi: Le iscrizioni di monumenti pubblici trovate nelle attuali escavazioni dei
@@ -11121,7 +11185,9 @@
 	somigliante.
 	
 	</item>
-	              <item xml:id="c1d1e20460" n="791" corresp="cico:f2w cico:1pp cico:m2r cico:765">
+	              <item xml:id="c1d1e20460"
+                     n="791"
+                     corresp="cico:f2w cico:1pp cico:m2r cico:765">
                   <label>791.</label> LIPSII Justi, De amphitheatro liber in quo forma ipsa loci expressa et ratio spectandi. Cum
 	aeneis figuris, Ant. Plant. 1699, in 4, fig.
 	— Aggiuntovi de amphitheatris quae extra Romam. Libellus in quo formae eorum aliquot et typi
@@ -11197,7 +11263,11 @@
       
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.9" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.9"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
       
@@ -11246,13 +11316,15 @@
 	
 	<pb type="cico" n="150"/>
 	              </item>
-	              <item xml:id="c1d1e20585" n="807">
+	              <item xml:id="c1d1e20585" n="807" corresp="cico:4cf">
                   <label>807.</label> L’ART de dessiner proprément les plans, profils, élévations géometrales et perspectives, soit
 	d’architecture militaire, ou civile, Paris 1697, in 12, fig.
 	Questo libretto contiene una spiegazione alfabetica dei termini d’architettura.
 	
 	</item>
-	              <item xml:id="c1d1e20591" n="808" corresp="cico:np5 cico:pvp cico:s5n cico:pg3">
+	              <item xml:id="c1d1e20591"
+                     n="808"
+                     corresp="cico:np5 cico:pvp cico:s5n cico:pg3">
                   <label>808.</label> BACONS Rogerii, Prospettiva nunc primum edita opera et studio Joann. Conibachii: addita
 	Specula Mathematica, Francofurtt 1614, in 4.
 	Opera che è unicamente relativa alle scienze e non applica ed alleaArti. A questo è aggiunto: Opus
@@ -11464,7 +11536,9 @@
 	Con 9 grandi tavole in rame. Opera utile per le pratiche non tanto dei piani militari, che dell’agrimensura.
 	
 	</item>
-	              <item xml:id="c1d1e20779" n="835" corresp="cico:5cr cico:8pr cico:pp7 cico:56c">
+	              <item xml:id="c1d1e20779"
+                     n="835"
+                     corresp="cico:5cr cico:8pr cico:pp7 cico:56c">
                   <label>835.</label> EUCLIDE, La prospettiva, tradotta dal P. Egnazio Danti. Aggiuntavi la prospettiva di Eliodoro
 	Larisseo Greco e Latino, Firenze, pei Giunti, 1573, in 4, picc. fig.; in fine: Aggiunte le
 	annotazioni al trattato dell’astrolabio e del planisfero universale del P. Danti fatte da Gherardo
@@ -11857,7 +11931,11 @@
     
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.10" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.10"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
     
@@ -12015,7 +12093,7 @@
       legno.
       
       </item>
-               <item xml:id="c1d1e21235" n="897">
+               <item xml:id="c1d1e21235" n="897" corresp="cico:f8s">
                   <label>897.</label> CHIMNEYS, A pratical treatise on Chimneys containing full directions for preventing or
       removing smocke in houses illustrated with copper plates, Edimburgh 1776, in 8.
       </item>
@@ -12032,7 +12110,7 @@
       dedica.
       
       </item>
-               <item xml:id="c1d1e21254" n="900">
+               <item xml:id="c1d1e21254" n="900" corresp="cico:006">
                   <label>900.</label> COLLESCHI Francesco, Dissertazione sulle poste degli antichi, Firenze 1746, in 8.
       </item>
                <item xml:id="c1d1e21260" n="901" corresp="cico:z58">
@@ -12112,7 +12190,7 @@
                   <label>914.</label> De la FAYE, Mémoire pour servir de suite aux recherches sur la préparation que les Romains
       donnoient à la chaux, Paris 1778, en 8.
       </item>
-               <item xml:id="c1d1e21350" n="915">
+               <item xml:id="c1d1e21350" n="915" corresp="cico:b00">
                   <label>915.</label> FONTANA cav. Carlo, Utilissimo trattato dell’acque correnti: diviso in 3 libri, Roma 1696, in
       fol. fig.
       Rendesi conto di ogni giuoco ed esperienza, che col mezza dell’aria e del fuoco vien operata dall’acqua: e sono
@@ -12200,7 +12278,9 @@
       
       <pb type="cico" n="171"/>
                </item>
-               <item xml:id="c1d1e21439" n="928" corresp="cico:3w1 cico:5kn cico:b8s cico:svt">
+               <item xml:id="c1d1e21439"
+                     n="928"
+                     corresp="cico:3w1 cico:5kn cico:b8s cico:svt">
                   <label>928.</label> HERRONE, Gli artificiosi e curiosi moti spiritali, tradotti da Giovan Battista Aleotti d’Argenta,
       Ferrara 1589, in 4, pic. fig.
       Con frontespizio figurato e tavole in legno fra il testo; edizione non comune.
@@ -12320,7 +12400,7 @@
       Con 5 tavole in rame.
       
       </item>
-               <item xml:id="c1d1e21572" n="947">
+               <item xml:id="c1d1e21572" n="947" corresp="cico:55s">
                   <label>947.</label> PERINI Lodovico, Geometria pratica per misurar terre, acque, fiumi, pietre, grani, fabbriche, ed
       altro.
       </item>
@@ -12440,7 +12520,9 @@
                   <label>964.</label> TOFFOLI Bartolomeo di Cadore, Saggio di una nuova forma di camini che non fumano, Padova
       1790, in 8, fig., M. 87.
       </item>
-               <item xml:id="c1d1e21697" n="965" corresp="cico:5h1 cico:pcp cico:rvv cico:dw1">
+               <item xml:id="c1d1e21697"
+                     n="965"
+                     corresp="cico:5h1 cico:pcp cico:rvv cico:dw1">
                   <label>965.</label> TORO J. B., Trophée nouvellement inventé, suivi d’un livre des chartouches, et supports
       d’ornements pour les armories grave par Guerard: à la fin on y trouve l’elevation d’une
       buffets d’orgues dains les principales eglises de France, in fol. fig.
@@ -12490,7 +12572,11 @@
             </list>
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.11" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.11"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
     
@@ -12598,7 +12684,9 @@
       sig. Cav. Alvise Mocenigo colla sig. Polissena Contarini: con frontespizio figurato. Esemplare in carta grande.
       
       </item>
-               <item xml:id="c1d1e21869" n="989" corresp="cico:30g cico:wcf cico:30h cico:fwb cico:m8m cico:03c">
+               <item xml:id="c1d1e21869"
+                     n="989"
+                     corresp="cico:30g cico:wcf cico:30h cico:fwb cico:m8m cico:03c">
                   <label>989.</label> HAYLEY William, An essay on painting in two Epistles to MR Romney, Londra 1781, in 4.
       — Epistle to a friend on the death of John Thorn ton by the autor of an epistle to an eminent
       painter, Lond. 1783.
@@ -12655,7 +12743,7 @@
       d’heure, Paris 1736. Libretto pieno di facezie.
       
       </item>
-               <item xml:id="c1d1e21926" n="997">
+               <item xml:id="c1d1e21926" n="997" corresp="cico:v2p">
                   <label>997.</label> PRECIADO D. Francisco, Vedi Arcadia Pittorica.
       </item>
                <item xml:id="c1d1e21932" n="998" corresp="cico:p8g">
@@ -12852,7 +12940,7 @@
       d’immense preziosità di ogni genere.
       
       </item>
-               <item xml:id="c1d1e22143" n="1028">
+               <item xml:id="c1d1e22143" n="1028" corresp="cico:j8c">
                   <label>1028.</label> MISSIRINI M., Monumenti di scultura e architettura, sonetti, Roma 1818, in 12.
       </item>
                <item xml:id="c1d1e22149" n="1029" corresp="cico:95g">
@@ -12962,7 +13050,11 @@
       medesimo, assai trascurate.</item>
             </list>
          </div>
-         <div type="section" n="1.12" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.12"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Scrittori del bello</head>
             <list type="catalog">
                <item xml:id="c1d1e22266" n="1045" corresp="cico:src">
@@ -13165,7 +13257,11 @@
       in 8, M. 102.</item>
             </list>
          </div>
-         <div type="section" n="1.13" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.13"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Poemi, drammi e autori classici figurati</head>
             <list type="catalog">
                <item xml:id="c1d1e22492" n="1077" corresp="cico:4s4">
@@ -13562,7 +13658,11 @@
   
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.14" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.14"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
   
@@ -13720,7 +13820,11 @@
   non hanno alcun pregio.</item>
             </list>
          </div>
-         <div type="section" n="1.15" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.15"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Lettere pittoriche e antiquarie</head>
             <list type="catalog">
                <item xml:id="c1d1e22935" n="1131" corresp="cico:brx">
@@ -13921,7 +14025,7 @@
                <item xml:id="c1d1e23171" n="1166" corresp="cico:qnq">
                   <label>1166.</label> LETTERA di N. ad un amico sullo stato delle Belle Arti in Roma, Roma 1788, in 8, M. 87.
     </item>
-               <item xml:id="c1d1e23177" n="1167">
+               <item xml:id="c1d1e23177" n="1167" corresp="cico:sc2">
                   <label>1167.</label> LETTERA ad un amico nella quale si dà contezza del Cavalier Carlo Giuseppe Ratti pittor
     genovese, in 8.
     Questa è un’apologia in favore del Ratti contro Francesco Milizia senza luogo ed anno.
@@ -14313,12 +14417,16 @@
     Antonio Pons.
     
     </item>
-               <item xml:id="c1d1e23601" n="1229">
+               <item xml:id="c1d1e23601" n="1229" corresp="cico:mnt">
                   <label>1229.</label> VOLPI Giuseppe Rocco, Lettera al Sig. Ab. Giuseppe Finy intorno a due antiche lapide
     scopertesi ultimamente in Cori, Roma 1733, in 4, M. 58.</item>
             </list>
          </div>
-         <div type="section" n="1.16" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.16"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Descrizioni relazioni e memorie</head>
             <list type="catalog">
                <item xml:id="c1d1e23616" n="1230" corresp="cico:mrp">
@@ -14413,7 +14521,7 @@
                   <label>1246.</label> CORDERO di S. Quintino Giulio, Osservazione sopra alcuni monumenti di Belle Arti nello
     Stato Lucchese, Lucca 1815, in 8, M. 36.
     </item>
-               <item xml:id="c1d1e23729" n="1247">
+               <item xml:id="c1d1e23729" n="1247" corresp="cico:dp3">
                   <label>1247.</label> DESCRIZIONE della pittura fatta nella volta della sala di Villa Pinciana, Roma 1779, in 4, M.
     15.
     </item>
@@ -14448,7 +14556,9 @@
     In questi brevi cenni il tipografo Bodoni sfoggiò con eleganza singolare di tipi. Vedi anche Lamberti.
     
     </item>
-               <item xml:id="c1d1e23772" n="1253" corresp="cico:g2h cico:nzb cico:58q cico:sfs">
+               <item xml:id="c1d1e23772"
+                     n="1253"
+                     corresp="cico:g2h cico:nzb cico:58q cico:sfs">
                   <label>1253.</label> DESCRIZIONE dell’opera a fresco eseguita nel 1798 nel tempio di S. Maria presso S. Celso in
     Milano dal pittore Andrea Appiani, Milano 1803, in 8.
     — Aggiuntovi: Le tableau des Sabines exposé publiquement au palais national des sciences,
@@ -14538,11 +14648,11 @@
     piccolezza massima possibile con somma maestria.
     
     </item>
-               <item xml:id="c1d1e23864" n="1267">
+               <item xml:id="c1d1e23864" n="1267" corresp="cico:2kn">
                   <label>1267.</label> GUILLON Abbé, Le Cénacle de Leonard de Vinci rendu aux amis des beaux arts, Milan 1811,
     en 8.
     </item>
-               <item xml:id="c1d1e23870" n="1268">
+               <item xml:id="c1d1e23870" n="1268" corresp="cico:6cp">
                   <label>1268.</label> ISTRUZIONE intorno alle opere de’ pittori nazionali ed esteri, esposta in pubblico nella città di
     Milano, con qualche notizia de’ scultori e architetti. Parte Prima, Milano 1777, in 8.
     Non ne fu mai pubblicato che questa prima sola parte.
@@ -14647,7 +14757,11 @@
     Unitivi gli Applausi Poetici pubblicati in tal circostanza.</item>
             </list>
          </div>
-         <div type="section" n="1.17" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.17"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Orazioni pittoriche statuti accademici e almanacchi e giornali.</head>
             <list type="catalog">
                <item xml:id="c1d1e24000" n="1285" corresp="cico:dcg">
@@ -14738,7 +14852,7 @@
                   <label>1302.</label> BRUNI Pier Antonio Luigi, Dell’architettura: Orazione recitata nella pubblica Veneta
     Accademia di Belle Arti nell’anno 1777, in 8.
     </item>
-               <item xml:id="c1d1e24121" n="1303">
+               <item xml:id="c1d1e24121" n="1303" corresp="cico:1s6">
                   <label>1303.</label> CALURA Bernardino M., In onore delle Belle Arti abbozzi di laudazione delineati, Venezia
     1814, in 8.
     </item>
@@ -14753,7 +14867,9 @@
                   <label>1306.</label> CIAMPI Sebastiano, Statuti dell’opera di S. Jacopo di Pistoia volgarizzati l’anno 1313 da
     Masseo di ser Giovanni Bellebuoni, Pisa 1815, M. 26.
     </item>
-               <item xml:id="c1d1e24145" n="1307" corresp="cico:h86 cico:hvr cico:65t cico:dzn cico:503 cico:cnz cico:25t cico:88k cico:85s cico:h2n cico:8g7 cico:qbz cico:98d cico:43c cico:1s7 cico:hzh cico:6gc cico:dg3 cico:svb cico:c8f cico:nrm cico:502 cico:zz4 cico:9vw cico:h88 cico:cg5 cico:zrc cico:bk6 cico:100 cico:mvg cico:tjm">
+               <item xml:id="c1d1e24145"
+                     n="1307"
+                     corresp="cico:h86 cico:hvr cico:65t cico:dzn cico:503 cico:cnz cico:25t cico:88k cico:85s cico:h2n cico:8g7 cico:qbz cico:98d cico:43c cico:1s7 cico:hzh cico:6gc cico:dg3 cico:svb cico:c8f cico:nrm cico:502 cico:zz4 cico:9vw cico:h88 cico:cg5 cico:zrc cico:bk6 cico:100 cico:mvg cico:tjm">
                   <label>1307.</label> COLLEZIONE non interrotta e completa delle accademie tenutesi in Campidoglio per le Belle
     Arti, cominciando dal 1690 in poi: rilegata in 6 volumi, Roma, in 4.
     L’ultima orazione di questa raccolta nostra è del 1801. Deve però notarsi che non si faceva, in ogni anno la
@@ -14897,7 +15013,7 @@
                   <label>1335.</label> NOTICIA historica de los principios y progressos de la scuola gratuita de las nobles Artes
     erigida en Barcelona, Barcelona 1789, in 4.
     </item>
-               <item xml:id="c1d1e24336" n="1336">
+               <item xml:id="c1d1e24336" n="1336" corresp="cico:qg6">
                   <label>1336.</label> NOTIZIE dell’origine e progressi dell’Istituto delle Scienze in Bologna, e sue Accademie:
     Bologna 1780, in 8.
 <fw type="foot"/>
@@ -14905,7 +15021,9 @@
                   <fw type="head"/>
     
                </item>
-               <item xml:id="c1d1e24348" n="1337" corresp="cico:kc2 cico:g88 cico:x7w cico:k87 cico:c5h cico:304 cico:jvp cico:2w4 cico:h89 cico:nzd cico:d5j cico:nzf cico:4s6 cico:gns">
+               <item xml:id="c1d1e24348"
+                     n="1337"
+                     corresp="cico:kc2 cico:g88 cico:x7w cico:k87 cico:c5h cico:304 cico:jvp cico:2w4 cico:h89 cico:nzd cico:d5j cico:nzf cico:4s6 cico:gns">
                   <label>1337.</label> ORAZIONI e discorsi letti nell’aula dell’Accademia di Belle Arti di Milano in occasione
     dell’annua distribuzione dei premi dopo la sua nuova riforma ed istituzione dal 1802 al 1819,
     in 8.
@@ -15071,7 +15189,11 @@
   
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.18" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.18"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
   
@@ -15587,7 +15709,9 @@
     MDCXVIII
     
     </item>
-               <item xml:id="c1d1e24981" n="1427" corresp="cico:h59 cico:fg5 cico:560 cico:j2h cico:rjr">
+               <item xml:id="c1d1e24981"
+                     n="1427"
+                     corresp="cico:h59 cico:fg5 cico:560 cico:j2h cico:rjr">
                   <label>1427.</label> STROZZI Giulio. Esequie fatte in Venezia dalla nazione Fiorentina al Sereniss. Cosimo II.
     quarto Gran Duca di Toscana, il dì 25 Maggio 1621, in fol. fig.
     Questa descrizione fu stesa da Giulio Strozzi, e le 18 tavole vennero eseguite sui quadri e disegni di Filippo
@@ -16100,7 +16224,9 @@
     MDCCIII
     
     </item>
-               <item xml:id="c1d1e25405" n="1487" corresp="cico:hg6 cico:znc cico:4p6 cico:krk cico:j2j">
+               <item xml:id="c1d1e25405"
+                     n="1487"
+                     corresp="cico:hg6 cico:znc cico:4p6 cico:krk cico:j2j">
                   <label>1487.</label> Il TEMPIO di Giano, serrato da Augusto per l’annua festa popolare della porchetta nella Fiera
     di Bologna, 1708, figurata. Aggiuntovi: Dialogismo simbolico per l’invenzione della contrada
     di Fontebranda, detta dell’Oca, rappresentata nel corso delle Bufale nella Piazza di Siena,
@@ -16197,7 +16323,7 @@
     MDCCXXXI
     
     </item>
-               <item xml:id="c1d1e25480" n="1498">
+               <item xml:id="c1d1e25480" n="1498" corresp="cico:cp0">
                   <label>1498.</label> BERNI Francesco, Il Torneo a piedi e l’invenzione ed allegoria colla quale il Sig, Dorso
     Bonacossi comparì a sostenerlo e l’Alcina maga, favola Pescatoria, rappresentata nella sala
     dei Giganti in Ferrara, nel Carnevale del 1731, in 8.
@@ -16255,7 +16381,7 @@
     MDCCXXXVII
     
     </item>
-               <item xml:id="c1d1e25530" n="1505">
+               <item xml:id="c1d1e25530" n="1505" corresp="cico:42x">
                   <label>1505.</label> MANZINI Luigi, Applausi festivi fatti in Roma per la elezione di Ferdinando III, al Regno de’
     Romani, Roma 1737, in 4, fig.
     MDCCXXXIX
@@ -16297,7 +16423,9 @@
     MDCCXLII
     
     </item>
-               <item xml:id="c1d1e25568" n="1510" corresp="cico:5k9 cico:qvc cico:s27 cico:4kf">
+               <item xml:id="c1d1e25568"
+                     n="1510"
+                     corresp="cico:5k9 cico:qvc cico:s27 cico:4kf">
                   <label>1510.</label> DIARIO delle solennità in occasione dell’elezione ed incoronamento dell’Imperatore Carlo
     VII, Franf. 1742, in fol. fig., in lingua tedesca.
     In questo assai grosso volume di circa mille pagine sono compresi tutti gli atti pubblici precedenti e susseguenti
@@ -16542,7 +16670,7 @@
     MDCCCXIII
     
     </item>
-               <item xml:id="c1d1e25769" n="1539">
+               <item xml:id="c1d1e25769" n="1539" corresp="cico:q8b">
                   <label>1539.</label> CLARAC, Fouille faite à Pompeii en présence de la Reine des deux Siciles le 18 Mais 1813,
     etc., Napoli, in 8, fig.
 <fw type="foot"/>
@@ -16582,7 +16710,11 @@
     prezioso per le minute circostanze in esso espresse e con rara diligenza raccolte.</item>
             </list>
          </div>
-         <div type="section" n="1.19" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.19"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Miscellanee</head>
             <div type="subsection" part="N" org="uniform" sample="complete">
                <head>A. Feste e spettacoli</head>
@@ -16706,7 +16838,11 @@
                <fw type="foot"/>
             </div>
          </div>
-         <div type="section" n="1.20" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.20"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
   
@@ -17172,7 +17308,7 @@
                   <fw type="head"/>
     
                </item>
-               <item xml:id="c1d1e26423" n="1607">
+               <item xml:id="c1d1e26423" n="1607" corresp="cico:48m">
                   <label>1607.</label> BRUYNI Abrahami, Diversarum gentium armatura equestris, Amstelodami in redibus Nicolai
     Joan, Visscherii. Vedi Diversarim gentium.
     <pb type="cico" n="279"/>
@@ -17675,7 +17811,7 @@
     Con due tavole intagliate in rame e alcune medaglie.
     
     </item>
-               <item xml:id="c1d1e26917" n="1678">
+               <item xml:id="c1d1e26917" n="1678" corresp="cico:pjs">
                   <label>1678.</label> ITALIAN Scenery, Vedi Bonaiuti.
     </item>
                <item xml:id="c1d1e26923" n="1679" corresp="cico:t80">
@@ -17907,7 +18043,7 @@
   casa di Antonio Bergola sacerdote e cittadino modenese, 1536.
   
   </item>
-               <item xml:id="c1d1e27108" n="1706">
+               <item xml:id="c1d1e27108" n="1706" corresp="cico:tv8">
                   <label>1706.</label> MAVELOT C., Chiffres. Nouveau livre par alphabet à simples traits, où se trouvent tous les
   noms et surnoms, Paris 1684, in 8.
   </item>
@@ -18090,7 +18226,9 @@
   facilitarne al lettore la percezione.
   
   </item>
-               <item xml:id="c1d1e27303" n="1734" corresp="cico:j2c cico:kjv cico:sng cico:xjm">
+               <item xml:id="c1d1e27303"
+                     n="1734"
+                     corresp="cico:j2c cico:kjv cico:sng cico:xjm">
                   <label>1734.</label> NIEUPOORT, Explication abrégé des coutumes et cérémonies des Romains, à Toulouse 1783,
   in 12.
   Quest’opera scritta in latino originariamente qui venne tradotta in francese dall’Ab. ***.
@@ -18299,7 +18437,9 @@
   compreso il frontespizio figurato sono 24.
   
   </item>
-               <item xml:id="c1d1e27530" n="1767" corresp="cico:1w8 cico:tnp cico:2p8 cico:tbv">
+               <item xml:id="c1d1e27530"
+                     n="1767"
+                     corresp="cico:1w8 cico:tnp cico:2p8 cico:tbv">
                   <label>1767.</label> POULLET, Traicté des tombes et sepultures des defuncts, Paris 1612, in 12.
   — Brisson M. le Presid., Trois discours extraits de ses mémoires: 1. De l’ordre qui se gardoit
   entre les Romains en deliberation; 2. Des compilations de droits faictes depuis les Lois des
@@ -18634,7 +18774,7 @@
   presenta un bellissimo gruppo di grandi pezzi d’artiglieria. Libro piuttosto raro.
   
   </item>
-               <item xml:id="c1d1e27868" n="1817">
+               <item xml:id="c1d1e27868" n="1817" corresp="cico:mvh">
                   <label>1817.</label> De VASCULIS libellus adolescentulorum causa ex Bayfio decerptus, addita vulgari latinarum
   vocum interpretatione, Lugduni 1536, in 8.
   </item>
@@ -18718,7 +18858,7 @@
                   <label>1826.</label> WERNER Samuel, Judicium veterani de capillis peregrinis et ascititiis maxime clericorum,
   Regiomonti 1684, in 4, M. 45.
   </item>
-               <item xml:id="c1d1e27942" n="1827">
+               <item xml:id="c1d1e27942" n="1827" corresp="cico:dc9">
                   <label>1827.</label> WELLER Singer Samuel, Researches into the history of playing cards with illustrations of the
   origin of printing and engraving on wood, London 1816, fig. in 8, gr.
   Opera dottissima e interessante con molti fac simile di accurato intaglio in rame ed in legno, collocati fra il testo,
@@ -18738,7 +18878,11 @@
 
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.21" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.21"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
   
@@ -18768,7 +18912,9 @@
                   <label>1833.</label> ACCADEMICI Gelati di Bologna, Rime, presso Bartolomeo Cochi, Bol. 1615, in 16.
     — Aggiuntovi il Tancredi, Tragedia di Ridolfo Campeggi, Vicenza 1614.
     </item>
-               <item xml:id="c1d1e28001" n="1834" corresp="cico:jrs cico:f5j cico:fzm cico:7w1">
+               <item xml:id="c1d1e28001"
+                     n="1834"
+                     corresp="cico:jrs cico:f5j cico:fzm cico:7w1">
                   <label>1834.</label> ASCIATI Andreae, Emblematum libellus, Parisiis, ex officina Christiani Wechelii, 1640, fig.,
     in 12.
     Libretto elegante per gli intagli in legno: forse la prima edizione latina: sono le stampe 115, ma non giungono al
@@ -19314,7 +19460,7 @@
     signore, ivi ec.
     
     </item>
-               <item xml:id="c1d1e28528" n="1911">
+               <item xml:id="c1d1e28528" n="1911" corresp="cico:ck7">
                   <label>1911.</label> LANGLOIS Franciscus, Lux Claustri, La Lumiere du Cloistre. Representée par figures
 <fw type="foot"/>
                   <pb type="memofonte"/>
@@ -19445,7 +19591,7 @@
     levato l’emblema Quo tendis, che ha l’aspetto d’un FALLO benché nol sia.
     
     </item>
-               <item xml:id="c1d1e28664" n="1931">
+               <item xml:id="c1d1e28664" n="1931" corresp="cico:jnv">
                   <label>1931.</label> PARVUS Mundus. Vedi Microcosmus.
     </item>
                <item xml:id="c1d1e28670" n="1932" corresp="cico:w53">
@@ -19483,7 +19629,7 @@
     Durelli con mediocrità ed inserte negli intervalli del testo in mezzo alle pagine.
     
     </item>
-               <item xml:id="c1d1e28702" n="1936">
+               <item xml:id="c1d1e28702" n="1936" corresp="cico:wnt">
                   <label>1936.</label> PIROLI Tommaso, Raccolta di dodici Virtù personificate, dipinte coi disegni di Raffaello
     d’Urbino nella sala detta di Giulio Romano al Vaticano, incise all’acqua forte da Tommaso
     Piroli, Roma, presso il suddetto a strada Gregoriana, tav. XII etc., in fol.
@@ -19691,7 +19837,9 @@
     Con circa 200 emblemi a due a due per tavola di finissimo intaglio.
     
     </item>
-               <item xml:id="c1d1e28907" n="1966" corresp="cico:vvb cico:032 cico:kzf cico:8k7 cico:bk8">
+               <item xml:id="c1d1e28907"
+                     n="1966"
+                     corresp="cico:vvb cico:032 cico:kzf cico:8k7 cico:bk8">
                   <label>1966.</label> VALERIANI Joannis Pierii beliunensis, Hierogliphica, Lugduni, sumptibus Pauli Frelon, 1602,
     in fol. fig. Sono cinquantaotto libri, cui ne vennero aggiunti altri due in fine e dopo l’indice
     copiosissimo trovasi anche il libro pro sacerdotum barbis declamatio e le Opere Poetiche.
@@ -19784,12 +19932,20 @@
     copiose illustrazioni in olandese.</item>
             </list>
          </div>
-         <div type="section" n="1.22" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.22"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Mitologia, riti e costumi religiosi di tutti i popoli. Questo articolo, che doveva qui collocarsi, si veda in fine al Secondo Volume.</head>
   
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.23" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.23"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
   
@@ -19883,7 +20039,7 @@
     Edizione originale in 150 tavole di freschissimo e bellissimo intaglio all’acqua forte M. 107.
     
     </item>
-               <item xml:id="c1d1e29075" n="1987">
+               <item xml:id="c1d1e29075" n="1987" corresp="cico:bg7">
                   <label>1987.</label> BAUR Jo. Wilhelmi, Pub. Ovidii Nasonis Metamorphoseon, Augspurg 1709, in fol. obl.
     Queste sono le medesime 150 tavole da questo valentissimo intagliatore prodotte nella p. edizione e in questa
     ristampate e non riconoscibili per essere assai logore; a fronte di ciascuna sta il testo in lingua tedesca.
@@ -20009,7 +20165,7 @@
   aliorumque illustrium etc ab ab Osmane usque ad Mahometum secundum, incisa: a Theod. de
   Bry, tab. 47, Francfurti 1586, in 4, fig.
   </item>
-               <item xml:id="c1d1e29153" n="1997">
+               <item xml:id="c1d1e29153" n="1997" corresp="cico:pjw">
                   <label>1997.</label> BOISSARDI Jani Jacobi, Veri ritratti degl’imperatori turchi e principi persiani da Osmano fino
   a Maometto II, estratti dalle medaglie col ristretto delle loro vite in versi di Giorgio
   Greblinger, Francf., per Gio. Amon, 1648. Sono le tavole stesse del precedente.
@@ -20112,7 +20268,9 @@
   stampe la solitudo, sive vitae Patrum Eremicolarum dei Sadeler. V. Valesio.
   
   </item>
-               <item xml:id="c1d1e29235" n="2008" corresp="cico:b5m cico:9gc cico:j5c cico:0d0">
+               <item xml:id="c1d1e29235"
+                     n="2008"
+                     corresp="cico:b5m cico:9gc cico:j5c cico:0d0">
                   <label>2008.</label> De CAVALLERUS Jo. Bap., Ecclesia; militantis triumphi, Romae 1585, in f. p. ex officina
   Barth. Grassi. Queste sono 32 tav. compreso il frontespizio rappresentanti martirii diversi.
   —Aggiuntevi. Ecclesiae Anglicanae trophea 1584. Sono 36 tav. cominciate all’acqua forte e
@@ -20404,7 +20562,9 @@
   superiormente ad ogni tavola è il passo del Genesi a cui allude.
   
   </item>
-               <item xml:id="c1d1e29485" n="2043" corresp="cico:z4x cico:rrn cico:pfv cico:jnx">
+               <item xml:id="c1d1e29485"
+                     n="2043"
+                     corresp="cico:z4x cico:rrn cico:pfv cico:jnx">
                   <label>2043.</label> HOLBEIN. Imagines Mortis: his accesserunt epigratnmata e gallico idiomate in latinum
   traslata, Coloniae 1557, in 12. figur.
   Questa è un’edizione originale colle stesse 53 tavole, clic pretendonsi intagliate da Holbein medesimo: ma non
@@ -20797,7 +20957,7 @@
   emblemi relativi, intagliati da Bignon.
   
   </item>
-               <item xml:id="c1d1e29794" n="2086">
+               <item xml:id="c1d1e29794" n="2086" corresp="cico:tbw">
                   <label>2086.</label> LE PRINCE Jean Baptiste peintre du roi, Oeuvre contenant plus de 160 planches gravées à
   l’eau-forte, Paris 1782, in fol.
   Questa è l’opera completa di questo artista assai grazioso nel maneggio dell’acqua forte e che riesce a meraviglia
@@ -21238,7 +21398,9 @@
   dell’Ordine. Operetta della più fina esecuzione.
   
   </item>
-               <item xml:id="c1d1e30171" n="2141" corresp="cico:5kc cico:wc0 cico:5w3 cico:600 cico:bvr">
+               <item xml:id="c1d1e30171"
+                     n="2141"
+                     corresp="cico:5kc cico:wc0 cico:5w3 cico:600 cico:bvr">
                   <label>2141.</label> VITA, Passio et Resurrectio Jesu, Christi, variis iconibus a celebre pict. Martino de Vos
   expressa ab Adr. Collart nunc primum in ses incisis, Antuerpiae, Io. Galle excud.
   Cinquantuna tavola compreso il frontespizio formano questo libro: lavorarono anche altri intagliatori come
@@ -21287,7 +21449,11 @@
                   <label>2144.</label> De Vos Martino. Vedi Oraculum anachoreticum, Vita, Passio et Resurrectio Christi.</item>
             </list>
          </div>
-         <div type="section" n="1.24" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.24"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head>Dizionari e abecedari</head>
             <list type="catalog">
                <item xml:id="c1d1e30214" n="2145" corresp="cico:6w2">
@@ -21326,7 +21492,7 @@
     Opera meritevole d’esser conosciuta ed applaudita, ricchissima di cognizioni.
     
     </item>
-               <item xml:id="c1d1e30253" n="2151">
+               <item xml:id="c1d1e30253" n="2151" corresp="cico:k8g">
                   <label>2151.</label> CHOMPRÉ, Dictionnaire abrégé de la fable pour l’intelligence des poétes etc., Paris 1798, in
     12.
 <fw type="foot"/>
@@ -21446,7 +21612,7 @@
     In questa ristampa venne inoltre corretto e accresciuto da Pietro Quarienti.
     
     </item>
-               <item xml:id="c1d1e30390" n="2171">
+               <item xml:id="c1d1e30390" n="2171" corresp="cico:jc3">
                   <label>2171.</label> ORLANDI Pellegrino Antonio, Abecedario Pittorico, Venezia, per il Pasquali, 1753, in 4.
     Con molte aggiunte preziossisime e postille manoscritte di mano di Venanzio de Pagave. Esemplare che
     appartenne alla Biblioteca Bianconi e poi Bossi; il quale ne aveva fatto un estratto per le memorie degli artisti
@@ -21511,7 +21677,11 @@
     membri dell’Instituto di Francia, sebbene i nuovi materiali siano per anche inediti.</item>
             </list>
          </div>
-         <div type="section" n="1.25" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.25"
+              part="N"
+              org="uniform"
+              sample="complete">
   
             <pb type="cico" n="376"/>
   
@@ -21624,7 +21794,9 @@
                   <fw type="head"/>
     
                </item>
-               <item xml:id="c1d1e30573" n="2196" corresp="cico:s7z cico:wrb cico:xvf cico:8k8 cico:vrn cico:xfs cico:430 cico:mnp">
+               <item xml:id="c1d1e30573"
+                     n="2196"
+                     corresp="cico:s7z cico:wrb cico:xvf cico:8k8 cico:vrn cico:xfs cico:430 cico:mnp">
                   <label>2196.</label> BALDINUCCI, Lettera al Mar. Capponi nella quale risponde ad alcuni quesiti in materia di
     pittura, Firenze 1787, per Pietro Marini, in 4.
     — Aggiuntavi la Veglia, dialogo di Sincero Veri, Firenze 1690.
@@ -22038,7 +22210,7 @@
     Quest’opera è estratta dalle migliori fonti.
     
     </item>
-               <item xml:id="c1d1e31047" n="2266">
+               <item xml:id="c1d1e31047" n="2266" corresp="cico:88h">
                   <label>2266.</label> FIORI d’ingegno. Composizioni in lode dell’effigie della Primavera dipinta da Carlo Maratti,
     presso il Sig. Nicolò Michieli Senatore Veneto, Venezia 1685, in 12.
 <fw type="foot"/>
@@ -22046,7 +22218,7 @@
                   <fw type="head"/>
     
                </item>
-               <item xml:id="c1d1e31059" n="2267">
+               <item xml:id="c1d1e31059" n="2267" corresp="cico:2w3">
                   <label>2267.</label> FIORI poetici a Francesco Petrarca in occasione che gli fu eretto nel Duomo di Padova il
     monumento dallo scultore Rinaldo Rinaldi per cura del canonico Barbò da Soncin, Padova
     1819, in 8.
@@ -22108,7 +22280,9 @@
     mecenati nobilissimi e protettori d’ogni studio, d’ogni ingegno, d’ogni patria grandezza.
     
     </item>
-               <item xml:id="c1d1e31127" n="2278" corresp="cico:9cb cico:w55 cico:wrd cico:62r">
+               <item xml:id="c1d1e31127"
+                     n="2278"
+                     corresp="cico:9cb cico:w55 cico:wrd cico:62r">
                   <label>2278.</label> GIOVIO Giovan Battista, Elogii di Palladio, del Conte Algarotti, di Benedetto e di Paolo
     Giovio, Venezia 1782, in 8.
     Scrisse il Bianconi su questo esemplare, che gli appartenne :fate (diceva uno) che il sig. Cav. Giovan Battista
@@ -22224,7 +22398,7 @@
     rapidamente sulle memorie degli artisti di parecchie scuole.
     
     </item>
-               <item xml:id="c1d1e31256" n="2297">
+               <item xml:id="c1d1e31256" n="2297" corresp="cico:frx">
                   <label>2297.</label> LE giustissime lagrime della pittura e della poesia pubblicate negli apparati funebri di Pavia
     per i funerali di Luigi Scaramuccia perugino, Milano 1681, in 8.
     Libretto raro a trovarsi.
@@ -22997,7 +23171,11 @@
   
             <fw type="foot"/>
          </div>
-         <div type="section" n="1.26" part="N" org="uniform" sample="complete">
+         <div type="section"
+              n="1.26"
+              part="N"
+              org="uniform"
+              sample="complete">
             <pb type="memofonte"/>
             <fw type="head"/>
   
