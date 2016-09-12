@@ -6,27 +6,20 @@ TRUNCATE_STRINGS_TO=250
 HERE = File.dirname(File.expand_path(__FILE__))
 MARC_FILE = "#{HERE}/../cicognara.mrx.xml"
 CSV_FILE = "#{HERE}/../cicognara_shotlist.csv"
-TEI_1 = "#{HERE}/../catalogo1.tei.xml"
-TEI_2 = "#{HERE}/../catalogo2.tei.xml"
+TEI = "#{HERE}/../catalogo.tei.xml"
 TEI_NS = 'http://www.tei-c.org/ns/1.0'
 
 class CatalogoLookup
-  def initialize(teis)
-    @teis = teis
+  def initialize(tei)
+    @tei = tei
   end
 
   def [](dclib_no)
-    @data ||= generate_lookup
+    @data ||= generate_lookup(@tei)
     @data[dclib_no]
   end
 
-  def generate_lookup
-    data = {}
-    @teis.each { |tei_path| data.merge!(lookup_from_tei(tei_path)) }
-    data
-  end
-
-  def lookup_from_tei(tei_path)
+  def generate_lookup(tei_path)
     data = { }
     items_elements_from_tei(tei_path).each do |item|
       catalogo_n = item.attribute('n').value
@@ -50,7 +43,7 @@ end
 
 class Row
 
-  CATALOGO_LOOKUP = CatalogoLookup.new([TEI_1, TEI_2])
+  CATALOGO_LOOKUP = CatalogoLookup.new(TEI)
 
   def initialize(marc_record)
     @record = marc_record
