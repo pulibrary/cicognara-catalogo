@@ -9,7 +9,7 @@
 
 HERE=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 IDS_FILE="$HERE/bib_ids.txt"
-OUT="$(dirname $HERE)/cicognara.mrx"
+OUT="$(dirname $HERE)/cicognara.mrx.xml"
 TMP="/tmp/cico"
 
 BIBDATA="https://bibdata.princeton.edu/bibliographic"
