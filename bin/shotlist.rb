@@ -43,7 +43,7 @@ end
 
 class Row
 
-  CATALOGO_LOOKUP = CatalogoLookup.new(TEI)
+  CATALOGO_LOOKUP ||= CatalogoLookup.new(TEI)
 
   def initialize(marc_record)
     @record = marc_record
@@ -66,13 +66,12 @@ class Row
     s
   end
 
-
   def self.header
     ['Title', 'Creator', 'PUL Bib', 'Fiche Nr(s)', 'Addl Nr(s)', 'Catalogo Number', 'DCL Nr']
   end
 
   def to_a
-    [title, creator, id, fiche_number, addl_fiche_numbers, catalogo_number, dcl_number]
+    [ title, creator, id, fiche_number, addl_fiche_numbers, catalogo_number, dcl_number]
   end
 
   def catalogo_number
@@ -83,15 +82,16 @@ class Row
       CATALOGO_LOOKUP[n].join(', ')
     rescue NoMethodError
       puts("#{n} is not in the TEI")
+      'None'
     end
   end
 
   def fiche_number
-    @all_fiche_numbers.first
+    @all_fiche_numbers.first unless @all_fiche_numbers.nil?
   end
 
   def addl_fiche_numbers
-    @all_fiche_numbers.drop(1).join(', ')
+    @all_fiche_numbers.drop(1).join(', ') unless @all_fiche_numbers.nil?
   end
 
   def dcl_number
@@ -100,7 +100,7 @@ class Row
         self.class.dcl_number?(f)
       }.map{ |f| f['a'] }
       if fields.length != 1
-        raise "#{Record} #{@record['001'].value} has #{fields.length} dclib numbers"
+        puts "ERROR: MARC Record #{@record['001'].value} has #{fields.length} dclib numbers"
       else
         fields.first[5..7] # strips 'cico:'
       end
@@ -121,11 +121,12 @@ class Row
 
   private
   def all_fiche_numbers
+    # puts @record['001'].value
     fields = @record.fields('024').select { |f|
       self.class.cico_number?(f)
     }.map{ |f| f['a'] }
     if fields.length == 0
-      raise "#{Record} #{@record['001'].value} has no catalogo numbers"
+      puts "ERROR: MARC Record #{@record['001'].value} has no catalogo numbers"
     else
       fields
     end
@@ -136,8 +137,9 @@ end
 
 reader = MARC::XMLReader.new(MARC_FILE)
 CSV.open(CSV_FILE, 'w', col_sep: "\t", force_quotes: true) do |csv_writer|
-  csv_writer << Row.header
+  csv_writer << ::Row.header
   reader.each do |record|
-    csv_writer << Row.new(record).to_a
+    # 8545990
+    csv_writer << ::Row.new(record).to_a
   end
 end
