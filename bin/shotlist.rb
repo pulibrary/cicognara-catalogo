@@ -1,3 +1,7 @@
+# DEPRECATED, this code is no longer useful
+# Offical shotlist is this hand-crafted doc:
+# https://docs.google.com/spreadsheets/d/1ffmSwOwKLhxzsdvtJ7mTHFjJshhmCLXQDM6kQCknWdc/edit#gid=0
+
 require 'marc'
 require 'csv'
 require 'nokogiri'
