@@ -81,7 +81,7 @@ class Row
   def catalogo_number
     # This raises "undefined method `join' for nil:NilClass (NoMethodError)"
     # implying that are dclib numbers in the MARC that aren't in the TEI
-    n = "cico:#{dcl_number}"
+    n = "dcl:#{dcl_number}"
     begin
       CATALOGO_LOOKUP[n].join(', ')
     rescue NoMethodError
@@ -106,7 +106,7 @@ class Row
       if fields.length != 1
         puts "ERROR: MARC Record #{@record['001'].value} has #{fields.length} dclib numbers"
       else
-        fields.first[5..7] # strips 'cico:'
+        fields.first[4..6] # strips 'dcl:'
       end
     end
   end
