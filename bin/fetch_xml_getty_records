@@ -4,6 +4,7 @@
 # requires wget and xq (on macos: `brew install wget python-yq`)
 
 CUR=`dirname $0`
+mkdir -p $CUR/../tmp
 cd $CUR/../tmp
 
 # download index
@@ -19,3 +20,5 @@ for i in $FILES; do
   FN=`basename $i`
   unzip -o $FN -x resourcedump_manifest*
 done
+
+cd $CUR

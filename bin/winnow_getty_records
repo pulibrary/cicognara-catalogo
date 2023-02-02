@@ -21,17 +21,19 @@ def is_cico(node)
   return ids.all? { |i| i =~ /^\d/ }
 end
 
-basedir = "#{File.dirname(__FILE__)}/.."
+sourcedir = "#{File.dirname(__FILE__)}/../tmp/resources"
+targetdir = "#{File.dirname(__FILE__)}/../tmp/cicorecords"
+
+
 logger = Logger.new(STDOUT)
 records = []
-outdir =basedir + '/tmp/cicorecords'
 
-FileUtils.mkdir_p outdir
+FileUtils.mkdir_p targetdir
 
 log = Logger.new(STDOUT)
 number_kept_files = 0
 
-Dir["#{basedir}/tmp/resources/*.xml"].each do |file|
+Dir["#{sourcedir}/*.xml"].each do |file|
   record = Nokogiri::XML(File.read(file))
 
   ids = record.xpath('//dc:identifier')
@@ -47,7 +49,7 @@ Dir["#{basedir}/tmp/resources/*.xml"].each do |file|
   if has_cico and in_collection and has_manifest
     number_kept_files += 1
     log.info("keeping #{file}")
-    FileUtils.cp file, outdir
+    FileUtils.cp file, targetdir
   end
 end
 
