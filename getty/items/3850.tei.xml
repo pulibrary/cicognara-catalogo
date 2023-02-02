@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3850</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3850</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RAGUENET</author>, <title>Les monumens de Rome, ou descriptions des plus beaux ouvrage de peinture, de sculpture, et
+d’architécture qui se voyent à Rome et aux environs</title>, <pubPlace>Paris</pubPlace> <date>1702</date>, in 12.
+<note>Questo autore volle giudicare le opere dell’arte in un modo a lui proprio, ma non aveva abbastanza forza di genio
+perché le sue opinioni potessero sostenersi coll’indipendenza delle opinioni comuni.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les monumens de Rome, ou Descriptions des blus [!] beaux ouvrages de peinture, de sculpture, et d'architecture, qui se voyent à Rome, &amp; aux environs [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985436233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dn7z5h</idno>
+            <idno type="cico">3850</idno>
+            <idno type="dcl">rk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les monumens de Rome, ou Descriptions des blus [!] beaux ouvrages de peinture, de sculpture, et d'architecture, qui se voyent à Rome, &amp; aux environs [microform].</title>
+                  <respStmt>
+                     <persName>Raguenet, François, 1660?-1722.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jean Villette</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>349, [33] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cc265c5d-d339-45a6-b89f-8e61c0b0267c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cc265c5d-d339-45a6-b89f-8e61c0b0267c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

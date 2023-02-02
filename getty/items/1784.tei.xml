@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1784</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1784</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROSA Michele</author>, <title>Delle porpore e delle materie vestiario presso gli antichi</title>. Dissertazione
+  epistolare, <pubPlace>Modena</pubPlace> <date>1786</date>, in 4, fig.
+  <note>Con tre grandi tavole in rame. Opera dottissima, intitolata a uno degli ultimi e più insigni mecenati italiani il
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  Marchese Gherardo Rangone modenese.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle porpore e delle materie vestiarie presso gli antichi : dissertazione epistolare / del cav. don Michele Rosa ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rosaspina, Francesco, 1762-1841.</authority>
+            <authority>Stamperia Ducale (Modena, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927794500001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/tr8z8p</idno>
+            <idno>(OCoLC)25723544</idno>
+            <idno type="cico">1784</idno>
+            <idno type="dcl">r58</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle porpore e delle materie vestiarie presso gli antichi : dissertazione epistolare / del cav. don Michele Rosa ...</title>
+                  <respStmt>
+                     <persName>Rosa, Michele, 1731-1812.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Modena : Dalla Stamperia ducale</publisher>
+                     <pubPlace>Italy Modena.</pubPlace>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>XX, 387, [1] p., [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f662d768-c4b3-4c26-8e25-bb9010703762"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f662d768-c4b3-4c26-8e25-bb9010703762">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle porpore e delle materie vestiarie presso gli antichi [microform] : dissertazione epistolare / del Michele Rosa ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ch8k8m</idno>
+            <idno type="cico">1784</idno>
+            <idno type="dcl">r58</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle porpore e delle materie vestiarie presso gli antichi [microform] : dissertazione epistolare / del Michele Rosa ...</title>
+                  <respStmt>
+                     <persName>Rosa, Michele, 1731-1812.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Modena : Dalla Stamperia Ducale</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>xx, 387, [1] p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/171762b2-a03c-4886-aae2-1b9926ab584e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/171762b2-a03c-4886-aae2-1b9926ab584e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

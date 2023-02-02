@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 21</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">21</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>CONSERVATOIR des sciences et des arts, ou récueil des pieces intéressantes sur les antiquités, la
+	  mythologie, la peinture, la musique, etc. traduit des differentes langues,</title>
+                     <pubPlace> Paris </pubPlace>
+                     <date>1787,</date>
+                     <extent> vol. 6, in
+	  8 fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conservatoire des sciences et des arts, ou Recueil de pieces intéressantes [microform] : sur les antiquités, la mythologie, la peinture, la musique, l'art et la théorie de l'action théatrale, les belles-lettres, la philosophie, &amp;c. / traduit de différentes langues ; avec 42 planches en taille-douce.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vz130p</idno>
+            <idno type="cico">21</idno>
+            <idno type="dcl">r59</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conservatoire des sciences et des arts, ou Recueil de pieces intéressantes [microform] : sur les antiquités, la mythologie, la peinture, la musique, l'art et la théorie de l'action théatrale, les belles-lettres, la philosophie, &amp;c. / traduit de différentes langues ; avec 42 planches en taille-douce.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Deterville</publisher>
+                     <date>[1787]</date>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>6 v.</extent>
+                  <extent>43 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7346f23e-9eaf-4a76-9096-36c81f7faa42/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7346f23e-9eaf-4a76-9096-36c81f7faa42/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

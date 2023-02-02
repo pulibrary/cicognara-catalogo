@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2273</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2273</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GAULT de S. Germain</author>, <title>Les trois siecles de la peinture en France ou Galérie des peintres
+    françois, depuis François I jusqu’à Napoleon</title>, <pubPlace>Paris</pubPlace> <date>1808</date>, in 8.
+    <note>Sono raccolte in questo libro molte preziose notizie intorno l’antica Accademia di Francia.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les trois siècles de la peinture en France, ou, Galerie des peintres français depuis François I.er jusqu'au règne de Napoléon, empereur et roi [microform] : où lo̕n aperçoit li̕nfluence des moeurs, de la politique et des réputations, sur les progrès et le décadence de cet art / par P.-M. Gault de Saint-Germain ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9k600h</idno>
+            <idno type="cico">2273</idno>
+            <idno type="dcl">0d2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les trois siècles de la peinture en France, ou, Galerie des peintres français depuis François I.er jusqu'au règne de Napoléon, empereur et roi [microform] : où lo̕n aperçoit li̕nfluence des moeurs, de la politique et des réputations, sur les progrès et le décadence de cet art / par P.-M. Gault de Saint-Germain ...</title>
+                  <respStmt>
+                     <persName>Gault de Saint-Germain, P. M. (Pierre Marie), 1754-1842.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Belin</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>349 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f63b142e-2d79-45d3-9cca-af35258c588f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f63b142e-2d79-45d3-9cca-af35258c588f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

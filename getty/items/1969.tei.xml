@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1969</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1969</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VAENII Othonis</author>, <title>Amorum emblemata figuris aeneis incisa</title>, <pubPlace>Antuerpiae</pubPlace>, Venalia apud
+    auctorem <date>1608</date>, in 4, per traverso figurato.
+    <note>Elegantissimo per le sue incisioni. Esemplare di prima freschezza in 124 tavole con motti ed illustrazioni
+    poetiche in lingua latina, italiana e francese.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amorum emblemata [microform] / figuris AEneis incisa studio Othonis Vaeni Batavo-Lugdunensis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985338863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dh7z3h</idno>
+            <idno type="cico">1969</idno>
+            <idno type="dcl">bgj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Amorum emblemata [microform] / figuris AEneis incisa studio Othonis Vaeni Batavo-Lugdunensis.</title>
+                  <respStmt>
+                     <persName>Veen, Otto van, 1556-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Antwerpiae : Venalia apud Auctorem</publisher>
+                     <date>1608</date>
+                  </imprint>
+                  <extent>247, [1] p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0a0a3899-2732-4081-a634-278753c3e4bf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a0a3899-2732-4081-a634-278753c3e4bf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

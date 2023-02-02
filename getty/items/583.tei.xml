@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 583</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">583</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>OPERNORD</author>, 
+                     <title>Livre contenant 12 cartouches propres aux édifìces et aux ouvrages de tous les
+	beaux arts,</title> 
+                     <extent>in fol. obl.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Twentyfour engravings] [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Babel, Pierre-Edme, -1775?</authority>
+            <authority>Cochin, Charles Nicolas, 1688-1754.</authority>
+            <authority>Cornille, F., fl. 1740-1756.</authority>
+            <authority>Monchelet, A.</authority>
+            <authority>Oppenord, Gilles-Marie, 1672-1742.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z8742t</idno>
+            <idno type="cico">583</idno>
+            <idno type="dcl">qg8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Twentyfour engravings] [microform]</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[between 1700 and 1780]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>[24] leaves</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8349f477-a4b4-412d-938a-105261b49d8f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8349f477-a4b4-412d-938a-105261b49d8f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

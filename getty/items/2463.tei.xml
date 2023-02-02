@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2463</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2463</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RIZZACASA</author>, <title>La fisonomia non meno utile, che dilettevole, sì in morale, che in naturale
+    filosofia, in due parti divisa</title>, <pubPlace>Carmagnola</pubPlace> <date>1607</date>.
+    <note>Libretto ben esteso per la dizione ed elegantemente stampato.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La fisionomia del Rizzacasa [microform] : non meno vtile che diletteuole, si in morale che in naturale filosofia : in dua parti diuisa.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fg2v36</idno>
+            <idno type="cico">2463</idno>
+            <idno type="dcl">pns</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La fisionomia del Rizzacasa [microform] : non meno vtile che diletteuole, si in morale che in naturale filosofia : in dua parti diuisa.</title>
+                  <respStmt>
+                     <persName>Rizzacasa, Giorgio, 16th cent.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Carmagnola : [s.n.]</publisher>
+                     <date>1607</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bbdc4934-b88a-49c1-bcc3-5b4ac1465bbf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bbdc4934-b88a-49c1-bcc3-5b4ac1465bbf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

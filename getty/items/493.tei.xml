@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 493</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">493</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>DUPUIS</author>, 
+                     <title>Nouveau traité d’architecture, comprenant les cinq ordres des anciens avec un sexieme
+	ordre, qui on nomine ordre français,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1768,</date>
+                     <extent> en 4, fig.</extent>
+                     <note>Se fosse altrettanto purgato lo stile dell’architetto, come è <pb type="cico" n="88"/>ritido il bulino con cui sono intagliate le 62
+	tavole di quest’opera sarebbe da ritenersi in maggior pregio. In fine sono 13 tabelle di proporzioni.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouveau traité d'architecture [microform] : comprenant les cinq ordres des anciens, établis dans une juste proportion entr'eux, avec un sixième ordre nommé ordre français : on y a joint des tables de proportions pour déterminer les hauteurs des soubassements, statues, balustrades &amp; pilastres d'Attique, rélativement à la progression des six ordres d'architecture / par Charles Dupuis ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c47f4c</idno>
+            <idno type="cico">493</idno>
+            <idno type="dcl">2gd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouveau traité d'architecture [microform] : comprenant les cinq ordres des anciens, établis dans une juste proportion entr'eux, avec un sixième ordre nommé ordre français : on y a joint des tables de proportions pour déterminer les hauteurs des soubassements, statues, balustrades &amp; pilastres d'Attique, rélativement à la progression des six ordres d'architecture / par Charles Dupuis ...</title>
+                  <respStmt>
+                     <persName>Dupuis, Charles.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de Michel Lambert ;</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>viij, 54 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/eba4b927-a7d5-4f39-a4a4-fca636f774c4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eba4b927-a7d5-4f39-a4a4-fca636f774c4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

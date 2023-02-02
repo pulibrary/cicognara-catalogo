@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 757</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">757</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DUMONT</author>, <title>Projet d’une salle de spectacle pour la ville de Brest</title>, <pubPlace>Paris</pubPlace> <date>1772</date>, in fol. Au quel on a
+	joint plusieurs autres dessins gravés par le même auteur, M. 90.
+	<note>In tutto 26 tavole nobilmente inventate e incise assai bene.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Projet d'une salle de spectacle pour la ville de Brest [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985458103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9m8q60</idno>
+            <idno type="cico">757</idno>
+            <idno type="dcl">kvp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Projet d'une salle de spectacle pour la ville de Brest [microform].</title>
+                  <respStmt>
+                     <persName>Dumont, Gabriel Pierre Martin, approximately 1720-approximately 1790.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris : s.n]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[1772]</date>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>[26] leaves</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6373feac-c018-4741-b9ac-1f6936543bb6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6373feac-c018-4741-b9ac-1f6936543bb6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

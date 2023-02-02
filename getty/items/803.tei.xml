@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 803</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">803</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALBERTI Andrea</author>, <title>Duo libri, prior de Perspectiva, posterior de umbra, et eius proprietatibus</title>,
+	<pubPlace>Norimbergae</pubPlace> <date>1661</date>, in fol. fig.
+	<note>Il frontespizio è figurato e vi sono 16 tavole intagliate in rame: l’opera è trattata in maniera poco utile e troppo
+	involuta per applicarla con facilità alle arti.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreæ Alberti duo libri : prior, De perspectiva, cum &amp; præter arithmeticam inventa : posterior, De umbra ad eam pertinente.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Albrecht, Andreas, d. 1628. Duo libri.</authority>
+            <authority>Albrecht, Andreas, d. 1628. Zwey Bücher. Latin. 1671.</authority>
+            <authority>Albrecht, Andreas, d. 1628. De perspectiva.</authority>
+            <authority>Albrecht, Andreas, d. 1628. De umbra.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923845690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z84q16</idno>
+            <idno>(OCoLC)3152070</idno>
+            <idno type="cico">803</idno>
+            <idno type="dcl">s5m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Andreæ Alberti duo libri : prior, De perspectiva, cum &amp; præter arithmeticam inventa : posterior, De umbra ad eam pertinente.</title>
+                  <respStmt>
+                     <persName>Albrecht, Andreas, d. 1628.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Noribergæ : apud Pauli Fürstij, b.m. viduaum &amp; heredes</publisher>
+                     <date>MDCLXXI [1671]</date>
+                     <date>1671</date>
+                  </imprint>
+                  <extent>80 [i.e., 78] p., 17 leaves of plates (12 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/cd1f9185-6107-40f0-85b2-d6f851aa9577"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cd1f9185-6107-40f0-85b2-d6f851aa9577">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreae Alberti duo libri [microform] : prior, De perspectiva, cum &amp; praeter arithmeticam inventa : posterior, De umbra ad eam pertinente.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7t4479</idno>
+            <idno type="cico">803</idno>
+            <idno type="dcl">s5m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Andreae Alberti duo libri [microform] : prior, De perspectiva, cum &amp; praeter arithmeticam inventa : posterior, De umbra ad eam pertinente.</title>
+                  <respStmt>
+                     <persName>Albrecht, Andreas, d. 1628.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Noribergae : Apud Pauli Fürstij, b.m. viduaum &amp; heredes</publisher>
+                     <date>1671</date>
+                  </imprint>
+                  <extent>80 [i.e., 78] p., [31] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1d350213-fb37-423d-b120-0a0f0ac34c24/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1d350213-fb37-423d-b120-0a0f0ac34c24/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

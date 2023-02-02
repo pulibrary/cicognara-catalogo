@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4026</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4026</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>JOVII Pauli</author>, <title>Descriptio Larii lacus</title>, <pubPlace>Venetiis</pubPlace>, <date>1559</date>, in 4, 
+                        ex officina <publisher>Stellae Jordani Ziletti</publisher>.
+<note>L’elegante opuscoletto è diretto a Francesco Sfrondato e da Dionisio Somenzio dedicato a Niccolò Sfrondato
+figlio del suddetto.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pauli Iouii Descriptio Larii lacus [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985424963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0q9s21</idno>
+            <idno type="cico">4026</idno>
+            <idno type="dcl">r2p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pauli Iouii Descriptio Larii lacus [microform].</title>
+                  <respStmt>
+                     <persName>Giovio, Paolo, 1483-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Ex officina Stellae Iordani Zilletti</publisher>
+                     <pubPlace>Como, Lake (Italy)</pubPlace>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>XXIIII leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/21ed5f1b-9c2b-46f9-afc0-74fe95734925/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/21ed5f1b-9c2b-46f9-afc0-74fe95734925/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

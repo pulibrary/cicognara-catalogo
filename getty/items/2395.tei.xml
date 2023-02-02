@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2395</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2395</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VASARI Giorgio</author>, <title>Vita di Mess. Jacopo Sansovino scultore e architetto della Repubblica di
+    Venezia</title>, 2 edizione riprodotta dall’Ab. Morelli, <pubPlace>Venezia</pubPlace> <date>1789</date>, in 4, colla veduta della libreria
+    di San Marco in principio.<note>
+    Questo dotto bibliografo riprodusse quest’opuscolo per far conoscere una recondita rarità.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di M. Jacopo Sansovino [microform] : scultore e architetto della Repubblica di Venezia / descritta da M. Giorgio Vasari e da lui medesimo ampliata, riformata e corretta.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v1532s</idno>
+            <idno type="cico">2395</idno>
+            <idno type="dcl">8k9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di M. Jacopo Sansovino [microform] : scultore e architetto della Repubblica di Venezia / descritta da M. Giorgio Vasari e da lui medesimo ampliata, riformata e corretta.</title>
+                  <respStmt>
+                     <persName>Vasari, Giorgio, 1511-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Antonio Zatta e figli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>36 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/502b997e-b31f-4aee-8806-f2c561c757dc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/502b997e-b31f-4aee-8806-f2c561c757dc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

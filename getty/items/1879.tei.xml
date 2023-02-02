@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1879</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1879</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DAVID Joannis</author>, <title>Christianus veridicus</title>, <pubPlace>Antuerpiae</pubPlace>, ex officina <publisher>Plantiniana</publisher>, <date>1608</date>, in 4, fig.
+    <note>L’edizione di questo grosso volume è nitida come tutte le Plantiniane, arricchita di 100 tavole allegoriche o
+    emblematiche, non compreso il frontespizio, intagliate nella maniera di Theod. Galle.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    Con in fine l’orbita Probitatis ove è un frontespizio con dieci pittori tutti intenti a dipingere ad aspicientes in
+    auctorem fidei.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veridicvs Christianvs / auctore P. Ioanne David, sacerdote Societatis Iesv.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galle, Théodore, 1571-1633</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926118540001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gz9w7h</idno>
+            <idno>(OCoLC)13212171</idno>
+            <idno type="cico">1879</idno>
+            <idno type="dcl">nc3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veridicvs Christianvs / auctore P. Ioanne David, sacerdote Societatis Iesv.</title>
+                  <respStmt>
+                     <persName>David, Jan, 1545?-1613.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiae : Ex officina Plantiniana, apvd Ioannem Moretvm</publisher>
+                     <date>1601</date>
+                  </imprint>
+                  <extent>[16], 374, [42] p. (the last blank), [1], 100 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e722f4c0-8283-49de-99f9-c10900f10485"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e722f4c0-8283-49de-99f9-c10900f10485">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veridicus Christianus [microform] / auctore P. Ioanne David ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cp6p2p</idno>
+            <idno type="cico">1879</idno>
+            <idno type="dcl">nc3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veridicus Christianus [microform] / auctore P. Ioanne David ...</title>
+                  <respStmt>
+                     <persName>David, Jan, 1545?-1613.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Dutch; Flemish</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae : Ex officina Plantiniana</publisher>
+                     <date>1601</date>
+                  </imprint>
+                  <extent>[17], 374 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fcd225f5-4f3b-4f77-b256-b8737b795fac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fcd225f5-4f3b-4f77-b256-b8737b795fac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

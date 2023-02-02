@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3212</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3212</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CUPERI Gisberti</author>, <title>Harpocrates sive explicatio imagunculae argenteae etc. etc. ejusdem monumenta antiqua inedita
+etc. Accedit Stephani le Moine epistola de Melanophoris</title>, Traj. ad Rhenum <date>1687</date>, in 4, figurato.
+<note>Le figure stanno distribuite fra il testo.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gisb. Cuperi Harpocrates, Sive Explicatio imagunculae argenteae perantiquae; quae in figuram Harpocratis formata representat Solem</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cupert, Gijsbert, Author</authority>
+            <authority>Le Moyne, Stephanus, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280740</idno>
+            <idno type="URI">http://portal.getty.edu/api/vh6s7v</idno>
+            <idno type="cico">3212</idno>
+            <idno type="dcl">vvg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gisb. Cuperi Harpocrates, Sive Explicatio imagunculae argenteae perantiquae; quae in figuram Harpocratis formata representat Solem</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1687</date>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>[4] Bl., 294 S., [6] Bl. (teilw. gef.), [7] Bl.</extent>
+                  <extent>zahlr. Ill. (Porträt, Textkupfer, Kupfertaf.)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/cupert1687/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/cupert1687/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gisb. Cuperi Harpocrates, sive Explicatio imagunculae argenteae perantiquae [microform] : quae in figuram Harpocratis formata representat solem : ejusdem Monumenta antiqua inedita ... / accedit Stephani Le Moine Epistola de Melanophoris.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Moyne, Stephanus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985415363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t41t04</idno>
+            <idno type="cico">3212</idno>
+            <idno type="dcl">vvg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gisb. Cuperi Harpocrates, sive Explicatio imagunculae argenteae perantiquae [microform] : quae in figuram Harpocratis formata representat solem : ejusdem Monumenta antiqua inedita ... / accedit Stephani Le Moine Epistola de Melanophoris.</title>
+                  <respStmt>
+                     <persName>Cuper, Gisbert, 1644-1716.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Trajecti ad Rhenum : Apud Franciscum Halma</publisher>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>294 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81d56a99-92fc-4e3e-9667-42b9ca4d762d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81d56a99-92fc-4e3e-9667-42b9ca4d762d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

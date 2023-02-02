@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1318</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1318</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FOSSATI</author>, <title>Orazione per la distribuzione de’ premi nella pubblica Veneta Accademia di Pittura,
+    Scultura e Architettura</title>, li 12 settembre <date>1774</date>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione recitata li 12. settembre 1774 [microform]: per la solenne distribuzione de' premj fatta per la prima volta nella pubblica Veneta accademia di pittura, scultura, ed architettura.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Regia accademia di belle arti di Venezia.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xj2r41</idno>
+            <idno type="cico">1318</idno>
+            <idno type="dcl">wz3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione recitata li 12. settembre 1774 [microform]: per la solenne distribuzione de' premj fatta per la prima volta nella pubblica Veneta accademia di pittura, scultura, ed architettura.</title>
+                  <respStmt>
+                     <persName>Fossati, Giuseppe Luigi, 1759-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Guglielmo Zerletti</publisher>
+                     <date>[1774]</date>
+                     <date>1774</date>
+                  </imprint>
+                  <extent>XXXII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ffc768cf-38c9-4980-aebe-440c9a768732/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ffc768cf-38c9-4980-aebe-440c9a768732/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

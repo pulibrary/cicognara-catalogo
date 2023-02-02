@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1612</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1612</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CANCELLIERI Francesco</author>, <title>Biblioteca ragionata degli scrittori sul giuoco degli scacchi colla
+    dissertazione di D. Benedetto Rocco napoletano sul giuoco degli scacchi da lui ristampata</title>,
+    <pubPlace>Roma</pubPlace> <date>1817</date>, in 12.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione del ch. Signore D. Benedetto Rocco, Napoletano, sul givoco degli scacchi [microform] : ristampata da Francesco Cancellieri, Romano ; con la Biblioteca ragionata degli scrittori su lo stesso givoco.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cancellieri, Francesco, 1751-1826.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h58050</idno>
+            <idno type="cico">1612</idno>
+            <idno type="dcl">tnn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione del ch. Signore D. Benedetto Rocco, Napoletano, sul givoco degli scacchi [microform] : ristampata da Francesco Cancellieri, Romano ; con la Biblioteca ragionata degli scrittori su lo stesso givoco.</title>
+                  <respStmt>
+                     <persName>Rocco, Benedetto, active 19th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso Francesco Bourlie'</publisher>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>58 p</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b3a167c3-27c5-46a7-9a18-acf3c7f4852c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b3a167c3-27c5-46a7-9a18-acf3c7f4852c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

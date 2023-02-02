@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2071</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2071</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>OFFICE (the) of the Holy Weck according to the Missal and Roman Breviory Enricht with
+  many fig. by Hollard</title>, <pubPlace>Paris</pubPlace> <date>1670</date>, in 8.
+  <note>In mar. dor. Bibl. Malborough.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The office of the holy week according to the Missall and Roman breviary [microform] / translated out of French with a new and ample explication taken out of the Holy Fathers, of the mysteries, ceremonies, gospels, lessons, psalms, and of all that belongs to this office ; enricht with many figures.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Blount, Walter Kirkham, Sir, -1717.</authority>
+            <authority>Hollar, Wenceslaus, 1607-1677.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t10d5b</idno>
+            <idno type="cico">2071</idno>
+            <idno type="dcl">f5k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The office of the holy week according to the Missall and Roman breviary [microform] / translated out of French with a new and ample explication taken out of the Holy Fathers, of the mysteries, ceremonies, gospels, lessons, psalms, and of all that belongs to this office ; enricht with many figures.</title>
+                  <respStmt>
+                     <persName>Catholic Church.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Paris : Printed by the widow Chrestien</publisher>
+                     <date>1670</date>
+                  </imprint>
+                  <extent>611 p.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/64946666-8f11-4a77-ab12-22213079651f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/64946666-8f11-4a77-ab12-22213079651f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

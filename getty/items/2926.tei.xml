@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2926</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2926</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MENEGHELLI Pier Antonio</author>, <title>Ragionamenti sopra una antichissima moneta di Padova</title>, 
+                        <pubPlace>Padova</pubPlace> <date>1803</date>, in 8.
+<note>Tutto dipende dalla lettura dell’iscrizione sulla quale non sarebbe strano il promuovere qualche dubbio.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ragionamento sopra un'antichissima moneta di Padova [microform] / dell'abate Pierantonio Meneghelli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/37213r</idno>
+            <idno type="cico">2926</idno>
+            <idno type="dcl">034</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ragionamento sopra un'antichissima moneta di Padova [microform] / dell'abate Pierantonio Meneghelli.</title>
+                  <respStmt>
+                     <persName>Meneghelli, Pierantonio, 1749-1819.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Padova : Nella stamperia del seminario</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>cxxxvi p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fb4b6e0a-8ae7-4c73-b99a-5e9afc4253b5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb4b6e0a-8ae7-4c73-b99a-5e9afc4253b5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

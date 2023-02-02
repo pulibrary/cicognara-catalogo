@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1024</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1024</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LOMAZZO Giovan Paolo</author>, <title>Rabisch dra Academiglia dor compa Zavargna Nabad dra Vall
+      Bregn ec.</title>, <pubPlace>Milano</pubPlace>, per <publisher>Paolo Goliardo Ponzio</publisher>, <date>1589</date>, in 4.
+      <note>Questo libro scritto in lingua bergamasca e in lingua milanese (preceduto da molti sonetti e altri componimenti
+      diretti all’autore in diversi dialetti) è raro e versa anche su argomenti relativi alle arti. Esemp. in vitello.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rabisch [microform] / dra academiglia dor compa zavargna nabad dra vale d'bregn ; ed tucch i sù fidigl soghit contà riceciglia dra valada or cantò di suersarigl, scianscia ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia della Val di Blenio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jg8z83</idno>
+            <idno type="cico">1024</idno>
+            <idno type="dcl">9vt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rabisch [microform] / dra academiglia dor compa zavargna nabad dra vale d'bregn ; ed tucch i sù fidigl soghit contà riceciglia dra valada or cantò di suersarigl, scianscia ...</title>
+                  <respStmt>
+                     <persName>Lomazzo, Giovanni Paolo, 1538-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Per Paolo Gottardo Pontio</publisher>
+                     <date>[1589]</date>
+                     <date>1589</date>
+                  </imprint>
+                  <extent>153, [5] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/95d986eb-1000-46ee-b844-803bbeeb653b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/95d986eb-1000-46ee-b844-803bbeeb653b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

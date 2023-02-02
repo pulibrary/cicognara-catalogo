@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1300</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1300</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOSSI Canonico</author>, <title>Orazione sopra l’utilità delle Belle Arti</title>; ossia il trionfo delle Belle Arti
+    renduto gloriosissimo sotto gli auspici di Pietro Leopoldo Gran Duca di Toscana in occasione
+    di una solenne mostra di opere di disegno antiche, <pubPlace>Firenze</pubPlace> <date>1767</date>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il trionfo delle bell'arti : renduto gloriosissimo sotto gli auspicj delle LL. AA. RR. Pietro Leopoldo, arciduca d'Austria, principe reale d'Ungheria, e di Boemia, granduca di Toscana ec. ec. ec. e Maria Luisa di Borbone, arciduchessa d'Austria, gran-duchessa di Toscana ec. ec. ec. in occasione, che gli accademici del disegno in dimostrazione di profondo rispetto verso i loro sovrani, fanno la solenne mostra delle opere antiche di più eccellenti artefici nella propria cappella, e nel chiostro secondo de' PP. della SS. Nonziata in Firenze l'anno 1767.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Stecchi, Giovanni Battista.</authority>
+            <authority>Pagani, Antonio Giuseppe.</authority>
+            <authority>Accademia delle arti del disegno (Florence, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929350880001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/cm3j04</idno>
+            <idno>(OCoLC)3889598</idno>
+            <idno type="cico">1300</idno>
+            <idno type="dcl">5zz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il trionfo delle bell'arti : renduto gloriosissimo sotto gli auspicj delle LL. AA. RR. Pietro Leopoldo, arciduca d'Austria, principe reale d'Ungheria, e di Boemia, granduca di Toscana ec. ec. ec. e Maria Luisa di Borbone, arciduchessa d'Austria, gran-duchessa di Toscana ec. ec. ec. in occasione, che gli accademici del disegno in dimostrazione di profondo rispetto verso i loro sovrani, fanno la solenne mostra delle opere antiche di più eccellenti artefici nella propria cappella, e nel chiostro secondo de' PP. della SS. Nonziata in Firenze l'anno 1767.</title>
+                  <respStmt>
+                     <persName>Bonsi, Bonso Pio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di Gio. Batista Stecchi, e Anton Giuseppe Pagani</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCCLXVII [1767]</date>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>LXVI [i.e. 56], 48 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a9b1c667-bd75-40ec-b763-f062ecd0cee5"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a9b1c667-bd75-40ec-b763-f062ecd0cee5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

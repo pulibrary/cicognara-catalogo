@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 550</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">550</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>De LUBERSAC L’abbé</author>, 
+                     <title>Discours sur les monuments pubblics de tous les âges et de tous les
+	peuples connus, suivi d’une description du monument projeté à la gloire de Lovis XVI et de la
+	France,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1755,</date> 
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discours sur les monumens publics de tous les âges et de tous les peuples connus [microform] : suivi d'une description de monument projeté à la gloire de Louis XVI &amp; de la France : terminé par quelques observations sur les principaux monumens modernes de la ville de Paris, &amp; plusieurs projets de décoration &amp; d'utilité publique pour cette capitale / par M. l'abbé de Lubersac ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vs2911</idno>
+            <idno type="cico">550</idno>
+            <idno type="dcl">zv3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discours sur les monumens publics de tous les âges et de tous les peuples connus [microform] : suivi d'une description de monument projeté à la gloire de Louis XVI &amp; de la France : terminé par quelques observations sur les principaux monumens modernes de la ville de Paris, &amp; plusieurs projets de décoration &amp; d'utilité publique pour cette capitale / par M. l'abbé de Lubersac ...</title>
+                  <respStmt>
+                     <persName>Lubersac, M. l'abbé de (Charles-François), 1730-1804.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'Imprimerie de Clousier</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>[14], viij, 228, lxxix p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81d11b4a-d426-4e40-83cc-cb4e9c3b5bcd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81d11b4a-d426-4e40-83cc-cb4e9c3b5bcd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

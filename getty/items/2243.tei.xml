@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2243</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2243</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CONDIVI Ascanio de la ripa Transone</author>,<title> Vita di Michel Angelo Buonarroti</title>, in <pubPlace>Roma</pubPlace>, presso
+    <publisher>Antonio Blado</publisher>, <date>1553</date> a 16 Luglio in 4, pic. Prima edizione.
+    <note>Libretto assai raro e prezioso per esser stato scritto da un contemporaneo e amico di Michelangelo. Il
+    frontespizio è seguito d’una dedica al papa, di un avviso ai lettori e il testo della vita occupa 50 foglietti.
+    Bellissimo esemplare.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Michelagnolo Buonarroti [microform] / raccolta per Ascanio Condivi da la Ripa Transone.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7p8890</idno>
+            <idno type="cico">2243</idno>
+            <idno type="dcl">jp0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Michelagnolo Buonarroti [microform] / raccolta per Ascanio Condivi da la Ripa Transone.</title>
+                  <respStmt>
+                     <persName>Condivi, Ascanio, approximately 1520-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Antonio Blado</publisher>
+                     <date>Nel 1553 alli 16. di Luglio</date>
+                     <date>1553</date>
+                  </imprint>
+                  <extent>50 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5952ef49-2132-478f-b553-bed86e349e7a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5952ef49-2132-478f-b553-bed86e349e7a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

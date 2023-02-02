@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 481</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">481</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>COSTA Jo. Fran.</author>
+                     <pubPlace> veneto,</pubPlace> 
+                     <title>Aliquot aedificiorum ad Grecorum Romanorumquie morem
+	extructorum schemata inventa,</title>
+                     <extent> aereque incisa, in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aliquot aedificio ad graecor romanorumque morem estructorum schemata inventa aereque incisa [microform] / ab Jo. Francisco Costa ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/495q78</idno>
+            <idno type="cico">481</idno>
+            <idno type="dcl">fjz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aliquot aedificio ad graecor romanorumque morem estructorum schemata inventa aereque incisa [microform] / ab Jo. Francisco Costa ...</title>
+                  <respStmt>
+                     <persName>Costa, Jo. Francisco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[16--]</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>12 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1857a260-6fd3-47c9-8f83-93a325176c29/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1857a260-6fd3-47c9-8f83-93a325176c29/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1036</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1036</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>RIME in morte di Giampietro Zanotti</title>, <pubPlace>Bologna</pubPlace> <date>1766</date>, in 8.
+      <note>Scrissero in quest’occasione uomini sommi Frugoni, Paradisi, Bonafede, Fusconi, Savioli, Cassiani, Pagnini,
+      Scarselli, Soave, Cesarotti e molti altri. Col ritratto del Zanotti in fronte.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rime in morte di Giampietro Zanotti fra gli Arcadi Trisalgo Larisseate [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Maluezzi, Floriano.</authority>
+            <authority>Arcadi Trisalgo Larisseate.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/15134q</idno>
+            <idno type="cico">1036</idno>
+            <idno type="dcl">mzg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rime in morte di Giampietro Zanotti fra gli Arcadi Trisalgo Larisseate [microform]</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperìa di Lelio dalla Volpe</publisher>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>55 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c5757704-00a3-42c4-b190-e628738ba787/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c5757704-00a3-42c4-b190-e628738ba787/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

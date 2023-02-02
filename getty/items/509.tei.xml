@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 509</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">509</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>FREART Laurent</author>, 
+                     <title>Le même parallele,</title> 
+                     <pubPlace>Paris,</pubPlace> 
+                     <publisher>chez Jombert,</publisher> seconde édition, <date>sans date, </date>
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parallele de l'architecture antique et de la moderne [microform] / contenant les profils des plus beaux edifices de Rome, comparés avec les dix principaux autheurs qui ont écrit des cinq ordres, scavoir, Palladio et Scamozzi, Serlio et Vignole, D. Barbaro et Cataneo, L.B. Alberti et Viola, Bullant et De Lorme ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mk9c2b</idno>
+            <idno type="cico">509</idno>
+            <idno type="dcl">85h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Parallele de l'architecture antique et de la moderne [microform] / contenant les profils des plus beaux edifices de Rome, comparés avec les dix principaux autheurs qui ont écrit des cinq ordres, scavoir, Palladio et Scamozzi, Serlio et Vignole, D. Barbaro et Cataneo, L.B. Alberti et Viola, Bullant et De Lorme ...</title>
+                  <respStmt>
+                     <persName>Fréart, Roland, sieur de Chambray, 1606-1676.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Charles Antoine Jombert</publisher>
+                     <date>[After 1676]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>100 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/38da1410-84ad-4b0f-ad2d-173cc8d5b306/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/38da1410-84ad-4b0f-ad2d-173cc8d5b306/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 331</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">331</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>LAIRESSE</author>, 
+                     <title>Les principes du dessein ou methode courte <pb type="cico" n="58"/> et facile pour apprendre cet art
+
+	en peu de temps,</title> 
+                     <pubPlace>Amsterdam,</pubPlace> 
+                     <publisher>chez David Mortier,</publisher> 
+                     <date>1719,</date>
+                     <extent> in f. fig. avec 120 planches.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les principes du dessein, ou, Methode courte et facile pour aprendre cet art en peu de tems [microform] / par ... Gerard de Lairesse.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cx9v4q</idno>
+            <idno type="cico">331</idno>
+            <idno type="dcl">2ch</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les principes du dessein, ou, Methode courte et facile pour aprendre cet art en peu de tems [microform] / par ... Gerard de Lairesse.</title>
+                  <respStmt>
+                     <persName>Lairesse, Gérard de, 1640-1711.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez David Mortier</publisher>
+                     <date>1719</date>
+                  </imprint>
+                  <extent>24 p., [116] leaves of plates</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a2e65e4c-2e3d-4f7f-8cdd-ca525202727e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a2e65e4c-2e3d-4f7f-8cdd-ca525202727e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

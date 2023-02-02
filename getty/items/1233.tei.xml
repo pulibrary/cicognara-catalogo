@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1233</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1233</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BONI Mauro</author>, <title>Di alcune pitture antiche scoperte in Venezia, conto reso all’Ab. Lanzi</title>, <pubPlace>Venezia</pubPlace>
+    <date>1806</date>, in 8, M. 36.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Di alcune pitture antiche nuovamente scoperte in Venezia [microform]: conto reso al chiariss. Sig. Ab. Luigi Lanzi, autore della Storia Pittorica Italiana.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/337173</idno>
+            <idno type="cico">1233</idno>
+            <idno type="dcl">kfx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Di alcune pitture antiche nuovamente scoperte in Venezia [microform]: conto reso al chiariss. Sig. Ab. Luigi Lanzi, autore della Storia Pittorica Italiana.</title>
+                  <respStmt>
+                     <persName>Boni, Mauro, 1746-1817.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venice : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1806]</date>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>16 p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/45e12094-fd4e-43cf-bb13-aabe715efd5a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/45e12094-fd4e-43cf-bb13-aabe715efd5a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

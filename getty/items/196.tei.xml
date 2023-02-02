@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 196</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">196</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>REVELLI Vincenzo Antonio</author>,
+                     <title> Opere filosofiche pittoriche dedicati a’ professori ed amatori delle
+	  belle arti,</title> 
+                     <pubPlace>Torino</pubPlace> 
+                     <date>1797,</date> 
+                     <extent>in 4 gr., t.</extent> I cui va annesso un piccolo atlante in foglio di 13 tav.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opere filosofico-pittoriche [microform] / di Vincenzo Antonio Revelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985259743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vr1k51</idno>
+            <idno type="cico">196</idno>
+            <idno type="dcl">vfm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opere filosofico-pittoriche [microform] / di Vincenzo Antonio Revelli ...</title>
+                  <respStmt>
+                     <persName>Revelli, Vincenzo Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Dalla Reale Stamperia</publisher>
+                     <pubPlace>Art</pubPlace>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>1 v.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99884986-9374-473c-87fc-40db5a816a49/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99884986-9374-473c-87fc-40db5a816a49/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opere filosofico-pittoriche / di Vincenzo Antonio Revelli.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287596</idno>
+            <idno type="URI">http://portal.getty.edu/api/w82j9d</idno>
+            <idno>(OCoLC)1157287596</idno>
+            <idno type="cico">196</idno>
+            <idno type="dcl">vfm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opere filosofico-pittoriche / di Vincenzo Antonio Revelli.</title>
+                  <respStmt>
+                     <persName>Revelli, Vincenzo Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Dalla Reale Stamperia</publisher>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>1 online resource (364 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072000772584"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072000772584">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

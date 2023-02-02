@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1094</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1094</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FLAXMAN Giovanni</author>, <title>La Divina Commedia di Dante Alighieri incisa da Tomaso Piroli</title>, <pubPlace>Roma</pubPlace>
+      <date>1803</date>, tav. 38.
+      <note>Queste tavole riguardano i soli canti dell’Inferno, in 4, oblong.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Divina comedia di Dante Alighieri [microform] : cioè l'Inferno, il Purgatorio, ed il Paradiso / composito da Giovanni Flaxman ... ed inciso da Tommaso Piroli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dante Alighieri, 1265-1321. Divina commedia.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7x0020</idno>
+            <idno type="cico">1094</idno>
+            <idno type="dcl">xnf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Divina comedia di Dante Alighieri [microform] : cioè l'Inferno, il Purgatorio, ed il Paradiso / composito da Giovanni Flaxman ... ed inciso da Tommaso Piroli ...</title>
+                  <respStmt>
+                     <persName>Piroli, Tommaso, approximately 1752-1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome?] : Si vende dall' incisore</publisher>
+                     <date>[1802]</date>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>38 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5a74714c-f57a-4527-a683-94b21a7dee48/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5a74714c-f57a-4527-a683-94b21a7dee48/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

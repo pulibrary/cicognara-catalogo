@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2553</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2553</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALLATII Leonis</author>, <title>Animadversiones in antiquitatum etruscarum fragmenta ab Inghiramo edita</title>,0 <pubPlace>Parisiis</pubPlace>, <date>1640</date>, ap.
+<publisher>Seb. Cramoysi</publisher>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leonis Allatii Animadversiones in antiquitatum etruscarum fragmenta [microform] / ab Inghiramio edita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Inghirami, Curzio, 1614-1655.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5m6c00</idno>
+            <idno type="cico">2553</idno>
+            <idno type="dcl">6w4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Leonis Allatii Animadversiones in antiquitatum etruscarum fragmenta [microform] / ab Inghiramio edita.</title>
+                  <respStmt>
+                     <persName>Allacci, Leone, 1586-1669.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Sebastianum Cramoisy</publisher>
+                     <pubPlace>Etruria</pubPlace>
+                     <date>1640</date>
+                  </imprint>
+                  <extent>[8], 203, [4] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5cde897a-ddc5-4e90-ac32-01b59ac9d578/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5cde897a-ddc5-4e90-ac32-01b59ac9d578/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leonis Allatii Animadversiones In Antiqvitatvm Etrvscarvm Fragmenta</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Allacci, Leone, Author</authority>
+            <authority>Inghirami, Curzio, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-133900</idno>
+            <idno type="URI">http://portal.getty.edu/api/w80898</idno>
+            <idno type="cico">2553</idno>
+            <idno type="dcl">6w4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Leonis Allatii Animadversiones In Antiqvitatvm Etrvscarvm Fragmenta</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Etrurien</pubPlace>
+                     <date>1640</date>
+                     <date>1640</date>
+                  </imprint>
+                  <extent>[4] Bl., 203, [1] S., [2] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1640/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1640/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

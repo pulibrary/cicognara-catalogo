@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1854</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1854</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BONOMI Fran. bononiensis</author>, <title>Chiron Achiilis sive navarchus humanae vitae morali emblemate
+    geminato ad felicitatis portum perducens</title>, <pubPlace>Bononiae</pubPlace> <date>1661</date>, in 12, fig.
+    <note>Frontespizio figurato con 51 tavole degli emblemi principali, senza tener conto di molte altre piccole figure in
+    legno stampate fra il testo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Io: Francisci Bonomij Bononiensis Chiron Achillis, sive, Nauarchus humanae vitae [microform] : morali emblemate geminato ad felicitatis portum perducens ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/47215w</idno>
+            <idno type="cico">1854</idno>
+            <idno type="dcl">0km</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Io: Francisci Bonomij Bononiensis Chiron Achillis, sive, Nauarchus humanae vitae [microform] : morali emblemate geminato ad felicitatis portum perducens ...</title>
+                  <respStmt>
+                     <persName>Bonomi, Gian Francesco, 1626-1705.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Typis HH. de Duccijs</publisher>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>[32], 408 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8f53b12a-7f8f-4a35-915c-658e676959ba/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8f53b12a-7f8f-4a35-915c-658e676959ba/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

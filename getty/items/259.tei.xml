@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 259</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">259</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>FOURNIER</author>, 
+                     <title>Dissertation sur l’origine et les progrès de l’art de graver en bois pour éclaircir
+	quelques traits de l’hostoire de l’imprimerie et prouver que Guttemberg n’est pas l’inventeur,</title>
+	                    <pubPlace>Paris</pubPlace>, <publisher>Darbou</publisher>, <date>1758</date>,<extent> 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertation sur l'origine et les progrès de l'art de graver en bois [microform] : pour éclaircir quelques traits de l'histoire de l'imprimerie, &amp; prouver que Guttemberg n'en est pas l'inventeur / par Mr. Fournier le jeune.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b00z41</idno>
+            <idno type="cico">259</idno>
+            <idno type="dcl">x4z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertation sur l'origine et les progrès de l'art de graver en bois [microform] : pour éclaircir quelques traits de l'histoire de l'imprimerie, &amp; prouver que Guttemberg n'en est pas l'inventeur / par Mr. Fournier le jeune.</title>
+                  <respStmt>
+                     <persName>Fournier, le jeune (Pierre Simon), 1712-1768.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : J. Barbou</publisher>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>92, [3] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5b4e53c1-f274-446f-a981-0b175c36c50a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5b4e53c1-f274-446f-a981-0b175c36c50a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4733</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4733</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MUSSARDUS P.</author>, <title>Historia Deorum fatidicorum, vatum, sybillarum Phoebarum apud priscos illustrium, cum eorum
+iconibus</title>, <pubPlace>Genevae</pubPlace> <date>1675</date>, in 8, figurato.
+<note>Colle tavole degl’indovini e delle sibille intagliate in rame alla maniera dei de Bry. Opera non comune.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Historia deorum fatidicorum, vatum, sibyllarum, phoebadum, apud priscos illustrium : cum eorum iconibus : præposita est dissertatio de divinatione et oraculis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926427480001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/h81v6j</idno>
+            <idno>(OCoLC)38685585</idno>
+            <idno type="cico">4733</idno>
+            <idno type="dcl">xrk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Historia deorum fatidicorum, vatum, sibyllarum, phoebadum, apud priscos illustrium : cum eorum iconibus : præposita est dissertatio de divinatione et oraculis.</title>
+                  <respStmt>
+                     <persName>Mussard, Pierre, 1627-1686</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Genevae : Sumptibus Petri Chovët</publisher>
+                     <date>1675</date>
+                  </imprint>
+                  <extent>[8], 249 [i.e. 239], [5] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6a46fde7-11ba-451d-bb83-bbade7b5a605"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6a46fde7-11ba-451d-bb83-bbade7b5a605">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

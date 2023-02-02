@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 633</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">633</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>RIVII Gualtherii</author> medici et math., <title>Insigniorum utiliorumque rerum ad totam architecturam
+	pertinentium, nec non mathematicarum et mechanicarum artium apta atque perspicua
+	institutio ad veram Vitruvii doctrinam accomodata, in tres praecipuos libros divisa etc.,</title>
+	                    <pubPlace>Norimbergae,</pubPlace> typ. <publisher>Jo. Petreii,</publisher> 
+                     <date>1547,</date> 
+                     <extent>in fol.</extent> 
+	In lingua tedesca.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Der furnembsten, notwendigsten, der gantzen Architectur angehörigen mathematischen vnd mechanischen Künst, eygentlicher Bericht, vnd vast klare, verstendliche Vnterrichtung, zu rechtem verstandt der lehr Vitruuij, in drey furneme Bücher abgetheilet [microform] : als Der newen Perspectiua das I. buch Vom rechten gewissen Geometrischen grund ... : weiteren inhalt des II. vnd III. Buchs der Geometrischen Büxenmeisterey, vnd Geometrischen Messung ... / durch Gualterum H. Riuium Medi. &amp; Math. ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k34m1z</idno>
+            <idno type="cico">633</idno>
+            <idno type="dcl">50f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Der furnembsten, notwendigsten, der gantzen Architectur angehörigen mathematischen vnd mechanischen Künst, eygentlicher Bericht, vnd vast klare, verstendliche Vnterrichtung, zu rechtem verstandt der lehr Vitruuij, in drey furneme Bücher abgetheilet [microform] : als Der newen Perspectiua das I. buch Vom rechten gewissen Geometrischen grund ... : weiteren inhalt des II. vnd III. Buchs der Geometrischen Büxenmeisterey, vnd Geometrischen Messung ... / durch Gualterum H. Riuium Medi. &amp; Math. ...</title>
+                  <respStmt>
+                     <persName>Ryff, Walther Hermann, -1548.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Zu Nürnberg : Truckts Johan Petreius</publisher>
+                     <date>Anno 1547</date>
+                     <date>1547</date>
+                  </imprint>
+                  <extent>1 v. (various pagings)</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7e4f316d-026c-4b14-8b87-36cd4cac8609/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7e4f316d-026c-4b14-8b87-36cd4cac8609/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

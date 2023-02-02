@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2012</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2012</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De CHERTABLON</author>, <title>La Maniere de se bien preparer à la mort par des considerations sur la Passion
+  et la Mort de I. C. avec de très belles estampes emblématiques expliquées chez George Gallet</title>,
+  à <pubPlace>Anverse</pubPlace> <date>1700</date>, in 4.
+  <note>Sonovi 40 tavole allegoriche intagliate con brio di punta e con imaginazione sregolata da R. de Hooghe.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La maniere de se bien preparer a la mort par des considerations sur la cene, la passion, &amp; la mort de Jesus-Christ [microform] : avec de trés-belles estampes emblematiques / expliquées par Mr. de Chertablon ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hooghe, Romeyn de, 1645-1708.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6p796m</idno>
+            <idno type="cico">2012</idno>
+            <idno type="dcl">rvj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La maniere de se bien preparer a la mort par des considerations sur la cene, la passion, &amp; la mort de Jesus-Christ [microform] : avec de trés-belles estampes emblematiques / expliquées par Mr. de Chertablon ...</title>
+                  <respStmt>
+                     <persName>Chertablon, Mr. de</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Anvers : Chez George Gallet</publisher>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>63 p., 42 leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/19458398-6123-4502-92f0-5e43113ea9c9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/19458398-6123-4502-92f0-5e43113ea9c9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

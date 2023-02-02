@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2453</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2453</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PINTIO M. Paulo</author>, <title>Fisonomia naturale: raccolta brevemente da gli libri di antichi e moderni fi
+    <pb type="cico" n="412"/> losofi novamente messa in luce</title>, <pubPlace>Roma</pubPlace>, presso <publisher>Vincenzo Lucrino</publisher>, <date>1555</date>, in 8.
+    <note>Sono alcune figure intagliate in legno fra il testo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fisionomia naturale [microform] / di M. Paulo Pintio ; brevemente racolta da gli libri de antichi &amp; moderni filosophi ; nouamente messa in luce.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vq7n4m</idno>
+            <idno type="cico">2453</idno>
+            <idno type="dcl">wfm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Fisionomia naturale [microform] / di M. Paulo Pintio ; brevemente racolta da gli libri de antichi &amp; moderni filosophi ; nouamente messa in luce.</title>
+                  <respStmt>
+                     <persName>Pintio, Paulo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Vincenzo Lucrino</publisher>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>75 p.</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cf950c0a-9f1b-4d2b-b89a-af319013b9cd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cf950c0a-9f1b-4d2b-b89a-af319013b9cd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

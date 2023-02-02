@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4280</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4280</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>STORICA dimostrazione della città di Padova nelle parti principali con note, e critiche osservazioni</title>, <pubPlace>Padova</pubPlace> <date>1767</date>,
+in 12, fig.
+<note>In questo libretto con accorgimento vennero riunite molte nozioni, e operette sparse che illustrano le cose
+pregievoli della città.</note>
+<pb type="cico" n="279"/>
+                     </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storica dimostrazione della città di Padova nelle parti sue principali [microform] : con note, e critiche osservazioni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985426583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/238g1h</idno>
+            <idno type="cico">4280</idno>
+            <idno type="dcl">8pk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storica dimostrazione della città di Padova nelle parti sue principali [microform] : con note, e critiche osservazioni.</title>
+                  <respStmt>
+                     <persName>Meschinello, Giovanni.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Per li Conzatti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>35, 47, 132, 42 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d214e2b1-228a-4625-9fcf-7ad57143361c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d214e2b1-228a-4625-9fcf-7ad57143361c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

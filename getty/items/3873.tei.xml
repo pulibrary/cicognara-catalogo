@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3873</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3873</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SANDRART Jacobi</author>, <title>Insignium Romae templorum prospectus exteriores, et interiores, septuaginta tribus figuris
+aere incisis in lucem editi</title>, <pubPlace>Norimbergae</pubPlace>, in fol.
+<note>Non può lodarsi la scelta delle chiese intagliate in queste tavole, essendo eccessivo il numero di quelle che in
+quanto al gusto non onorano la capitale del mondo cristiano, e il centro delle buone arti.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Insignium Romae templorum prospectus [microform] : exteriores et interiores a celebrioribus architectis inuenti nunc tandem suis cum plantis ac mensuris, septuaginta tribus figuris aeri incisis, in luce editi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rd859s</idno>
+            <idno type="cico">3873</idno>
+            <idno type="dcl">zfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Insignium Romae templorum prospectus [microform] : exteriores et interiores a celebrioribus architectis inuenti nunc tandem suis cum plantis ac mensuris, septuaginta tribus figuris aeri incisis, in luce editi.</title>
+                  <respStmt>
+                     <persName>Sandrart, Joachim von, 1606-1688.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae : Sumptibus Ioannis Iacobi de Sandrart</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1691?]</date>
+                     <date>1691</date>
+                  </imprint>
+                  <extent>[ca. 76] leaves</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5c61b53b-3b23-4df3-87bd-19a4cacb3bb4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5c61b53b-3b23-4df3-87bd-19a4cacb3bb4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

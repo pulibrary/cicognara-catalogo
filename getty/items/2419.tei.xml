@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2419</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2419</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZORZI M. Angelo</author>, <title>Vita del Sig, Conte Camillo Silvestri nobile di Rovigo, con varie
+    osservazioni al suo museo spettanti</title>, <pubPlace>Padova</pubPlace> <date>1720</date>, in 4, M. 64.
+    <note>Col ritratto del Silvestri in principio. Si rende conto in quest’opera dei marmi, antichità, medaglie, raccolte in
+    Rovigo da questo letterato.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita del signor conte Cammillo Silvestri, nobile di Rovigo e padre della romana erudizione [microform] : adornata di varie osservazioni al suo museo spettanti, e copiosa di molte altre notizie istoriche, critiche, e letterarie ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6k8f1w</idno>
+            <idno type="cico">2419</idno>
+            <idno type="dcl">nzj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita del signor conte Cammillo Silvestri, nobile di Rovigo e padre della romana erudizione [microform] : adornata di varie osservazioni al suo museo spettanti, e copiosa di molte altre notizie istoriche, critiche, e letterarie ...</title>
+                  <respStmt>
+                     <persName>Zorzi, Michelangelo, 1671-1744.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padoa : Presso Giambattista Conzatti</publisher>
+                     <date>1720</date>
+                  </imprint>
+                  <extent>144, [8] p.</extent>
+                  <extent>3 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cef73d73-7e0a-405a-b3fa-be90667ef558/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cef73d73-7e0a-405a-b3fa-be90667ef558/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

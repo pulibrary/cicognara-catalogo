@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 830</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">830</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COSTA. Gio. Francesco</author>, <title>Elementi di prospettiva per uso degli architetti e pittori</title>, <pubPlace>Venezia</pubPlace> <date>1747</date>,
+	in 8, fig.
+	<note>Opera elementare per uso delle scuole con 22 tavole intagliate in rame.</note>
+	
+	<pb type="cico" n="154"/>
+	              </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elementi di prospettiva per uso degli architetti, e pittori esposti [microform] / da Gianfrancesco Costa ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985234293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dg4m1w</idno>
+            <idno type="cico">830</idno>
+            <idno type="dcl">mkd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elementi di prospettiva per uso degli architetti, e pittori esposti [microform] / da Gianfrancesco Costa ...</title>
+                  <respStmt>
+                     <persName>Costa, Giovanni Francesco, 1711-1773.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : [s.n.]</publisher>
+                     <date>1747</date>
+                  </imprint>
+                  <extent>30 p., XXII folded leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ddc52d9b-1394-4c5f-8f3a-dfd8042c7b68/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ddc52d9b-1394-4c5f-8f3a-dfd8042c7b68/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2435</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2435</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CORVII Andreae mirandulensis</author>, <title>Liber de chiromantia</title>, <pubPlace>Venetiis</pubPlace>, per <publisher>Georgium de Rusconibus</publisher>,
+    <date>1520</date>, in 8, fig.
+    <note>Il frontespizio veramente è così espresso: Excellentissimi at singularis viris, in chiromantia exercitatissimi,
+    Magistri Andreae Corvi mirandulensis. L’opera è dedicata a Gio. Francesco Gonzaga con 157 tavole e il testo
+    sotto ciascuna, stampata in caratteri gotici; è raro.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Excellentissimi et singularis viri, in chiromantia exercitatissimi magistri Andree Corvi mirandulensis [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tq1v43</idno>
+            <idno type="cico">2435</idno>
+            <idno type="dcl">fw6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Excellentissimi et singularis viri, in chiromantia exercitatissimi magistri Andree Corvi mirandulensis [microform]</title>
+                  <respStmt>
+                     <persName>Corve, André.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Impressum Venetijs : Per Georgium de Rusconibus</publisher>
+                     <date>Anno 1520, die 22 Maij</date>
+                     <date>1520</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f763b0cb-841f-444b-ab0c-6fa2f05d92dc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f763b0cb-841f-444b-ab0c-6fa2f05d92dc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

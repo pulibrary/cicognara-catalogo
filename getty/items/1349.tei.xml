@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1349</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1349</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REGOLAMENTI</author>, <title>Réglemens et statuts, ordonnances, et reglémens de la Communauté des
+    Maîtres de l’Art de la Peinture</title>, <pubPlace>Paris</pubPlace> <date>1672</date>, in 4.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statuts, ordonnances et reglements de la Communauté des maistres de l'art de peinture &amp; sculpture, graueure &amp; enlumineure de cette ville &amp; fauxbourgs de Paris .. [microform] : auec les sentences &amp; arrests donnez en consequence tant de la junction de l'academie, contracts passez que verification d'iceux.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vm8822</idno>
+            <idno type="cico">1349</idno>
+            <idno type="dcl">zv5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Statuts, ordonnances et reglements de la Communauté des maistres de l'art de peinture &amp; sculpture, graueure &amp; enlumineure de cette ville &amp; fauxbourgs de Paris .. [microform] : auec les sentences &amp; arrests donnez en consequence tant de la junction de l'academie, contracts passez que verification d'iceux.</title>
+                  <respStmt>
+                     <persName>Communauté des maistres de l'art de peinture &amp; sculpture, graveure &amp; enlumineure de la ville &amp; fauxbourgs de Paris.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre Boüillerot</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1672</date>
+                  </imprint>
+                  <extent>1 v. (various pagings)</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/14c72df6-a333-47c3-b028-662d9ec142e6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/14c72df6-a333-47c3-b028-662d9ec142e6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

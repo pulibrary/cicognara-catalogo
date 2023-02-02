@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2349</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2349</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>POMPEI Girolamo</author>, <title>Orazione in morte di Giambettino Cignaroli pittor veronese ed alcune
+    poetiche composizioni sullo stesso argomento</title>, <pubPlace>Verona</pubPlace> <date>1771</date>, in 4, M. 11.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione in morte di Giambettino Cignaroli ed alcune poetiche composizioni sopra lo stesso argomento [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985458243506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zx1r22</idno>
+            <idno type="cico">2349</idno>
+            <idno type="dcl">xbv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione in morte di Giambettino Cignaroli ed alcune poetiche composizioni sopra lo stesso argomento [microform].</title>
+                  <respStmt>
+                     <persName>Pompei, Girolamo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Nella stamperia di Marco Moroni</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>40+ p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/41ad7a8a-3e7d-41e6-9d44-97a6e6dc7ce8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/41ad7a8a-3e7d-41e6-9d44-97a6e6dc7ce8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,113 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2336</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2336</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>NOTIZIE patrie spettanti alle arti del disegno</title>, <pubPlace>Torino</pubPlace> <date>1792</date>, libretto di 11 pagine in 8.
+    <pb type="cico" n="396"/>— <bibl>Aggiuntovi: <title>Elogio del Molinari</title>. <pubPlace>Torino</pubPlace> <date>1793</date>, altro opuscolo di 14 pagine.
+    <note>Crediamo che il dotto Baron Vernazza ne sia l’autore.</note>
+                    </bibl>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie patrie spettanti alle arti del disegno [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vt3r2g</idno>
+            <idno type="cico">2336</idno>
+            <idno type="dcl">hp0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie patrie spettanti alle arti del disegno [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Nella stamperia Reale</publisher>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>11 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bb47f6e0-6dc3-4e16-bc02-b59246451f59/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb47f6e0-6dc3-4e16-bc02-b59246451f59/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio del Molinari [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sv029m</idno>
+            <idno type="cico">2336</idno>
+            <idno type="dcl">52x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio del Molinari [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Nella stamperia Reale</publisher>
+                     <date>1793</date>
+                  </imprint>
+                  <extent>14 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/da3832d2-0a02-428c-add5-62b79ed36944/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/da3832d2-0a02-428c-add5-62b79ed36944/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

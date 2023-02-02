@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 984</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">984</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FALAGIANI Giannandrea</author>, <title>Della generazione dei colori</title>, libri tre, poema, <pubPlace>Lucca</pubPlace> <date>1745</date>, in 8.
+      <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+      <note>Il libro è dedicato alla sig. Elisabecta Corsini ne’ Ginori.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della generazione de' colori [microform] : libri tre ... / dal Gio. Andrea Falagiani.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hq6j2s</idno>
+            <idno type="cico">984</idno>
+            <idno type="dcl">3sp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della generazione de' colori [microform] : libri tre ... / dal Gio. Andrea Falagiani.</title>
+                  <respStmt>
+                     <persName>Falagiani, Gio. Andrea (Giovanni Andrea)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Dom. Giuffetti et Filippo Maria Benedini</publisher>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>77, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b0967a42-82e3-4a57-8d82-25c8231030f8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b0967a42-82e3-4a57-8d82-25c8231030f8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

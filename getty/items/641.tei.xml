@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 641</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">641</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>RUSCONI Giovanni Antonio</author>, 
+                     <title>Lo stesso nuovamente ristampato e accresciuto della pratica degli
+	orologi solari,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1660,</date> 
+                     <publisher>appresso Niccolini.</publisher>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I Dieci Libri D'Architettvra Di Gio: Antonio Rvsconi: Secondo i precetti di Vitruuio, nouamente ristampati, &amp; accresciuti della Prattica degl'Horologi Solari</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rusconi, Giovanni Antonio, Author</authority>
+            <authority>Vitruvius, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-36472</idno>
+            <idno type="URI">http://portal.getty.edu/api/0f4n3n</idno>
+            <idno type="cico">641</idno>
+            <idno type="dcl">8sg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I Dieci Libri D'Architettvra Di Gio: Antonio Rvsconi: Secondo i precetti di Vitruuio, nouamente ristampati, &amp; accresciuti della Prattica degl'Horologi Solari</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1660</date>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>[6] Bl., 148 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/rusconi1660/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/rusconi1660/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I dieci libri d'architettvra / di Gio: Antonio Rvsconi, secondo i precetti di Vitruuio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rusconi, Giovanni Antonio, 1520?-1587, translator.</authority>
+            <authority>Vitruvius Pollio. De architectura</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924519120001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/td5z98</idno>
+            <idno>(OCoLC)3487673</idno>
+            <idno type="cico">641</idno>
+            <idno type="dcl">8sg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I dieci libri d'architettvra / di Gio: Antonio Rvsconi, secondo i precetti di Vitruuio.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso il Nicolini</publisher>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>[12], 148 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/5736c2c0-aa88-4849-87be-f69610cd115d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5736c2c0-aa88-4849-87be-f69610cd115d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

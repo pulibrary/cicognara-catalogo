@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2108</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2108</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>STEPHANI de Laune</author>, <title>Figura mensium cum privilegio regis</title>, in fol. obl.
+  <note>Sono 11 tavole di questo accuratissimo intagliatore, ove espresse i dodici mesi dell’anno con i rispettivi soggetti
+  allegorici. Ciascun soggetto è contornato dai simboli graziosamente intrecciati ed in una cartellina sta un distico
+  relativo. La marca S. si trova nel primo. L’esemplare è di bellissima conservazione.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Figure mensium] [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pb172f</idno>
+            <idno type="cico">2108</idno>
+            <idno type="dcl">zv7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Figure mensium] [microform].</title>
+                  <respStmt>
+                     <persName>Delaune, Etienne, 1519-1553.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[154-?]</date>
+                     <date>1540</date>
+                  </imprint>
+                  <extent>11 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f22ea34a-7415-419e-b1dd-bacee8ea2b63/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f22ea34a-7415-419e-b1dd-bacee8ea2b63/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

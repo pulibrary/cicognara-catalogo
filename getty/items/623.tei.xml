@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 623</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">623</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>PREISLER (Justin)</author>, 
+                     <title>Ornamenti d’architettura,</title> 
+                     <pubPlace>Norimberga</pubPlace> 
+                     <date>1734,</date>
+                     <extent> in 4, fig.</extent> in tedesco.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ornamenti d'architettura [microform] : architectorische Verzierungen aus verschiedenen ... Gebäuden in und ausser Rom zusammen getragen ... den Studierenden der Architectur auch andern Liebhabern / mitgetheilet von Joh. Justin Preisler.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4h9q84</idno>
+            <idno type="cico">623</idno>
+            <idno type="dcl">3s3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ornamenti d'architettura [microform] : architectorische Verzierungen aus verschiedenen ... Gebäuden in und ausser Rom zusammen getragen ... den Studierenden der Architectur auch andern Liebhabern / mitgetheilet von Joh. Justin Preisler.</title>
+                  <respStmt>
+                     <persName>Preissler, Johann Justin, 1698-1771.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>[Nuremberg] : Zu finden bey Georg Martin Preistler in Nürnberg</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1734]</date>
+                     <date>1734</date>
+                  </imprint>
+                  <extent>[12] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dc4c3d30-273a-42f9-94f6-fda4e56ad8b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dc4c3d30-273a-42f9-94f6-fda4e56ad8b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

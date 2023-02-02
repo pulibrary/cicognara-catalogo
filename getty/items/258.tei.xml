@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 258</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">258</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>Evelyn Jean.</author>, 
+                     <title>Sculptura, or the history and art of calchography and engraving in copper. With
+	  an ample enumeration of the most renowned masters and their works etc.,</title> 
+                     <pubPlace>London</pubPlace> 
+                     <date>1662</date>,<extent> in 9,
+	  figurato. </extent>Colla stampa del Principe Roberto e con l’elegante frontispizio intagliato da A
+	  Hertocks, come è detto a pag. 81.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sculptura, or, The history and art of chalcography and engraving in copper [microform] : with an ample enumeration of the most renowned masters and their works : to which is annexed a new manner of engraving, or mezzo tinto, communicated by His Highness Prince Rupert to the authour of this treatise.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rupert, Prince, Count Palatine, 1619-1682.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941563506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2j1s66</idno>
+            <idno type="cico">258</idno>
+            <idno type="dcl">2cj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sculptura, or, The history and art of chalcography and engraving in copper [microform] : with an ample enumeration of the most renowned masters and their works : to which is annexed a new manner of engraving, or mezzo tinto, communicated by His Highness Prince Rupert to the authour of this treatise.</title>
+                  <respStmt>
+                     <persName>Evelyn, John, 1620-1706.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by J.C. for G. Beedle and T. Collins [etc.]</publisher>
+                     <date>1662</date>
+                  </imprint>
+                  <extent>148 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/27d2a4ad-c555-484a-bb36-c43fd12c3ea3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/27d2a4ad-c555-484a-bb36-c43fd12c3ea3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

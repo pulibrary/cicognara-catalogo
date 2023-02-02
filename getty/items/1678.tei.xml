@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1678</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1678</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ITALIAN Scenery</author>, <note>Vedi Bonaiuti</note>.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Italian scenery [microform] : representing the manners, customs, and amusements of the different states of Italy / containing thirty-two coloured engravings by James Godby from original drawings by P. van Lerberghi ; the narrative by M. Buonaiuti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Godby, J. (James), active 1798-1812.</authority>
+            <authority>Lerberghi, P. van.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bm4b9t</idno>
+            <idno type="cico">1598</idno>
+            <idno type="dcl">pjs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Italian scenery [microform] : representing the manners, customs, and amusements of the different states of Italy / containing thirty-two coloured engravings by James Godby from original drawings by P. van Lerberghi ; the narrative by M. Buonaiuti.</title>
+                  <respStmt>
+                     <persName>Buonaiuti, S. (Serafino)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>London : E. Orme</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>74 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6dbc0c54-44f0-4538-aa19-2f2e95eabff6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6dbc0c54-44f0-4538-aa19-2f2e95eabff6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

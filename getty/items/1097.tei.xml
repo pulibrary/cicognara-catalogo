@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1097</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1097</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GESSNER Salomon</author>, <title>Oeuvres</title> vol. 3, in 4, <pubPlace>Paris</pubPlace>. Traduite en françois par Huber, Meister, et
+      l’abbé Bruté de Loreille, <date>1786-93. Les figures sont d’après les desseins de le Barbier.
+      Edizione elegantissima e di molto lusso per le tavole numerose e le vignette di cui è arrichita; esemplare
+      magnifico in vit. dor.</date>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeuvres de Salomon Gessner [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0p4f5g</idno>
+            <idno type="cico">1097</idno>
+            <idno type="dcl">7g9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oeuvres de Salomon Gessner [microform].</title>
+                  <respStmt>
+                     <persName>Gessner, Salomon, 1730-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris, Chés l'auteur des estampes rue Bergere, veuve Herissant à Notre-Dame, Barrois l'ainé quai des Augustins</publisher>
+                     <date>[1786?-93]</date>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>14 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ae29881a-d42f-4280-bdd2-bbfd5bc917b5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ae29881a-d42f-4280-bdd2-bbfd5bc917b5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

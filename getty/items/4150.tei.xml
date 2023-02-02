@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4150</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4150</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SCOTTI Francisci</author>, <title>Itinerariae Italiae rerumque romanarum libri tres</title>, <pubPlace>Antuerpiae</pubPlace>,
+                        ex officina <publisher>Plantiniana</publisher>, <date/>1600, in
+12.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ItinerarI Italiae rerumq[ue] romanarum libri tres [microform] / a Franc. Schotto ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985429073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7n6b9k</idno>
+            <idno type="cico">4150</idno>
+            <idno type="dcl">dp4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>ItinerarI Italiae rerumq[ue] romanarum libri tres [microform] / a Franc. Schotto ...</title>
+                  <respStmt>
+                     <persName>Schottus, Franciscus, 1548-1622.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae : Ex officina Plantiniana :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>453 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/33939060-d5cd-4efd-90c2-a56cc4529cad/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/33939060-d5cd-4efd-90c2-a56cc4529cad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Itinerari[i] Italiae Rervmq[ue] Romanarvum Llibri Ttres</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Schottus, Franciscus, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280131</idno>
+            <idno type="URI">http://portal.getty.edu/api/nn4v8v</idno>
+            <idno type="cico">4150</idno>
+            <idno type="dcl">dp4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Itinerari[i] Italiae Rervmq[ue] Romanarvum Llibri Ttres</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Italien</pubPlace>
+                     <date>1600</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>[12] Bl., 453, [2] S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/schottus1600/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/schottus1600/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 729</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">729</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VITRUVIE</author>, <title>L’architecture generale de Vitruve reduite en abregé par M. Perrault</title>, <pubPlace>Amsterdam</pubPlace>
+	<date>1681</date>, in 8 fig.
+	<note>Non differisce quest’edizione da quella del 1674 se non in alcune parole del frontespizio ed è egualmente nitida e
+	corretta colle stesse tavole in rame.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architecture generale de Vitruve [microform] : reduite en abregé / par Mr. Perrault ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Perrault, Claude, 1613-1688.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985186343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nx9j9f</idno>
+            <idno type="cico">729</idno>
+            <idno type="dcl">rk7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architecture generale de Vitruve [microform] : reduite en abregé / par Mr. Perrault ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Amsterdam : Aux dépens des Huguetan ;</publisher>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>[22], 224, [48] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6a397431-ea3a-4754-8d3f-373ea4197ea4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a397431-ea3a-4754-8d3f-373ea4197ea4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architecture generale de Vitruve / reduite en abregé par Mr. Perrault de l'Academie des sciences à Paris.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Perrault, Claude, 1613-1688</authority>
+            <authority>Gallet, George, active 17th century-18th century.</authority>
+            <authority>Huguetan (Firm)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921838470001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jc5524</idno>
+            <idno>(OCoLC)771948835</idno>
+            <idno type="cico">729</idno>
+            <idno type="dcl">rk7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architecture generale de Vitruve / reduite en abregé par Mr. Perrault de l'Academie des sciences à Paris.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Amsterdam [i.e. Lyon?] : Aux dépens des Huguetan, et se vend chez George Gallet sur le Keyser Graft</publisher>
+                     <pubPlace>Netherlands Amsterdam.</pubPlace>
+                     <pubPlace>France Lyon.</pubPlace>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>[24], 224, [48] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/dc7e99e4-6f20-4be9-bc3f-5af161b8bae3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dc7e99e4-6f20-4be9-bc3f-5af161b8bae3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

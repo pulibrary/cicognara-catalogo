@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4238</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4238</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DESCRIZIONE della Villa Silva in Cinisello</title>, <pubPlace>Monza</pubPlace> <date>1811</date>, in 8.
+<note>Il proprietario della villa è l’estensore dell’opera sui giardini inglesi, ed autore del rimodernamento della sua
+villa.</note>
+<pb type="cico" n="274"/>
+                     </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della Villa Silva in Cinisello.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925413890001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/p07690</idno>
+            <idno>(OCoLC)23515527</idno>
+            <idno type="cico">4238</idno>
+            <idno type="dcl">z2c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della Villa Silva in Cinisello.</title>
+                  <respStmt>
+                     <persName>Silva, Ercole, 1756-1840</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Monza : Dalla tipografia di Luca Corbetta</publisher>
+                     <pubPlace>Cinisello Balsamo (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>53 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/5ffd6c8a-26e4-4c91-a9e7-8d6bf29a23a8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5ffd6c8a-26e4-4c91-a9e7-8d6bf29a23a8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della Villa Silva in Cinisello [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985426413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hd484m</idno>
+            <idno type="cico">4238</idno>
+            <idno type="dcl">z2c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della Villa Silva in Cinisello [microform].</title>
+                  <respStmt>
+                     <persName>Silva, Ercole, 1756-1840.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Monza : L. Corbetta</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>53 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d66e81e5-d36f-4f53-b36c-44d1169392f4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d66e81e5-d36f-4f53-b36c-44d1169392f4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

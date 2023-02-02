@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 92</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">92</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BOWYER</author>,
+                     <title> Origin of printing in two essays,</title>
+                     <date> 1786,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The origin of printing [microform] : in two essays ... : with occasional remarks, and an appendix.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Meerman, Gerard, 1722-1771. Origines typographicae.</authority>
+            <authority>Middleton, Conyers, 1683-1750. Dissertation concerning the origin of printing in England.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bd4984</idno>
+            <idno type="cico">92</idno>
+            <idno type="dcl">c8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The origin of printing [microform] : in two essays ... : with occasional remarks, and an appendix.</title>
+                  <respStmt>
+                     <persName>Bowyer, William, 1699-1777.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for W. Bowyer and J. Nichols</publisher>
+                     <pubPlace>England</pubPlace>
+                     <date>1776 [1781]</date>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>xvi, 300 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/48f79bce-951f-428d-b2d1-52217967f7fe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/48f79bce-951f-428d-b2d1-52217967f7fe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

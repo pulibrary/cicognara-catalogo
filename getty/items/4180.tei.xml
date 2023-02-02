@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4180</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4180</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>NOTIZIE dell’origine e progressi dell’Instituto delle Scienze di Bologna e sue Accademie</title>, <pubPlace>Bologna</pubPlace> <date>1780</date>, in 8, <note>con
+                           quattro tavole in fine</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie dell'origine e progressi dell'Instituto delle scienze di Bologna e sue accademie [microform] : con la descrizione di tutto ciò, che nel medesimo conservasi / nuovamente compilate ... per ordine, e comandamento degl'illustrissimi ... signori senatori dell stesso instituto prefetti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g26t96</idno>
+            <idno type="cico">4180</idno>
+            <idno type="dcl">qg6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie dell'origine e progressi dell'Instituto delle scienze di Bologna e sue accademie [microform] : con la descrizione di tutto ciò, che nel medesimo conservasi / nuovamente compilate ... per ordine, e comandamento degl'illustrissimi ... signori senatori dell stesso instituto prefetti.</title>
+                  <respStmt>
+                     <persName>Accademia delle scienze dell'Istituto di Bologna.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nell'Instituto delle scienze</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>207 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/73ca2a49-c77b-4163-bc32-8a87a1e3ba06/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/73ca2a49-c77b-4163-bc32-8a87a1e3ba06/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

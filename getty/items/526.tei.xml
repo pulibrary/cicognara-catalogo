@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 526</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">526</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>GUARINI Padre D. Guarino</author>, 
+                     <title>Architettura civile, opera postuma dedicata a S. R. Maestà,</title> 
+                     <pubPlace>Torino</pubPlace>
+	                    <date>1737,</date> 
+                     <extent>vol. 2 in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architettura civile [microform] : opera postuma / del padre d. Guarino Guarini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4m2h4h</idno>
+            <idno type="cico">526</idno>
+            <idno type="dcl">mzb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architettura civile [microform] : opera postuma / del padre d. Guarino Guarini.</title>
+                  <respStmt>
+                     <persName>Guarini, Guarino, 1624-1683.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Appresso Gianfrancesco Mairesse</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>[8], 307, [1] p., [80] leaves of plates</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/10c028fe-8d05-4ada-9757-ce41ca055d87/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/10c028fe-8d05-4ada-9757-ce41ca055d87/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architettura civile, del padre d. Guarino Guarini cherico regolare : opera postuma.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Guienotti, Francesco, fl. 1686-1693.</authority>
+            <authority>Abbiati, Giuseppe, fl. 1678-1700.</authority>
+            <authority>Fayneau, Giovanni, fl. 1686.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928529380001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/bp5j89</idno>
+            <idno>(OCoLC)3375967</idno>
+            <idno type="cico">526</idno>
+            <idno type="dcl">mzb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architettura civile, del padre d. Guarino Guarini cherico regolare : opera postuma.</title>
+                  <respStmt>
+                     <persName>Guarini, Guarino, 1624-1683 author, draftsman.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Torino : Appresso Gianfrancesco Mairesse all'insegna di Santa Teresa di Gesù</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>M. DCC. XXXVII [1737]</date>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>[8], 307, [1] pages, [80] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/cf86d290-8885-41ac-a379-75be7c0603e0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cf86d290-8885-41ac-a379-75be7c0603e0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2244</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2244</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CONDIVI Ascanio de la ripa Transone</author>, <title>Vita di Michel Angelo Buonarroti pittore, scultore,
+    architetto e gentiluomo fiorentino</title>. Seconda edizione accresciuta. <pubPlace>Firenze</pubPlace> <date>1746</date>, in 4, grande.
+    <note>Con molte annotazioni ed illustrazioni del Cori, di Mariette e il compendio della vita scritta dal Vasari ec. e 18
+    intagli in rame collocati fra il testo relativi alla sua effigie, alle sue opere, al monumento scolpitogli ec.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Michelagnolo Buonarroti, pittore, scultore, architetto e gentiluomo fiorentino [microform] / pubblicata mentre viveva dal suo scolare Ascanio Condivi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rc421v</idno>
+            <idno type="cico">2244</idno>
+            <idno type="dcl">0pk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Michelagnolo Buonarroti, pittore, scultore, architetto e gentiluomo fiorentino [microform] / pubblicata mentre viveva dal suo scolare Ascanio Condivi.</title>
+                  <respStmt>
+                     <persName>Condivi, Ascanio, approximately 1520-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Per Gaetano Albizzini</publisher>
+                     <date>1746</date>
+                  </imprint>
+                  <extent>xxx, 160 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/34dfd8ec-c788-4cc5-8ca7-fdaddd4204b7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34dfd8ec-c788-4cc5-8ca7-fdaddd4204b7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

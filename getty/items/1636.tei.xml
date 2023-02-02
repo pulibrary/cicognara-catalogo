@@ -1,0 +1,69 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1636</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1636</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DRAGONI Ab. Antonio</author>, <title>Metodo aritmetico degli antichi Romani</title>, <pubPlace>Cremona</pubPlace> <date>1811</date>, in 8, M. 36.
+    <pb type="cico" n="283"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sul metodo aritmetico degli antichi romani / ricerche dell'ab. Antonio Dragoni.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990018263160203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/mp8c7z</idno>
+            <idno>(OCoLC)20831172</idno>
+            <idno type="cico">1636</idno>
+            <idno type="dcl">c6c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sul metodo aritmetico degli antichi romani / ricerche dell'ab. Antonio Dragoni.</title>
+                  <respStmt>
+                     <persName>Dragoni, Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Cremona : Dai tipi di G. Feraboli</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>136 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494117027"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494117027">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

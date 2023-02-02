@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 874</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">874</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZANNOTTI Eustachio</author>, <title>Trattato teorico, pratico di prospettiva</title>, <pubPlace>Bologna</pubPlace> <date>1766</date>, in 4, fig.
+      <note>Questo eccellente e chiarissimo trattato è dimostrato con facilità di metodo in 55 figure impresta in 11 gran
+      tavole.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato teorico-pratico di prospettiva [microform] / di Eustachio Zanotti ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297733506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8g287z</idno>
+            <idno type="cico">874</idno>
+            <idno type="dcl">hw6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato teorico-pratico di prospettiva [microform] / di Eustachio Zanotti ....</title>
+                  <respStmt>
+                     <persName>Zanotti, Eustachio, 1709-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella Stamperia di Lelio dalla Volpe</publisher>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>[6], 207 p., [11] folded leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9f0ae5d1-955f-447a-8d34-a2095ebe2345/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9f0ae5d1-955f-447a-8d34-a2095ebe2345/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato teorico-pratico di prospettiva / di Eustachio Zanotti ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926428720001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7j8x1j</idno>
+            <idno>(OCoLC)6568643</idno>
+            <idno type="cico">874</idno>
+            <idno type="dcl">hw6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato teorico-pratico di prospettiva / di Eustachio Zanotti ...</title>
+                  <respStmt>
+                     <persName>Zanotti, Eustachio, 1709-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperia di Lelio Dalla Volpe</publisher>
+                     <pubPlace>Italy Bologna.</pubPlace>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>[6], 207, [1] p., 11 folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/31d8bbb3-abde-4c32-8503-06519cc93589"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/31d8bbb3-abde-4c32-8503-06519cc93589">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

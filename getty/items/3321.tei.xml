@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3321</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3321</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REISCH Gregor</author>, <title>Margarita filosofica nella quale si trattano tutte le dottrine comprese nella ciclopedia accresciuta
+di molte belle dottrine da Orazio Fines, di nuovo tradotta in italiano da Paolo Gallucci Salodiano</title>, <pubPlace>Venezia</pubPlace>, <date>1599</date>,
+fig., in 4, presso <publisher>Barezzo Barezzi</publisher>.
+<note>Le figure in quest’edizione sono d’un cattivo intaglio in legno. Vedi Margarita.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Margarita filosofica del R.P.E. Gregorio Reisch nella quale si tratta[n]no tutte le dottrine comprese nella ciclopedia [microform] : accresciuta di molte belle dottrine da Oro[n]tio Fineo / di novo tradotta in italiano da. Gio. Paolo Gallucci ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fine, Oronce, 1494-1555.</authority>
+            <authority>Gallucci, Giovanni Paolo, 1538-1621?</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z4169d</idno>
+            <idno type="cico">3321</idno>
+            <idno type="dcl">gzt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Margarita filosofica del R.P.E. Gregorio Reisch nella quale si tratta[n]no tutte le dottrine comprese nella ciclopedia [microform] : accresciuta di molte belle dottrine da Oro[n]tio Fineo / di novo tradotta in italiano da. Gio. Paolo Gallucci ...</title>
+                  <respStmt>
+                     <persName>Reisch, Gregor, -1525.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venegia : Presso Barezzo Barezzi e Compagni</publisher>
+                     <date>1599</date>
+                  </imprint>
+                  <extent>[24], 1138 p.</extent>
+                  <extent>18 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9f9b187f-00c1-4c69-8fc5-2b241e727da3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9f9b187f-00c1-4c69-8fc5-2b241e727da3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

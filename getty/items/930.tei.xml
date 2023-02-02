@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 930</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">930</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HERRONE</author>, La stessa traduzione dell’Aleotti, <pubPlace>Bologna</pubPlace> <date>1647</date>, in 4, pic. fig.
+      <note>Le tavole vennero imitate, ma non sono le stesse della prima edizione di Ferrara.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gli artificiosi e curiosi moti spiritali [microform] / di Herone ; tradotti da M. Gio: Battista Aleotti ... ; aggiontoui dal medesimo quattro theoreminon [i.e. theorem i] men belli, &amp; curiosi de gli altri ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aleotti, Giambattista, 1546-1636.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c57s11</idno>
+            <idno type="cico">930</idno>
+            <idno type="dcl">wcd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gli artificiosi e curiosi moti spiritali [microform] / di Herone ; tradotti da M. Gio: Battista Aleotti ... ; aggiontoui dal medesimo quattro theoreminon [i.e. theorem i] men belli, &amp; curiosi de gli altri ...</title>
+                  <respStmt>
+                     <persName>Hero, of Alexandria</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Carlo Zenero</publisher>
+                     <date>1647</date>
+                  </imprint>
+                  <extent>[8], 103, [8] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5fdcca03-3d1a-4adb-a722-017be0d8d75d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5fdcca03-3d1a-4adb-a722-017be0d8d75d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

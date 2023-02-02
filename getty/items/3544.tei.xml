@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3544</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3544</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PREISLERII Joan. Justini</author>, <title>Statuae insigniores in italico itinere delineatae</title>,
+                        <pubPlace>Norimbergae</pubPlace> <date>1736</date>, in fol. fig. Contiene
+tav. 21 compresovi il frontespizio.
+<note>Sono queste le statue meglio incise, che siansi finora riscontrate nelle antiche collezioni. Le prove di questo
+esemplare sono di prima impressione.</note>
+<pb type="cico" n="163"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statuae insigniores / a Io. Iust. Preislero in italico itinere delineatae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Preissler, Georg Martin, 1700-1754, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923600750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/176p8j</idno>
+            <idno>(OCoLC)1114304401</idno>
+            <idno type="cico">3544</idno>
+            <idno type="dcl">rvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Statuae insigniores / a Io. Iust. Preislero in italico itinere delineatae.</title>
+                  <respStmt>
+                     <persName>Preissler, Johann Justin, 1698-1771</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Nuremberg] : Ge. Mart. Preisler</publisher>
+                     <pubPlace>Germany Nuremberg.</pubPlace>
+                     <date>1736</date>
+                  </imprint>
+                  <extent>[21] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/554e7ae0-9363-40ab-9c43-ede01ea700be"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/554e7ae0-9363-40ab-9c43-ede01ea700be">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

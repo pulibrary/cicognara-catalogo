@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3793</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3793</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MILIZIA Francesco</author>, <title>Roma delle belle arti del disegno</title>, <pubPlace>Bassano</pubPlace> <date>1787</date>, in 8.
+<note>In altri luoghi in proposito di questo autore abbiamo fatto bastevoli osservazioni.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma delle belle arti del disegno. Parte primo. Dell'architettura civile [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cf702h</idno>
+            <idno type="cico">565</idno>
+            <idno type="dcl">jzd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma delle belle arti del disegno. Parte primo. Dell'architettura civile [microform]</title>
+                  <respStmt>
+                     <persName>Milizia, Francesco, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : [G. Remondini]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>210 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/589b25fa-5fb2-40ef-a9aa-14cb1de544af/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/589b25fa-5fb2-40ef-a9aa-14cb1de544af/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma delle belle arti del disegno. Parte primo. Dell'architettura civile.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Remondini (Firm)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924381600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z8736z</idno>
+            <idno>(OCoLC)146165393</idno>
+            <idno type="cico">565</idno>
+            <idno type="cico">3793</idno>
+            <idno type="dcl">jzd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma delle belle arti del disegno. Parte primo. Dell'architettura civile.</title>
+                  <respStmt>
+                     <persName>Milizia, Francesco, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : [Giuseppe Remondini]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Bassano del Grappa.</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>210, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/654a75b8-5991-4b47-9d22-c35715111036"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/654a75b8-5991-4b47-9d22-c35715111036">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

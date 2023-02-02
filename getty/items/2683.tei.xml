@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2683</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2683</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MILLIN Aubin Louis</author>, <title>Description des tombeaux qui ont été decouverts à Pompej l’année 1812</title>, <pubPlace>Napoli</pubPlace> <date>1813</date>, in 8,
+fig.
+<note>Con sette grandi tavole in rame.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des tombeaux qui ont été découverts à Pompeï dans l'anée 1812 [microform] / par A.L. Millin.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t47p0x</idno>
+            <idno type="cico">2683</idno>
+            <idno type="dcl">865</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des tombeaux qui ont été découverts à Pompeï dans l'anée 1812 [microform] / par A.L. Millin.</title>
+                  <respStmt>
+                     <persName>Millin, A. L. (Aubin Louis), 1759-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Naples : L'Imprimerie royale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>100 p., vii leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e832c205-6c4d-48fd-9beb-bc3cba3ce24b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e832c205-6c4d-48fd-9beb-bc3cba3ce24b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des tombeaux qui ont été découverts à Pompei̇ dans
+                l'anée 1812 / par A.L. Millin.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990039937770203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/zr6f1q</idno>
+            <idno>(OCoLC)16517535</idno>
+            <idno type="cico">2683</idno>
+            <idno type="dcl">865</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des tombeaux qui ont été découverts à Pompei̇ dans
+                l'anée 1812 / par A.L. Millin.</title>
+                  <respStmt>
+                     <persName>Millin, A. L. (Aubin Louis), 1759-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Naples : L'Imprimerie royale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>100 pages, vii folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:450514334"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:450514334">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

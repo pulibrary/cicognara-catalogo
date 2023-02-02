@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 864</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">864</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>THERIACA Vespasiano</author>, <title>Discorso e ragionamento di Ombre</title>, <pubPlace>Roma</pubPlace>, per <publisher>Antonio Biado</publisher>, <date>1551</date>,
+	M. 54.
+	<note>Questo libro tratta dell’ombra portata dai corpi per la privazion della luce. Opuscoletto di qualche rarità.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso et ragionamento di l'ombre [microform] / di M. Vespasiano Theriaca [pseud].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/680557</idno>
+            <idno type="URI">http://portal.getty.edu/api/8h4r6p</idno>
+            <idno type="URI">http://portal.getty.edu/api/jz3f3z</idno>
+            <idno type="cico">864</idno>
+            <idno type="dcl">w2m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso et ragionamento di l'ombre [microform] / di M. Vespasiano Theriaca [pseud].</title>
+                  <respStmt>
+                     <persName>Theriaca, Vespasiano.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Antonium Bladum</publisher>
+                     <date>1551</date>
+                  </imprint>
+                  <extent>[23] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3859d7f4-55c8-4450-b059-22fcde0b196a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3859d7f4-55c8-4450-b059-22fcde0b196a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

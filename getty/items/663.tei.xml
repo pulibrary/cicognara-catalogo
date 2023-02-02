@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 663</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">663</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>SERLIO Sebastiano</author>, 
+                     <title>Regole generali per l’architettura sopra le cinque maniere degli edifici, cioè
+	toscano, dorico, ionico, corinthio, composito con gli esempi dell’antiquità, che per la maggior
+	parte concordano con la dottrina di Vitruvio,</title> 
+                     <date>1540,</date> 
+                     <pubPlace>Venezia,</pubPlace>
+                     <publisher> per Francesco Marcolini</publisher> da Forlì,
+	con nuove addizioni e con privilegi.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regole generali di architettvra sopra le cinqve maniere de gliedifici : cioè, thoscano, dorico, ionico, corinthio, e composito, con gliessempi de l'antiqvita, che per la maggior parte concordano con la dottrina di Vitrvvio / di Sabastiano Serlio Bolognese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926491740001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jx906s</idno>
+            <idno>(OCoLC)3497308</idno>
+            <idno type="cico">663</idno>
+            <idno type="dcl">p8j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regole generali di architettvra sopra le cinqve maniere de gliedifici : cioè, thoscano, dorico, ionico, corinthio, e composito, con gliessempi de l'antiqvita, che per la maggior parte concordano con la dottrina di Vitrvvio / di Sabastiano Serlio Bolognese.</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per Francesco Marcolini da Forli</publisher>
+                     <date>M.D.XXXX [1540]</date>
+                     <date>1540</date>
+                  </imprint>
+                  <extent>lxxvi leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a0badb1d-04d9-44b1-903b-c603cd2a559e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a0badb1d-04d9-44b1-903b-c603cd2a559e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

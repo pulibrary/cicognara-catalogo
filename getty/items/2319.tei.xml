@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2319</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2319</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>MEMORIE istoriche di più uomini illustri pisani</title>, vol. 4, <pubPlace>Pisa</pubPlace> <date>1790 a 1792</date>, in 4.
+    <note>Trovatisi in questi volumi alcune notizie de’ primi ristauratori delle arti in Italia, ma non estese con quella
+    profondità abbondante di critica, che speransi: sonovi alcune tavole collocate fra il testo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie istoriche di più uomini illustri pisani [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5d1r92</idno>
+            <idno type="URI">http://portal.getty.edu/api/x6146v</idno>
+            <idno type="URI">http://portal.getty.edu/api/vx2b1c</idno>
+            <idno type="URI">http://portal.getty.edu/api/2t7q7j</idno>
+            <idno type="URI">http://portal.getty.edu/api/675w2z</idno>
+            <idno type="URI">http://portal.getty.edu/api/q88879</idno>
+            <idno type="URI">http://portal.getty.edu/api/937t76</idno>
+            <idno type="URI">http://portal.getty.edu/api/ft1n1k</idno>
+            <idno type="cico">2319</idno>
+            <idno type="dcl">1kk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie istoriche di più uomini illustri pisani [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Presso Ranieri Prosperi</publisher>
+                     <pubPlace>Pisa (Italy)</pubPlace>
+                     <date>1790-1792</date>
+                     <date>1790</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>27 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/51dd4896-e93c-45bf-8331-bcff4373455e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/51dd4896-e93c-45bf-8331-bcff4373455e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

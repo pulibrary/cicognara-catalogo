@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 68</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">68</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ALBERTI Leon Battista</author>,
+                     <title> Della pittura e della statua colla vita di Leon B. Alberti scritta dal
+	  Tiraboschi ed altri, </title>
+                     <pubPlace>Milano </pubPlace>
+                     <date>1804,</date>
+                     <extent> in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della pittura e della statua di Leonbatista Alberti [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartoli, Cosimo, 1503-1572.</authority>
+            <authority>Tiraboschi, Girolamo, 1731-1794.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wk952x</idno>
+            <idno type="cico">68</idno>
+            <idno type="dcl">zz0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della pittura e della statua di Leonbatista Alberti [microform]</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla Società tipografica de'Classici italiani</publisher>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>xxvii, 136 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/92612064-c1c2-43df-88b0-f451820af04f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/92612064-c1c2-43df-88b0-f451820af04f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

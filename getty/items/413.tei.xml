@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 413</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">413</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BARCA Alessandro</author>, 
+                     <title>Saggio sopra il bello di proporzione in architettura,</title> 
+                     <pubPlace>Bassano</pubPlace> 
+                     <date>1806,</date> 
+                     <extent>in 4,
+	fig. M. 76.</extent>
+	                    <note>Opera ripiena di cognizioni profonde, dedicata a Jacopo Quarerighi architetto, con quattro grandi tavole.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio sopra il bello di proporzione in architettura [microform] / di Alessandro Barca.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/613g26</idno>
+            <idno type="cico">413</idno>
+            <idno type="dcl">prz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio sopra il bello di proporzione in architettura [microform] / di Alessandro Barca.</title>
+                  <respStmt>
+                     <persName>Barca, Alessandro, 1741-1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : Remondiniana</publisher>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>xx, 74 p., 5 folded leaves of plates</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ff6e94f4-671c-479e-8c8a-444f18e3334f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff6e94f4-671c-479e-8c8a-444f18e3334f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio sopra il bello di proporzione in architettura / di Alessandro Barca.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Noale, Antonio, 1776-approximately 1837.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930449030001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/hm6x6m</idno>
+            <idno>(OCoLC)8139896</idno>
+            <idno type="cico">413</idno>
+            <idno type="dcl">prz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio sopra il bello di proporzione in architettura / di Alessandro Barca.</title>
+                  <respStmt>
+                     <persName>Barca, Alessandro, 1741-1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : Tipografia Remondiniana</publisher>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>xx, 74 p., 5 folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c21b16ab-1fa3-4250-980f-8545af7b60a0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c21b16ab-1fa3-4250-980f-8545af7b60a0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

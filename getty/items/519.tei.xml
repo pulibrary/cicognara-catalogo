@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 519</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">519</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>GRAPALDI Francisci Maria</author>, 
+                     <title>De partibus aedium cum additamentis: Franciscus Ugoletus
+	parmensis impressit anno 1506, die decimo Maii,</title> 
+                     <extent>in 4, parv.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francisci Marii Grapaldi De partibus aedium [microform] : cum additamentis ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xj348g</idno>
+            <idno type="cico">519</idno>
+            <idno type="dcl">rnh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Francisci Marii Grapaldi De partibus aedium [microform] : cum additamentis ...</title>
+                  <respStmt>
+                     <persName>Grapaldi, Francisco Mario, approximately 1464-1515.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Parma] : Franciscus Ugoletus Parmensis impressit</publisher>
+                     <date>1506</date>
+                  </imprint>
+                  <extent>[16], 157 [i.e. 147], [1] leaves (the last leaf blank)</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4e792cb7-4cd3-4c29-a37f-9f4c7e99565b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4e792cb7-4cd3-4c29-a37f-9f4c7e99565b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francisci Marii Grapaldi De partibus ædium cum additamentis ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923078293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w8724n</idno>
+            <idno>(OCoLC)03372671</idno>
+            <idno type="cico">519</idno>
+            <idno type="dcl">rnh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Francisci Marii Grapaldi De partibus ædium cum additamentis ...</title>
+                  <respStmt>
+                     <persName>Grapaldi, Francisco Mario, approximately 1464-1515.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Parma, F. Vgoletus]</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>[1506]</date>
+                     <date>1506</date>
+                  </imprint>
+                  <extent>16 p. l., 157 (i. e. 147) numb. l.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/485acfb6-0b60-499a-9d72-87e2508d1d93/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/485acfb6-0b60-499a-9d72-87e2508d1d93/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

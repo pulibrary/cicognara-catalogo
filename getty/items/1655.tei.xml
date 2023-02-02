@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1655</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1655</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FRANCO Giacomo</author>, <title>Habiti delle donne veneziane intagliati in rame nuovamente</title>, tav. 20 in fol.
+    senz’anno.
+    <note>In amendue i libri il frontespizio presenta la pianta di Venezia e il Ponte di Rialto. Il primo è senza testo colla
+    dedica e il ritratto di D. Vincenzo Gonzaga e il secondo col testo latino e italiano dedicato al fisico
+    Eccellentissimo sig. Fabio Glissenti: sono due opere tra loro diverse, ore nessuna tavola è ripetuta, meno quella
+    del frontezpizio.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Habiti delle donne venetiane intagliate in rame nuouamente [microform] / da Giacomo Franco.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jf0q3k</idno>
+            <idno type="cico">1655</idno>
+            <idno type="dcl">22z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Habiti delle donne venetiane intagliate in rame nuouamente [microform] / da Giacomo Franco.</title>
+                  <respStmt>
+                     <persName>Franco, Giacomo, 1550-1620.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venice : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[before 1610]</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>20 leaves, 20 leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/803fb98d-4c28-49f2-83f2-5d14fa7024b0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/803fb98d-4c28-49f2-83f2-5d14fa7024b0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

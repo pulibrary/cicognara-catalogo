@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2400</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2400</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VETTORI Giovanni Battista</author>, <title>Memoria intorno alla vita e alle opere del Capitano Francesco
+    Marchi</title>, <pubPlace>Modena</pubPlace> <date>1816</date>, in 4, fig., M. 77.
+    <note>Con un bel ritratto in fronte al volume intagliato da Rosaspina e quattro gran tavole al fine. È interessantissima
+    ogni produzione dell’ab. Venturi. In questa rimarcasi un’aggiunta di molti articoli alla bibliografia di
+    fortificazione inserita nell’edizione di Roma del Marchi.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoria intorno alla vita ed alle opere del Capitano Francesco Marchi [microform] : presentata al Cesareo-Regio Instituto di Scienze ed Arti in Milano il giorno 4 Aprile, 1816 / dal Giovanni Battista Venturi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985459763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6n7w0f</idno>
+            <idno type="cico">2400</idno>
+            <idno type="dcl">xvh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoria intorno alla vita ed alle opere del Capitano Francesco Marchi [microform] : presentata al Cesareo-Regio Instituto di Scienze ed Arti in Milano il giorno 4 Aprile, 1816 / dal Giovanni Battista Venturi.</title>
+                  <respStmt>
+                     <persName>Venturi, Giovanni Battista, 1746-1822.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Presso la Società tipografia</publisher>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>59 p., 4 folded leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b9821fe4-8790-4e36-a49a-9cb9ca6a091a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b9821fe4-8790-4e36-a49a-9cb9ca6a091a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

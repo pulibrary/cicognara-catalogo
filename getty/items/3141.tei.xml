@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3141</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3141</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PAULOVICH Lucich. Joan Josephi</author>, <title>Marmora Macarensia oblivioni et injuriae temporum subtracta</title>, <pubPlace>Venetiis</pubPlace> <date>1789</date>,
+in 4, fig., M. 30.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marmora macarensia [microform] : obliviori &amp; injuriae temporum subtracta / opera &amp; studio Joan. Josehi Paulovich Luccich ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985453433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j67z55</idno>
+            <idno type="cico">3141</idno>
+            <idno type="dcl">wc3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marmora macarensia [microform] : obliviori &amp; injuriae temporum subtracta / opera &amp; studio Joan. Josehi Paulovich Luccich ...</title>
+                  <respStmt>
+                     <persName>Pavlović-Lučić, Ivan Josip.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : [s.n.]</publisher>
+                     <pubPlace>Croatia</pubPlace>
+                     <date>Anno 1769</date>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>36 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2778d595-8bb0-4daa-82c5-cde7c4485abe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2778d595-8bb0-4daa-82c5-cde7c4485abe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

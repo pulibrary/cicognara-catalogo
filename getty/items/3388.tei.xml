@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3388</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3388</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>EXPLICATION des tableaux de la Galérie de Versailles, et de ses deux sallons</title>, <pubPlace>Versailles</pubPlace> <date>1687</date>, in 12, figurato.
+<note>Da una nota sul frontespizio di questo esemplare si riconosce essere stata questa operetta fatta da Rainsait,
+ripubblicata poi da Massé. Vedasi anche l’altro esemplare di Massé al suo luogo.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explication des tableaux de la galerie de Versailles et de ses deux sallons.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Giffart, Pierre, 1638-1723</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926809470001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6v5c58</idno>
+            <idno>(OCoLC)146013683</idno>
+            <idno type="cico">3388</idno>
+            <idno type="dcl">00b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Explication des tableaux de la galerie de Versailles et de ses deux sallons.</title>
+                  <respStmt>
+                     <persName>Rainssant, Pierre, approximately 1640-1689</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Versailles : De l'imprimerie de François Muguet</publisher>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>102, [2] p., [3] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/9a849933-9633-4cf2-bf5d-175899a23d0a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/9a849933-9633-4cf2-bf5d-175899a23d0a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explication des tableaux de la galerie de Versailles et de ses deux sallons [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/376k5p</idno>
+            <idno type="cico">3388</idno>
+            <idno type="dcl">00b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Explication des tableaux de la galerie de Versailles et de ses deux sallons [microform].</title>
+                  <respStmt>
+                     <persName>Rainssant, Pierre, approximately 1640-1689.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Versailles : De l'imprimerie de François Muguet</publisher>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>102 p., [3] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7aaffcbc-cb8f-49a5-b422-c32bbe494299/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7aaffcbc-cb8f-49a5-b422-c32bbe494299/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 170</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">170</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>MULLERI Petri</author>, ec., <title>De pictura,</title> 
+                     <pubPlace>Janae</pubPlace> 
+                     <date>1692,</date> 
+                     <extent>in 4.</extent> Sive praecognita picturae, De excellentia artis
+	  pictoriae, De privilegiis tam picturae quam pictorum, De abusu picturae et poena pictorum, M
+	  45.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C. D. De Pictura, sub praesidio Petri Mülleri, jcti ... ad diem Junii in auditorio jctorum disputabit autor Huldericus Sigismund Rothmaler, Stolbergâ-Cheruscus [microfilm].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5q6302</idno>
+            <idno type="cico">170</idno>
+            <idno type="dcl">ds3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>C. D. De Pictura, sub praesidio Petri Mülleri, jcti ... ad diem Junii in auditorio jctorum disputabit autor Huldericus Sigismund Rothmaler, Stolbergâ-Cheruscus [microfilm].</title>
+                  <respStmt>
+                     <persName>Rothmahler, Hendrich Sigismund.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Jenae : Typis GeorgI Heinrici Mülleri</publisher>
+                     <date>1692</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/efb70bb9-1a8c-4ada-adb0-9a2d624a577a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/efb70bb9-1a8c-4ada-adb0-9a2d624a577a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

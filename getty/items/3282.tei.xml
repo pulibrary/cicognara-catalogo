@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3282</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3282</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NAPULIONII Hieronymi</author>,<title> Enarratio in titulum codicis de Vectigalibus et Commissis</title>, <pubPlace>Romae</pubPlace> <date>1792</date>, in 4, M. 27.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hieronymi Napulioni spoletini sacri consistorii advocati Enarratio in titulum Codicis de vectigalibus et commissis [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985464323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qr181f</idno>
+            <idno type="cico">3282</idno>
+            <idno type="dcl">533</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Hieronymi Napulioni spoletini sacri consistorii advocati Enarratio in titulum Codicis de vectigalibus et commissis [microform].</title>
+                  <respStmt>
+                     <persName>Napoleoni, Girolamo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex tyopgraphia Archangeli Casaletti</publisher>
+                     <date>1792</date>
+                     <date>1793</date>
+                  </imprint>
+                  <extent>XXVI p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/30881ebd-b3a4-4fcb-9774-32ff099c0e01/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/30881ebd-b3a4-4fcb-9774-32ff099c0e01/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

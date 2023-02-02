@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 224</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">224</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>VARCHI Benedetto</author>, 
+                     <title>Lezioni da lui pubblicate lette nell’accademia fiorentina sopra diverse
+	  materia pratiche e filosofiche (nelle quali sono anche inserte le due sopraindicate),</title> 
+                     <pubPlace>Firenze</pubPlace>,
+	  per <publisher>i Giunti,</publisher> 
+                     <date>1590</date>,<extent> in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lezzioni di M. Benedetto Varchi .. [microform] : lette da lui publicamente nell'Accademia fiorentina, sopra diuerse materie, poetiche, e filosofiche, raccolte nuovamenta, e la maggior parte non più date in luce, con due tavole, vna delle materie, l'altra delle cose più notabili / con la vita del l'autore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Razzi, Silvano, -1611.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/99801n</idno>
+            <idno type="cico">224</idno>
+            <idno type="dcl">p81</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lezzioni di M. Benedetto Varchi .. [microform] : lette da lui publicamente nell'Accademia fiorentina, sopra diuerse materie, poetiche, e filosofiche, raccolte nuovamenta, e la maggior parte non più date in luce, con due tavole, vna delle materie, l'altra delle cose più notabili / con la vita del l'autore.</title>
+                  <respStmt>
+                     <persName>Varchi, Benedetto, 1503-1565.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Fiorenza : Per Filippo Giunti</publisher>
+                     <date>1590</date>
+                  </imprint>
+                  <extent>[24], 682, [21] p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/114a55e4-5076-42ea-a607-181116376317/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/114a55e4-5076-42ea-a607-181116376317/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

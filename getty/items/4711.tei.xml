@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4711</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4711</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GUARANA Jacopo</author>, <title>Oracoli, augurii, aruspicii, sibille, indovini della religione pagana tratti da antichissimi
+monumenti ed incisi in rame da più esperti viniziani artefici</title>, <pubPlace>Venezia</pubPlace> <date>1792</date>, in fol., fig.
+<note>Sono trenta tavole eseguite dai disegni del Guarana col testo intagliato in rame di contro a ciascuna tavola.
+Sarebbe però troppo infelice l’idea che degli esperti artefici veneziani si formerebbe, se fidati alle parole del
+frontespizio i cono <pb type="cico" n="322"/> scitori stabilissero in quest’opera il merito della Scuola Veneta.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oracoli, auguri, aruspici, sibille, indovini della religione pagana, tratti da antichissimi monumenti, o sulle traccie della storia [microform] / delineati dal celebre Jacopo Guarana, ed incisi in rame dai piu esperti viniziani artefici ; corredati in appresso di storiche illustrazioni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985425223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0p3n8r</idno>
+            <idno type="cico">4711</idno>
+            <idno type="dcl">dkh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oracoli, auguri, aruspici, sibille, indovini della religione pagana, tratti da antichissimi monumenti, o sulle traccie della storia [microform] / delineati dal celebre Jacopo Guarana, ed incisi in rame dai piu esperti viniziani artefici ; corredati in appresso di storiche illustrazioni.</title>
+                  <respStmt>
+                     <persName>Guarana, Jacopo, 1720-1808.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Venezia : [s.n.]</publisher>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>32 leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/032f54f9-9280-4f23-973f-b9a33a1f0dda/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/032f54f9-9280-4f23-973f-b9a33a1f0dda/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

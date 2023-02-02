@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1550</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1550</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AGRICOLAE Georgii Medici</author>, <title>De mensuris et ponderibus libri quinque, in quibus pleraque a
+    Budaeo et Portio parum animadversa diligenter executiuntur</title>, hoc nunc primum in lucem
+    editum, <pubPlace>Parisiis</pubPlace> <date>1533</date>, in 12.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Georgii Agricolae medici libri quinque De mensuris &amp; ponderibus [microform] : in quibus plaeraque à Budaeo &amp; Portio parum animaduersa diligenter excutiuntur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Budé, Guillaume, 1468-1540.</authority>
+            <authority>Porzio, Simone, 1496-1554.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hf0086</idno>
+            <idno type="cico">1550</idno>
+            <idno type="dcl">1cr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Georgii Agricolae medici libri quinque De mensuris &amp; ponderibus [microform] : in quibus plaeraque à Budaeo &amp; Portio parum animaduersa diligenter excutiuntur.</title>
+                  <respStmt>
+                     <persName>Agricola, Georg, 1494-1555.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Excudebat Christianus Wechelus</publisher>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Rome.</pubPlace>
+                     <date>1533</date>
+                  </imprint>
+                  <extent>261 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a8382929-17dc-413a-97b1-e2d688475c0b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a8382929-17dc-413a-97b1-e2d688475c0b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Georgii Agricolae Libri Qvinqve De mensuris &amp; ponderibus: In quibus pleraq[ue] a Bvdaeo &amp; Portio parum animaduersa diligenter excutiuntur</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agricola, Georg, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-282591</idno>
+            <idno type="URI">http://portal.getty.edu/api/bz946j</idno>
+            <idno type="cico">1550</idno>
+            <idno type="dcl">1cr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Georgii Agricolae Libri Qvinqve De mensuris &amp; ponderibus: In quibus pleraq[ue] a Bvdaeo &amp; Portio parum animaduersa diligenter excutiuntur</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1533</date>
+                     <date>1533</date>
+                  </imprint>
+                  <extent>292 S., [2] Bl.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/agricola1533/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/agricola1533/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

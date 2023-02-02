@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2783</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2783</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOSSI Luigi</author>, <title>Spiegazione di una raccolta di gemme incise dagli antichi</title>, <pubPlace>Milano</pubPlace> <date>1795</date>, in 8, fig., vol. 1.
+<note>Opera povera di tavole e ricchissima d’illustrazioni. Sonovi 488 p. di testo e sette tavole: viene annunciata come
+un volume primo, cosicché sembra che l’autore contasse di pubblicarne alcuni altri.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiegazione di una raccolta di gemme [microform] : incise dagli antichi con osservazioni risguardanti la religione, i costumi, e la storia dell'arte degli antichi popoli / di Luigi Bossi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985407113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/857t2q</idno>
+            <idno type="cico">2783</idno>
+            <idno type="dcl">rfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spiegazione di una raccolta di gemme [microform] : incise dagli antichi con osservazioni risguardanti la religione, i costumi, e la storia dell'arte degli antichi popoli / di Luigi Bossi ...</title>
+                  <respStmt>
+                     <persName>Bossi, Luigi, 1758-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Nell' imperial monist. di s. Ambrogio magg</publisher>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>lix, 488 p., vii leaves of plates</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/41b409f9-ee8a-4f66-a549-d9fcb6115561/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/41b409f9-ee8a-4f66-a549-d9fcb6115561/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiegazione di una raccolta di gemme : incise dagli antichi con osservazioni risguardanti la religione, i costumi, e la storia dell'arte degli antichi popoli / di Luigi Bossi.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990077421820203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/hb7233</idno>
+            <idno>(OCoLC)48748637</idno>
+            <idno type="cico">2783</idno>
+            <idno type="dcl">rfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spiegazione di una raccolta di gemme : incise dagli antichi con osservazioni risguardanti la religione, i costumi, e la storia dell'arte degli antichi popoli / di Luigi Bossi.</title>
+                  <respStmt>
+                     <persName>Bossi, Luigi, 1758-1835, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Nell'Imperial monist. di S. Ambrogio Magg</publisher>
+                     <date>MDCCXCV</date>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>1 preliminary leaf, lix, 488 pages, vii leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481519423"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481519423">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

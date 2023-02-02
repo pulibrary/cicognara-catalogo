@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2888</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2888</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>JOECHER M. Christian Gottlieb</author>, <title>Biantem Prienaeum in nummo argenteo</title>,<pubPlace> Lipsiae</pubPlace>
+                    <date>
+                        1714</date>, in 8, fig., M. 57.
+                        <note>Colle medaglie nel frontespizio</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biantem prienaeum in nummo argenteo [microform] : consentiente inclyto sapientum ordine sistent, praeses M. Christian Gottlieb Joecher ... et respondens Gottfried Abraham Scutetus ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jöcher, Christian Gottlieb, 1694-1758.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vs121s</idno>
+            <idno type="cico">2888</idno>
+            <idno type="dcl">zjn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Biantem prienaeum in nummo argenteo [microform] : consentiente inclyto sapientum ordine sistent, praeses M. Christian Gottlieb Joecher ... et respondens Gottfried Abraham Scutetus ...</title>
+                  <respStmt>
+                     <persName>Scultetus, Gottfried Abraham.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lipsiae : Typis Immanuelis Titii</publisher>
+                     <date>Anno 1714, die 24. Martii</date>
+                     <date>1714</date>
+                  </imprint>
+                  <extent>56 p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8449f392-eb19-45ee-8c77-60c85c7781f6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8449f392-eb19-45ee-8c77-60c85c7781f6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

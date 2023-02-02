@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1654</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1654</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FRANCO Giacomo</author>, <title>Habiti d’huomini et donne veneziane con la processione della Sereniss.
+    Signoria ed altri particolari, cioè trionfi, feste e cerimonie pubbliche della nobilissima città di
+    Venetia</title>, <date>1610</date>, tavole 26.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Habiti d'huomeni et donne venetiane [microform] : con la processione della ser.ma signoria et altri particolari cioè : trionfi feste et cerimonie publiche della nobilissima città di Venetia / Giacomo Franco.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qb6c9j</idno>
+            <idno type="cico">1654</idno>
+            <idno type="dcl">4gh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Habiti d'huomeni et donne venetiane [microform] : con la processione della ser.ma signoria et altri particolari cioè : trionfi feste et cerimonie publiche della nobilissima città di Venetia / Giacomo Franco.</title>
+                  <respStmt>
+                     <persName>Franco, Giacomo, 1550-1620.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venice : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Venice (Italy)</pubPlace>
+                     <date>1610</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cdc454d0-5ffa-45ba-8c69-09c91b55bb03/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cdc454d0-5ffa-45ba-8c69-09c91b55bb03/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

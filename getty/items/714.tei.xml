@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 714</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">714</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VITRUVIUM In Marcum</author>, <title>De architectura adnotatio <pb type="cico" n="133"/> nes Guillelmi Philandri</title>, <pubPlace>Venetiis</pubPlace>,
+	ex officina Stella, <date>1557</date>, fig. in 8.
+	<note>Vedesi in quest’edizione una delle solite frodi degli stampatori. Il Zitelli acquistò un numero d’esemplari della
+	prima edizione di queste note pubblicata in Roma dal Dossena nel 1544; cangiò i primi otto foglietti, cioè il
+	primo foglio di stampa ove pose anche un suo avviso agli studiosi e diede in tal modo a vedere di aver fatta una
+	nuova edizione. Non cangiò in fine alcun foglio e poiché dietro l’ultima pagina trovavasi il nome dello
+	stampatore Romano, lo cuoprì con una sottile striscia di carta, come può rilevarsi nel nostro e negli altri
+	esemplari: e come avverti anche lo stesso Poleni nelle sue exercitationes Vitruvianae.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In M. Vitruuium De architectura annotationes Guilielmi Philandri [microform] / com pluribus, iisq[ue] nouis, et non minus utilibus quàm necessariis figuris exornatae ; cum indicibus Graeco &amp; Latino locupletissimis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985178253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f2758k</idno>
+            <idno type="cico">714</idno>
+            <idno type="dcl">kvn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>In M. Vitruuium De architectura annotationes Guilielmi Philandri [microform] / com pluribus, iisq[ue] nouis, et non minus utilibus quàm necessariis figuris exornatae ; cum indicibus Graeco &amp; Latino locupletissimis.</title>
+                  <respStmt>
+                     <persName>Philandrier, Guillaume, 1505-1565.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Ex Officina Stellae</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>369, [39] p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7c464909-c751-4865-a578-09b679e7a767/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7c464909-c751-4865-a578-09b679e7a767/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

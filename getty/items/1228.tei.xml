@@ -1,0 +1,90 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1228</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1228</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>WINCKELMANN</author>, <title>Lettres familieres avec les oeuvres du Chev. Mengs</title>, <pubPlace>Yverdon</pubPlace> <date>1784</date>, vol. 3,
+    in 12.
+    <note>Contengonsi nei due primi volumi le lettare di Winckelmann e un estratto di lettera di Fuessli al traduttor tedesco
+    delle ricerche sul bello della pittura di Webb. Il terzo volume contiene il trattato di Mengs e la lettera a D.
+    Antonio Pons.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettres familieres de M. Winckelmann : avec Les oeuvres de M. le Chevalier Mengs.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Heyne, Christian Gottlob, 1729-1812</authority>
+            <authority>Mengs, Anton Raphael, 1728-1779. Works. 1784.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930448210001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/j15q3h</idno>
+            <idno type="URI">http://portal.getty.edu/api/nt3h81</idno>
+            <idno type="URI">http://portal.getty.edu/api/4k183k</idno>
+            <idno>(OCoLC)19111657</idno>
+            <idno type="cico">1228</idno>
+            <idno type="dcl">v50</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettres familieres de M. Winckelmann : avec Les oeuvres de M. le Chevalier Mengs.</title>
+                  <respStmt>
+                     <persName>Winckelmann, Johann Joachim, 1717-1768</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Yverdon : [publisher not identified]</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Switzerland Yverdon.</pubPlace>
+                     <date>MDCCLXXXIV [1784]</date>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>3 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/67bbbb06-7683-42b6-9090-70f7ae1eae3ahttps://media.getty.edu/iiif/manifest/f92fa810-beaf-476d-bcbd-7ea62c32e4e4https://media.getty.edu/iiif/manifest/0d91a469-c202-4417-9cc9-126a30a071f6"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/67bbbb06-7683-42b6-9090-70f7ae1eae3a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f92fa810-beaf-476d-bcbd-7ea62c32e4e4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0d91a469-c202-4417-9cc9-126a30a071f6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

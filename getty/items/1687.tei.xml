@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1687</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1687</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LICETI Fortunii</author>, <title>De lucernis antiquorum reconditis libri sex</title>, <pubPlace>Utini</pubPlace> <date>1653</date>, in fol. fig.
+    <note>È sempre da osservarsi come la superstiziosa ignoranza mutilò gran numero di libri e vedasi per conseguenza in
+    quest’opera se sieno intatte le pagine 910 e 1142. Le numerose tavole di questo libro ripieno di curiosità, sono
+    riportate nei fogli del testo e intagliate in rame.
+</note>
+                    <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De Lvcernis Antiqvorvm Reconditis: Libb. Sex: In Qvibvs Earvm Recens Inventarvm adhuc ardentium obseruationes multae primum afferuntur: Aliorum opiniones omnes de ipsarum attributis expenduntur ... ; Declaratisque plurimis Antiquitatis ritibus Lychnos supra centum effigiantibus: Cum Indicibus locupletißimis</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Liceti, Fortunio, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-79046</idno>
+            <idno type="URI">http://portal.getty.edu/api/676q4g</idno>
+            <idno type="cico">1687</idno>
+            <idno type="dcl">98h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De Lvcernis Antiqvorvm Reconditis: Libb. Sex: In Qvibvs Earvm Recens Inventarvm adhuc ardentium obseruationes multae primum afferuntur: Aliorum opiniones omnes de ipsarum attributis expenduntur ... ; Declaratisque plurimis Antiquitatis ritibus Lychnos supra centum effigiantibus: Cum Indicibus locupletißimis</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1653</date>
+                     <date>1653</date>
+                  </imprint>
+                  <extent>[7] Bl., 4 S., Sp. 5 - 1280, [14] Bl.</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/liceti1653/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/liceti1653/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

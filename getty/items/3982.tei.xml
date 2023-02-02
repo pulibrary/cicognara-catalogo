@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3982</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3982</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CASTELLAMONTE (di) conte Amedeo</author>, <title>La Veneria <pb type="cico" n="236"/> Reale, palazzo di piacere, e di caccia ideato dall’A. R. di Carlo Emanuel II duca di Savoja</title>, <pubPlace>Torino</pubPlace> <date>1672</date>, in 4, fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Venaria reale [microform] : palazzo di piacere, e di caccia, ideato dall'Altezza Reale di Carlo Emanvel II, duca di Sauoia, re di Cipro &amp;c. / disegnato, e descritto dal conte Amedeo di Castellamonte, l'anno 1672.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nx2682</idno>
+            <idno type="cico">3982</idno>
+            <idno type="dcl">mk7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Venaria reale [microform] : palazzo di piacere, e di caccia, ideato dall'Altezza Reale di Carlo Emanvel II, duca di Sauoia, re di Cipro &amp;c. / disegnato, e descritto dal conte Amedeo di Castellamonte, l'anno 1672.</title>
+                  <respStmt>
+                     <persName>Castellamonte, Amedeo di, conte, 1610-1683.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Per Bartolomeo Zapatta</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1674</date>
+                  </imprint>
+                  <extent>99 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/33c18254-8104-40bf-abce-6cda5c51ee3f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/33c18254-8104-40bf-abce-6cda5c51ee3f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

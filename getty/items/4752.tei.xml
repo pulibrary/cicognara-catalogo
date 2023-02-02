@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4752</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4752</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TRAVERSARI abbate Giuseppe Luigi</author>, <title>Dissertazione sull’origine dell’antica idolatria e sulla forma dei primi
+simulacri</title>, <pubPlace>Faenza</pubPlace> <date>1788</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione sull'origine dell'antica idolatria e sulla forma de' primi idolotrici simulacri [microform] / composta dall'abate Giuseppe Luigi Traversari ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985426233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hp840v</idno>
+            <idno type="cico">4752</idno>
+            <idno type="dcl">qrp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione sull'origine dell'antica idolatria e sulla forma de' primi idolotrici simulacri [microform] / composta dall'abate Giuseppe Luigi Traversari ...</title>
+                  <respStmt>
+                     <persName>Traversari, Giuseppe Luigi.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Faennza : Presso Gioseffantonio Archi</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>36 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/daa76e5b-b0f5-4f21-9189-ef99822e6a32/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/daa76e5b-b0f5-4f21-9189-ef99822e6a32/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

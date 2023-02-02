@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2229</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2229</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CASALI Gregorio Marchese</author>, <title>In morte dell’insigne letterato Francesco M. Zanotti</title>, in 4, fig.
+    <note>Con un medaglione in fine che presenta il ritratto di Fran. M. Zanotti.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In morte dell' insigne letterato Francesco Maria Zanotti [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pm6g3p</idno>
+            <idno type="cico">2229</idno>
+            <idno type="dcl">xrc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>In morte dell' insigne letterato Francesco Maria Zanotti [microform].</title>
+                  <respStmt>
+                     <persName>Casali Bentivoglio Paleotti, Gregorio Filippo Maria, conte, 1721-1802.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Bologna : s.n]</publisher>
+                     <date>[1777]</date>
+                     <date>1777</date>
+                  </imprint>
+                  <extent>VIII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/19675af1-41b9-46d4-8857-a091a47545ad/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/19675af1-41b9-46d4-8857-a091a47545ad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

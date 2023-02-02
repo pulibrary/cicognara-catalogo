@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4422</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4422</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>JOULLAIN</author>, <title>Catalogue des desseins, tableaux, estampes, bronzes, et livres du Cabinet de M. D. ***</title>, <pubPlace>Paris</pubPlace> <date>1763</date>, in
+8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des dessiens, tableaux, estampes, bronzes, porcelaines et livres du cabinet de M. D*** [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g50r9m</idno>
+            <idno>(OCoLC)196916849</idno>
+            <idno type="cico">4422</idno>
+            <idno type="dcl">3wc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des dessiens, tableaux, estampes, bronzes, porcelaines et livres du cabinet de M. D*** [microform]</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Joullain</publisher>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>42 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/09ea1775-ad1a-4776-8b9d-77b71c235c96/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/09ea1775-ad1a-4776-8b9d-77b71c235c96/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1277</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1277</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PINO Domenico</author>. <title>Storia genuina del Cenacolo insigne dipinto da Leonardo da Vinci nel
+    refettorio di S. Maria delle grazie di Milano</title>, <pubPlace>Milano</pubPlace> <date>1796</date>, in 8.
+    <note>L’autore era frate domenicano e priore del convento e pose ogni cura nel suo libretto per confutare l’opinione, o
+    la tradizione che Leonardo ritraesse nel Giuda il priore del convento d’allora che gli era riuscito importuno: forse
+    il P. Pino scrisse il suo libro per questo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storia genuina del cenacolo insigne dipinto da Leonardo da Vinci nel refettorio de'padri domenicani di Santa Maria delle Grazie di Milano [microform] / pubblicata dal ... Domenico Pino ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h54688</idno>
+            <idno type="cico">1277</idno>
+            <idno type="dcl">55x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia genuina del cenacolo insigne dipinto da Leonardo da Vinci nel refettorio de'padri domenicani di Santa Maria delle Grazie di Milano [microform] / pubblicata dal ... Domenico Pino ...</title>
+                  <respStmt>
+                     <persName>Pino, Domenico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Per Cesare Orena nella Stampería Malatesta</publisher>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>[8], 139 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3ddc1f9b-ae21-401f-a6a9-c220e5b63710/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3ddc1f9b-ae21-401f-a6a9-c220e5b63710/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2555</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2555</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AZZOGUIDO VALERII Felicis</author>, <title>De origine et vetustate civitatis Bononiae priscae regum etruscorum sedis
+cronologica disquisitio</title>, <pubPlace>Bononiae</pubPlace> <date>1716</date>, in quarto.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De origine et vetustate civitatis Bononiae priscae regum Etruscorum sedis [microform] / chronologica disquisitio Valerii Felicis Azzoguidi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mq788p</idno>
+            <idno type="cico">2555</idno>
+            <idno type="dcl">403</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De origine et vetustate civitatis Bononiae priscae regum Etruscorum sedis [microform] / chronologica disquisitio Valerii Felicis Azzoguidi ...</title>
+                  <respStmt>
+                     <persName>Azzoguidi, Valerius Felix.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Typis Julii Rossi &amp; Socc</publisher>
+                     <pubPlace>Bologna (Italy)</pubPlace>
+                     <pubPlace>Etruria</pubPlace>
+                     <date>1716</date>
+                  </imprint>
+                  <extent>56 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a9417971-e4ed-45ae-90f3-9da9d8e22aea/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a9417971-e4ed-45ae-90f3-9da9d8e22aea/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

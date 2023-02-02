@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 201</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">201</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>RISPOSTA alle riflessioni critiche sopra le differenti scuole della pittura del sig. Marchese
+	  d’Argens,</title> 
+                     <pubPlace>Lucca</pubPlace> 
+                     <date>1755,</date> 
+                     <extent>in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Risposta alle Reflessioni critiche sopra le differenti scuole di pittura del sig. marchese d'Argens [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Monaldini, Venanzio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985262063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s59102</idno>
+            <idno type="cico">201</idno>
+            <idno type="dcl">g87</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Risposta alle Reflessioni critiche sopra le differenti scuole di pittura del sig. marchese d'Argens [microform]</title>
+                  <respStmt>
+                     <persName>Venuti, Ridolfino, 1705-1763.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Lucca : Busdrago</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>213, [6] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/90a6402e-8add-4fd1-bcab-e3dbe0d106b5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/90a6402e-8add-4fd1-bcab-e3dbe0d106b5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

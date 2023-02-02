@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4604</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4604</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GALIBERTI Giovan Battista conte napoletano</author>, <title>Il cavallo da maneggio, ove si tratta della nobilissima virtù del
+                        cavalcare</title>, <pubPlace>Vienna d’Austria</pubPlace>
+                    <date> 1559</date>, in fol., fig.
+                        <note>Con trenta tavole in rame di scorretto disegno</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il cavallo da maneggio, oue si tratta della nobilissima virtù del caualcare [microform] : cioè, come il cauagliere deue star à cauallo &amp; come si deue domate, gouernare, inferrare, imprigliare, &amp; ammaestrare ogni sorte di caualli... / di Gio: Battista Galiberto ... diuiso in tre parti ; nella prima si tratta del conoscere li caualli ; nella seconda il modo di caualcare ; nella terza la regola di medicar ogni sorte d'infermità ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sd2t39</idno>
+            <idno type="cico">4604</idno>
+            <idno type="dcl">ps1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il cavallo da maneggio, oue si tratta della nobilissima virtù del caualcare [microform] : cioè, come il cauagliere deue star à cauallo &amp; come si deue domate, gouernare, inferrare, imprigliare, &amp; ammaestrare ogni sorte di caualli... / di Gio: Battista Galiberto ... diuiso in tre parti ; nella prima si tratta del conoscere li caualli ; nella seconda il modo di caualcare ; nella terza la regola di medicar ogni sorte d'infermità ...</title>
+                  <respStmt>
+                     <persName>Galiberto, Giovanni Battista.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vienna d'Austria : Per Gio: Giacomo Kyrneri</publisher>
+                     <date>1658</date>
+                  </imprint>
+                  <extent>107 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/45bd7147-a58d-4e5a-8dd6-a0bfdc6eef2e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/45bd7147-a58d-4e5a-8dd6-a0bfdc6eef2e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

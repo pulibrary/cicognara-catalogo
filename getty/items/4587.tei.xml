@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4587</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4587</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CATALOGO dei libri scelti di pittura, scultura, architettura d’un privato in Venezia</title>, senz’anno, in 8, coi prezzi.
+                        <note>Cosa miserabile e inservibile</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogo de' libri scelti di pittura, scoltura, ed architettura aggiunto in fine [microform] : un catalogo di stampe delli più celebri intagliatori posseduti da un privato in Venezia.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985464283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6h574g</idno>
+            <idno type="cico">4587</idno>
+            <idno type="dcl">cw2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogo de' libri scelti di pittura, scoltura, ed architettura aggiunto in fine [microform] : un catalogo di stampe delli più celebri intagliatori posseduti da un privato in Venezia.</title>
+                  <respStmt>
+                     <persName>Buratti, Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[17--?]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>60 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d58480a5-a38a-4ea9-aee1-f8d09167bf97/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d58480a5-a38a-4ea9-aee1-f8d09167bf97/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

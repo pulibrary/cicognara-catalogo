@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2866</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GOLTZII</author>, <title>Sicilia, et Magna Graecia, sive historiae urbium et populorum Greciae ex antiquis numismatibus</title>,
+                        <pubPlace>Antuerpiae</pubPlace>
+                    <date> 1644</date>, in fol., fig.
+                        <note>Con 37 tav. in rame</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sicilia et magna Graecia sive historiae vrbium et populorum Graeciae ex antiquis nomismatibus [microform] : liber primus / Huberto Goltzio ; diu desideratum opus, et denuo editum cum nouis scholiis And. Schotti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Schottus, Andreas, 1552-1629.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g13071</idno>
+            <idno type="cico">2866</idno>
+            <idno type="dcl">531</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sicilia et magna Graecia sive historiae vrbium et populorum Graeciae ex antiquis nomismatibus [microform] : liber primus / Huberto Goltzio ; diu desideratum opus, et denuo editum cum nouis scholiis And. Schotti.</title>
+                  <respStmt>
+                     <persName>Goltzius, Hubert, 1526-1583.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiae : In officina Plantiniana</publisher>
+                     <date>1644</date>
+                  </imprint>
+                  <extent>2 v in 1 (XLI, 326, 96 p.)</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/33e17fc6-9ab0-4b75-add3-374f61597d75/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/33e17fc6-9ab0-4b75-add3-374f61597d75/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

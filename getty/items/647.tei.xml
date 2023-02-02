@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 647</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">647</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>SAMMICHELI Michele</author>, 
+                     <title>I cinque ordini dell’architettura civile, rilevati dalle sue fabbriche,
+	descritti e pubblicati con quelli di Vitruvio, Alberti, Palladio, Scamozzi, Serlio, Vignola, dal
+	Co. Alessandro Pompei,</title> 
+                     <pubPlace>Verona</pubPlace> 
+                     <date>1735,</date> in fot. fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Li cinque ordini dell' architettura civile di Michel Sanmicheli : rilevati dalle sue fabriche, e descritti e publicati con quelli di Vitruvio, Alberti, Palladio, Scamozzi, Serlio, e Vignola / dal Co. Alessandro Pompei.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sanmicheli, Michele</authority>
+            <authority>Balestra, Antonio, 1666-1740</authority>
+            <authority>Vallarsi, Jacopo</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923817030001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fs8b82</idno>
+            <idno>(OCoLC)3493800</idno>
+            <idno type="cico">647</idno>
+            <idno type="dcl">vv8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Li cinque ordini dell' architettura civile di Michel Sanmicheli : rilevati dalle sue fabriche, e descritti e publicati con quelli di Vitruvio, Alberti, Palladio, Scamozzi, Serlio, e Vignola / dal Co. Alessandro Pompei.</title>
+                  <respStmt>
+                     <persName>Pompei, Alessandro, conte, 1705-1772.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Per Jacopo Vallarsi</publisher>
+                     <pubPlace>Italy Verona.</pubPlace>
+                     <date>1735</date>
+                  </imprint>
+                  <extent>112 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/88f31549-d94f-4b80-98fe-c13fed5a1e9a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/88f31549-d94f-4b80-98fe-c13fed5a1e9a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 522</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">522</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>GRAPALDI</author>, 
+                     <title>Idem,</title> 
+                     <pubPlace>Basilea,</pubPlace> 
+                     <publisher>ex officina Valderiana,</publisher> 
+                     <date>1541,</date> 
+                     <extent>in 4 par.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francisci Marii Grapaldi Parmensis, De partibus aedium [microform] : lexicon utilissimum ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/459t0c</idno>
+            <idno type="cico">522</idno>
+            <idno type="dcl">q25</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Francisci Marii Grapaldi Parmensis, De partibus aedium [microform] : lexicon utilissimum ...</title>
+                  <respStmt>
+                     <persName>Grapaldi, Francisco Mario, approximately 1464-1515.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : Ex officina Valderiana</publisher>
+                     <date>Anno 1541</date>
+                     <date>1541</date>
+                  </imprint>
+                  <extent>[32], 290 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0928b7b3-cff4-412b-9a2d-e2e624249bdc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0928b7b3-cff4-412b-9a2d-e2e624249bdc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

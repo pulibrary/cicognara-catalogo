@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 685</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">685</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VEGETII Flavii</author> et <author>Julii Frontini</author>, <title>Nec non alia veterum scripta de re militari</title>, Lugd. Bat. <date>1644</date>, in
+	12.
+	<author>VIGNOLA</author>, Vedi <title>Barozio</title>.
+	<pb type="cico" n="126"/>
+	              </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Viri illustris Flavii Vegetii Renati, &amp; Sex. Iulii Frontini viri consularis, De re militari opera [microform] / ex recensione Petri Scriverii ; accedunt alia eiusdem argumenti veterum scripta.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Frontinus, Sextus Julius.</authority>
+            <authority>Schrijver, Pieter, 1576-1660.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985166123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bt6s52</idno>
+            <idno type="cico">685</idno>
+            <idno type="dcl">1cm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Viri illustris Flavii Vegetii Renati, &amp; Sex. Iulii Frontini viri consularis, De re militari opera [microform] / ex recensione Petri Scriverii ; accedunt alia eiusdem argumenti veterum scripta.</title>
+                  <respStmt>
+                     <persName>Vegetius Renatus, Flavius.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni Batavorum [Leiden] : Ex officina Ioannis Maire</publisher>
+                     <date>1644</date>
+                  </imprint>
+                  <extent>[36], 681 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/73c0b92c-4c3e-4a98-8dd2-0b30bb27fe05/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/73c0b92c-4c3e-4a98-8dd2-0b30bb27fe05/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

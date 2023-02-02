@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2828</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2828</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Eccardi Jo. Georgii</author>, <title>Epistola de nummis quibusdam explicata difficilioribus</title>, <pubPlace>Lipsiae</pubPlace> <date>1722</date>, in 8, fig., M. 57.
+<note>Con una tavola in rame contenente 15 monete.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jo. Georgii Eccardi Epistola de numis [microform] : quibusdam explicatu difficilioribus ad virum illustrem et summe reverendum Dn. Gerhardum abbatem luccensem et ecclesiarum electoratus Brunsvico-Luneburgensis directorem, qui eosdem in insigni numophylacio suo conservat.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hc1z13</idno>
+            <idno type="cico">2828</idno>
+            <idno type="dcl">jk3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Jo. Georgii Eccardi Epistola de numis [microform] : quibusdam explicatu difficilioribus ad virum illustrem et summe reverendum Dn. Gerhardum abbatem luccensem et ecclesiarum electoratus Brunsvico-Luneburgensis directorem, qui eosdem in insigni numophylacio suo conservat.</title>
+                  <respStmt>
+                     <persName>Eckhart, Johann Georg von, 1674-1730.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lipsiae : Apud Io. Friderici Gleditschii B. Filium</publisher>
+                     <date>1722</date>
+                  </imprint>
+                  <extent>[12] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a9aff424-9834-4f78-8fab-c9d962dd7346/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a9aff424-9834-4f78-8fab-c9d962dd7346/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

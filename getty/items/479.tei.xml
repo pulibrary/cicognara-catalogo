@@ -1,0 +1,174 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 479</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">479</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CLERMONT</author>,
+                     <title> L’arithmétique militaire, ou l’arithmétique pratique, divisée en trois parties,</title>
+                     <pubPlace> Paris</pubPlace>
+	                    <date>1733,</date>
+                     <extent> in 4.</extent>
+                  </bibl>
+                <bibl>— Aggiuntovi: <title>la Geometrie pratique de l’ingenieur, ou l’art de mésurer: dediée a M. de
+	Vauban,</title>
+                     <pubPlace> Paris</pubPlace>
+                     <date> 1733,</date> 
+                     <extent>in 4.</extent>
+	Con 27 Tavole intagliate in rame.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeuvres de M. Clermont [microform] : contenant L'arithmetique militaire et La geometrie-pratique de l'ingenieur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fr4c9f</idno>
+            <idno type="cico">479</idno>
+            <idno type="dcl">pjr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oeuvres de M. Clermont [microform] : contenant L'arithmetique militaire et La geometrie-pratique de l'ingenieur.</title>
+                  <respStmt>
+                     <persName>Clermont, Sieur de.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[A Paris : Chez Witte ..., Didot]</publisher>
+                     <date>[1733]</date>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/34c9200b-6f17-4443-b60e-4b3a143a4405/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34c9200b-6f17-4443-b60e-4b3a143a4405/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'arithmetique militaire, ou, l'arithmetique pratique de l'ingénieur et de l'officier, divisée en trois parties, ouvrage également necessaire aux officiers, aux ingéniurs et aux commerçans. Par le Sieur Clermont.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990028582270203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/q37c0v</idno>
+            <idno>(OCoLC)5579698</idno>
+            <idno type="cico">479</idno>
+            <idno type="dcl">pjr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arithmetique militaire, ou, l'arithmetique pratique de l'ingénieur et de l'officier, divisée en trois parties, ouvrage également necessaire aux officiers, aux ingéniurs et aux commerçans. Par le Sieur Clermont.</title>
+                  <respStmt>
+                     <persName>Clermont</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Á Paris, Chez Pierre Witte</publisher>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>4 p. l., 170 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494457670"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494457670">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La géométrie pratique de l'ingénieur : ou, L'art de mesurer, ouvrage également necessaire aux ingénieurs, aux toiseurs et aux arpenteurs. Divisé en huit livres, dont les titres sont à la page suivante. Dedié à Monsieur De Vauban.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990028582360203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/d42913</idno>
+            <idno>(OCoLC)5583663</idno>
+            <idno type="cico">479</idno>
+            <idno type="dcl">m8v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La géométrie pratique de l'ingénieur : ou, L'art de mesurer, ouvrage également necessaire aux ingénieurs, aux toiseurs et aux arpenteurs. Divisé en huit livres, dont les titres sont à la page suivante. Dedié à Monsieur De Vauban.</title>
+                  <respStmt>
+                     <persName>Clermont</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>À Paris : Chez Pierre Witte</publisher>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>xx, 262, [i.e. 260, 2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494457376"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494457376">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

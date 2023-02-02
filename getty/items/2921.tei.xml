@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2921</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2921</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARIOTTI Aug.</author>, <title>Mantissa ad commentariolum de nummo Neptuni</title>, 
+                        <pubPlace>Romae</pubPlace> <date>1764</date>, in 4, M. 43.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Augustini Mariotti romani presbyteri ... Epistola [microform] : qua ... Paschali Magnonio ... commentariolum de nummo neptuni, argenteo incuso dono mittit sive ad commentariolum Mantissa.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Magnoni, Pasquale.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jr3t54</idno>
+            <idno type="cico">2921</idno>
+            <idno type="dcl">k5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Augustini Mariotti romani presbyteri ... Epistola [microform] : qua ... Paschali Magnonio ... commentariolum de nummo neptuni, argenteo incuso dono mittit sive ad commentariolum Mantissa.</title>
+                  <respStmt>
+                     <persName>Mariotti, Agostino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typgraphio Hermathenaeo</publisher>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>XLIV p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2ad6cdc0-e28c-4114-aa41-bea0e01332be/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2ad6cdc0-e28c-4114-aa41-bea0e01332be/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

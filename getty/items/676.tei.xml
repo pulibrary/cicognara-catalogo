@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 676</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">676</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>STEINGRUBER Jean David</author>, 
+                     <title>Livre d’architecture civile. Stampato in tedesco e in francese, senza
+	data di luogo e di anno: contenente disegni di fabbriche di barbaro gusto ed invenzione per
+	insegnare gli elementi dell’architettura,</title> 
+                     <extent>in fol. obl.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architecture civile. Erster Theil : bestehent in unterschiedl. Zeichnungen mit gehörigen Grundt u. Aufrissen u. darzu erforderten Profilen / inventirt u. gezeichnet von I.D.St. ; Kupfer gestochen von I.G. Ringlin = Architecture civile. Première partie : qui consiste en divers desseins avec leurs plans et profils / inventée et dessinée par I.D.St. ; gravée en taille douçe par I.G. Ringlin ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ringlin, J. G. (Johann Georg), 1691-1761.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9922403413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cn0k4p</idno>
+            <idno>(OCoLC)41217761</idno>
+            <idno type="cico">676</idno>
+            <idno type="dcl">5gd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architecture civile. Erster Theil : bestehent in unterschiedl. Zeichnungen mit gehörigen Grundt u. Aufrissen u. darzu erforderten Profilen / inventirt u. gezeichnet von I.D.St. ; Kupfer gestochen von I.G. Ringlin = Architecture civile. Première partie : qui consiste en divers desseins avec leurs plans et profils / inventée et dessinée par I.D.St. ; gravée en taille douçe par I.G. Ringlin ...</title>
+                  <respStmt>
+                     <persName>Steingruber, Johann David, 1702-1787.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Augsburg : I.S. Negges</publisher>
+                     <date>[1750?]</date>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>25 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/721bfc20-bafc-4e40-9fa4-10da726e36d3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/721bfc20-bafc-4e40-9fa4-10da726e36d3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

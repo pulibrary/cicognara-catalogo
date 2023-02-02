@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1909</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1909</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>KLEPISII Georgii poeta L. Cesarii</author>, <title>Theatrum emblematicum</title>, <date>1623</date>, in 4, obl.
+    <note>Libro dei più rari in materia d’emblemi intagliato in rame con molta finezza: sono 91 tavole fra le quali
+    comprendonsi le prime otto, oltre il frontespizio, che sono piuttosto saggi di calligrafia che altra cosa: il
+    frontespizio è figurato. Il primo emblema comincia al foglio segnato 8 colla cicogna e il motto non dormii qui
+    custodii. Le interpretazioni cono intagliate in tedesco e in latino.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theatrum emblematicum [microform] / GregorI KleppisI ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t4390q</idno>
+            <idno type="cico">1909</idno>
+            <idno type="dcl">knw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Theatrum emblematicum [microform] / GregorI KleppisI ...</title>
+                  <respStmt>
+                     <persName>Kleppis, Gregor.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Lipsiae : Conrad Gralle sculps]</publisher>
+                     <date>[1623?]</date>
+                     <date>1623</date>
+                  </imprint>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d08cf583-cb66-4059-b920-4fb1ebd28576/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d08cf583-cb66-4059-b920-4fb1ebd28576/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

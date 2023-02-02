@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 378</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">378</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ALBERTI Leon Baptistae</author>, 
+                     <title>Dell’architettura libri X, Della Pittura libri III, Della statua libro I.
+	Tradotti in lingua italiana da Cosimo Bartoli. Nuova edizione divisa in tre tomi da Giacomo
+	Leoni Veneziano, con aggiunta di vari suoi disegni di edifici pubblici e privati,</title>
+                     <pubPlace> Lon<pb type="cico" n="67"/>dra presso,</pubPlace> 
+                     <publisher>Tom. Edlin</publisher> 
+                     <date>1726,</date> inglese ed Italiano in fol. fig. legato in un sol volume.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della architettura di Leon Battista Alberti libri 10, della pittura libri 3 e della statua libro 1 / The architecture of Leon Battista Alberti in ten books, of painting in three books and of statuary in one book (uebers. von Cosimo Bartoli und Giacomo Le</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Alberti, Leon Battista, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-15570</idno>
+            <idno type="URI">http://portal.getty.edu/api/2f7w5m</idno>
+            <idno type="cico">378</idno>
+            <idno type="dcl">tz4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della architettura di Leon Battista Alberti libri 10, della pittura libri 3 e della statua libro 1 / The architecture of Leon Battista Alberti in ten books, of painting in three books and of statuary in one book (uebers. von Cosimo Bartoli und Giacomo Le</title>
+                  <textLang>Italian</textLang>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <date>1726</date>
+                     <date>1726</date>
+                  </imprint>
+                  <extent>[103] Bl.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/alberti1726/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/alberti1726/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The architecture of Leon Battista Alberti [microform] : in ten books of painting, in three books and of statuary in one book / translated into Italian by Cosimo Bartoli and now first into English and divided into three volumes by James Leoni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartoli, Cosimo, 1503-1572.</authority>
+            <authority>Leoni, Giacomo, approximately 1686-1746.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dm4n2q</idno>
+            <idno type="cico">378</idno>
+            <idno type="dcl">tz4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The architecture of Leon Battista Alberti [microform] : in ten books of painting, in three books and of statuary in one book / translated into Italian by Cosimo Bartoli and now first into English and divided into three volumes by James Leoni.</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>London : Printed by Thomas Edlin</publisher>
+                     <date>1726</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>15 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/123ff209-59ff-4098-bfd4-19414b513c3f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/123ff209-59ff-4098-bfd4-19414b513c3f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,67 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4452</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4452</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REMY</author>, <title>Catalogue raisonné des tableaux, desseins, <pb type="cico" n="297"/> estampes, bronzes, etc. du Cabinet de M. Bouchet,
+prémier peintre du roy</title>, <pubPlace>Paris</pubPlace> <date>1771</date>, in 12.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonnʹe des tableaux [microform] : desseins, estampes, bronzes, terres cuites, laques, porcelaines de difféentes sortes, montées &amp; non montées, meubles curieux, bijoux, minéraux, cristallisations, madrepores, coquilles &amp; autres curiosités, qui composet le cabinet de fue M. Boucher ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gs2b3j</idno>
+            <idno>(OCoLC)212372826</idno>
+            <idno type="cico">4452</idno>
+            <idno type="dcl">238</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonnʹe des tableaux [microform] : desseins, estampes, bronzes, terres cuites, laques, porcelaines de difféentes sortes, montées &amp; non montées, meubles curieux, bijoux, minéraux, cristallisations, madrepores, coquilles &amp; autres curiosités, qui composet le cabinet de fue M. Boucher ....</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Musier</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>262 p.</extent>
+                  <extent>5 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/71d24113-4549-47f0-a5c2-f427fd82197a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/71d24113-4549-47f0-a5c2-f427fd82197a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

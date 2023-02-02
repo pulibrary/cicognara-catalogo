@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 385</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">385</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ALBERTI Leon Battista</author>,
+                     <title> Dialogo di Messer Leon Battista Alberti fiorentino, De Repubblica, de
+	Vita Civile, de Vita Rusticana, de Fortuna.</title> Nel frontespizio appresso Paulo Ghirardo: in fine
+	<pubPlace>Vinegia</pubPlace> 
+                     <publisher>per Venturino Rufinello,</publisher> 
+                     <date>1643,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo di Messer Leon Battista Alberti, Fiorentino [microform] : de republica, de vita civile, de vata rusticana, de fortuna.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/90855j</idno>
+            <idno type="cico">382</idno>
+            <idno type="cico">385</idno>
+            <idno type="dcl">qnk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo di Messer Leon Battista Alberti, Fiorentino [microform] : de republica, de vita civile, de vata rusticana, de fortuna.</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vinegia : Apresso Paulo Girardo</publisher>
+                     <date>[1543]</date>
+                     <date>1543</date>
+                  </imprint>
+                  <extent>32 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e6669aee-3315-4e4d-90bb-88582fad02e4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e6669aee-3315-4e4d-90bb-88582fad02e4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

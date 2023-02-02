@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 415</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">415</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>BARDET de Villeneuve</author>, 
+                     <title>Traité d’architecture civile à l’usage des ingénieurs,</title> 
+                     <pubPlace>à la Haye</pubPlace> 
+                     <date>1740,</date>
+                     <extent> in
+	8, fig. Con 12 grandi tavole intagliate in rame.</extent>
+	                    <note>Si attiene l’autore ai trattati del Vignola e dello Scamozzi.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de l'architecture civile à l'usage des ingénieurs .. [microform] / par Mr. Bardet de Villeneuve ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bardet de Villeneuve, P. P. A. Cours de la science militaire.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3v847p</idno>
+            <idno type="cico">415</idno>
+            <idno type="dcl">bg4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de l'architecture civile à l'usage des ingénieurs .. [microform] / par Mr. Bardet de Villeneuve ...</title>
+                  <respStmt>
+                     <persName>Bardet de Villeneuve, P. P. A.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A La Haye : Chez Jean van Duren</publisher>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>151, [9] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4fc44f83-de3b-4b5a-80bc-57d29417b38c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4fc44f83-de3b-4b5a-80bc-57d29417b38c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

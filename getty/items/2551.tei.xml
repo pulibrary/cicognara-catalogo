@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2551</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2551</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZOEGA Georgii</author>, <title>De origine et usu obeliscorum</title>, <pubPlace>Romae</pubPlace> <date>1797</date>, in fol., fig.
+<note>Con otto tavole in rame grandissime, opera insigne e profonda.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De origine et usu obeliscorum .. [microform] / auctore Georgio Zoega Dano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nr9s4h</idno>
+            <idno type="cico">2551</idno>
+            <idno type="dcl">f5p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De origine et usu obeliscorum .. [microform] / auctore Georgio Zoega Dano.</title>
+                  <respStmt>
+                     <persName>Zoega, Georg, 1755-1809.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Lazzarinii</publisher>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>viii, xl, 655 p.</extent>
+                  <extent>31 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f562044d-77c8-415d-b82b-adfc32cac9f8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f562044d-77c8-415d-b82b-adfc32cac9f8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De origine et usu obeliscorum ... / auctore Georgio Zoega Dano.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Antonini, Carlo, approximately 1740- engraver.</authority>
+            <authority>Roncalli, Andrea, engraver.</authority>
+            <authority>Lazzarini, Luigi, printer.</authority>
+            <authority>Giardoni, Alessio, active 1760-1791, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922550960001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xc3d2x</idno>
+            <idno>(OCoLC)5666470</idno>
+            <idno type="cico">2551</idno>
+            <idno type="dcl">f5p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De origine et usu obeliscorum ... / auctore Georgio Zoega Dano.</title>
+                  <respStmt>
+                     <persName>Zoega, Georg, 1755-1809, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Lazzarinii</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCXCVII [1797]</date>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>VIII, XL, 655, [1] p., [8] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e3a10ef9-00ac-473a-b63e-398011ce25d1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e3a10ef9-00ac-473a-b63e-398011ce25d1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

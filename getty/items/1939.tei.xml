@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1939</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1939</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PITTONI</author>, <title>Imprese di diversi principi, duchi, signori ec. nuovamente ristampate con alcune
+    stanze e sonetti di M. Lodovico Dolce</title>, <pubPlace>Venezia</pubPlace>, presso <publisher>Giovan Battista Bertoni</publisher>, <date>1602</date>, in fol.
+    fig.
+    <note>Tavole 41 prese dalle due parti, le quali anteriormente vennero anche separatamente pubblicate. <bibl>Vedi <author>Dolce
+    Lodovico</author>.</bibl>
+                    </note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imprese di diversi principi, duchi, signori, e d'altri personaggi et huomini illustri</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pittoni, Giovanni Battista, Author</authority>
+            <authority>Dolce, Lodovico, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-32012</idno>
+            <idno type="URI">http://portal.getty.edu/api/x08m79</idno>
+            <idno type="cico">1939</idno>
+            <idno type="dcl">95j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Imprese di diversi principi, duchi, signori, e d'altri personaggi et huomini illustri</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>Italien</pubPlace>
+                     <date>1602</date>
+                     <date>1602</date>
+                  </imprint>
+                  <extent>67 Taf.</extent>
+                  <extent>nur Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/pittoni1602/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/pittoni1602/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

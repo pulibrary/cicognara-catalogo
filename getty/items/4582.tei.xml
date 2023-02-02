@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4582</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4582</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REGNAULT de la Lande</author>, <title>Catalogue raisonné des objets d’art du Cabinet de M. Silvestre</title>, <pubPlace>Paris</pubPlace>
+                    <date> 1810</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonnʹe d'objets d'arts du cabinet de feu M. de Silvestre [par F.L. Regnault-Delalande]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Regnault-Delalande, François Léandre, 1762-1824.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920703983506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vv4g9x</idno>
+            <idno>(OCoLC)23428642</idno>
+            <idno type="cico">4582</idno>
+            <idno type="dcl">wfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonnʹe d'objets d'arts du cabinet de feu M. de Silvestre [par F.L. Regnault-Delalande]</title>
+                  <respStmt>
+                     <persName>Silvestre, Jacques Augustin de, 1719-1809.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris]</publisher>
+                     <date>[1810]</date>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>xiv, 555 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ead590e9-f552-46d9-92c3-c47fe0dc64e1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ead590e9-f552-46d9-92c3-c47fe0dc64e1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonné d'objets d'arts du cabinet de feu M. de Silvestre [microform] / par F.L. Regnault-Delalande.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985429223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5c652h</idno>
+            <idno type="cico">4582</idno>
+            <idno type="dcl">wfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonné d'objets d'arts du cabinet de feu M. de Silvestre [microform] / par F.L. Regnault-Delalande.</title>
+                  <respStmt>
+                     <persName>Regnault-Delalande, François Léandre, 1762-1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez l'auteur</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>xvj, 555 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/df62a7b8-da4b-4e51-a85d-083f2062b797/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/df62a7b8-da4b-4e51-a85d-083f2062b797/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

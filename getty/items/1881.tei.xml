@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1881</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1881</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DÉVISES et emblémes curieux, anciens et modernes tirées des plus celebres auteurs,
+    nouvellement inventées</title>. En italien, en français, en latin et en allemand, <pubPlace>Augspurg</pubPlace> <date>1702</date>, in 4.
+    <note>Sonovi 51 tavole, nella maggior parte delle quali stanno 15 imprese per ciascheduna di mediocre intaglio.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Devises et emblemes, anciennes &amp; modernes, tireès des plus celebres auteurs, oder, Emblematische Gemüths-Vergnügung [microform] : bey Betrachtung sieben hundert und funffzehen der curieusesten und ergötzlichsten Sinn-Bildern : mit ihren zuständigen Teutsch-Lateinisch-Französisch- und Jtalianischen Beyschrifften.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n23c3t</idno>
+            <idno type="cico">1881</idno>
+            <idno type="dcl">861</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Devises et emblemes, anciennes &amp; modernes, tireès des plus celebres auteurs, oder, Emblematische Gemüths-Vergnügung [microform] : bey Betrachtung sieben hundert und funffzehen der curieusesten und ergötzlichsten Sinn-Bildern : mit ihren zuständigen Teutsch-Lateinisch-Französisch- und Jtalianischen Beyschrifften.</title>
+                  <textLang>Multiple languages</textLang>
+                  <textLang>German</textLang>
+                  <textLang>Latin</textLang>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Augspurg : Verlegts Lorentz Kroniger und Gottlieb Göbels, Seel. Erlben-Druckts, Abraham Gugger</publisher>
+                     <date>An. 1702</date>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>51 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c394298e-29df-45fe-90ac-be4f87aad771/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c394298e-29df-45fe-90ac-be4f87aad771/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

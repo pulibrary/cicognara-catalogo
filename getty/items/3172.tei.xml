@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3172</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3172</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BARTHOLINI Thomae</author>, <title>De unicornu observationes novae</title>. Secunda editione auctiores et emendatiores editae a filio
+Casparo Bartholino, <pubPlace>Amsterdam</pubPlace> <date>1678</date>, in 12.
+<note>Con 24 tav. in rame ed una stampata assieme al testo. Il frontespizio è inciso da Ro. de Hoaghe.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Bartholini De Unicornu Observationes Novae</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartholin, Thomas, Author</authority>
+            <authority>Bartholin, Caspar, Editor</authority>
+            <authority>Hogenberg, Franz, Illustrator</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280700</idno>
+            <idno type="URI">http://portal.getty.edu/api/gc048d</idno>
+            <idno type="cico">3172</idno>
+            <idno type="dcl">rrv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Bartholini De Unicornu Observationes Novae</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1678</date>
+                     <date>1678</date>
+                  </imprint>
+                  <extent>[8] Bl., 381 S., [7] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartholin1678/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartholin1678/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Bartholini De unicornu obseruationes noua [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartholin, Caspar, 1655-1738.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pj8146</idno>
+            <idno type="cico">3172</idno>
+            <idno type="dcl">rrv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Bartholini De unicornu obseruationes noua [microform].</title>
+                  <respStmt>
+                     <persName>Bartholin, Thomas, 1616-1680.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelaedami : Apud JHenr. Wetstenium</publisher>
+                     <date>1678</date>
+                  </imprint>
+                  <extent>[16], 381, [15] p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/eefc4683-d092-4fed-91ea-156819151ada/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eefc4683-d092-4fed-91ea-156819151ada/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

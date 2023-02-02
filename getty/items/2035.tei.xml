@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2035</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2035</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GALLONII Antonii</author>, La stessa versione latina. Cum figuris Romae in aere incisis ab Antonio
+  Tempesta, <pubPlace>Parigi</pubPlace> <date>1660</date>, in 4, fig. ex Museo Raph. Tricheti du Fresne.
+  <note>Questo esemplare ha due frontespizi nei quali è la varietà del nome dello stampatore: nel primo è Federico
+  Zonard, nel 2 Claudio Cramoisy. Le tav. di Tempesta in N. di 40 sono in quest’edizione un po’ logore e non
+  rimane che il pregio d’essere splendidamente stampata e dei due opuscoli aggiunti de Equuleo e de Cruce di Gir.
+  Magi e di Gius. Lipsio. Esempl. in vit. dor.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De sanctorum martyrum cruciatibus Antonii Gallonii ... liber [microform] / cum figuris Romae in aere incisis per Ant. Tempestam &amp; aliis eiusdem argumenti libellis ; ex museo Raphaelis Tricheti du Fresne.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tempesta, Antonio, 1555-1630.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c3617</idno>
+            <idno type="cico">2035</idno>
+            <idno type="dcl">jvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De sanctorum martyrum cruciatibus Antonii Gallonii ... liber [microform] / cum figuris Romae in aere incisis per Ant. Tempestam &amp; aliis eiusdem argumenti libellis ; ex museo Raphaelis Tricheti du Fresne.</title>
+                  <respStmt>
+                     <persName>Gallonio, Antonio, -1605.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Claudium Cramoisy</publisher>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>322, [5] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ffe8cad4-974d-4da7-9c46-179a2f835237/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ffe8cad4-974d-4da7-9c46-179a2f835237/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

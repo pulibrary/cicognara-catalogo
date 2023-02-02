@@ -1,0 +1,84 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 325</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">325</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>GENGA Bernardino</author>, 
+                     <title>Anatomia per uso e intelligenza del disegno colle spiegazioni ed indice del
+	Lancisi.</title> Pubblicata per uso dell’Accademia di Francia in <pubPlace>Roma,</pubPlace> 
+                     <publisher>per Dom. De’ Rossi,</publisher> 
+                     <date>1691,</date>
+	opera splendidamente eseguita: aggiuntovi 8 tavole di antiche statue intagliate da S.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anatomia per uso et intelligenza del disegno : ricercata non solo su gl'ossi e muscoli del corpo humano, ma dimostrata ancora su le statue antiche più insigni di Roma, delineata in piu tauole con tutte le figure in varie faccie e vedute per istudio della Regia academia di Francia pittura e scultura / sotto la direzzione di Carlo Errard, gia direttore di essa in Roma. Preparata su'i cadaueri dal dottor Bernardino Genga... Con le spiegazioni et indice del sigr. canonico Gio. Maria Lancisi...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lancisi, Giovanni Maria, 1654-1720</authority>
+            <authority>Errard, Charles, 1606-1689</authority>
+            <authority>Andriot, F. (François), 1655-1704</authority>
+            <authority>Rossi, Domenico de', active 17th century-18th century</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924801970001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/g2199q</idno>
+            <idno type="URI">http://portal.getty.edu/api/gn6d5q</idno>
+            <idno>(OCoLC)839964799</idno>
+            <idno type="cico">325</idno>
+            <idno type="dcl">nzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Anatomia per uso et intelligenza del disegno : ricercata non solo su gl'ossi e muscoli del corpo humano, ma dimostrata ancora su le statue antiche più insigni di Roma, delineata in piu tauole con tutte le figure in varie faccie e vedute per istudio della Regia academia di Francia pittura e scultura / sotto la direzzione di Carlo Errard, gia direttore di essa in Roma. Preparata su'i cadaueri dal dottor Bernardino Genga... Con le spiegazioni et indice del sigr. canonico Gio. Maria Lancisi...</title>
+                  <respStmt>
+                     <persName>Genga, Bernardino, 1620-1690</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome] : Data in luce da Domenico de Rossi, herede di Gio. Iacomo de Rossi, nella sua stamperia in Roma alla Pace</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>il dì XV. settembre M.DC.XCI [1691]</date>
+                     <date>1691</date>
+                  </imprint>
+                  <extent>56 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/1931d718-8a31-41bf-a4fa-96e7ba489a24https://media.getty.edu/iiif/manifest/27b8dc1e-4025-4cac-88ba-26ffcfb6dbc8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1931d718-8a31-41bf-a4fa-96e7ba489a24">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/27b8dc1e-4025-4cac-88ba-26ffcfb6dbc8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

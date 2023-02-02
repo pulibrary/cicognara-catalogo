@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 414</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">414</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BARCA Alessandro</author>,
+                     <title> Della geometria di Polifilo.</title> Memoria, <pubPlace>Brescia</pubPlace> 
+                     <date>1808,</date>
+                     <extent> in fol. fig.</extent> 
+	                    <note>Si confutano ivi queste alcune esagerazioni di Temanza, e si fa conoscere fino a qual segno Francesco Colonna
+	sapesse di Geometria.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle geometria di polifilo, memoria [microform] / di Alessandro Barca.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2x1m25</idno>
+            <idno type="cico">414</idno>
+            <idno type="dcl">f87</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle geometria di polifilo, memoria [microform] / di Alessandro Barca.</title>
+                  <respStmt>
+                     <persName>Barca, Alessandro, 1741-1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Brescia : Per N.Z. Bettoni</publisher>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>19 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8f59da3e-4313-49db-ac44-aa22c8f886cb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8f59da3e-4313-49db-ac44-aa22c8f886cb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

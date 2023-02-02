@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4618</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4618</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RUFFI Jordani calabrensis</author>, <title>Hippiatria, nunc primum edente Hieronymo Molin</title>, 
+                        <pubPlace>Patavii</pubPlace> <date>1818</date>, in 8.
+<note>L’autore scriveva nel XIII secolo, ma la sua latinità lo farebbe presupporre d’un’epoca migliore.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jordani Ruffi, calabriensis Hippiatria [microform] : nunc primum edente Hieronymo Molin.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Molin, Hieronymo.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2s3n79</idno>
+            <idno type="cico">4618</idno>
+            <idno type="dcl">437</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Jordani Ruffi, calabriensis Hippiatria [microform] : nunc primum edente Hieronymo Molin.</title>
+                  <respStmt>
+                     <persName>Ruffo, Giordano, -1256.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Typis Seminarii Patavini</publisher>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>LXIII, 121 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5d796604-47b7-43a9-a3b3-592047152a0e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5d796604-47b7-43a9-a3b3-592047152a0e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

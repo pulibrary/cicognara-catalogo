@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4220</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4220</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GUILBERT</author>, <title>Déscription historique des châteaux, bourgs, et forestes de Fontainebleau</title>, <pubPlace>Paris</pubPlace> <date>1731</date>, in 12, fig., 2
+vol.
+<note>Opera scritta con molta accuratezza, con qualche tavola, ma di poca importanza.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description historique des chateau, bourg et forest de Fontainebleau [microform] : contentant une explication historique des peintures, tableaux, reliefs, statuës, ornemens qui s'y voyent, &amp; la vie des architectes, peintres &amp; sculpteures qui y ont travaillé; enrichie de plusieurs peaus et figures / par M. l'Abbé Guilbert ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3d2c9w</idno>
+            <idno type="URI">http://portal.getty.edu/api/0x1822</idno>
+            <idno type="URI">http://portal.getty.edu/api/z45394</idno>
+            <idno type="cico">4220</idno>
+            <idno type="dcl">mgg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description historique des chateau, bourg et forest de Fontainebleau [microform] : contentant une explication historique des peintures, tableaux, reliefs, statuës, ornemens qui s'y voyent, &amp; la vie des architectes, peintres &amp; sculpteures qui y ont travaillé; enrichie de plusieurs peaus et figures / par M. l'Abbé Guilbert ...</title>
+                  <respStmt>
+                     <persName>Guilbert, Pierre, 1697-1759.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez André Cailleau</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Fontainebleau (France)</pubPlace>
+                     <date>1731</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/20649563-4a6d-44b4-84d8-743726da58d8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/20649563-4a6d-44b4-84d8-743726da58d8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

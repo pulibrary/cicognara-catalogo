@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3813</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3813</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PALLADIO</author>, <title>Le antichità di Roma, raccolte brevemente dagli autori antichi, e moderni. Aggiuntovi un discorso
+sopra li fuochi degli antichi</title>, <pubPlace>Roma</pubPlace>, 15<date/>87, nella <publisher>stamperia di Dito, e Paolo Diani</publisher>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'antichita di Roma [microform] / di M. Andrea Palladio ; raccolta breuemente da gli autori antichi, e moderni ; aggiontoui vn discorso sopra li fuochi degli antichi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985437913506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xk426x</idno>
+            <idno type="cico">3813</idno>
+            <idno type="dcl">g5v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'antichita di Roma [microform] / di M. Andrea Palladio ; raccolta breuemente da gli autori antichi, e moderni ; aggiontoui vn discorso sopra li fuochi degli antichi ...</title>
+                  <respStmt>
+                     <persName>Palladio, Andrea, 1508-1580.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Tito &amp; Paolo Diani</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1587</date>
+                  </imprint>
+                  <extent>p. 82-126</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/16167b3e-468f-41aa-97d8-942a810e0578/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/16167b3e-468f-41aa-97d8-942a810e0578/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

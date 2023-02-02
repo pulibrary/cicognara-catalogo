@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 596</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">596</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>PALLADIO</author>, 
+                     <title>Architecture divisée en quatre livres avec des notes d’Inigo Jones qui n’avoient
+	point encore été imprimées, le tout revu, dessiné et nouvellement mis à jour par Jaques Leoni
+	venitien, vol. 2,</title> 
+                     <pubPlace>à la Haye,</pubPlace> 
+                     <publisher>chez Pierre Gosse,</publisher> 
+                     <date>1726,</date>
+                     <extent> in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architecture de Palladio [microform] : divisée en quatre livres dans lesquels, après un traité des cinqs ordres, joint aux observations les plus nécessaires pour bien bâtir, il est parlé de la construction des maisons publiques &amp; particuliéres, des grands-chemins, des ponts, des places-publiques, des xystes, &amp; des temples, avec leurs plans, profils, coupes, &amp; elévations ; avec des notes d'Inigo Jones, qui n'avoient point encore été imprimées ; le tout revu, dessiné &amp; nouvellement mis au jour par Jaques Leoni ... traduit de l'Italien.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jones, Inigo, 1573-1652.</authority>
+            <authority>Leoni, Giacomo, approximately 1686-1746.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/91446h</idno>
+            <idno type="cico">596</idno>
+            <idno type="dcl">9k4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architecture de Palladio [microform] : divisée en quatre livres dans lesquels, après un traité des cinqs ordres, joint aux observations les plus nécessaires pour bien bâtir, il est parlé de la construction des maisons publiques &amp; particuliéres, des grands-chemins, des ponts, des places-publiques, des xystes, &amp; des temples, avec leurs plans, profils, coupes, &amp; elévations ; avec des notes d'Inigo Jones, qui n'avoient point encore été imprimées ; le tout revu, dessiné &amp; nouvellement mis au jour par Jaques Leoni ... traduit de l'Italien.</title>
+                  <respStmt>
+                     <persName>Palladio, Andrea, 1508-1580.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>La Haye : Chez Pierre Gosse</publisher>
+                     <date>1726</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1531c267-0288-4ebc-bdba-f1b6aa743cc5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1531c267-0288-4ebc-bdba-f1b6aa743cc5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

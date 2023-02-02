@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1653</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1653</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FICORONI Francisci</author>, <title>Dissertatio de larvis scenicis et figuris comicis antiquorum Romanorum
+    ex italica in linguam latinam versa. Editio secunda auctior et emendatior</title>, <pubPlace>Romae</pubPlace> <date>1754</date>, in 4,
+    fig.
+    <note>Le tavole sono le stesse colla differenza d’un capitolo e una tavola di più in fine dell’opera.
+    </note>
+    <pb type="cico" n="286"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francisci Ficoronii Reg. Lond. Acad. Socii dissertatio de laruis scenicis et fuguris comicis, antiquorum romanorum [microform] : ex italica in Latinam linguam versa.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nn5v23</idno>
+            <idno type="cico">1653</idno>
+            <idno type="dcl">mfz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Francisci Ficoronii Reg. Lond. Acad. Socii dissertatio de laruis scenicis et fuguris comicis, antiquorum romanorum [microform] : ex italica in Latinam linguam versa.</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Sumptibus Venantii Monaldini Bibliopolae ... :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>115 p., LXXXV leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6bb1346c-79d8-4e51-8e17-9af9e4c0abc9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6bb1346c-79d8-4e51-8e17-9af9e4c0abc9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

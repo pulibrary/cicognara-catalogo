@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 388</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">388</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>ALBERTI Leon Battista</author>, 
+                     <title>La pittura, tradotto da M. Ludovico Domenichi,</title> 
+                     <pubPlace>in Venezia,</pubPlace>
+                     <publisher> apud Gab.
+	Giolito de’ Ferrari,</publisher> 
+                     <date>1547.</date> Vedi fra i Trattati di pittura. <!--Points to another item?-->
+	— <title>Opuscoli morali tradotti da Cosimo Bartoli,</title> 
+                     <pubPlace>Venezia</pubPlace>
+                     <publisher> presso il Franceschi,</publisher> 
+                     <date>1598,</date> 
+                     <extent>in 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opvscoli morali di Leon Batista Alberti gentil' hvomo firentino : ne' quali si contengono molti ammaestramenti, necessarij al viuer de l'huomo, così posto in dignità, come priuato. Tradotti, &amp; parte corretti da m. Cosimo Bartoli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartoli, Cosimo, 1503-1572, translator.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925168460001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jm165c</idno>
+            <idno>(OCoLC)3152005</idno>
+            <idno type="cico">388</idno>
+            <idno type="dcl">b8t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opvscoli morali di Leon Batista Alberti gentil' hvomo firentino : ne' quali si contengono molti ammaestramenti, necessarij al viuer de l'huomo, così posto in dignità, come priuato. Tradotti, &amp; parte corretti da m. Cosimo Bartoli.</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia, Appresso Francesco Franceschi, Sanese</publisher>
+                     <date>1568</date>
+                  </imprint>
+                  <extent>4 preliminary leaves, 426 pages, 3 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/783873ed-4fbb-4d9f-8a86-9e9a7984ed4c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/783873ed-4fbb-4d9f-8a86-9e9a7984ed4c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

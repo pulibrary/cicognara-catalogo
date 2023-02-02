@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2913</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2913</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MAGNAN Dominici</author>,<title> Miscellanea numismatica, in quibus exhibentur populorum, insignorumque virorum
+                        numismata omnia</title>, <pubPlace>Romae</pubPlace> a <date>1772</date>  ad <date>1774</date>, vol. 4, in 8, legati in due.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miscellanea numismatica in quibus exhibentur populorum insigniumque virorum numismata omnia [microform] : in variis per Europam nummophylaciis accuratè descripta, necnon aliqua alia ex jam editis deprompta et in fine plurimas in classes distributa / a p. Dominico Magnan ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kz4b76</idno>
+            <idno type="cico">2913</idno>
+            <idno type="dcl">0pq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Miscellanea numismatica in quibus exhibentur populorum insigniumque virorum numismata omnia [microform] : in variis per Europam nummophylaciis accuratè descripta, necnon aliqua alia ex jam editis deprompta et in fine plurimas in classes distributa / a p. Dominico Magnan ...</title>
+                  <respStmt>
+                     <persName>Magnan, Dominique, 1731-1796.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Archangelum Casaletti ... :</publisher>
+                     <date>1772-74</date>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/132c2696-a508-4de6-ab33-65100c78c3c5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/132c2696-a508-4de6-ab33-65100c78c3c5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

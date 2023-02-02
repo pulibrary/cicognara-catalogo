@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1860</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1860</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BRUCK</author>, <title>Emblemata politica</title>, <pubPlace>Arg.</pubPlace> <date>1618</date>, in 4.
+    <note>Bello esemplare della biblioteca del Duca di Malborough.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iacobi â Bruck, Angermunt cogn. Emblemata politica [microform] : quibus ca, quae ad principatum spectant breviter demonstrantur, singulorû verò explicatio fusius proponitur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4k367s</idno>
+            <idno type="cico">1860</idno>
+            <idno type="dcl">j87</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iacobi â Bruck, Angermunt cogn. Emblemata politica [microform] : quibus ca, quae ad principatum spectant breviter demonstrantur, singulorû verò explicatio fusius proponitur.</title>
+                  <respStmt>
+                     <persName>Bruck, Jacobus à.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Prostant Argentine : Apud Jacobum ab Heyden ;</publisher>
+                     <date>1618</date>
+                  </imprint>
+                  <extent>[8], 216 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/66655db6-15b0-4d3f-857b-58915558b397/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/66655db6-15b0-4d3f-857b-58915558b397/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

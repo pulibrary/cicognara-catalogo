@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3536</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3536</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PERRIER Francisci</author>, <title>Icones, et segmenta illustrium e marmore tabularum, quae Romae adhuc extant delineata,
+incisa, et ad antiquam formam lapideis <pb type="cico" n="162"/> exemplaribus passim collapsis restituta</title>, <pubPlace>Romae</pubPlace> <date>1645</date>, in fol.
+oblong., constat tab. 50.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Icones et segmenta illustrium e marmore tabularum quae Romae adhuc extant [microform] / à Francisco Perrier delineata incisa et ad antiquam formam lapideis exemplaribus passim collapsis restituta.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985420093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gb7j1q</idno>
+            <idno type="cico">3536</idno>
+            <idno type="dcl">b2v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Icones et segmenta illustrium e marmore tabularum quae Romae adhuc extant [microform] / à Francisco Perrier delineata incisa et ad antiquam formam lapideis exemplaribus passim collapsis restituta.</title>
+                  <respStmt>
+                     <persName>Perrier, François, 1590?-1656?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae ; Chez la veufue de deffunct Monsr. Perier</publisher>
+                     <date>1645</date>
+                  </imprint>
+                  <extent>[1] p., [ca. 50] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/59ef8552-7b2a-4602-a2f0-d45b547925a9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/59ef8552-7b2a-4602-a2f0-d45b547925a9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Icones Et Segmenta Illvstrivm E Marmore Tabvlarvm Qvae Romae Adhvc Extant</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Perrier, François, Author</authority>
+            <authority>Bellori, Giovanni Pietro, Author</authority>
+            <authority>Bellori, Giovanni Pietro, Commentator for written text</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-28874</idno>
+            <idno type="URI">http://portal.getty.edu/api/sj2d2t</idno>
+            <idno type="cico">3536</idno>
+            <idno type="dcl">b2v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Icones Et Segmenta Illvstrivm E Marmore Tabvlarvm Qvae Romae Adhvc Extant</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Rom</pubPlace>
+                     <pubPlace>Römisches Reich</pubPlace>
+                     <pubPlace>Rom</pubPlace>
+                     <pubPlace>Europa</pubPlace>
+                     <pubPlace>Italien</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>41.89193 12.51133</pubPlace>
+                     <date>1645</date>
+                     <date>1645</date>
+                  </imprint>
+                  <extent>[1], 50 Bl.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/perrier1645/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/perrier1645/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

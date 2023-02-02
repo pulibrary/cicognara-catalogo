@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1153</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1153</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DONI Anton Francesco</author>, <title>Lettere</title>, <pubPlace>Vinegia</pubPlace>, presso <publisher>Girolamo Scotto</publisher>, <date>1544</date>, in 8.
+    <note>Sonovi lettere curiose e interessanti a diversi letterati ed artisti come a un Giovan Angelo Scultore (il
+    Montorsoli), a M. Angelo Buonarroti, all’Aretino, al Giovio, a Giovan Batista Doni ec.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettere [microform] / d'Antonfrancesco Doni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/240k4f</idno>
+            <idno type="cico">1153</idno>
+            <idno type="dcl">g5h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettere [microform] / d'Antonfrancesco Doni.</title>
+                  <respStmt>
+                     <persName>Doni, Anton Francesco, 1513-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Appresso Girolamo Scotto</publisher>
+                     <date>1554</date>
+                  </imprint>
+                  <extent>CXXXV, [1] leaves</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e59f4513-a8a0-4bde-a366-e0fe847409d8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e59f4513-a8a0-4bde-a366-e0fe847409d8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

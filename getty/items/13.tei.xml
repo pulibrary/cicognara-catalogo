@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 13</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">13</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                 <author>BONIFACIO Giovanni</author>,
+                 <title> Le arti liberali e meccaniche come siano state dagli animali irrationali agli
+		 uomini dimostrate,</title>
+                 <pubPlace> Rovigo</pubPlace>
+                 <date> 1628,</date>
+                 <extent> in 4, M. 63.</extent>
+	         <note>Opera stravagante e ripiena d’erudizione curiosa, senza alcun principio di critica.</note>
+	       </bibl>
+                <bibl>
+                 <author>BOTTARI Monsig. Vedi</author> 
+                 <title>Raccolta di Lettere Pittoriche. – Dialoghi sopra le tre arti del disegno.</title>
+	       – Vasari, Vite de’ Pittori.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'arti liberali et mecaniche [microform] : come siano state da gli animali irrationali à gli huomini dimostrate / opera del Sig. Giovanni Bonifaccio ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qs233n</idno>
+            <idno type="cico">13</idno>
+            <idno type="dcl">3w3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arti liberali et mecaniche [microform] : come siano state da gli animali irrationali à gli huomini dimostrate / opera del Sig. Giovanni Bonifaccio ...</title>
+                  <respStmt>
+                     <persName>Bonifacio, Giovanni, 1547-1635.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Rovigo : Apresso Daniel Bissuccio</publisher>
+                     <date>1628</date>
+                  </imprint>
+                  <extent>139 [1] p.</extent>
+                  <extent>3 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1eccfd00-0097-4353-92b3-bad783b01eda/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1eccfd00-0097-4353-92b3-bad783b01eda/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

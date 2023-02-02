@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1803</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1803</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>STRUTT Joseph</author>, <title>The chronicle of England vol. 1 from the arrival of Julius Caesar to the end
+                     of the Saxon heptarchy,</title>
+                    <pubPlace> London</pubPlace>
+                    <date> 1777</date>, in 4, fig.
+                     <note>Sono queste le cinque parti di questa Cronaca con 22 tavole illustrative intagliate in rame</note>.
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The chronicle of England [microform] / by Joseph Strutt.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3r8c5x</idno>
+            <idno type="cico">1803</idno>
+            <idno type="dcl">xrb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The chronicle of England [microform] / by Joseph Strutt.</title>
+                  <respStmt>
+                     <persName>Strutt, Joseph, 1749-1802.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by Joseph Cooper, for Walter Shropshire</publisher>
+                     <pubPlace>Great Britain</pubPlace>
+                     <date>1777-1778</date>
+                     <date>1777</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9fa0016a-3539-4e0e-9d72-d2a862ea37c5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9fa0016a-3539-4e0e-9d72-d2a862ea37c5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

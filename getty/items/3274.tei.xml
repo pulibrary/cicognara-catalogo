@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3274</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3274</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MENEGHELLI Pier’Antonio</author>, <title>Memoria antiquario-lapidaria pubblicata nel solenne ingresso di Mon <pb type="cico" n="120"/> sig.
+Dondi Orologio vescovo di Padova nel seminario</title>, <date>1808</date>, in 4, M. 78.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoria antiquario-lapidaria dell abbate Pierantonio Meneghelli [microform] : pubblicata in occasione del solenne ingresso alla sede vescovile di Padova di monsig. ... Francesco Scipione Dondi Dall'Orologio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kq4d5p</idno>
+            <idno type="cico">3274</idno>
+            <idno type="dcl">rfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoria antiquario-lapidaria dell abbate Pierantonio Meneghelli [microform] : pubblicata in occasione del solenne ingresso alla sede vescovile di Padova di monsig. ... Francesco Scipione Dondi Dall'Orologio.</title>
+                  <respStmt>
+                     <persName>Meneghelli, Pierantonio, 1749-1819.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Padua] : Nel seminario di Padova</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>45 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7d4d5617-b207-4298-87ad-3713a436478b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7d4d5617-b207-4298-87ad-3713a436478b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4622</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4622</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SNAP Andrea</author>, <title>L’anatomia del cavallo con un’esatta descrizione della struttura, e relazione delle sue parti</title>,
+rappresentata in 49 tavole, <pubPlace>Londra</pubPlace> <date>1683</date>, in fol., in lingua inglese.
+<note>Le incisioni sono trattate con gran solerzia di bulino da N. Yeats, ma l’opera versa interamente sull’anatomia, e
+in nulla sui movimenti dell’animale: magnifico esemplare in vitel. dorato.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+                     <pb type="cico" n="313"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomy of an horse [microform] : containing an exact and full description of the frame, situation and connexion of all his parts, (with their actions and uses) exprest in forty-nine copper-plates) : to which is added an appendix, containing two discourses, the one, of the generation of animals, and the other, of the motion of the chyle, and the circulation of the bloud / by Andrew Snape ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qn1s9g</idno>
+            <idno type="cico">4622</idno>
+            <idno type="dcl">j8k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The anatomy of an horse [microform] : containing an exact and full description of the frame, situation and connexion of all his parts, (with their actions and uses) exprest in forty-nine copper-plates) : to which is added an appendix, containing two discourses, the one, of the generation of animals, and the other, of the motion of the chyle, and the circulation of the bloud / by Andrew Snape ...</title>
+                  <respStmt>
+                     <persName>Snape, Andrew, 1644-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by M. Flesher for the authour, and are to be sold by T. Flesher</publisher>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>237, 45 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3c4ea8ae-8a08-4d64-86ff-0ec40927e837/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3c4ea8ae-8a08-4d64-86ff-0ec40927e837/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 347</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">347</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>PIROLI Tommaso</author>, 
+                     <title>Raccolta di studi come elementi del disegno tratti dall’antico, da Raffaello e
+	da Michelangelo, con aggiunta di alcune tavole anatomiche,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1801,</date> 
+                     <extent>in fol.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta di studj comme elementi del disegno tratti dall'antico da Raffaeelo e Michelangelo [microform] / con aggiunta di alcu ne tavole anatomiche il tutto publicato ed inciso ... da Tommaso Piroli, l'anno 1801.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sr6v1x</idno>
+            <idno type="URI">http://portal.getty.edu/api/bx1w2v</idno>
+            <idno type="URI">http://portal.getty.edu/api/g04g5p</idno>
+            <idno type="cico">347</idno>
+            <idno type="dcl">gvs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta di studj comme elementi del disegno tratti dall'antico da Raffaeelo e Michelangelo [microform] / con aggiunta di alcu ne tavole anatomiche il tutto publicato ed inciso ... da Tommaso Piroli, l'anno 1801.</title>
+                  <respStmt>
+                     <persName>Piroli, Tommaso, approximately 1752-1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso l'autore a Strada Gregoriana</publisher>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>[40] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b5a5e467-2fb4-481d-9602-4606b64dbecb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b5a5e467-2fb4-481d-9602-4606b64dbecb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

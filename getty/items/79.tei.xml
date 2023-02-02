@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 79</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">79</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BELTRAMINI Matteo Marco</author>,
+                     <title> Della mestica e della pittura discorsi due,</title> 
+                     <pubPlace>Imola</pubPlace> 
+                     <date>1796,</date>
+                     <extent> in 8, M. 99.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della mestica e della pittura [microform] : discorsi due / di Matteo Marco Beltramini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pedroni, Pietro.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9b9n3x</idno>
+            <idno type="cico">79</idno>
+            <idno type="dcl">qk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della mestica e della pittura [microform] : discorsi due / di Matteo Marco Beltramini.</title>
+                  <respStmt>
+                     <persName>Beltramini, Matteo Marco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Imola : Nella stamperia di Gio. Dal Monte</publisher>
+                     <date>[1796]</date>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>XXVI, [XXVII] p.</extent>
+                  <extent>1 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e7026973-bca9-4c91-af77-b8370f1c28a1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e7026973-bca9-4c91-af77-b8370f1c28a1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

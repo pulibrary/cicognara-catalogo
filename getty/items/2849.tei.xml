@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2849</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2849</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FROELICH Erasmi</author>, <title>Dubia de Minnisari aliorumque Armeniae Regum nummis nuper vulgatis proposita</title>, <pubPlace>Viennae</pubPlace>
+                        <date>1754</date>, in 4, fig., M. 91. Vedi Corsini.
+                        <note>Con una tavola in fine</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dubia de Minnisari aliorumque Armeniae Regum numis et Arsacidarum Epocha nuper vulgatis [microform] / per Erasmum Froelich ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408913506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s8141s</idno>
+            <idno type="cico">2849</idno>
+            <idno type="dcl">p85</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dubia de Minnisari aliorumque Armeniae Regum numis et Arsacidarum Epocha nuper vulgatis [microform] / per Erasmum Froelich ...</title>
+                  <respStmt>
+                     <persName>Frölich, Erasmus, 1700-1758.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Viennae, Austriae : Typis Joannis Thomae Trattner</publisher>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>104 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/abbe3433-2161-41e0-822c-7bc97ad6e687/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/abbe3433-2161-41e0-822c-7bc97ad6e687/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

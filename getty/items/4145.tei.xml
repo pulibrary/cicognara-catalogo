@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4145</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4145</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MILLIN A. L.</author>, <title>Voyage en Savoje, en Piemont, à Nice, et à Genes</title>, 
+                        <pubPlace>Paris</pubPlace> <date>1816</date>, vol. 2, in 8.
+<note>L’impazienza di questo dotto viaggiatore di dare in breve tempo i libri a stampa non gli permise di cribrare le
+materie e le tradizioni, ma incontransi molte ottime notizie miste a non poche inesattezze.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Voyage en Savoie, en Piémont, à Nice, et à Gènes [microform] / par A. L. Millin ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985429093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g66b3p</idno>
+            <idno type="cico">4145</idno>
+            <idno type="dcl">qcc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Voyage en Savoie, en Piémont, à Nice, et à Gènes [microform] / par A. L. Millin ...</title>
+                  <respStmt>
+                     <persName>Millin, A. L. (Aubin Louis), 1759-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez C. Wassermann</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Nice (France)</pubPlace>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c0354fd2-84b5-44ce-a2a2-581d96a1e85f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c0354fd2-84b5-44ce-a2a2-581d96a1e85f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

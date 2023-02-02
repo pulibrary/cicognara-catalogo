@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4702</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4702</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GAMA D. Antonio Leon</author>, <title>Saggio dell’astronomia, cronologia, e mitologia degli antichi messicani</title>, tradotta dallo
+spagnuolo da D. Pietro Giuseppe Marquez, <pubPlace>Roma</pubPlace> <date>1804</date>, in 8, fig.
+<note>Con due gran tavole in rame: opera doppiamente riputata per l’autore, e pel traduttore.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio dell'astronomia, cronologia e mitologia degli antichi Messicani [microform] / opera di D. Antonio León y Gama ; tradotta dallo spagnuolo, e dedicata alla molto nobile, illustre ed imperiale citt à di Messico.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Carrega, Michele.</authority>
+            <authority>Marquez, Pedro, 1741-1820.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cq7q8c</idno>
+            <idno type="cico">4702</idno>
+            <idno type="dcl">2cx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio dell'astronomia, cronologia e mitologia degli antichi Messicani [microform] / opera di D. Antonio León y Gama ; tradotta dallo spagnuolo, e dedicata alla molto nobile, illustre ed imperiale citt à di Messico.</title>
+                  <respStmt>
+                     <persName>León y Gama, Antonio de, 1735-1802.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso il Salomoni</publisher>
+                     <pubPlace>Mexico</pubPlace>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>xiii, 184 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/af1a9e36-ce86-423c-b9fe-892f03164653/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/af1a9e36-ce86-423c-b9fe-892f03164653/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

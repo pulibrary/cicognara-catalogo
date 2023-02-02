@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 436</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">436</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BLONDEL François</author>,
+                     <title> Discours sur la necessité de l’etude de l’Architetture,</title> 
+                     <pubPlace>Paris,</pubPlace> 
+                     <publisher>chez Jombert</publisher>
+	                    <date>1764,</date>
+                     <extent> in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discours sur la nécessité de l'étude de l'architecture [microform] : dans lequel on essaie de prouver combien il est important pour le progrès des arts, que les hommes en place en acquierent les connoissances élémentaires, que les artistes en approfondissent la théorie : &amp; que les artifans s'appliquent aux développement du ressort de leur profession / prononcé à l'ouverture du cinquieme cours public donné par le sieur Blondel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k63786</idno>
+            <idno type="cico">436</idno>
+            <idno type="dcl">rrh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discours sur la nécessité de l'étude de l'architecture [microform] : dans lequel on essaie de prouver combien il est important pour le progrès des arts, que les hommes en place en acquierent les connoissances élémentaires, que les artistes en approfondissent la théorie : &amp; que les artifans s'appliquent aux développement du ressort de leur profession / prononcé à l'ouverture du cinquieme cours public donné par le sieur Blondel ...</title>
+                  <respStmt>
+                     <persName>Blondel, Jacques-François, 1705-1774.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez C. A. Jommert</publisher>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>179 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2b505a7f-4a56-4ba2-9741-18defe37ada3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2b505a7f-4a56-4ba2-9741-18defe37ada3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

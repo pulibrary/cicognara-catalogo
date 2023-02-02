@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3078</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3078</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZANETTI Hieronimi Francisci</author>, <title>Sigillum aereum Alesinae e marchionibus Montisferrati nunc primum protulit
+notisque illustravit</title>, <pubPlace>Venetiis</pubPlace> <date>1751</date>, in 8, figurato.
+<note>Opuscoletto ripieno di preziose notizie.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sigillum aereum Alesinae e Marchionibus Montis-Ferrati [microform] / Hier. Franc. Zanettius ; nunc primum protulit notisque inlustravit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nm5h9t</idno>
+            <idno type="cico">3078</idno>
+            <idno type="dcl">1gw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sigillum aereum Alesinae e Marchionibus Montis-Ferrati [microform] / Hier. Franc. Zanettius ; nunc primum protulit notisque inlustravit.</title>
+                  <respStmt>
+                     <persName>Zanetti, Girolamo Francesco, 1713-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Excudebat Venetiis : Antonius de Castro</publisher>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>XXXXII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c39c0063-a7da-49cb-83bc-f8e9b9d0a87f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c39c0063-a7da-49cb-83bc-f8e9b9d0a87f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

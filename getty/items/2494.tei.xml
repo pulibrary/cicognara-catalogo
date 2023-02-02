@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2494</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2494</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MONTFAUCON (de) D. Bernard</author>, <title>Diarium italicum, sive monumentorum veterum, bibliothecarum, musaeorum etc.</title>,
+<pubPlace>Parisiis</pubPlace> <date>1702</date>, in 4, fig.
+<note>Le poche tavole intagliate in rame che illustrano quest’opera, non troppo profonda, sono inserite fra il testo.
+Vedansi le osservazioni su quest’opera all’articolo Ficoroni e l’apologia all’articolo Riccobaldi.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diarium italicum, sive monumentorum veterum, bibliothecum, musaeorum, &amp;c [microform] : notitiae singulares in itinerario italico collectae / additis schematibus ac figuris a R.P.D. Bernardo de Montfaucon ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ps4t2h</idno>
+            <idno type="cico">2494</idno>
+            <idno type="dcl">9zt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Diarium italicum, sive monumentorum veterum, bibliothecum, musaeorum, &amp;c [microform] : notitiae singulares in itinerario italico collectae / additis schematibus ac figuris a R.P.D. Bernardo de Montfaucon ....</title>
+                  <respStmt>
+                     <persName>Montfaucon, Bernard de, 1655-1741.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Joannem Anisson</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>526 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a839d1fe-9e19-4c24-ae96-107b38c15394/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a839d1fe-9e19-4c24-ae96-107b38c15394/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diarium Italicum Sive Monumentorum Veterum, Bibliothecarum Musæorum, &amp;c. Notitiæ singulares in Itinerario Italico collectæ: Additis schematibus ac figuris</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Montfaucon, Bernard de, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-87970</idno>
+            <idno type="URI">http://portal.getty.edu/api/db8j12</idno>
+            <idno type="cico">2494</idno>
+            <idno type="dcl">9zt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Diarium Italicum Sive Monumentorum Veterum, Bibliothecarum Musæorum, &amp;c. Notitiæ singulares in Itinerario Italico collectæ: Additis schematibus ac figuris</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Italien</pubPlace>
+                     <pubPlace>Europa</pubPlace>
+                     <pubPlace>Italien</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>42.83333 12.83333</pubPlace>
+                     <date>1702</date>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>[18] Bl., 526 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/montfaucon1702/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/montfaucon1702/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

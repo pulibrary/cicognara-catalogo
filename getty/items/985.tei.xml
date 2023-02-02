@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 985</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">985</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GALETI Girolamo</author>, <title>La Musica: tradotta dal verso eroico latino in ottava rima da Giovan Mario
+      Verdizotti</title>. <pubPlace>Venezia</pubPlace> <date>1561</date>, in 8, M. 36.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La musica [microform] / dell'illustre sig. Girolamo Faleti conte di Trignano ; tradotta dal verso heroico Latino in ottaua rima da Giouan Mario Verdezotti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Verdizotti, Giovanni Mario, 1525-1600.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cr3m9d</idno>
+            <idno type="cico">985</idno>
+            <idno type="dcl">f5x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La musica [microform] / dell'illustre sig. Girolamo Faleti conte di Trignano ; tradotta dal verso heroico Latino in ottaua rima da Giouan Mario Verdezotti.</title>
+                  <respStmt>
+                     <persName>Fallétti, Girolamo, 1518?-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Nicolo Beuilacqua</publisher>
+                     <date>1562</date>
+                  </imprint>
+                  <extent>[31] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/66e4c5f3-1b9d-42a9-9cd2-1f06a4f23466/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/66e4c5f3-1b9d-42a9-9cd2-1f06a4f23466/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

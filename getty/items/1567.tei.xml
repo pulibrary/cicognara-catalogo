@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1567</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1567</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BALDUINUS D.</author>, <title>De Calceo antiquo et Nigronius de Caliga veterum</title>, 
+                     <pubPlace>Amstelodami</pubPlace> <date>1667</date>, in 12, fig.
+    <note>Libretto assai ben fatto e con molte tavole nitide a’ luoghi indicati nel testo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B. Balduinus De calceo antiquo et Jul. Nigronus De caliga veterum [microform] : accesserntu ex Q. Sept. Fl. Tertulliani, Cl. SalmasI, &amp; Alb. RubenI scriptis plurima ejusdem argumenti / in his scriptores veteres quamplurimi explicantur, &amp; emendantur, nec non res ipsae adjectis aeneis figuris illustrantur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tertullian, approximately 160-approximately 230.</authority>
+            <authority>Negrone, Giulio, 1553-1625. De caliga veterum.</authority>
+            <authority>Rubens, Albert, 1614-1657.</authority>
+            <authority>Saumaise, Claude, 1588-1653.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qn320m</idno>
+            <idno type="cico">1567</idno>
+            <idno type="dcl">xfp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>B. Balduinus De calceo antiquo et Jul. Nigronus De caliga veterum [microform] : accesserntu ex Q. Sept. Fl. Tertulliani, Cl. SalmasI, &amp; Alb. RubenI scriptis plurima ejusdem argumenti / in his scriptores veteres quamplurimi explicantur, &amp; emendantur, nec non res ipsae adjectis aeneis figuris illustrantur.</title>
+                  <respStmt>
+                     <persName>Baudouin, Benoît, -1632.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Sumptibus Sebastiani Combi &amp; Joannis Lanov</publisher>
+                     <date>1667</date>
+                  </imprint>
+                  <extent>2 v. in 1.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0c3ed963-559e-42a9-a6f1-37f4d3671c59/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0c3ed963-559e-42a9-a6f1-37f4d3671c59/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>B. Balduinus De calceo antiquo et Jul. Nigronus De caliga veterum</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baudouin, Benoît, Author</authority>
+            <authority>Negrone, Giulio, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-270680</idno>
+            <idno type="URI">http://portal.getty.edu/api/4q7s4x</idno>
+            <idno type="cico">1567</idno>
+            <idno type="dcl">xfp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>B. Balduinus De calceo antiquo et Jul. Nigronus De caliga veterum</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1667</date>
+                     <date>1667</date>
+                  </imprint>
+                  <extent>[6] Bl., 345, [1] S., [14] Bl., 213, [1] S., [7] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/baudouin1667/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/baudouin1667/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

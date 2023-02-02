@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4193</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4193</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>NOUVEAU tableaux de Dresde</title>, <pubPlace>Dresde</pubPlace>
+                    <date> 1818</date>, in 8, ou déscription topographique de cette ville.
+                           <note>Questo libro è ben fatto e interessante: evvi aggiunta la bella pianta della città</note>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouveau tableau de Dresde, ou, Description topographique de cette ville [microform] : contenant des notices sur tout ce qu'elle a de curieux et d'intéressant pour les étrangers relativement à l'histoire, les arts et l'industrie : suivi d'une table des routes de Dresde aux principales villes de 'Allemagne et le 'Europe et d'un nouveau plan de la ville.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bx780p</idno>
+            <idno type="cico">4193</idno>
+            <idno type="dcl">299</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouveau tableau de Dresde, ou, Description topographique de cette ville [microform] : contenant des notices sur tout ce qu'elle a de curieux et d'intéressant pour les étrangers relativement à l'histoire, les arts et l'industrie : suivi d'une table des routes de Dresde aux principales villes de 'Allemagne et le 'Europe et d'un nouveau plan de la ville.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>À Dresde : Chez Arnold</publisher>
+                     <pubPlace>Dresden (Germany)</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>263 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/53b43410-68a6-4b77-b76a-bc38e804bd12/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/53b43410-68a6-4b77-b76a-bc38e804bd12/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

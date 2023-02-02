@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2452</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2452</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PETIT Doux-Ciel Anselmo</author>, <title>Speculum physionomicum</title>. Imprimé à <pubPlace>Langres</pubPlace>, aux depenses de
+    <publisher>l’auteur</publisher>, <date>1648</date>, in 8. Col ritratto dell’autore inciso da Moncornet.
+    <note>L’opera è divisa in due parti. La prima di fisonomia, la seconda di chiromanzia con qualche tavola in rame
+    frapposta al testo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speculum physionomicum [microform] / Ancelmo Petit Douxciel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1h9g96</idno>
+            <idno type="cico">2452</idno>
+            <idno type="dcl">n57</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Speculum physionomicum [microform] / Ancelmo Petit Douxciel ...</title>
+                  <respStmt>
+                     <persName>Petit Douxciel, Ancelme, fl. 1648.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Imprimé à Langres ... ; Chez L'Autheur ... et chez Geruais Clousier</publisher>
+                     <date>1648</date>
+                  </imprint>
+                  <extent>184 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d8ba0601-ccfa-4539-9eb8-a347dbc579b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d8ba0601-ccfa-4539-9eb8-a347dbc579b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

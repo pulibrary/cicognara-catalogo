@@ -1,0 +1,81 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2325</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2325</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MILIZIA. Francesco</author>, <title>Memorie degli architetti antichi e moderni</title>. Terza edizione accresciuta e
+    corretta dallo stesso autore, <pubPlace>Parma</pubPlace> <date>1781</date>, to. 2, in 4.
+    <note>Questa è la migliore edizione di quest’opera in cui sono influite ottime nozioni e profondissima critica, sebben
+    troppo severa e qualche volta pericolosa per i giovani artisti.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie degli architetti antichi e moderni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bodoni, Giambattista, 1740-1813, printer.</authority>
+            <authority>Stamperia Reale (Parma, Italy), printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924141550001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rw5r2q</idno>
+            <idno type="URI">http://portal.getty.edu/api/bg3m98</idno>
+            <idno>(OCoLC)11326848</idno>
+            <idno type="cico">2325</idno>
+            <idno type="dcl">mzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie degli architetti antichi e moderni.</title>
+                  <respStmt>
+                     <persName>Milizia, Francesco, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Dalla Stamperia Reale</publisher>
+                     <pubPlace>Italy Parma.</pubPlace>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/19883575-278d-4407-928a-c0ed7794ff3fhttps://media.getty.edu/iiif/manifest/294bf69c-cdf3-4636-9c18-4fb35d1abbe7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/19883575-278d-4407-928a-c0ed7794ff3f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/294bf69c-cdf3-4636-9c18-4fb35d1abbe7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

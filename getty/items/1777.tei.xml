@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1777</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RICAUT</author>, <title>Histoire de l’état present de l’Empire ottoman contenant les maximes politiques etc.</title>,
+  traduit de l’anglais par M. Briot, <pubPlace>Paris</pubPlace> <date>1670</date>, in 12.
+  <note>Questo libro è pregiabile anche per le 20 tavole dei costumi turchi intagliate con infinita grazia da Sebast. Le
+  Clere indipendenti dal frontespizio figurato.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire de l'état present de l'Empire Ottoman [microform] : contenant les maximes politiques des Turcs, les principaux points de la religion mahometane, ses sectes, ses héresies, &amp; ses diverses sortes de religieux : leur discipline militaire, avec vne supputation exacte de leurs forces par mer &amp; par terre, &amp; du revenu de l'état / traduite de l'anglois de m. Ricaut ... par monsieur Briot.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/53668w</idno>
+            <idno type="cico">1777</idno>
+            <idno type="dcl">6zz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire de l'état present de l'Empire Ottoman [microform] : contenant les maximes politiques des Turcs, les principaux points de la religion mahometane, ses sectes, ses héresies, &amp; ses diverses sortes de religieux : leur discipline militaire, avec vne supputation exacte de leurs forces par mer &amp; par terre, &amp; du revenu de l'état / traduite de l'anglois de m. Ricaut ... par monsieur Briot.</title>
+                  <respStmt>
+                     <persName>Rycaut, Paul, Sir, 1628-1700.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Sebastien Mabre-Cramoisy</publisher>
+                     <pubPlace>Turkey</pubPlace>
+                     <date>1670</date>
+                  </imprint>
+                  <extent>661 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/461e14f9-8b4b-47fa-a205-1df013073fd9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/461e14f9-8b4b-47fa-a205-1df013073fd9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

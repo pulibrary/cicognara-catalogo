@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1790</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1790</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SALNOVE (de) Robert</author>, <title>La vénerie Royale divisée en quatre parties qui contiennent les chasses
+                     du cerf, du lievre, du chevreuil, du sanglier, du loup et du renard</title>,<pubPlace> Paris</pubPlace>
+                    <date> 1665</date>, in 4,
+                     <note>frontespizio figurato</note>.
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La venerie royale [microform] : divisée en IV. parties, qui contiennent les chasses du cerf, du lievre, du chevreüil, du sanglier, du loup, &amp; du renard : avec le denombrement des forests &amp; grands buissons de France, où se doiuent placer les logemens, questes, &amp; relais, pour y chasser ... / par Robert de Salnove ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sv5m16</idno>
+            <idno type="cico">1790</idno>
+            <idno type="dcl">7s3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La venerie royale [microform] : divisée en IV. parties, qui contiennent les chasses du cerf, du lievre, du chevreüil, du sanglier, du loup, &amp; du renard : avec le denombrement des forests &amp; grands buissons de France, où se doiuent placer les logemens, questes, &amp; relais, pour y chasser ... / par Robert de Salnove ...</title>
+                  <respStmt>
+                     <persName>Salnove, Robert de, 1597-1670.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Antoine de Sommaville</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1655</date>
+                  </imprint>
+                  <extent>[16], 437, [9], 38 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3357d3ef-92cd-4327-bc46-96e6dec7adeb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3357d3ef-92cd-4327-bc46-96e6dec7adeb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

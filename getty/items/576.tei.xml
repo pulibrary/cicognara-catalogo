@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 576</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">576</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>NAPIONE di Cocconnato</author>, 
+                     <title>Conte, Monumenti dell’architettura antica,</title> 
+                     <extent>vol. 3, in 8,</extent> 
+                     <pubPlace>Pisa,</pubPlace> 
+                     <publisher>presso
+	Niccolo Capurro,</publisher> 
+                     <date>1820.</date>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenti dell' architettura antica [microform] : lettere al conte Giuseppe Franchi di Pont...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Franchi di Pont, Giuseppe, conte, 1763-1825.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/246s36</idno>
+            <idno type="cico">576</idno>
+            <idno type="dcl">tnf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti dell' architettura antica [microform] : lettere al conte Giuseppe Franchi di Pont...</title>
+                  <respStmt>
+                     <persName>Galleani Napione, Gian Francesco, 1748-1830.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Presso Niccolò Capurro</publisher>
+                     <date>1820</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>15 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/56de6a16-6e9b-4caa-9b61-4b0a70587b1a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/56de6a16-6e9b-4caa-9b61-4b0a70587b1a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

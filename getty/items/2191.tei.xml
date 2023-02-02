@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2191</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2191</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAGLIONE Giovanni Romano</author>, <title>Le vite de’ pittori, scultori, architetti ed intagliatori dal 1572 al
+    1642 colla vita di Salvator Rosa scritta da Gio. Batt. Passari nuovamente aggiunta</title>, <pubPlace>Napoli</pubPlace>
+    <date>1733</date>, in 4.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vite de' pittori, scultori, architetti, ed intagliatori, dal pontificato di Gregorio XIII. del 1572. fino a' tempi di papa Urbano VIII. nel 1642 [microform] / scritte da Gio: Baglione Romano ; con la vita di Salvator Rosa Napoletano, pittore, e poeta, scritta da Gio: Batista Passari, nuovamente aggiunta.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Passeri, Giovanni Battista, approximately 1610-1679.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985401983506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r5400n</idno>
+            <idno type="cico">2191</idno>
+            <idno type="dcl">dcm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vite de' pittori, scultori, architetti, ed intagliatori, dal pontificato di Gregorio XIII. del 1572. fino a' tempi di papa Urbano VIII. nel 1642 [microform] / scritte da Gio: Baglione Romano ; con la vita di Salvator Rosa Napoletano, pittore, e poeta, scritta da Gio: Batista Passari, nuovamente aggiunta.</title>
+                  <respStmt>
+                     <persName>Baglione, Giovanni, 1571-1644.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : [s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>304 p.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f4a57d52-6ae6-4a91-95f4-8ea1cc641053/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f4a57d52-6ae6-4a91-95f4-8ea1cc641053/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

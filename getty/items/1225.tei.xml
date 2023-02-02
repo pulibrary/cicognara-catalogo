@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1225</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1225</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VISCONTI Filippo Aurelio</author>, <title>Lettera al Cav. Alethy <pb type="cico" n="216"/> sopra un medaglione inedito di
+    Faustina Seniore</title>, in fol. fig., <pubPlace>Roma</pubPlace> <date>1807</date>, M. 106.
+    <note>Colla medaglia intagliata da Piroli.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera [microform] / di Filippo Aurelio Visconti ... al signor Conte Alethy sopra un medaglione inedito di Faustina Seniore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r54g0k</idno>
+            <idno type="cico">1225</idno>
+            <idno type="dcl">b2k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera [microform] / di Filippo Aurelio Visconti ... al signor Conte Alethy sopra un medaglione inedito di Faustina Seniore.</title>
+                  <respStmt>
+                     <persName>Visconti, Filippo Aurelio, d. 1831.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Carlo Mordacchini</publisher>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>12 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f9c7bf97-26bb-4b29-b3e3-af4147d44bb3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f9c7bf97-26bb-4b29-b3e3-af4147d44bb3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

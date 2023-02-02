@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1715</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1715</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MEURSII Joannis</author>, <title>Grecia ludibunda</title>, sive de ludis Graecorum, Accedit Souterii Danielis
+  Palamedes, siva de tabula lusoria, alea et variis ludis, libri tres, <pubPlace>Lugd. Bat.</pubPlace>, <publisher>Elzevir</publisher> <date>1625</date> in 8.
+  <note>Elegantissima edizione e libretto prezioso non tanto per le nozioni che pei tipi.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioannis MeursI Graecia ludibunda, sive, De ludis Graecorum [microform] : liber singularis : accedit Danielis SouterI Palamedes, sive, De tabulâ lusoriâ, aleâ, &amp; variis ludis, libri tres.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Souter, Daniel, 1609-1634. Palamedes.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/q26c38</idno>
+            <idno type="cico">1715</idno>
+            <idno type="dcl">4w1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ioannis MeursI Graecia ludibunda, sive, De ludis Graecorum [microform] : liber singularis : accedit Danielis SouterI Palamedes, sive, De tabulâ lusoriâ, aleâ, &amp; variis ludis, libri tres.</title>
+                  <respStmt>
+                     <persName>Meurs, Johannes van, 1579-1639.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Greek, Ancient (to 1453)</textLang>
+                  <imprint>
+                     <publisher>Lugd. Bat. : Ex officinâ Elzeviriana</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>Anno 1625</date>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>[8], 70, [42], 248 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/24741393-ac03-41bc-b37a-79966eb5786c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/24741393-ac03-41bc-b37a-79966eb5786c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4800</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4800</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VISCONTI Ennio Quirino</author>, <title>Mémoire sur les ouvrages de sculpture du Parténon, et de quelques édifices de
+l’Acropole à Athenes</title>, <pubPlace>Paris</pubPlace> <date>1818</date>, in 12.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoires sur des ouvrages de sculpture du Parthénon, et de quelques édifices de l'Acropole a Athènes et sur une épigramme grecque en l'honneur des athéniens morts devant Potidée [microform] / par E.Q. Visconti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985425523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xp3700</idno>
+            <idno type="cico">4800</idno>
+            <idno type="dcl">nzz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoires sur des ouvrages de sculpture du Parthénon, et de quelques édifices de l'Acropole a Athènes et sur une épigramme grecque en l'honneur des athéniens morts devant Potidée [microform] / par E.Q. Visconti.</title>
+                  <respStmt>
+                     <persName>Visconti, Ennio Quirino, 1751-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : P. Dufart</publisher>
+                     <pubPlace>Acropolis (Athens, Greece)</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>viii, 152 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/754ce979-82ad-4db0-9659-a7ea4a1b1270/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/754ce979-82ad-4db0-9659-a7ea4a1b1270/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

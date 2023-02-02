@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1033</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1033</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Lo PRESTI Giuseppe</author>, <title>Elegia sulle memorie agrigentine</title>, <pubPlace>Palermo</pubPlace> <date>1792</date>, in 8, M. 58.
+      <note>Una medaglia nel frontespizio e alcune vignette furono disegnate e intagliate dal poeta pittore.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegia su' le memorie Agrigentine, del giureconsulto Giuseppe Lo Presti, fra i pastori ereini di Palermo appellato [microform]: iceta agragante' ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985451063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n86f0x</idno>
+            <idno type="cico">1033</idno>
+            <idno type="dcl">9rx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elegia su' le memorie Agrigentine, del giureconsulto Giuseppe Lo Presti, fra i pastori ereini di Palermo appellato [microform]: iceta agragante' ...</title>
+                  <respStmt>
+                     <persName>Trevisani, F. M. (Francesco Maria), 1764-1843.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Palermo : Dalle Stampe del Solli</publisher>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>III, 56 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/56a9798d-4142-401a-ae84-7cb3a0d88d95/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/56a9798d-4142-401a-ae84-7cb3a0d88d95/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

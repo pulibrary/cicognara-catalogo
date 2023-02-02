@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 517</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">517</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>GIOPPREDO Mario</author>, 
+                     <title>Dell’architettura, parte prima, nella quale si tratta degli ordini
+	dell’architettura de’ Greci e degl’Italiani e si danno le regole più spedite per disegnare,</title> 
+                     <pubPlace>Napoli</pubPlace>
+	                    <date>1768,</date> 
+                     <extent>in fol. mass. Fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell' architettura. Parte prima [microform] : nella quale si tratta degli ordini dell'architettura de' Greci, e degl' Italiani; e si danno le regole piu spedite per disegnarli / di Mario Gioffredo ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nw7k0x</idno>
+            <idno type="cico">517</idno>
+            <idno type="dcl">0cp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell' architettura. Parte prima [microform] : nella quale si tratta degli ordini dell'architettura de' Greci, e degl' Italiani; e si danno le regole piu spedite per disegnarli / di Mario Gioffredo ...</title>
+                  <respStmt>
+                     <persName>Gioffredo, Mario, 1718-1785.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Napoli : [s.n.]</publisher>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>28 p., XXXI leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/af4deffd-67ae-41d4-a03e-6a8b301d61b2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/af4deffd-67ae-41d4-a03e-6a8b301d61b2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

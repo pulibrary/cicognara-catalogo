@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 216</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">216</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>THYLESII Antonii cosentini</author>, 
+                     <title>Libellus de coloribus, ubi multa leguntur praeter aliorum
+	  opinionum, editio saec.</title> 
+                     <extent>XV Const. Car. 14, M. 99,</extent> senza luogo ed anno e nome di stampatore.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antonii Thylesii Cosentini Libellus de coloribus [microform] : ubi multa leguntur praeter aliorum opinionem Index.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h13q7p</idno>
+            <idno type="cico">216</idno>
+            <idno type="dcl">dk2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antonii Thylesii Cosentini Libellus de coloribus [microform] : ubi multa leguntur praeter aliorum opinionem Index.</title>
+                  <respStmt>
+                     <persName>Telesio, Antonio, 1482-1533?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[after 1529]</date>
+                     <date>1529</date>
+                  </imprint>
+                  <extent>[26] p.</extent>
+                  <extent>1 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c09f149d-62ea-46e1-860f-eae08507b473/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c09f149d-62ea-46e1-860f-eae08507b473/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3777</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARINI Gaetano</author>, <title>Iscrizioni antiche delle ville, e de’ palazzi Albani</title>, raccolte e pubblicate con note, 
+                        <pubPlace>Roma</pubPlace> <date>1785</date>, in
+4, fig.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iscrizioni antiche delle ville e de' palazzi Albani / raccolte e pubblicate con note dall'abate Gaetano Marini.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Giunchi, Paolo, 1730?-1798</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925780190001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nz0f6j</idno>
+            <idno>(OCoLC)6615107</idno>
+            <idno type="cico">3777</idno>
+            <idno type="dcl">3gq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iscrizioni antiche delle ville e de' palazzi Albani / raccolte e pubblicate con note dall'abate Gaetano Marini.</title>
+                  <respStmt>
+                     <persName>Marini, Gaetano, 1742-1815</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Paolo Giunci, provisore de' libri della Biblioteca vaticana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCLXXXV [1785]</date>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>xi, [1], 232 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/34dd41f7-13cd-48bd-ab93-923fe04507b3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/34dd41f7-13cd-48bd-ab93-923fe04507b3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iscrizioni antiche delle ville e de' palazzi Albani [microform] / raccolte e pubblicate con note dall'abate Gaetano Marini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/124n8v</idno>
+            <idno type="cico">3777</idno>
+            <idno type="dcl">3gq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iscrizioni antiche delle ville e de' palazzi Albani [microform] / raccolte e pubblicate con note dall'abate Gaetano Marini.</title>
+                  <respStmt>
+                     <persName>Marini, Gaetano, 1742-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Paolo Chiunci</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>XI, 232 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/60c5dcc5-4070-43fe-9521-b6037077cf84/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/60c5dcc5-4070-43fe-9521-b6037077cf84/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

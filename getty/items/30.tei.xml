@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 30</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">30</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>FEA Carlo</author>,
+                     <title> Risposta alle osservazioni del cavalier Onofrio Boni sul tomo III della Storia delle
+	  Arti del Disegno di Giovanni Winkelmann, pubblicata in Roma nelle sue Memorie per le belle
+	  Arti, </title>
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1786,</date>
+                     <extent> 4, M. 1.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Risposta dell' abate Carlo Fea ... alle osservazioni del sig. cav. Onofrio Boni sul tomo III. della Storia delle arti del disegno di Giov. Winkelmann [microform] / pubblicate in Roma nelle sue Memorie per le belle arti, ne' mesi di marzo, aprile, maggio, e giugno del corrente anno MDCCLXXXVI.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vr4842</idno>
+            <idno type="cico">30</idno>
+            <idno type="dcl">fzv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Risposta dell' abate Carlo Fea ... alle osservazioni del sig. cav. Onofrio Boni sul tomo III. della Storia delle arti del disegno di Giov. Winkelmann [microform] / pubblicate in Roma nelle sue Memorie per le belle arti, ne' mesi di marzo, aprile, maggio, e giugno del corrente anno MDCCLXXXVI.</title>
+                  <respStmt>
+                     <persName>Fèa, Carlo, 1753-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella Stamperia Pagliarini</publisher>
+                     <date>[1786]</date>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/96461ab5-d362-4533-9f55-903ff5b739b5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/96461ab5-d362-4533-9f55-903ff5b739b5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

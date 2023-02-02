@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3014</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3014</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SPOOR Henrici</author>, <title>Deorum, et heroum, virorum, et mulierum illustrium imagines antiquae illustratae, versibus, et
+prosa</title>, <pubPlace>Amstelodami</pubPlace> <date>1715</date>, in 4 parv., fig.
+<note>Omessa la dedica e mutato il frontespizio, questa è la stessa opera non solamente, ma la stessa edizione della
+precedente, che forse per speculazione mercantile comperata dall’altro librajo stampatore ne avrà il nuovo tentato
+l’esito con questo inganno per adescare i curiosi, giacché per la mediocrità della cosa lo smercio degli esemplari
+rendevasi difficile.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deorum et heroum, virorum et mulierum illustrium imagines antiquae illustratae [microform] : versibus &amp; prosâ / ab Henrico Spoor.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qg0w20</idno>
+            <idno type="cico">3014</idno>
+            <idno type="dcl">9zz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Deorum et heroum, virorum et mulierum illustrium imagines antiquae illustratae [microform] : versibus &amp; prosâ / ab Henrico Spoor.</title>
+                  <respStmt>
+                     <persName>Spoor, Henricus.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Apud Petrum de Coup</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1715</date>
+                  </imprint>
+                  <extent>199, [1] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f6648806-1c37-4520-aad6-35b5aee20dfe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f6648806-1c37-4520-aad6-35b5aee20dfe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 505</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">505</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>FOSSATI Giorgio. </author>
+                     <title>Storia dell’architettura nella quale, oltre le vite degli architetti, si esaminano
+                        l’o<pb type="cico" n="90"/>rigine e i progressi dell’arte, adorna di molte tavole, t. I., </title>
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1747,</date> 
+                     <extent>in 8, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storia dell' architettura [microform] : nella quale ... vite degli architetti si esaminano le vicende, i progressi, la decadenza il risorgimento, e la perfezione dell'arte ... rappresentanti le fabbriche più cospicue degli antichi e de' moderni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fm0t8c</idno>
+            <idno type="cico">505</idno>
+            <idno type="dcl">dc8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia dell' architettura [microform] : nella quale ... vite degli architetti si esaminano le vicende, i progressi, la decadenza il risorgimento, e la perfezione dell'arte ... rappresentanti le fabbriche più cospicue degli antichi e de' moderni.</title>
+                  <respStmt>
+                     <persName>Fossati, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Antonio Mora</publisher>
+                     <date>1747</date>
+                  </imprint>
+                  <extent>[10], 308 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8c711308-0ee9-4358-a046-4ab0e12d46b5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8c711308-0ee9-4358-a046-4ab0e12d46b5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

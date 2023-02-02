@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 354</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">354</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>RUBENS</author>,
+                     <title> Suite de la théorie de la figure humaine;Seconde partie contenent les principes du
+	dessein appliqués à la pratique,</title> 
+                     <publisher>chez Jombert,</publisher> 
+                     <date>1773,</date> 4 gr.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principes de dessein [microform] : appliqués a la pratique : où l'on trouve quantité d'exemples de toutes les parties du corps humain, plusieurs figures d'Académies, différens sujets très-variés, propres à former le goût &amp; divers paysages ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rubens, Peter Paul, Sir, 1577-1640. Suite de la théorie de la figure humaine. Seconde partie.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4q592r</idno>
+            <idno type="cico">354</idno>
+            <idno type="dcl">z7r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Principes de dessein [microform] : appliqués a la pratique : où l'on trouve quantité d'exemples de toutes les parties du corps humain, plusieurs figures d'Académies, différens sujets très-variés, propres à former le goût &amp; divers paysages ...</title>
+                  <respStmt>
+                     <persName>Rubens, Peter Paul, 1577-1640.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Charles-Antonie Jombert</publisher>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>28 p., [99] leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6dc34469-047c-4902-bcb5-56627eca420b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6dc34469-047c-4902-bcb5-56627eca420b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1590</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1590</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BEVERINI Bartholomei</author>, <title>Syntagma de ponderibus et mensuris</title>, in quo veterum nummorum
+    pretium ac mensurarum quantitam demonstratur, <pubPlace>Lucae</pubPlace> <date>1711</date>, in 12.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Syntagma de ponderibus, et mensuris in quo veterum nummorum pretium, ac mensurarum quantitas demonstratur [microform] / in gratiam studiosoe juventutis a Bartholomaeo Beverini ... ex probatissimis collectum. Opus posthumum ; novissimè accessit De Romanorum comitiis tractatus ex nonnullis ejusdem authoris elucubrationibus excerptus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Paoli, Sebastiano, 1684-1751.</authority>
+            <authority>Beverini, Bartolommeo, 1629-1686. De Romanorum comitiis.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h3051n</idno>
+            <idno type="cico">1590</idno>
+            <idno type="dcl">3kc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Syntagma de ponderibus, et mensuris in quo veterum nummorum pretium, ac mensurarum quantitas demonstratur [microform] / in gratiam studiosoe juventutis a Bartholomaeo Beverini ... ex probatissimis collectum. Opus posthumum ; novissimè accessit De Romanorum comitiis tractatus ex nonnullis ejusdem authoris elucubrationibus excerptus.</title>
+                  <respStmt>
+                     <persName>Beverini, Bartolommeo, 1629-1686.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lucae : Typis Peregrini Frediani</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1711</date>
+                  </imprint>
+                  <extent>[8], 287, [3] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f096d8c3-bec5-4d53-bf2b-590c60f3e2f4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f096d8c3-bec5-4d53-bf2b-590c60f3e2f4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

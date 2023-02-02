@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2076</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2076</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PACOME le Frere</author>, <title>Réligieux Solitaire, Description <pb type="cico" n="358"/> du plan en relief de l’abbaye de la
+  Trappe</title>, <pubPlace>Paris</pubPlace> <date>1708</date>, in 4, fig.
+  <note>Con tredici tavole intagliate in rame da Rochtfort.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description du plan en relief de l'Abbaye de la Trappe [microform] / presenté au roy par le frere Pacome ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rochefort, Pierre de, approximately 1673-1728.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fk3z03</idno>
+            <idno type="cico">2076</idno>
+            <idno type="dcl">ccc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description du plan en relief de l'Abbaye de la Trappe [microform] / presenté au roy par le frere Pacome ...</title>
+                  <respStmt>
+                     <persName>Dardenne, Guillaume, fl. 1737.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Des caracteres &amp; de l'Imprimerie de Jacques Collombat</publisher>
+                     <date>1708</date>
+                  </imprint>
+                  <extent>83 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/61595589-3a93-407e-b4a6-92c6c8e7d201/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/61595589-3a93-407e-b4a6-92c6c8e7d201/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2432</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2432</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De la CHAMBRE</author>, <title>L’arte del conoscer gli uomini trasportata dal Francese all’Italiano</title>. <pubPlace>Venezia</pubPlace>
+    <date>1700</date> in 13,
+    <note>Senza tavole, meno il frontespizio figurato.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'Arte del conoscere gli uomini [microform] / del Signor della Chambre ... ; trasportata de la lingua francese nell' italiana ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1w0w71</idno>
+            <idno type="cico">2432</idno>
+            <idno type="dcl">tjq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'Arte del conoscere gli uomini [microform] / del Signor della Chambre ... ; trasportata de la lingua francese nell' italiana ...</title>
+                  <respStmt>
+                     <persName>La Chambre, Marin Cureau de, 1594-1669.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Alvise Pavino</publisher>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>387 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9f81489e-d7fa-468a-90b7-02ee97bab047/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9f81489e-d7fa-468a-90b7-02ee97bab047/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

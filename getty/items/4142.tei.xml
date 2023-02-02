@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4142</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4142</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LILIO Zaccaria vicentino</author>, <title>Breve descrizione del mondo, tradotta per Francesco Baldelli</title>, 
+                        <pubPlace>Venezia</pubPlace>, Giolito, <date>1551</date>, in
+8.
+<note>Libretto elegante ove trovansi molte notizie esposte assai succintamente.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breue descrittione del mondo [microform] / di Zaccheria Lilio Vicentino ; tradotta per M. Francesco Baldelli ; con l'addittione de'nomi moderni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z76q1m</idno>
+            <idno type="cico">4142</idno>
+            <idno type="dcl">9gr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breue descrittione del mondo [microform] / di Zaccheria Lilio Vicentino ; tradotta per M. Francesco Baldelli ; con l'addittione de'nomi moderni.</title>
+                  <respStmt>
+                     <persName>Lilius, Zacharias.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Appresso Gabriel Giolito de Ferrari e Fratelli</publisher>
+                     <date>1551</date>
+                  </imprint>
+                  <extent>146 leaves</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/04beb5cb-013d-4409-84d4-1d557d142cd5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/04beb5cb-013d-4409-84d4-1d557d142cd5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1409</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1409</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Il FUNERALE d’Agostino Caraccio fatto in Bologna sua patria dagli Incaminati Accademici
+    del Disegno scritto all’Illustriss. e R. Sig. Cardinale Farnese</title>, <pubPlace>Bologna</pubPlace>, presso <publisher>Vittorio
+    Benacci</publisher>, <date>1603</date>, in 4, fig.
+    <note>Questo libretto fu esteso da Benedetto Morello e i disegni furono fatti e intagliati da Guido Reni, il che lo rende
+    raro e prezioso, quando sia di splendida conservazione. Avvertesi che nove deggiono essere le stampe, tra grandi
+    e piccole compreso il frontespizio e che in fine debb’esservi l’orazione funerale colle poesie: in tutto pagine 52.</note>
+    MDCIV
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il funerale d'Agostin Carraccio : fatto in Bologna sua patria da gl'Incaminati academici del disegno.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Faberio, Lucio.</authority>
+            <authority>Brizio, Francesco, approximately 1574-1623.</authority>
+            <authority>Reni, Guido, 1575-1642</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926282350001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/b69k87</idno>
+            <idno>(OCoLC)79740264</idno>
+            <idno type="cico">1409</idno>
+            <idno type="dcl">s53</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il funerale d'Agostin Carraccio : fatto in Bologna sua patria da gl'Incaminati academici del disegno.</title>
+                  <respStmt>
+                     <persName>Morello, Benedetto</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Presso Vittorio Benacci</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1603</date>
+                  </imprint>
+                  <extent>52 p., [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/756d24b3-51c6-4495-aadb-b229c0209b21"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/756d24b3-51c6-4495-aadb-b229c0209b21">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

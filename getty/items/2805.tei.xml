@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2805</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2805</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CHEREAU Francois</author>, <title>Livre de têtes antiques gravées d’âprès les pierres, et les cornalines du cabinet du Roi</title>, <pubPlace>Paris</pubPlace>,
+chez <publisher>Francois Chereau</publisher>, <date>1754</date>, in 4, 20 planch.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Livre de têtes antiques [microform] : gravées d'après les pierres &amp; cornalines du cabinet du roy ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aveline, Pierre-Alexandre, approximately 1710-1760.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p21p46</idno>
+            <idno type="cico">2805</idno>
+            <idno type="dcl">38z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Livre de têtes antiques [microform] : gravées d'après les pierres &amp; cornalines du cabinet du roy ...</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Ches François Chereau</publisher>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>18 leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b3343111-9949-4737-91eb-f547261c51ff/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b3343111-9949-4737-91eb-f547261c51ff/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

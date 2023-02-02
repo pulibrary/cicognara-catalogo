@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1898</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1898</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FLAMEN Albert peintre</author>, <title>Dévises et emblemes d’amour moralisés etc.</title>, gravés à <pubPlace>Paris</pubPlace> et
+    imprimés chez <publisher>Estienne Loyson</publisher>, <date>1672</date>, in 8.
+    <note>Sono queste cinquanta incisioni all’acqua forte eseguite con molto spirito, a cui vanno unite le rispettive
+    dichiarazioni.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Devises et emblesmes d'amour moralisez [microform] / gravez par Albert Flamen, peintre.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1r049d</idno>
+            <idno type="cico">1898</idno>
+            <idno type="dcl">8g8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Devises et emblesmes d'amour moralisez [microform] / gravez par Albert Flamen, peintre.</title>
+                  <respStmt>
+                     <persName>Flamen, Albert, active 17th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Estienne Loyson</publisher>
+                     <date>1672</date>
+                  </imprint>
+                  <extent>201 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/23d12a7e-94e8-442f-b797-ba5839528bac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/23d12a7e-94e8-442f-b797-ba5839528bac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

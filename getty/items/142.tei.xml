@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 142</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">142</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>IDEA del perfetto pittore per servire di regola nel giudizio che si deve formare intorno l’opere
+	  dei pittori,</title>
+                     <date> 1769 </date>
+                     <pubPlace>Torino,</pubPlace>
+                     <extent> in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'idea del perfetto pittore per servire di regola nel giudicio, che si deve formare intorno alle opere de' pittori : accresciuto della maniera di dipingere sopra la porcellana, smalto, vetro, metalli, e pietre, ec.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990053852210203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/1j9g71</idno>
+            <idno>(OCoLC)82686095</idno>
+            <idno type="cico">142</idno>
+            <idno type="dcl">dnv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'idea del perfetto pittore per servire di regola nel giudicio, che si deve formare intorno alle opere de' pittori : accresciuto della maniera di dipingere sopra la porcellana, smalto, vetro, metalli, e pietre, ec.</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Torino : Appresso Beltramo Antonio Re</publisher>
+                     <date>MDCCLXIX [1769]</date>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>191 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482146702"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482146702">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'idea del perfetto pittore [microform] : per servire di regola nel giudicio che si deve formare intorno alle opere de' pittori : accresciuto della maniera di dipingere sopra la porcellana, smalto, vetro, metalli, e pietre, ec.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jr2s8v</idno>
+            <idno type="cico">142</idno>
+            <idno type="dcl">dnv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'idea del perfetto pittore [microform] : per servire di regola nel giudicio che si deve formare intorno alle opere de' pittori : accresciuto della maniera di dipingere sopra la porcellana, smalto, vetro, metalli, e pietre, ec.</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Torino : Appresso Beltramo Antonio Re</publisher>
+                     <date>1769</date>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>191 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4565d575-45ae-4eca-a3aa-7ec17589e935/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4565d575-45ae-4eca-a3aa-7ec17589e935/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

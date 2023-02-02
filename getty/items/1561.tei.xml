@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1561</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1561</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ATTINSON John Augustus-and Tames Walker</author>, <title>Picturesque, representation of the manners,
+    coustoms, and amusements of the Russians in one undred coloured plates</title>. With an accurate
+    éxplanation of each plate in english and french, 3 vol. in fol., <pubPlace>London</pubPlace>
+                    <date> 1803, 1804</date>.
+    <note>Queste 100 tavole divise in 3 volumi rilegati in non solo sono miniate in colori con molta facilità e bravura
+    pittoresca. È d’uopo osservare che in fronte al primo volume debb’esservi il ritratto di Caterina intagliato da
+    Bartolozzi, il quale dalla più parte degli esemplari fu tolto per completare nei portafogli le opere di questo
+    artefice. Il secondo volume è preceduto dal ritratto di Alessandro; il terzo da quello di Elisabetta.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A picturesque representation of the manners, customs, and amusements of the Russians [microform] : in one hundred coloured plates : with an accurate explanation of each plate in English and French : in three volumes / by John Augustus Atkinson, and James Walker.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Walker, James, 1748-1808?</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k99m67</idno>
+            <idno type="cico">1561</idno>
+            <idno type="dcl">fw1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A picturesque representation of the manners, customs, and amusements of the Russians [microform] : in one hundred coloured plates : with an accurate explanation of each plate in English and French : in three volumes / by John Augustus Atkinson, and James Walker.</title>
+                  <respStmt>
+                     <persName>Atkinson, John Augustus, 1775-approximately 1833.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by W. Bulmer and Co</publisher>
+                     <pubPlace>Russia</pubPlace>
+                     <date>1803-1804</date>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81896afc-5e08-4aec-b277-1726daf6e65f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81896afc-5e08-4aec-b277-1726daf6e65f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

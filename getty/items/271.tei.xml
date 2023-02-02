@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 271</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">271</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BORRONI Giovanni Andrea</author>,
+                     <title> Delle statue,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1661</date>, <extent>in 4, fig.</extent>
+	                    <note>Sono in questo volume 12 statue disegnate da Lazaro Baldi, editore della famosa vita di San Lazaro monaco e
+	pittore (Vedi fra le vite degli artisti) e intagliate da Francesco Spiere e altri buoni artisti, e una 13 tavola che
+	rappresenta le due colonne Antonina e Traiana, e il frontispizio figurato di accurata e nitida esecuzione. Il testo
+	dell’opera è senza critica, esteso secondo le viste di un dottor teologo, com’era questo frate e nulla più.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle statue / di Gio. Andrea Borboni ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baldi, Lazzaro, approximately 1623-1703.</authority>
+            <authority>Chasteau, Guillaume, 1635-1683.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921899600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/23504p</idno>
+            <idno>(OCoLC)8232627</idno>
+            <idno type="cico">271</idno>
+            <idno type="dcl">wbq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle statue / di Gio. Andrea Borboni ...</title>
+                  <respStmt>
+                     <persName>Borboni, Giovanni Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamparia di Iacomo Fei d'And. F</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>[16], 345, [31] p., [2] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/7a43d5bc-6cbf-43d3-8bea-f905f2da66ff"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/7a43d5bc-6cbf-43d3-8bea-f905f2da66ff">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle statue [microform] / di Gio. Andrea Borboni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0f9v41</idno>
+            <idno type="cico">271</idno>
+            <idno type="dcl">wbq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle statue [microform] / di Gio. Andrea Borboni.</title>
+                  <respStmt>
+                     <persName>Borboni, Giovanni Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamparia di Iacomo Fei d'And. F</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>345, [30] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3858b473-1185-480a-badb-a25b4fc3e379/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3858b473-1185-480a-badb-a25b4fc3e379/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

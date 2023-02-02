@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 433</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">433</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BLONDEL François</author>,
+                     <title> Résolution des quatre principaux problèmes d’architecture dediée à M.
+	Colbert,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1673,</date>
+                     <extent> in fol. max.</extent>
+	                    <note>Opera in cui Blondel fece conoscere la forza della sua istruzione nella matematica applicata alle arti ec. con 8
+	tavole di figure e dimostrazioni.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resolution des quatre principaux problemes d'architecture .. [microform] / par François Blondel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pf9g13</idno>
+            <idno type="cico">433</idno>
+            <idno type="dcl">p80</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Resolution des quatre principaux problemes d'architecture .. [microform] / par François Blondel ...</title>
+                  <respStmt>
+                     <persName>Blondel, François, 1618-1686.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie royale</publisher>
+                     <date>1673</date>
+                  </imprint>
+                  <extent>86 p., [8] leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4676ff00-325b-48d3-ab63-3e19ba17da2e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4676ff00-325b-48d3-ab63-3e19ba17da2e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

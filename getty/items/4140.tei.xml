@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4140</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4140</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LANDE (La)</author>, <title>Voyage d’un francais en Italie fait dans les années 1765 et 1766</title>, <pubPlace>Venise</pubPlace>,
+                        et se trou <pb type="cico" n="262"/> ve à
+Paris, <date>1769</date>, in 12, vol. 8, con un atlante di tavole 35.
+<note>Quest’opera è stata estesa da un gran matematico, ma convien dire che non si fosse immedesimato dell’esattezza,
+che è la base de’ studj matematici, poiché l’opera può ad ogni pagina citarsi, e convincersi di falso.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Voyage d'un François en Italie fait dans les années 1765 &amp; 1766 [microform] : contenant l'historie &amp; les anecdotes les plus singulieres de l'Italie, &amp; sa description, les moeurs, les usages, le gouvernement, le commerce, la littérature, les arts, l'histoire naturelle &amp; les antiquités ; avec des jugemens sur les ouvrages de peinture, sculpture &amp; architecture, &amp; les plans de toutes les grandes villes d'Italie.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ng2r7x</idno>
+            <idno type="cico">4140</idno>
+            <idno type="dcl">mk9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Voyage d'un François en Italie fait dans les années 1765 &amp; 1766 [microform] : contenant l'historie &amp; les anecdotes les plus singulieres de l'Italie, &amp; sa description, les moeurs, les usages, le gouvernement, le commerce, la littérature, les arts, l'histoire naturelle &amp; les antiquités ; avec des jugemens sur les ouvrages de peinture, sculpture &amp; architecture, &amp; les plans de toutes les grandes villes d'Italie.</title>
+                  <respStmt>
+                     <persName>Lalande, Joseph Jérôme Le Français de, 1732-1807.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Venise ; Chez Desaint</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>8 v.</extent>
+                  <extent>71 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7bb589c6-7977-481c-9e8f-3670d570b3e6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7bb589c6-7977-481c-9e8f-3670d570b3e6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 741</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">741</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>M. VITRUVIO Pollio</author>, <title>ARCHITETTURA di Vitruvio Pollione</title>. Libri X restituiti nell’italiana lingua
+	da Baldassare Orsini vol. 2 legati in un tomo, <pubPlace>Perugia</pubPlace> <date>1802</date>, in 8, fig.
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell' architettura di M. Vitruvio Pollione libri diece [microform] / restituti nell' italiana lingua da Baldassare Orsini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Orsini, Baldassarre, 1732-1810.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985194303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gg0h1h</idno>
+            <idno type="cico">741</idno>
+            <idno type="dcl">bh0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell' architettura di M. Vitruvio Pollione libri diece [microform] / restituti nell' italiana lingua da Baldassare Orsini ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Dai Torchi di Carlo Baduel</publisher>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5deb0ca2-a591-47e8-8c7d-274ce79425a3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5deb0ca2-a591-47e8-8c7d-274ce79425a3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

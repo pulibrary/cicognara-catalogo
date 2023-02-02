@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1980</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1980</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALBIZII Ant. principum christianorum</author>, <title>Stemmata collectacum brevibus eiusdem adnotat.
+    opera et impensis Dominici Custodis seri incisa</title>, <pubPlace>Aug. Vind.</pubPlace> <date>1612</date>, editio 2 nunc auctior et
+    emendatiors.<note>
+    Sonovi 46 tavole oltre il frontespizio figurato e molte vignette. Col ritratto dell’autore in principio.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principum Christianorum stemmata ab Antonio Albizzo ... collecta [microform] / cum breuibus eiusdem notationib. pars ex archiuis pp. desc. ; adiecto stemate othomanico : opera et impens. Dominici Custodis ..</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Custos, Dominicus, -1612.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/155x4b</idno>
+            <idno type="cico">1980</idno>
+            <idno type="dcl">hzn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Principum Christianorum stemmata ab Antonio Albizzo ... collecta [microform] / cum breuibus eiusdem notationib. pars ex archiuis pp. desc. ; adiecto stemate othomanico : opera et impens. Dominici Custodis ..</title>
+                  <respStmt>
+                     <persName>Albizzi, Antonio degli, 1547-1626.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Augustae Vindelicor : [s.n.]</publisher>
+                     <date>1612</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/13c435a2-a6fb-46fd-9401-da7718e28153/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/13c435a2-a6fb-46fd-9401-da7718e28153/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2044</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2044</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HOLBEIN Jean</author>, <title>Oevres dont la premiere partie est <pb type="cico" n="351"/> le triomphe de la Mort; la seconde
+  la Passion de Nôtre Seigneur; la troisième 12 costumes suisses du sezième siecle; la quatrième
+  12 differents portraits d’hommes illustres du même âge</title>, <pubPlace>Basle</pubPlace>, chez <publisher>Chrétien Mechel</publisher>, <date>1780</date>,
+  fol. Ouvrage accompagné d’explications historiques et critiques et de la vie de cet fameux
+  peintre.
+  <note>In tutto sono in questo volume 50 tavole con molte figure per ciascheduna intagliate con accuratezza somma.
+  Vedi Merian.</note>
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeuvre de Jean Holbein, ou, Recueil de gravures d'après ses plus beaux ouvrages [microform] : accompagnés d'explications historiques et critiques et de la vie de ce fameux peintre / par Chretien de Mechel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mechel, Christian von, 1737-1817.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341913506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dt0537</idno>
+            <idno type="cico">2044</idno>
+            <idno type="dcl">prm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oeuvre de Jean Holbein, ou, Recueil de gravures d'après ses plus beaux ouvrages [microform] : accompagnés d'explications historiques et critiques et de la vie de ce fameux peintre / par Chretien de Mechel ...</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Basle : Chez l'auteur</publisher>
+                     <date>1780-1795</date>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2ad646b4-4f2a-4e14-a5de-7f112192d2af/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2ad646b4-4f2a-4e14-a5de-7f112192d2af/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1558</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1558</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AMATO Domenico</author>, <title>Della vita privata de’ Romani</title>, traduzione dal francese con varie aggiunte
+    e una dissertazione di Filippo Venuti sopra il gabinetto di Cicerone, tomi 2, <pubPlace>Napoli</pubPlace> <date>1783</date>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della vita privata de'Romani [microform] / traduzione colla giunta di varie annotazioni di Domenico Amato ... con una nouva differtazione di mons. Filippo Venuti sopra il gabinetto di Cicerone.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Amato, Domenico.</authority>
+            <authority>Venuti, Filippo, 1709-1769.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hj0c87</idno>
+            <idno type="URI">http://portal.getty.edu/api/k30574</idno>
+            <idno type="URI">http://portal.getty.edu/api/sw257h</idno>
+            <idno type="URI">http://portal.getty.edu/api/gx5215</idno>
+            <idno type="cico">1558</idno>
+            <idno type="dcl">08r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della vita privata de'Romani [microform] / traduzione colla giunta di varie annotazioni di Domenico Amato ... con una nouva differtazione di mons. Filippo Venuti sopra il gabinetto di Cicerone.</title>
+                  <respStmt>
+                     <persName>Arnay, Jean Rodolphe d'.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : [s.n.]</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/65411913-ca21-4474-be8d-8e56ed17eab6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/65411913-ca21-4474-be8d-8e56ed17eab6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

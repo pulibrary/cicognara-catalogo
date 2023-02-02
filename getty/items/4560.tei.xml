@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4560</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4560</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GOESIN Verhaerge</author>, <title>Catalogue d’une colléction de <pb type="cico" n="306"/> tableaux du cabinet de M. Van Stemberghen, Gand.
+                           an. X de la Rep.</title>, in 8, <date>1801</date>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une belle collection de tableaux, qui composaient ci-devant le cabinet de Mr. Josse vay Steenberghen .. [microform] / sous la directin de P.F. de Goesin-Verhaeghe.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Goesin, Pierre François Antoine de, 1753-1831.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984938383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6f1f9t</idno>
+            <idno>(OCoLC)177011104</idno>
+            <idno type="cico">4560</idno>
+            <idno type="dcl">zvh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une belle collection de tableaux, qui composaient ci-devant le cabinet de Mr. Josse vay Steenberghen .. [microform] / sous la directin de P.F. de Goesin-Verhaeghe.</title>
+                  <respStmt>
+                     <persName>Paillet, A. J. (Alexandre Joseph)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Gand : Chez P.F. de Goesin-Verhaeghe</publisher>
+                     <date>An X ... [1802]</date>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>18 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c14bde49-c2af-4a46-8963-ca6d5c08f8e5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c14bde49-c2af-4a46-8963-ca6d5c08f8e5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

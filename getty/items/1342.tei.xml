@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1342</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1342</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>QUESNAI de Beaurepaire</author>, <title>Mémoires, statuts et prospects concernant l’Académie des Sciences,
+    et Beaux Arts des ÉtatsUnis de l’Amerique</title>, établie à Richemond, Capitale de la Virginie,
+    <pubPlace>Paris</pubPlace> <date>1788</date>, en 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoire, statuts et prospectus concernant l'Académie des sciences et beaux-arts des États-Unis de l'Amérique, établie a Richemond, capitale de la Virginie [microform] : présentés a leurs majestés et a la famille royale / par le Chevalier Quesnay de Beaurepaire.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985457193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4k736s</idno>
+            <idno type="cico">1342</idno>
+            <idno type="dcl">trd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoire, statuts et prospectus concernant l'Académie des sciences et beaux-arts des États-Unis de l'Amérique, établie a Richemond, capitale de la Virginie [microform] : présentés a leurs majestés et a la famille royale / par le Chevalier Quesnay de Beaurepaire.</title>
+                  <respStmt>
+                     <persName>Quesnay de Beaurepaire, Chevalier (Alexandre Marie), 1755-1820.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'Imprimerie de Cailleau, imprimeur de l'Académie de Richemond</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>118 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e79d9e50-ec94-465e-8224-ece13aee4bfd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e79d9e50-ec94-465e-8224-ece13aee4bfd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

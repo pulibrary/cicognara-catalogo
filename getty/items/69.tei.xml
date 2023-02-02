@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 69</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">69</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ALBERTI</author> Romano della Città di Borgo S. Sepolcro, <title>Trattato della nobiltà della pittura composto
+	  ad instanza dell’Accademia di S. Luca, </title>
+                     <pubPlace>Roma</pubPlace>
+                     <date> 1585,</date> 
+                     <publisher>per Francesco Zanetti,</publisher> 
+                     <extent>in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato della nobilita della pittura [microform] : composto ad instantia della venerabil'compagnia di S. Luca, et nobil'academia delli pittori di Roma / da Romano Alberti ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9t1h7q</idno>
+            <idno type="cico">69</idno>
+            <idno type="dcl">6zs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato della nobilita della pittura [microform] : composto ad instantia della venerabil'compagnia di S. Luca, et nobil'academia delli pittori di Roma / da Romano Alberti ....</title>
+                  <respStmt>
+                     <persName>Alberti, Romano.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Francesco Zannetti</publisher>
+                     <date>Anno 1585</date>
+                     <date>1585</date>
+                  </imprint>
+                  <extent>54 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6695e8cf-7c98-4bde-9534-1d28582e1ebd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6695e8cf-7c98-4bde-9534-1d28582e1ebd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

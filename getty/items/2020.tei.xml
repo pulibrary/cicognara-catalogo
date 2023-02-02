@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2020</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2020</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DESCRIZIONE del santo Monte della Vernia estesa da fra Lino Moroni di Firenze ed espressa
+  in tav. 25 sui disegni fatti in sul luogo dal pittore Iacopo Ligozio</title>, <pubPlace>Fir.</pubPlace> <date>1612</date>, in fol. gr.
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del sacro monte della Vernia [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sh5236</idno>
+            <idno type="cico">2020</idno>
+            <idno type="dcl">bs2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del sacro monte della Vernia [microform].</title>
+                  <respStmt>
+                     <persName>Moroni, Lino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Florence : s.n]</publisher>
+                     <date>[1612]</date>
+                     <date>1612</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/674e163c-2251-4238-8825-e2c4efa2e599/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/674e163c-2251-4238-8825-e2c4efa2e599/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del sacro monte della Vernia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ligozzi, Jacopo, 1547-1626, artist.</authority>
+            <authority>Schiaminossi, Raffaello, approximately 1570-approximately 1620, etcher.</authority>
+            <authority>Falcini, Domenico, active 16th century-17th century, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924503670001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1x7b4b</idno>
+            <idno>(OCoLC)30129462</idno>
+            <idno type="cico">2020</idno>
+            <idno type="dcl">bs2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del sacro monte della Vernia.</title>
+                  <respStmt>
+                     <persName>Moroni, Lino</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Florence] : [publisher not identified]</publisher>
+                     <pubPlace>Verna, Mount (Italy)</pubPlace>
+                     <pubPlace>Verna, Mount (Italy) in art</pubPlace>
+                     <date>[1612]</date>
+                     <date>1612</date>
+                  </imprint>
+                  <extent>[2], A-Y leaves, [1], A-Y leaves of plates (2 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e3ea6f99-c9a4-412a-a321-4325b6c23ed2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e3ea6f99-c9a4-412a-a321-4325b6c23ed2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

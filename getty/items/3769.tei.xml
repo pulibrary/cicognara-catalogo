@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3769</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3769</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MANAZZALE</author>, <title>Romae et ses environs</title>. Dérniere édition, <pubPlace>Rome</pubPlace> <date>1803</date>, 2 vol. en un, fig.
+<note>Le tavole sono eseguite troppo in grande in proporzione della forma del libro, e con poco buon garbo. La guida è
+però delle migliori fra le ultime.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome et ses environs [microform] : avec une description générale trés-exacte de tous ses monuments anciens &amp; un abrégé de ses beautés les plus remarquables, en moderne comme les meilleures peintures, sculptures &amp; architectures.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985437153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v38383</idno>
+            <idno type="cico">3769</idno>
+            <idno type="dcl">jk6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rome et ses environs [microform] : avec une description générale trés-exacte de tous ses monuments anciens &amp; un abrégé de ses beautés les plus remarquables, en moderne comme les meilleures peintures, sculptures &amp; architectures.</title>
+                  <respStmt>
+                     <persName>Manazzale, Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Rome : [s.n.]</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1802-1803</date>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/00254631-2125-4659-ac4c-edff66bbeeaf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/00254631-2125-4659-ac4c-edff66bbeeaf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

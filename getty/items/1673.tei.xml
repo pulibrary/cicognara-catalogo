@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1673</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1673</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GUICHARDI Martini</author>, <title>Noctes Granzovianae de antiquis triumphorum spectaculis lucubratae</title>,
+    <pubPlace>Amster.</pubPlace> <date>1661</date>, in 12, fig.
+    <note>Opera ricchissima di profonda erudizione colle tavole stampate fra il testo.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Noctes granzovianae, seu, discursus panegyricus de antiquis triumphis in publicum tam ecclesiarum quàm politiarum usum [microform] / elucubratus à Martino de Guichardo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tk3474</idno>
+            <idno type="cico">1673</idno>
+            <idno type="dcl">0pg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Noctes granzovianae, seu, discursus panegyricus de antiquis triumphis in publicum tam ecclesiarum quàm politiarum usum [microform] / elucubratus à Martino de Guichardo.</title>
+                  <respStmt>
+                     <persName>Guichard, Martinus de.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Apud Aegidium Janssonium Valckenier</publisher>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>552 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/65cf58fb-428c-4dac-ba06-e9a6c89f2e62/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/65cf58fb-428c-4dac-ba06-e9a6c89f2e62/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

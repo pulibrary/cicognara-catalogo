@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 643</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">643</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>SALIMBENI Leonardo</author>, 
+                     <title>Degli archi e delle volte, libri sei,</title> 
+                     <pubPlace>Verona</pubPlace> 
+                     <date>1787,</date> 
+                     <extent>in 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Degli archi e delle volte [microform] : libri sei / di Leonardo Salimbeni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985153553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/826874</idno>
+            <idno type="cico">643</idno>
+            <idno type="dcl">3k8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Degli archi e delle volte [microform] : libri sei / di Leonardo Salimbeni ...</title>
+                  <respStmt>
+                     <persName>Salimbeni, Leonardo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Per Dionigi Ramanzini</publisher>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>v, 302 p., [6] folded leaves of plates</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fa256073-1f27-4ef1-8fc7-87726558bf1c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fa256073-1f27-4ef1-8fc7-87726558bf1c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Degli archi e delle volte : libri sei / di Leonardo Salimbeni ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ramanzini, Dionigi</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930244120001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/hn5m29</idno>
+            <idno>(OCoLC)29700540</idno>
+            <idno type="cico">643</idno>
+            <idno type="dcl">3k8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Degli archi e delle volte : libri sei / di Leonardo Salimbeni ...</title>
+                  <respStmt>
+                     <persName>Salimbeni, Leonardo, active 1780-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Per Dionigi Ramanzini</publisher>
+                     <pubPlace>Italy Verona.</pubPlace>
+                     <date>MDCCLXXXVII [1787]</date>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>[2], V, [1], 302, [2] p., VI folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/291ae078-712a-4666-9c34-d21f5a93f967"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/291ae078-712a-4666-9c34-d21f5a93f967">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

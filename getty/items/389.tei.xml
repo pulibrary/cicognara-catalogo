@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 389</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">389</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ALBERTI Giuseppe Antonio</author>, 
+                     <title>Trattato delle misure delle fabbriche,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1757,</date>
+                     <extent> in 8, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato della misura delle fabbriche [microform] : nel quale oltre la misura di tutte le superficie communi si da ancora la misura di tutte le specie di volte, e d'ogni specie di solido, che possa occorrere nella misura di esse / di Giuseppe Antonio Alberti ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985282033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hx8k5v</idno>
+            <idno type="cico">389</idno>
+            <idno type="dcl">h58</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato della misura delle fabbriche [microform] : nel quale oltre la misura di tutte le superficie communi si da ancora la misura di tutte le specie di volte, e d'ogni specie di solido, che possa occorrere nella misura di esse / di Giuseppe Antonio Alberti ...</title>
+                  <respStmt>
+                     <persName>Alberti, Giuseppe Antonio, 1712-1768.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Giambattista Recurti</publisher>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>xxxii, 279, [3]</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a963fe42-12ff-428d-91a5-3f44ed8edae5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a963fe42-12ff-428d-91a5-3f44ed8edae5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

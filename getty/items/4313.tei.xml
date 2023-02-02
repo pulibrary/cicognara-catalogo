@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4313</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4313</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TITI Pandolfo</author>, <title>Guida pel passeggiere dilettante di pittura, scultura, e architettura nella città di Pisa</title>, <pubPlace>Lucca</pubPlace> <date>1751</date>, in
+8.
+I molti cambiamenti seguiti non rendono questa guida di molta utilità.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guida per il passeggiere dilettante di pittura, scultura, ed architettura nella città di Pisa [microform] / fatta dal cavaliere Pandolfo Titi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985432313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gp103w</idno>
+            <idno type="cico">4313</idno>
+            <idno type="dcl">qp1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Guida per il passeggiere dilettante di pittura, scultura, ed architettura nella città di Pisa [microform] / fatta dal cavaliere Pandolfo Titi ...</title>
+                  <respStmt>
+                     <persName>Titi, Pandolfo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Filippo Maria Benedini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>XXX, 352 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a4ef5579-300b-42ae-95ef-256791654c03/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a4ef5579-300b-42ae-95ef-256791654c03/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

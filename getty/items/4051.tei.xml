@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4051</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4051</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MOSCHINI</author>, <title>Lettera sopra il monumento eretto alla memoria del conte Giuseppe Mangili nella chiesa de’ SS</title>.
+Apostoli in <pubPlace>Venezia</pubPlace>, <date>1819</date>, in fol., figurato.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sopra il monumento eretto alla memorie del Conte Giuseppe Mangilli nella chiesa de' Ss. Appostoli in Venezia [microform] : lettera.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985441273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rr3s3h</idno>
+            <idno type="cico">4051</idno>
+            <idno type="dcl">qg5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sopra il monumento eretto alla memorie del Conte Giuseppe Mangilli nella chiesa de' Ss. Appostoli in Venezia [microform] : lettera.</title>
+                  <respStmt>
+                     <persName>Moschini, Giannantonio, 1773-1840.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Tiopgrafia Picotti</publisher>
+                     <pubPlace>Venice (Italy)</pubPlace>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>[10] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/95696f65-c47f-4ba8-877e-6350a03d8d05/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/95696f65-c47f-4ba8-877e-6350a03d8d05/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

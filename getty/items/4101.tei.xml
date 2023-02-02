@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4101</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4101</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TEMANZA Tomaso</author>, <title>Le antichità di Rimino, libri due</title>, <pubPlace>Venezia</pubPlace> <date>1741</date>, in fol. pic., fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle antichità di Rimino [microform] : libri due.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2n557m</idno>
+            <idno type="cico">4101</idno>
+            <idno type="dcl">mgd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle antichità di Rimino [microform] : libri due.</title>
+                  <respStmt>
+                     <persName>Temanza, Tommaso, 1705-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Giambatista Pasquali</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>38, [6] p., [9] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cea5db3b-29c8-4f6a-90c8-4d997ec9060a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cea5db3b-29c8-4f6a-90c8-4d997ec9060a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle antichità di Rimino libri due.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Visentini, Antonio, 1688-1782</authority>
+            <authority>Pasquali, Giovanni Battista</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929182930001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0g6q30</idno>
+            <idno>(OCoLC)83983424</idno>
+            <idno type="cico">4101</idno>
+            <idno type="dcl">mgd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle antichità di Rimino libri due.</title>
+                  <respStmt>
+                     <persName>Temanza, Tommaso, 1705-1789</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Giambatista Pasquali</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rimini (Italy)</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>[12], 38, [6] p., [9] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/05dca2da-b298-4386-a845-f911bf1fce35"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/05dca2da-b298-4386-a845-f911bf1fce35">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

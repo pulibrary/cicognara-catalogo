@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2344</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2344</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PASSERI Giambattista</author>, <title>Vite de’ pittori, scultori e architetti che hanno lavorato in Roma, morti
+    dal <pb type="cico" n="397"/>1641 fino al 1673</title>. Prima edizione, <pubPlace>Roma</pubPlace> <date>1772</date>, in quarto.
+    <note>Questa è la continuazione del Baglioni.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori, scultori ed architetti : [microform] che anno lavorato in Roma, morti dal 1641 fino al 1673 / di Giambattista Passeri ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400923506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/356p2b</idno>
+            <idno type="cico">2344</idno>
+            <idno type="dcl">4sf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori, scultori ed architetti : [microform] che anno lavorato in Roma, morti dal 1641 fino al 1673 / di Giambattista Passeri ...</title>
+                  <respStmt>
+                     <persName>Passeri, Giovanni Battista, approximately 1610-1679.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Gregorio Settari Librarjo</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>XVI, 492 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ce80bf2c-fed5-41ce-828e-23e4c1dd6e77/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ce80bf2c-fed5-41ce-828e-23e4c1dd6e77/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori, scultori ed architetti che anno lavorato in Roma, morti dal 1641 fino al 1673</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Passeri, Giovanni Battista, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-95629</idno>
+            <idno type="URI">http://portal.getty.edu/api/v08c0w</idno>
+            <idno type="cico">2344</idno>
+            <idno type="dcl">4sf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori, scultori ed architetti che anno lavorato in Roma, morti dal 1641 fino al 1673</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>Rom</pubPlace>
+                     <date>1772</date>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>XVI, 492 S.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/passeri1772/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/passeri1772/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

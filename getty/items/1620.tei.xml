@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1620</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1620</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CAYLUS</author>, <title>Tableau tiré de l’Iliade, de l’Odissèe d’Homere et de l’Enéide de Virgile avec des
+    observations générales sur les coûtumes</title>, <pubPlace>Paris</pubPlace> <date>1706</date>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tableaux tirés de l'Iliade, de l'Odyssée d'Homere et de l'Eneide de Virgile [microform] : avec des observations générales sur le costume.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Homer. Iliad.</authority>
+            <authority>Homer. Odyssey.</authority>
+            <authority>Virgil. Aeneis.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wz5n0b</idno>
+            <idno type="cico">1620</idno>
+            <idno type="dcl">dch</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tableaux tirés de l'Iliade, de l'Odyssée d'Homere et de l'Eneide de Virgile [microform] : avec des observations générales sur le costume.</title>
+                  <respStmt>
+                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Tilliard</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>cii, 396 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f01640cd-3ab6-4057-bf67-cbc901012213/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f01640cd-3ab6-4057-bf67-cbc901012213/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

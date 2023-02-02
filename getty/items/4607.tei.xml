@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4607</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4607</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GOIFFON et Vincent</author>, <title>Mémoire artificielle des principes relatifs à la fidelle réprésentation des animaux tant en
+                        peinture qu’en sculpture</title>, troi vol. rel. en 1 vol., <pubPlace>Paris</pubPlace>
+                    <date> 1779</date>, fol., fig.
+                        <note>Con 23 grandi tavole dimostrative</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoire artificielle des principes relatifs a la fidelle représentation des animaux, tant en peinture qu'en sculpture [microform] : premiere partie, concernant le cheval / par feu M. Goiffon &amp; par M. Vincent ... ; ouvrage également intéressant pour les personnes qui se destinent à l'art de monter à cheval.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vincent, M. (Antoine-François)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gw6x2t</idno>
+            <idno type="cico">4607</idno>
+            <idno type="dcl">fcr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoire artificielle des principes relatifs a la fidelle représentation des animaux, tant en peinture qu'en sculpture [microform] : premiere partie, concernant le cheval / par feu M. Goiffon &amp; par M. Vincent ... ; ouvrage également intéressant pour les personnes qui se destinent à l'art de monter à cheval.</title>
+                  <respStmt>
+                     <persName>Goiffon, M. (Georges-Claude), -approximately 1779.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Alfort : Chez l'auteur ... ;</publisher>
+                     <date>1779</date>
+                  </imprint>
+                  <extent>3 v. in 1</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a1dc5d24-15bf-4df7-8e24-20095f002b00/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a1dc5d24-15bf-4df7-8e24-20095f002b00/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

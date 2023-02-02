@@ -1,0 +1,113 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4425</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4425</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De la LIVE</author>, <title>Catalogue historique du Cabinet de peinture, et sculture française</title>, <pubPlace>Paris</pubPlace> <date>1764</date>.
+<note>È da osservarsi il ritratto dell’autore disegnato da Cochin il figlio, ed inciso da lui stesso.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue Historique Du Cabinet De Peinture Et Sculpture Françoise, De M. De Lalive, Introducteur des Ambassadeurs, honoraire de l'Académie Royale de Peinture</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>LaLive de Jully, Ange-Laurent de  [Sammler], Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-279894</idno>
+            <idno type="URI">http://portal.getty.edu/api/65977c</idno>
+            <idno type="cico">4425</idno>
+            <idno type="dcl">vnr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue Historique Du Cabinet De Peinture Et Sculpture Françoise, De M. De Lalive, Introducteur des Ambassadeurs, honoraire de l'Académie Royale de Peinture</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1764</date>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>VIII, 124 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/lalivedejully1764/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/lalivedejully1764/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue historique du cabinet de peinture et sculpture franc̦oise de M. de Lalive .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984938903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/566c1b</idno>
+            <idno>(OCoLC)193742252</idno>
+            <idno type="cico">4425</idno>
+            <idno type="dcl">vnr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue historique du cabinet de peinture et sculpture franc̦oise de M. de Lalive .. [microform]</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de P. Al. le Prieur</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>124 p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3bc22bf1-f3d5-4a97-b541-820f2caf2b89/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3bc22bf1-f3d5-4a97-b541-820f2caf2b89/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

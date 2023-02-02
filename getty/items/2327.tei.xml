@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2327</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2327</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MOLINI Carlo</author>, <title>Lacrime di Parnaso in morte di <pb type="cico" n="395"/> Girolamo Albanese insigne statuario</title>,
+    <pubPlace>Vicenza</pubPlace> <date>1633</date>, in 8, con frontespizio figurato.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lacrime di Parnaso [microform] : in morte del Signor Girolamo Albanese, insigne statuario ... / dal Carlo Molini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fg8j5r</idno>
+            <idno type="cico">2327</idno>
+            <idno type="dcl">hs3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lacrime di Parnaso [microform] : in morte del Signor Girolamo Albanese, insigne statuario ... / dal Carlo Molini ...</title>
+                  <respStmt>
+                     <persName>Molini, Carlo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vicenia : Per Giouita Bottelli</publisher>
+                     <date>1663</date>
+                  </imprint>
+                  <extent>80 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/808659f2-e653-4cf0-a623-8f4e31f49ece/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/808659f2-e653-4cf0-a623-8f4e31f49ece/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

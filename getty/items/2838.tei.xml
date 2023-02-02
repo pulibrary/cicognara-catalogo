@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2838</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2838</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FICORONI Francisci</author>, <title>De plumbeis antiquorum numismatibus, latine vertit Dominicus Cantagallius</title>, <pubPlace>Romae</pubPlace> <date>1750</date>,
+in 4, fig.
+<note>Con 40 tavole in rame, compresovi la prima del frontespizio.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De plumbeis antiquorum numismatibus tam sacris, quam profanis dissertatio / Francisci Ficoronii ; quam Latine vertit Dominicus Cantagallius, S. Eustachii in urbe canonicus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cantagalli, Domenico, tr.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9960584803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w14f5j</idno>
+            <idno>(OCoLC)16797829</idno>
+            <idno type="cico">2838</idno>
+            <idno type="dcl">8vv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De plumbeis antiquorum numismatibus tam sacris, quam profanis dissertatio / Francisci Ficoronii ; quam Latine vertit Dominicus Cantagallius, S. Eustachii in urbe canonicus.</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romæ : Ex typographia Antonii de Rubeis</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCL [1750]</date>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>[16], 114, [6] p., [65] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ea4ed34-16df-4368-aa0c-8ee5ebdfe5ee/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ea4ed34-16df-4368-aa0c-8ee5ebdfe5ee/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

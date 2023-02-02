@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2891</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2891</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>KEDERI Nicolai</author>, <title>Nummi aliquot diversi praestantissimi ex argento, nempe X. Olai, Sveci I. Anundi Carbonarii, I.
+                        Haquini Rufi, I. Svenonis bifida barba Daniae regis etc.</title>,<pubPlace> Lipsiae</pubPlace>
+                    <date> 1706</date>, in 4, fig., M. 12.
+                        <note>Con 5 tavole intagliate in rame</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nummi aliquot diversi ex argento praesantissime [microform] : nempe decem Olai Sveci, unus Anundi Carbonarii, ac unus Haquini Rufi, Sveciae regum, nec non unus Svenonis Bifida Barba, Daniae regis : omnes tellure Svecicâ olim absconditi, nuperque casu in apricum prolati, nunc autem Heliconiandum Choro submissè dedicati à Nicolao Kedero ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985459963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h80b88</idno>
+            <idno type="cico">2891</idno>
+            <idno type="dcl">sc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nummi aliquot diversi ex argento praesantissime [microform] : nempe decem Olai Sveci, unus Anundi Carbonarii, ac unus Haquini Rufi, Sveciae regum, nec non unus Svenonis Bifida Barba, Daniae regis : omnes tellure Svecicâ olim absconditi, nuperque casu in apricum prolati, nunc autem Heliconiandum Choro submissè dedicati à Nicolao Kedero ...</title>
+                  <respStmt>
+                     <persName>Keder, Nils, 1659-1735.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lipsiae : Apud Io. Fridericum Gleditsch</publisher>
+                     <pubPlace>Denmark</pubPlace>
+                     <pubPlace>Sweden</pubPlace>
+                     <date>A. 1706</date>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>64 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/da18aca4-e23a-48cf-ae90-f8b7c5dc5be7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/da18aca4-e23a-48cf-ae90-f8b7c5dc5be7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

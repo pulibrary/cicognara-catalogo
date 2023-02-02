@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2311</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2311</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MANIAGO Fabio</author>, <title>Storia delle Belle Arti friulane</title>, <pubPlace>Venezia</pubPlace> <date>1819</date>, in 4.
+    <note>Sonovi molte memorie biografiche per la prima volta prodotte e in principio è il ritratto di Irene da Spilimbergo,
+    fatto da Tiziano.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storia delle belle arti friulane [microform] / scritta dal conte Fabio di Maniago.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pk4379</idno>
+            <idno type="cico">2311</idno>
+            <idno type="dcl">vnj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia delle belle arti friulane [microform] / scritta dal conte Fabio di Maniago.</title>
+                  <respStmt>
+                     <persName>Maniago, Fabio, conte di</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso G. Picotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>287 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8bb43722-d8ee-474b-bad5-22e180c40751/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8bb43722-d8ee-474b-bad5-22e180c40751/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Storia delle belle arti friulane / scritta dal conte Fabio di Maniago.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cipelli, Giovanni, active 1813-1820.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929392170001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/243b7t</idno>
+            <idno>(OCoLC)16870535</idno>
+            <idno type="cico">2311</idno>
+            <idno type="dcl">vnj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia delle belle arti friulane / scritta dal conte Fabio di Maniago.</title>
+                  <respStmt>
+                     <persName>Maniago, Fabio, conte di.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Presso G. Picotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>4 unnumbered pages, 287 pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f06df7cc-e587-471c-b75b-ad825b34cd79"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f06df7cc-e587-471c-b75b-ad825b34cd79">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

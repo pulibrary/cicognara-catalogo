@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4190</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4190</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PANNI Anton Maria</author>, <title>Distinto rapporto delle dipinture che trovansi nelle chiese della città, e sobborghi di
+                           Cremona</title>, <pubPlace>Cremona</pubPlace>
+                    <date> 1762</date>, in 8.
+                           <note>Cremona ha avuto la fortuna d’essere caduta in buona mani per le sue illustrazionj, l’una più pregiata dell’altra</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinto rapporto delle dipinture, che trovansi nelle chiese della città, e sobborghi di Cremona [microform] / compilato da Anton-Maria Panni ... .</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s15d1k</idno>
+            <idno type="cico">4190</idno>
+            <idno type="dcl">xfx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Distinto rapporto delle dipinture, che trovansi nelle chiese della città, e sobborghi di Cremona [microform] / compilato da Anton-Maria Panni ... .</title>
+                  <respStmt>
+                     <persName>Panni, Antonio Maria, approximately 1730-1790.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Cremona : Nella stampa del Ricchini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Church buildings</pubPlace>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>xxiv, 214 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/215cf5ac-1ad1-4386-baa2-e77cfc8a46c9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/215cf5ac-1ad1-4386-baa2-e77cfc8a46c9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

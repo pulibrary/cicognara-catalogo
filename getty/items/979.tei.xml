@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 979</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">979</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CHIUSOLE Conte Adamo</author>, <title>De’ precetti della pittura libri IV</title>, in versi, aggiuntivi <title>altri opuscoli
+      sulle arti</title>, dello stesso autore in prosa e in verso, <pubPlace>Venezia</pubPlace> <date>1781</date>, in 8.
+      <note>In quest’opera l’autore rifuse in parte, restringendola <pb type="cico" n="178"/> moltissimo, l’opera precedentemente stampata,
+      quantunque le mutazioni non l’abbiano migliorata gran fitto.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De' precetti della pittura [microform] : libri IV. in versi ... / opera composta dal Adamo Chiusole ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/93647v</idno>
+            <idno type="cico">979</idno>
+            <idno type="dcl">tc5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De' precetti della pittura [microform] : libri IV. in versi ... / opera composta dal Adamo Chiusole ...</title>
+                  <respStmt>
+                     <persName>Chiusole, Adamo, 1729-1787 .</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vicenza : Nella stamperia Turra</publisher>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>241 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ba0ba378-dc21-425e-ab15-2400b1b56b3e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ba0ba378-dc21-425e-ab15-2400b1b56b3e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

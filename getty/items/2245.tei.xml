@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2245</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2245</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CORAZZI Herculis Ab. Olivetani</author>, <title>Oratio habita in funere equitis Caroli Cignani IV. Idus Junii
+    1720, cum praesidi olim suo Clementina pictorum Accademia parentaret</title>, <pubPlace>Bononiae</pubPlace> <date>1720</date>, in
+    4, p.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Herculis Corazzi abbatis olivetani ... Oratio habita in funere equitis Caroli Cignani, IV. Idus Junii MDCCXX [microform] : cum praesidi olim suo Clementina Pictorum Academia parentaret.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1c2h78</idno>
+            <idno type="cico">2245</idno>
+            <idno type="dcl">njx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Herculis Corazzi abbatis olivetani ... Oratio habita in funere equitis Caroli Cignani, IV. Idus Junii MDCCXX [microform] : cum praesidi olim suo Clementina Pictorum Academia parentaret.</title>
+                  <respStmt>
+                     <persName>Corazzi, Ercole, 1689-1726.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Ex typographia Rossi &amp; Soc. ad Vexillum Rosae</publisher>
+                     <date>1720</date>
+                  </imprint>
+                  <extent>XXXII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/666d41d1-86f8-4ee0-af70-48871ac3bc18/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/666d41d1-86f8-4ee0-af70-48871ac3bc18/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

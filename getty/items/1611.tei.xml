@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1611</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1611</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CAMPI Michele</author>, <title>Spicilegio bottanico: Dialogo ove si manifesta lo sconosciuto Cinamomo
+    degli antichi</title>, <pubPlace>Lucca</pubPlace> <date>1654</date>, in 4, M. 64.
+   <note> Memoria piena d’interessante erudizione.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spicilegio botanico [microform] : dialogo / di Baldasar e Michele Campi ... nel quale si manifesta lo sconosciuto cinnamomo delli antichi, si mettono in chiaro altri semplici di ocsura notitia, et alcuni del tutto nuovi alla luce si espongono ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Campi, Michele.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bm825x</idno>
+            <idno type="cico">1611</idno>
+            <idno type="dcl">bk7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spicilegio botanico [microform] : dialogo / di Baldasar e Michele Campi ... nel quale si manifesta lo sconosciuto cinnamomo delli antichi, si mettono in chiaro altri semplici di ocsura notitia, et alcuni del tutto nuovi alla luce si espongono ...</title>
+                  <respStmt>
+                     <persName>Campi, Baldasarre.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Francesco Marescandoli</publisher>
+                     <date>1654</date>
+                  </imprint>
+                  <extent>123, [3] p., [2] leaves of plates</extent>
+                  <extent>3 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/17de8206-c7f7-4962-9f56-20cd3a28014b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/17de8206-c7f7-4962-9f56-20cd3a28014b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2211</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2211</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BEVILACQUA Ippolito dell’Oratorio</author>, <title>Memorie della vita di Gio. Bettino Cignaroli eccellente
+    dipintor veronese</title>, <pubPlace>Verona</pubPlace> <date>1771</date> in 8, col ritratto in principio.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie della vita di Giambettino Cignaroli, eccelente dipintor veronese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dalla Rosa, Saverio, 1745-1821.</authority>
+            <authority>Baratti, Antonio, 1724-1787.</authority>
+            <authority>Moroni, Marco, 18th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929271090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ms2z6p</idno>
+            <idno>(OCoLC)171103580</idno>
+            <idno type="cico">2211</idno>
+            <idno type="dcl">f2k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie della vita di Giambettino Cignaroli, eccelente dipintor veronese.</title>
+                  <respStmt>
+                     <persName>Bevilacqua, Ippolito dell'Oratorio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Nella stamperia Moroni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Verona.</pubPlace>
+                     <date>MDCCLXXI [1771]</date>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>87, [1] pages, [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/956fcf36-186f-4fc0-8095-5bfa07786a5c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/956fcf36-186f-4fc0-8095-5bfa07786a5c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie della vita di Giambettino Cignaroli, eccellente dipintor veronese [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343613506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xp855b</idno>
+            <idno type="cico">2211</idno>
+            <idno type="dcl">f2k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie della vita di Giambettino Cignaroli, eccellente dipintor veronese [microform].</title>
+                  <respStmt>
+                     <persName>Bevilacqua, Ippolito, 1721-1794.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Nella stamperia Moroni</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>87 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/aa2149d4-8e11-4d74-b617-b0db8eb918ef/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/aa2149d4-8e11-4d74-b617-b0db8eb918ef/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 60</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">60</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>HISTOIRE de l’art chez les anciens. Traduit de l’allemand avec des notes historiques et critiques
+	  de differents auteurs,</title> 
+                     <extent>2 gr. vol.,</extent> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1802,</date> 
+                     <extent>in 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire de l'art chez les anciens [microform] / par Winkelmann ; traduit de l'Allemand ; avec des notes historiques et critiques de différens auteurs.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Huber, M. (Michel), 1727-1804.</authority>
+            <authority>Jansen, Hendrik, 1741-1812.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5k616g</idno>
+            <idno type="cico">60</idno>
+            <idno type="dcl">736</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire de l'art chez les anciens [microform] / par Winkelmann ; traduit de l'Allemand ; avec des notes historiques et critiques de différens auteurs.</title>
+                  <respStmt>
+                     <persName>Winckelmann, Johann Joachim, 1717-1768.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Bossange, Masson et Besson</publisher>
+                     <date>1802-03</date>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>2 v. in 3</extent>
+                  <extent>31 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/191f6045-458c-472b-9289-db16c289a67f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/191f6045-458c-472b-9289-db16c289a67f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

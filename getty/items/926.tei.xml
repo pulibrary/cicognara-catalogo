@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 926</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">926</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GUIDI Ubaldi e Marchionibus Montis</author>, <title>Mecanicorum liber</title>, <pubPlace>Venetiis</pubPlace>, apud <publisher>Evangelista
+      Deuchinum</publisher>, <date>1615</date>, in fol. fig.
+      <note>Le tavole sono in legno frapposte al testo.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guidi Ubaldi e Marchionibus Montis mecanicorum liber [microform] : in quo haec continentur De libra, De uecte, De trochlea, De axe peritrocheo, De cunco, De cochlea.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985299033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ft6r8v</idno>
+            <idno type="URI">http://portal.getty.edu/api/8t1d5j</idno>
+            <idno type="URI">http://portal.getty.edu/api/6m1k7v</idno>
+            <idno type="cico">926</idno>
+            <idno type="dcl">xrn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Guidi Ubaldi e Marchionibus Montis mecanicorum liber [microform] : in quo haec continentur De libra, De uecte, De trochlea, De axe peritrocheo, De cunco, De cochlea.</title>
+                  <respStmt>
+                     <persName>Monte, Guidobaldo, marchese del, 1545-1607.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetiis : Apud Euangelistam Deuchinum</publisher>
+                     <date>1615</date>
+                  </imprint>
+                  <extent>[8], 104 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d495ed17-957d-47d4-9864-756a4548ffcd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d495ed17-957d-47d4-9864-756a4548ffcd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

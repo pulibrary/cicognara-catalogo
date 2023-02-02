@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1282</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1282</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>SPIEGAZIONE delle opere di pittura, scultura e incisione esposte nelle stanze del Campidoglio
+    il dì 19 Novembre <date>1809</date>
+                    </title>, <pubPlace>Roma</pubPlace>, in 8, M. 69.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiegazione delle opere di pittura, scultura, architettura ed incisione [microform] : esposte nelle stanze del Campidoglio il di 19 Novembre 1809.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xx8s2x</idno>
+            <idno type="cico">1282</idno>
+            <idno type="dcl">tvd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spiegazione delle opere di pittura, scultura, architettura ed incisione [microform] : esposte nelle stanze del Campidoglio il di 19 Novembre 1809.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso Luigi Perego Salvioni</publisher>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>18 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ad5d8114-b8b0-4856-81cd-7dd0fdb858e6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ad5d8114-b8b0-4856-81cd-7dd0fdb858e6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

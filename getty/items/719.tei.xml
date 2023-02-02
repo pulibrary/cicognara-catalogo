@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 719</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">719</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>M. VITRUVII Pollion</author>, <title>Architecture ou art de bien bâtir</title>, mis de latin en françois par Jean Martin
+	secretaire du Cardinal de Lenoncourt, <pubPlace>Paris</pubPlace>, chez <publisher>Jeròme de Marnef et Guillaume Gaveilat</publisher>, in
+	fol. fig., <date>1572</date>.
+	<note>Non è dissimile esenzialmente questa seconda edizione della edizione del Martino da quella pubblicata nel 1547,
+	sebbene da lui stesso diretta e procurata</note>.
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architecture, ou, Art de bien bastir [microform] / de Marc Vitruue Pollion ... mis de latin en françoys, par Ian Martin ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Martin, Ian, -approximately 1553.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985180553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9d1d63</idno>
+            <idno type="cico">719</idno>
+            <idno type="dcl">trt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architecture, ou, Art de bien bastir [microform] / de Marc Vitruue Pollion ... mis de latin en françoys, par Ian Martin ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de Hierosme de Marnes, &amp; Guillaume Cauellat</publisher>
+                     <date>1572</date>
+                  </imprint>
+                  <extent>[8], 351 [i. e. 353] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f0fb94d4-aa10-40f4-85bb-235133bdd1f7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f0fb94d4-aa10-40f4-85bb-235133bdd1f7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

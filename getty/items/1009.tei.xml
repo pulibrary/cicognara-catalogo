@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1009</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1009</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BONARROTI Michelangelo</author>, <title>Rime raccolte da Michelangelo suo nipote</title>, <pubPlace>Firenze</pubPlace>, presso <publisher>i
+      Giunti</publisher>, <date>1623</date>, in 4, piccolo.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rime di Michelagnolo Buonarroti [microform] / raccolte da Michelagnolo suo nipote.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zx7m7c</idno>
+            <idno type="URI">http://portal.getty.edu/api/sc853d</idno>
+            <idno type="URI">http://portal.getty.edu/api/tq1q5f</idno>
+            <idno type="cico">1009</idno>
+            <idno type="dcl">6zw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rime di Michelagnolo Buonarroti [microform] / raccolte da Michelagnolo suo nipote.</title>
+                  <respStmt>
+                     <persName>Michelangelo Buonarroti, 1475-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Apresso i Giunti</publisher>
+                     <date>1623</date>
+                  </imprint>
+                  <extent>88 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ea158cb1-c647-490e-b4e5-79c070fe1d5a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ea158cb1-c647-490e-b4e5-79c070fe1d5a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rime di Michelagnolo Bvonarroti / raccolte da Michelagnolo suo nipote.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Buonarroti, Michelangelo, 1568-1646.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928849880001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pq1n1v</idno>
+            <idno>(OCoLC)7804335</idno>
+            <idno type="cico">1009</idno>
+            <idno type="dcl">6zw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rime di Michelagnolo Bvonarroti / raccolte da Michelagnolo suo nipote.</title>
+                  <respStmt>
+                     <persName>Michelangelo Buonarroti, 1475-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso I Givnti con licenzia de' svperiori</publisher>
+                     <date>1623</date>
+                  </imprint>
+                  <extent>[12], 88 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8c66d169-3d5f-48e8-a3fd-323e4bf20c73"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8c66d169-3d5f-48e8-a3fd-323e4bf20c73">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

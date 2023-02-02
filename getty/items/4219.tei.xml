@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4219</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4219</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZACCHIROLI François</author>, <title>Déscription de la Galérie Royale de Florence</title>, a <pubPlace>Florence</pubPlace> <date>1783</date>, in 8.
+<note>Questo letterato, che volle occuparsi anche in oggetti d’arte che non capiva, e non poté mai gustare, fu forzato a
+vedere cogli occhi altrui, e pensare coll’altrui testa, e fece un’opera infelice.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de la galerie royale de Florence [microform] / par M. François Zacchiroli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Real Galleria di Firenze.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tn8p3s</idno>
+            <idno type="cico">4219</idno>
+            <idno type="dcl">k8d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de la galerie royale de Florence [microform] / par M. François Zacchiroli ...</title>
+                  <respStmt>
+                     <persName>Zacchiroli, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Florence : Chez Pierre Allegrini</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>3 pt. in 1 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ddb139c1-64e4-48fb-8e87-868ff3cfeaa0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ddb139c1-64e4-48fb-8e87-868ff3cfeaa0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de la galerie royale de Florence / par M. François Zacchiroli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Allegrini, Pietro, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927811670001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1k183w</idno>
+            <idno>(OCoLC)7659167</idno>
+            <idno type="cico">4219</idno>
+            <idno type="dcl">k8d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de la galerie royale de Florence / par M. François Zacchiroli.</title>
+                  <respStmt>
+                     <persName>Zacchiroli, Francesco, 1750-1826</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Florence : P. Allegrini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>3 pt. in 1 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f9467018-fd90-4585-a9e3-7606b26c4579"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f9467018-fd90-4585-a9e3-7606b26c4579">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

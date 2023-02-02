@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3531</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3531</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MISSIRINI Melchiorre</author>, <title>Sui marmi di Antonio Canova, versi</title>, 
+                       <pubPlace> Venezia</pubPlace>, Tipografia Picotti, <date>1817</date>, in fol.
+<note>In quella forma non furono tirati che venti soli esemplari.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sui marmi di Antonio Canova [microform] : versi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5n969n</idno>
+            <idno type="cico">3531</idno>
+            <idno type="dcl">060</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sui marmi di Antonio Canova [microform] : versi.</title>
+                  <respStmt>
+                     <persName>Missirini, Melchior, 1773-1849.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Tipografia Picotti</publisher>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>223 p., [1] leaf of plates</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d8aafb9f-08fa-4bc5-8d59-c7c12b19980d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d8aafb9f-08fa-4bc5-8d59-c7c12b19980d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sui marmi di Antonio Canova : versi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rogers, Bruce, 1870-1957, former owner.</authority>
+            <authority>Pforzheimer Bruce Rogers Collection (Library of Congress)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926427630001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sx3z8c</idno>
+            <idno>(OCoLC)39626501</idno>
+            <idno type="cico">3531</idno>
+            <idno type="dcl">060</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sui marmi di Antonio Canova : versi.</title>
+                  <respStmt>
+                     <persName>Missirini, Melchior, 1773-1849</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Dalla tipografia Picotti</publisher>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>223 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/3ca84e18-116a-4407-a95e-4ab056b89cfc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/3ca84e18-116a-4407-a95e-4ab056b89cfc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

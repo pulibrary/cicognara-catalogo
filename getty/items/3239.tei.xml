@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3239</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3239</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HAGENBUCHIO Gaspero</author>, <title>De diptico Brixiano Boethii consulis, epigraphica, cum aeneis tabulis</title>,<pubPlace> Tirici</pubPlace>
+                    <date> 1749</date>, in
+fol., fig.
+                        <note>Sonovi due gran tavole oltre il ritratto del cardinale nel frontespizio</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De diptycho Brixiano Boethii consulis epistola epigraphica : auspiciis iussu et sumtibus principis, eminentissimi angelo Mariae tit. S. Marci. Cardinalis Quirini, summi Bibliothecae Vaticanae praefecti episcopi Brixiani cet / edita a Io. Gasparo Hagenbuchio ... ; cum aeneis tabulis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Quirini, Angelo Maria, 1680-1755</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921684450001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xb5660</idno>
+            <idno>(OCoLC)123943692</idno>
+            <idno type="cico">3239</idno>
+            <idno type="dcl">0w9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De diptycho Brixiano Boethii consulis epistola epigraphica : auspiciis iussu et sumtibus principis, eminentissimi angelo Mariae tit. S. Marci. Cardinalis Quirini, summi Bibliothecae Vaticanae praefecti episcopi Brixiani cet / edita a Io. Gasparo Hagenbuchio ... ; cum aeneis tabulis.</title>
+                  <respStmt>
+                     <persName>Hagenbuchius, Io. Casp. (Io. Casparus), 1700-1763</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Turici : Excudit Heideggerus et Soc</publisher>
+                     <pubPlace>Switzerland Zurich.</pubPlace>
+                     <date>MDCCXXXXVIII [1749]</date>
+                     <date>1749</date>
+                  </imprint>
+                  <extent>[4], IIII, CCXXXXVI p., [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ed0613d0-49cb-4bd9-993b-88f18b8acea9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ed0613d0-49cb-4bd9-993b-88f18b8acea9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

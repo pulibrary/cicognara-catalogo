@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1133</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1133</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BACHAUMONT</author>, <title>Lettres sur les peintures, sculptures et gravure des MM. De l’Académie
+    Royale exposées au salon du Louvre depuis le 1767 jusqu’à 1779</title>, <pubPlace>Londrea</pubPlace> <date>1780</date>, M. 12.
+    <note>Questo è uno dei più singolari e distinti libri esciti in tal circostanza.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettres sur les peintures, sculptures et gravures de mrs. de l'Académie royale [microform] : exposées au Sallon du Louvre depuis 1767 jusqu'en 1779 / commencées par feu M. de Bachaumont ... depuis sa mort continuées par un homme de lettres célebre.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Musée du Louvre.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ww3v61</idno>
+            <idno type="cico">1133</idno>
+            <idno type="dcl">300</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettres sur les peintures, sculptures et gravures de mrs. de l'Académie royale [microform] : exposées au Sallon du Louvre depuis 1767 jusqu'en 1779 / commencées par feu M. de Bachaumont ... depuis sa mort continuées par un homme de lettres célebre.</title>
+                  <respStmt>
+                     <persName>Bachaumont, Louis Petit de, 1690-1771.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Londres : Chez John Adamson</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>vi, [vii], 8-332 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f9ccc008-db93-4bfc-8882-47f3419372c8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f9ccc008-db93-4bfc-8882-47f3419372c8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

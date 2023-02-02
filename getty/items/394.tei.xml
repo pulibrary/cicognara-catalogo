@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 394</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">394</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>ALBERTOLI Ferdinando</author>,
+                     <title> Porte di città e fortezze, depositi sepolcrali ed altre principali
+	fabbriche pubbliche e private di Michele Sammicheli, misurate, disegnate ec.,</title> 
+                     <pubPlace>Milano</pubPlace> 
+                     <date>1816,</date> 
+                     <extent>in
+	fol. grande.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Porte di città e fortezze, depositi sepolcrali ed altre principali fabbriche pubbliche e private di Michele Sammicheli, Veronese [microform] / misurate, disegnate, incise e brevemente illustrate da Ferdinando Albertolli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kt912j</idno>
+            <idno>(OCoLC)77838072</idno>
+            <idno type="cico">394</idno>
+            <idno type="dcl">462</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Porte di città e fortezze, depositi sepolcrali ed altre principali fabbriche pubbliche e private di Michele Sammicheli, Veronese [microform] / misurate, disegnate, incise e brevemente illustrate da Ferdinando Albertolli.</title>
+                  <respStmt>
+                     <persName>Albertolli, Ferdinando, 1781-1844.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Cesarea regia stamperia</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>[11] p., [30] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/82752695-be21-4b7a-9ec8-77eac02464c7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/82752695-be21-4b7a-9ec8-77eac02464c7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

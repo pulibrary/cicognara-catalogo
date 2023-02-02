@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2471</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2471</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SPONTONI Ciro</author>, <title>La metoposcopia, ovvero commensurazione delle linee della fronte</title>, <pubPlace>Venezia</pubPlace>,
+    per <publisher>Evangelista Deuchino</publisher>, <date>1626</date>, in 8, fig.
+    <note>Il frontespizio è figurato in rame e le tavole in legno sono impresse fra il testo e furono disegnate da buona
+    mano.</note>
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La metoposcopia, ouero, Com[m]ensuratione delle linee della fronte : trattato / del sigr. cau. Ciro Spontoni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929993110001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8f0x42</idno>
+            <idno>(OCoLC)14315054</idno>
+            <idno type="cico">2471</idno>
+            <idno type="dcl">jvs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La metoposcopia, ouero, Com[m]ensuratione delle linee della fronte : trattato / del sigr. cau. Ciro Spontoni.</title>
+                  <respStmt>
+                     <persName>Spontone, Ciro, approximately 1552-approximately 1610.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per Euangelista Deuchino</publisher>
+                     <date>1626</date>
+                  </imprint>
+                  <extent>136, [8] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/83f4240f-0efb-4673-83bb-3e6aa4f49810"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/83f4240f-0efb-4673-83bb-3e6aa4f49810">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La metoposcopia, ouero, Com[m]ensuratione delle linee della fronte [microform] / trattato del Ciro Spotoni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mf4n1g</idno>
+            <idno type="cico">2471</idno>
+            <idno type="dcl">jvs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La metoposcopia, ouero, Com[m]ensuratione delle linee della fronte [microform] / trattato del Ciro Spotoni ...</title>
+                  <respStmt>
+                     <persName>Spontone, Ciro, approximately 1552-approximately 1610.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per Euangelista Deuchino</publisher>
+                     <date>1626</date>
+                  </imprint>
+                  <extent>VI, 136, [7] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/91f930f6-ffba-4732-85f7-b714311a25ac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/91f930f6-ffba-4732-85f7-b714311a25ac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

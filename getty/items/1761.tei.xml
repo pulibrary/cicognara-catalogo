@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1761</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1761</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PINELLI Bartolommeo</author>, Aggiuntovi: <title>L’Eneide di Virgilio tradotta da Clemente Bondi</title>,
+  inventata e incisa all’acqua forte da Bartolommeo Pinelli, <pubPlace>Roma</pubPlace> <date>1811</date>, in fol. obl.
+  <note>Le cinquanta tavole del Virgilio sono il capo d’opera di questo disegnatore grandissimo e tremendo incisore.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'Eneide di Virgilio [microform] / tradotta di Clemente Bondi ; inventata ed incisa all'acquaforte da Bartolomeo Pinelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985464303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x35696</idno>
+            <idno type="cico">1761</idno>
+            <idno type="dcl">r24</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'Eneide di Virgilio [microform] / tradotta di Clemente Bondi ; inventata ed incisa all'acquaforte da Bartolomeo Pinelli ...</title>
+                  <respStmt>
+                     <persName>Pinelli, Bartolomeo, 1781-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Luigi Fabri</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>[1] p., [50] leaves of plates</extent>
+                  <extent>microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/decfa7bc-851e-47e4-91b3-2976002286e4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/decfa7bc-851e-47e4-91b3-2976002286e4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2843</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2843</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FREYTAG Fridericus Gotthilf</author>, <title>De Alexandro Magno Cornigero</title>,<pubPlace> Lipsiae</pubPlace>
+                    <date> 1715</date>, in 8, fig., M. 57.
+                        <note>Col medaglione intagliato in rame nel frontespizio</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De Alexandro M. cornigero suffragio superiorum in Academia Lipsiensi pro loco in facultate philosophica .. [microform] / disseret M. Frideric Gotthilf Freytag.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/564b04</idno>
+            <idno type="cico">2843</idno>
+            <idno type="dcl">mvp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De Alexandro M. cornigero suffragio superiorum in Academia Lipsiensi pro loco in facultate philosophica .. [microform] / disseret M. Frideric Gotthilf Freytag.</title>
+                  <respStmt>
+                     <persName>Freytag, Friederich Gotthilf, 1687-1761.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lipsiae : Literis Schedianis</publisher>
+                     <date>1715</date>
+                  </imprint>
+                  <extent>27 p.</extent>
+                  <extent>1 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9bac45c9-2bd0-48cb-881d-41e3a17c4761/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9bac45c9-2bd0-48cb-881d-41e3a17c4761/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1512</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1512</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>RÉLACION de las exequias hechas en Roma a la magestad catolica de Phelippe V</title>, <pubPlace>Roma</pubPlace> <date>1746</date>,
+    in foglio, fig.
+    <note>Con due orazioni funerali, l’una di Mons. Marcolini, l’altra del Padre Guzman Gesuita. Con sette grandissime
+    tavole atlantiche inventate e disegnate dal Cav. Fuga e intagliate da vari artefici.</note>
+    MDCCXLVII
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relacion de las exequias hechas en Roma a la magestad catolica del rey nuestro señor don Phelipe V [microform] : hallandose encargado delos negocios de S.M., y del rey delas dos Sicilias, el e[minentísi]mo y r[everendísi]mo señor don Trojano de Acquauiua y Aragon ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marcolini, Marco Antonio.</authority>
+            <authority>Acquaviva d'Aragona, Troiano, 1694-1747.</authority>
+            <authority>Barba Guzman, Josephus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ck0j6x</idno>
+            <idno type="cico">1512</idno>
+            <idno type="dcl">gzn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relacion de las exequias hechas en Roma a la magestad catolica del rey nuestro señor don Phelipe V [microform] : hallandose encargado delos negocios de S.M., y del rey delas dos Sicilias, el e[minentísi]mo y r[everendísi]mo señor don Trojano de Acquauiua y Aragon ...</title>
+                  <textLang>Italian</textLang>
+                  <textLang>Spanish; Castilian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>En Roma : En la Imprenta de Juan-Maria Salvioni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1746</date>
+                  </imprint>
+                  <extent>XLII p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0d8efc0b-483d-44fb-925d-6e3ae26d2be0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0d8efc0b-483d-44fb-925d-6e3ae26d2be0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

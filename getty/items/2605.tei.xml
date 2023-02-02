@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2605</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2605</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MICALI Giuseppe</author>, <title>Osservazioni sopra i monumenti antichi uniti <pb type="cico" n="21"/> all’opera intitolata: L’Italia avanti il
+dominio de’ romani</title>. Lette in Aprile <date>1811</date> in <pubPlace>Firenze</pubPlace>.
+<note>Queste furono estese dal cavalier Francesco Inghirami in opposizione alle opinioni del Micali; e per ciò le diamo
+qui unite.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni sopra i monumenti antichi uniti all'opera intitolata l'Italia avanti il dominio de'Romani: lette nell'aprile del MDCCCXI in Firenze</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Inghirami, Francesco, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-68819</idno>
+            <idno type="URI">http://portal.getty.edu/api/p39h4f</idno>
+            <idno type="cico">2605</idno>
+            <idno type="dcl">xz7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni sopra i monumenti antichi uniti all'opera intitolata l'Italia avanti il dominio de'Romani: lette nell'aprile del MDCCCXI in Firenze</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>Florenz</pubPlace>
+                     <pubPlace>Florenz</pubPlace>
+                     <pubPlace>Europa</pubPlace>
+                     <pubPlace>Italien</pubPlace>
+                     <pubPlace>Florence</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>43.77925 11.24626</pubPlace>
+                     <date>1811</date>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>180 S.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/inghirami1811/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/inghirami1811/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni sopra i monumenti antichi uniti all' opera intitolata l'Italia avanti il dominio de' Romani [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xk2003</idno>
+            <idno type="cico">2605</idno>
+            <idno type="dcl">xz7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni sopra i monumenti antichi uniti all' opera intitolata l'Italia avanti il dominio de' Romani [microform].</title>
+                  <respStmt>
+                     <persName>Inghirami, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : [Nella stameria de Borgo Ognissanti]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>180 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3b00071c-4f33-40a8-971d-6852540f041f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3b00071c-4f33-40a8-971d-6852540f041f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

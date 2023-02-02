@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2111</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2111</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>STRADA Famiani</author>, <title>De Bello Belgico</title>, <pubPlace>Romae</pubPlace> <date>1632</date> e 47, vol. 2, in fol. fig.
+  <note>Le tavole di questo volume furono con molta grazia intagliate da Guglielmo Baur, da Jean Miel e da altri buoni
+  incisori, motivo per cui questa incisione deve più d’ogni altra pregiarsi essendo la prima. È singolare come i
+  biografi de Bure e Brunet assegnino l’impressione del primo volume all’anno 1640 mentre in più luoghi del
+  nostro esemplare si verifica il 1632. Il terzo volume non fu stampato per maneggio della corte di Spagna, avendo
+  lo storico in quello esposte troppe verità, che non onorarono la memoria di Filippo II.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Famiani Stradae Romani e Societate Iesu De bello Belgico [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mx0v29</idno>
+            <idno type="cico">2111</idno>
+            <idno type="dcl">4gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Famiani Stradae Romani e Societate Iesu De bello Belgico [microform].</title>
+                  <respStmt>
+                     <persName>Strada, Famiano, 1572-1649.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Francisci Corbelletti</publisher>
+                     <pubPlace>Netherlands</pubPlace>
+                     <date>1632-1647</date>
+                     <date>1632</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>20 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f03d943a-d40b-49ed-9c76-7cf8995dc825/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f03d943a-d40b-49ed-9c76-7cf8995dc825/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

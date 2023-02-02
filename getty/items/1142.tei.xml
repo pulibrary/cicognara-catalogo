@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1142</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1142</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BORSON Étienne</author>, <title>Lettres à M. le medecin Allioni sur les beaux arts et en particulier sur le
+    cabinet d’antiquités du Cardinal Borgia à Velletri</title>, à <pubPlace>Rome</pubPlace> <date>1796</date>.
+    <note>Rende interessante quest’opuscolo l’elenco delle curiosità riunite nel Gabinetto Borgia.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettre a M. le medecin Allioni .. [microform] : sur les beaux arts et en particulier, sur le cabinet d'antiquités et d'histoire naturelle de S.E. Monsieur le cardinal Borgia, a Velletri ... / par Etienne Borson ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Allioni, Carlo, 1725-1804.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tn358z</idno>
+            <idno type="cico">1142</idno>
+            <idno type="dcl">x53</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettre a M. le medecin Allioni .. [microform] : sur les beaux arts et en particulier, sur le cabinet d'antiquités et d'histoire naturelle de S.E. Monsieur le cardinal Borgia, a Velletri ... / par Etienne Borson ...</title>
+                  <respStmt>
+                     <persName>Borson, Stephano, 1758-1832.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Rome : [s.n.]</publisher>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>53 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/84097aa3-6057-4ba1-b550-07be56d21c9e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/84097aa3-6057-4ba1-b550-07be56d21c9e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

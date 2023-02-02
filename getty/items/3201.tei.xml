@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3201</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3201</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CIAMPI Sebastiano</author>, <title>De veteribus institutis in re literaria</title>, <pubPlace>Florentiae</pubPlace> <date>1815</date>, in 8, M. 34.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De veteribus institutis in re literaria pro temporum opportunitate sartis tectisque servandis [microform] : oratio habita in aula imp.et R. Academiae Pisanae a Sebastiano Ciampi graecarum latinarumque literarum antecessore an. 1814 sexto kal. Decemberis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985462943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w069p</idno>
+            <idno type="cico">3201</idno>
+            <idno type="dcl">c2t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De veteribus institutis in re literaria pro temporum opportunitate sartis tectisque servandis [microform] : oratio habita in aula imp.et R. Academiae Pisanae a Sebastiano Ciampi graecarum latinarumque literarum antecessore an. 1814 sexto kal. Decemberis.</title>
+                  <respStmt>
+                     <persName>Ciampi, Sebastiano, 1769-1847.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : In typographia Francisci Daddi</publisher>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>23 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2183aa1d-bb40-4dd9-8990-fc8011135d42/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2183aa1d-bb40-4dd9-8990-fc8011135d42/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

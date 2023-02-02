@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3407</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3407</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MASSE Jean Baptiste peintre</author>, <title>La grande Galérie de Versailles et les deux salons qui l’accompagnent peints par
+Charles le Brun</title>, <pubPlace>Paris</pubPlace> <date>1753</date>, in 8.
+<note>Questa descrizione e quella di Reinsant servono ad illustrare le stampe che due volte furono pubblicate.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La grande galerie de Versailles et les deux salons qui l'accompagnent, peints par Charles Le Brun premier peintre de Louis XIV [microform] / dessinés par Jean-Baptiste Massé ... et gravés sous ses yeux par les meilleurs maîtres du tems.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qp1j6h</idno>
+            <idno type="cico">3407</idno>
+            <idno type="dcl">p89</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La grande galerie de Versailles et les deux salons qui l'accompagnent, peints par Charles Le Brun premier peintre de Louis XIV [microform] / dessinés par Jean-Baptiste Massé ... et gravés sous ses yeux par les meilleurs maîtres du tems.</title>
+                  <respStmt>
+                     <persName>Massé, Jean Baptiste, 1687-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : [s.n.]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>vj, 60 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1ef06144-64a2-4245-a7c3-0133d019e829/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1ef06144-64a2-4245-a7c3-0133d019e829/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

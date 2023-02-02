@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3162</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3162</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALIGERI Francisci Dantis III filii</author>, <title>Dialogus alter de antiquitatibus Valentinis ex eod. memb. sec. XVI </title> nunc
+primum in lucem editus a <publisher>Jo. Cristoph. Amadutio</publisher>, <pubPlace>Romae</pubPlace> <date>1773</date>, in 8, M. 61.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francisci Aligeri Dantis III. filii Dialogus alter de antiquitatibus valentinis [microform] : ex cod. ms. membranaceo saec. XVI ... : a Iohanne Christophoro Amadutio in Archgymnasio romanae sapientiae graecarum litterarum professore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Amaduzzi, Giovanni Cristoforo, 1740-1792.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bs8m80</idno>
+            <idno type="URI">http://portal.getty.edu/api/4z0z6n</idno>
+            <idno type="URI">http://portal.getty.edu/api/mx9n42</idno>
+            <idno type="URI">http://portal.getty.edu/api/sj9r3w</idno>
+            <idno type="URI">http://portal.getty.edu/api/9n7q1f</idno>
+            <idno type="cico">3162</idno>
+            <idno type="dcl">rzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Francisci Aligeri Dantis III. filii Dialogus alter de antiquitatibus valentinis [microform] : ex cod. ms. membranaceo saec. XVI ... : a Iohanne Christophoro Amadutio in Archgymnasio romanae sapientiae graecarum litterarum professore.</title>
+                  <respStmt>
+                     <persName>Alighieri, Francesco, approximately 1500-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Benedictum Francesium</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6d4bf527-b35f-483d-936e-24c529b4a681/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6d4bf527-b35f-483d-936e-24c529b4a681/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

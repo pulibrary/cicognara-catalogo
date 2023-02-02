@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 348</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">348</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>PONZILACQUA Bartolomeo</author>, 
+                     <title>Trattato teorico e pratico di calligrafia,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1814,</date>
+                     <extent> in 4 oblong.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato teorico-pratico di calligrafia [microform] / di Bartolommeo Ponzilacqua.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985286113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kk6z9n</idno>
+            <idno type="cico">348</idno>
+            <idno type="dcl">7s0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato teorico-pratico di calligrafia [microform] / di Bartolommeo Ponzilacqua.</title>
+                  <respStmt>
+                     <persName>Ponzilacqua, Bartolommeo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia] : Bernardi, a spese dell'autore</publisher>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>v, 62 p., [12] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6d033929-1b3e-4279-a330-3c7c43252036/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6d033929-1b3e-4279-a330-3c7c43252036/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

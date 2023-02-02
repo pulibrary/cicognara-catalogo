@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4184</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4184</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AVEROLDO Giulio Antonio</author>, <title>Le scelte pitture di Brescia</title>, <date>1700</date>, in 4, fig.
+<note>La singolarità di questo libro di oltre 300 pagine, veramente bizzarro, è di essere interamente stato scritto dal prin
+   <pb type="cico" n="268"/> cipio alla fine senza mai far uso della parola che. Ciò notato è però anche eccellente per le notizie</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le scelte pitture di Brescia additate al forestiere [microform] / Giulio Antonio Averoldo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985441433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tb465k</idno>
+            <idno type="cico">4184</idno>
+            <idno type="dcl">d5t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le scelte pitture di Brescia additate al forestiere [microform] / Giulio Antonio Averoldo.</title>
+                  <respStmt>
+                     <persName>Averoldo, Giulio Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Brescia : Dalle Stampe di Gian-Maria Rizzardi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>292 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/29285f8e-115d-4680-893a-8db8909f8b8f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/29285f8e-115d-4680-893a-8db8909f8b8f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le scelte pitture di Brescia additate al forestiere.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rizzardi, Giammaria, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929034660001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xq9c9w</idno>
+            <idno>(OCoLC)1285901</idno>
+            <idno type="cico">4184</idno>
+            <idno type="dcl">d5t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le scelte pitture di Brescia additate al forestiere.</title>
+                  <respStmt>
+                     <persName>Averoldo, Giulio Antonio</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Brescia, G.-M. Rizzardi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Brescia.</pubPlace>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>[20], 292, [8] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a57368cf-ebbd-46b9-a642-df3e63b84231"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a57368cf-ebbd-46b9-a642-df3e63b84231">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

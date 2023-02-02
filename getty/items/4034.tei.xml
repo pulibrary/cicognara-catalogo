@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4034</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4034</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MAFFEI Scipione</author>, <title>Verona illustrata</title>, <pubPlace>Verona</pubPlace>, in fol., figurato.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verona illustrata [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tiepolo, Giovanni Battista, 1696-1770.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kt5x62</idno>
+            <idno type="cico">4034</idno>
+            <idno type="dcl">qzk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Verona illustrata [microform].</title>
+                  <respStmt>
+                     <persName>Maffei, Scipione, marchese, 1675-1755.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Per Jacopo Vallarsi e Pierantonio Berno</publisher>
+                     <pubPlace>Verona (Italy)</pubPlace>
+                     <date>1731-32 [v.1, 1732]</date>
+                     <date>1731</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>21 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5ac34965-34ac-4d8b-a67a-208fc139c718/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5ac34965-34ac-4d8b-a67a-208fc139c718/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verona illustrata.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vallarsi, Jacopo</authority>
+            <authority>Berno, Pierantonio.</authority>
+            <authority>Heylbroeck, Michael, 1635-1733</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929946480001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7z7315</idno>
+            <idno>(OCoLC)4950918</idno>
+            <idno type="cico">4034</idno>
+            <idno type="dcl">qzk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Verona illustrata.</title>
+                  <respStmt>
+                     <persName>Maffei, Scipione, marchese, 1675-1755</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Per Jacopo Vallarsi, e Pierantonio Berno</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Verona (Italy)</pubPlace>
+                     <pubPlace>Italy Verona.</pubPlace>
+                     <date>1731-1732</date>
+                     <date>1731</date>
+                  </imprint>
+                  <extent>4 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6eed1d17-379c-49ee-91b1-571af4709eea"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6eed1d17-379c-49ee-91b1-571af4709eea">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

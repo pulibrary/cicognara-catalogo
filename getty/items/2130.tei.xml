@@ -1,0 +1,115 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2130</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2130</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>VETERIS Testamenti figurae, L’ancien testament mis en figures: de l’imprimerie de Pierre
+  Mariette</title>, Rue de S. Jacques à l’Esperance.</bibl>
+                <bibl>
+                    <title>Novi Testamenti figurae. Le nouveau testament <pb type="cico" n="368"/> mis en figures</title>, de l’imprimerie de
+  <publisher>P. M.</publisher>, in 8, oblungo.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veteris testamenti figurae [microform] = L'ancien testament mis en figures.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mariette, Pierre, 1634-1716.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pf315c</idno>
+            <idno type="cico">2130</idno>
+            <idno type="dcl">f5m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veteris testamenti figurae [microform] = L'ancien testament mis en figures.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[France] : De l'imprimerie de Pierre Mariette</publisher>
+                     <date>[17-?]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>156 leaves</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f06adb5e-421d-4847-aef1-c51e45fced15/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f06adb5e-421d-4847-aef1-c51e45fced15/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Novi testamenti figurae [microform] = Le nouveau ancien testament mis en figures.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2x0957</idno>
+            <idno type="cico">2130</idno>
+            <idno type="dcl">98n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Novi testamenti figurae [microform] = Le nouveau ancien testament mis en figures.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[France] : De l'imprimerie de Pierre Mariette</publisher>
+                     <date>[17-?]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>77 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8155f20a-4552-4aee-9d5b-fade5b0bcf19/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8155f20a-4552-4aee-9d5b-fade5b0bcf19/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2572</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2572</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DIONISI Giovanni Jacopo</author>, <title>Dissertazione della città dei <pb type="cico" n="17"/> Preconi nominata negli atti de SS. Martiri Fermo e
+Rustico</title>, <pubPlace>Vinegia</pubPlace> <date>1783</date>, in 8, M. 51.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della città de' Preconi nominata negli atti de' ss. mm. Fermo e Rustico : dissertazione / di monsignor Gio. Jacopo Dionisi, canonico veronese.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990051877240203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/02591h</idno>
+            <idno>(OCoLC)235804451</idno>
+            <idno type="cico">2572</idno>
+            <idno type="dcl">wz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della città de' Preconi nominata negli atti de' ss. mm. Fermo e Rustico : dissertazione / di monsignor Gio. Jacopo Dionisi, canonico veronese.</title>
+                  <respStmt>
+                     <persName>Dionisi, Gian Jacopo, 1724-1808, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Nella stamperia Coleti</publisher>
+                     <date>MDCCLXXXII [1782]</date>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>pages [177]-203</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482168330"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482168330">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della città de' Preconi nominata negli atti de' ss. mm. Fermo e Rustico [microform] : dissertazione / di Monsignor Gio. Jacopo Dionisi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s9552q</idno>
+            <idno type="cico">2572</idno>
+            <idno type="dcl">wz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della città de' Preconi nominata negli atti de' ss. mm. Fermo e Rustico [microform] : dissertazione / di Monsignor Gio. Jacopo Dionisi ...</title>
+                  <respStmt>
+                     <persName>Dionisi, Gian Jacopo, 1724-1808.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Nella stamperia Coleti</publisher>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>27 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8126bbcc-8c59-4f4b-8e72-7cc4b306c862/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8126bbcc-8c59-4f4b-8e72-7cc4b306c862/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

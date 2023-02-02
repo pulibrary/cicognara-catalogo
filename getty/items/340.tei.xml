@@ -1,0 +1,69 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 340</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">340</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <title>NOUVEAU livre pour apprendre facilement à dessiner la figure sans maître; ouvrage très utile
+	aux demoiselles et aux jeunes gens, qui ont du goût pour les beaux arts, gravé en 50 planches
+	d’après les meilleures auteurs,</title> 
+                     <date>1786,</date> 
+                     <extent>in 8</extent> per traverso.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouveau livre pour apprendre facilement a dessiner la figure sans maitre tres utile aux demoiselles et jeunes gens aulont du gout pour les beaux arts [microform] / gravè en 50 planche d'apres les meilleurs auteurs l'annee 1786.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985285453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kw9s2w</idno>
+            <idno type="cico">340</idno>
+            <idno type="dcl">mvf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouveau livre pour apprendre facilement a dessiner la figure sans maitre tres utile aux demoiselles et jeunes gens aulont du gout pour les beaux arts [microform] / gravè en 50 planche d'apres les meilleurs auteurs l'annee 1786.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris? : s.n]</publisher>
+                     <date>[1786]</date>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>[1] p., [49] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/be3028d0-a492-4c79-8d7d-85ab804e3800/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/be3028d0-a492-4c79-8d7d-85ab804e3800/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2535</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2535</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MILLIN Aubin Louis</author>, <title>Egyptiaques ou recueil de quelques monumens egyptiens inedits</title>, <pubPlace>Paris</pubPlace> <date>1816</date>, in 4, fi., M.
+77.
+<note>Sono 12 tavole ben intagliate, con poche pagine d’illustrazioni.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aegyptiaques ou Recueil de quelques monuments aegyptiens inédits [microform] / par A. L. Millin.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hq9k7h</idno>
+            <idno type="cico">2535</idno>
+            <idno type="dcl">fzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aegyptiaques ou Recueil de quelques monuments aegyptiens inédits [microform] / par A. L. Millin.</title>
+                  <respStmt>
+                     <persName>Millin, A. L. (Aubin Louis), 1759-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez C. Wassermann</publisher>
+                     <pubPlace>Eygpt.</pubPlace>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>20 p., xi leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8c677a2a-f98c-4bba-9dc7-db9a7e054d18/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8c677a2a-f98c-4bba-9dc7-db9a7e054d18/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aegyptiaques ou recueil de quelques monuments aegyptiens inédits</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Millin, Aubin L, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-4174</idno>
+            <idno type="URI">http://portal.getty.edu/api/q89r12</idno>
+            <idno type="cico">2535</idno>
+            <idno type="dcl">fzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aegyptiaques ou recueil de quelques monuments aegyptiens inédits</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <pubPlace>Ägypten</pubPlace>
+                     <date>1816</date>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>20 S., XII Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/millin1816/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/millin1816/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

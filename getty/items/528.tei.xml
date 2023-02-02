@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 528</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">528</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>HOPPUS E.</author>, 
+                     <title>The gentelman and builder’s repository <pb type="cico" n="94"/>or architecture display'd. ec.,</title>
+	                    <pubPlace>London</pubPlace> 
+                     <date>1760,</date> 
+                     <extent>in 4. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gentleman's and builder's repository, or, Architecture displayed [microform] : containing the most useful and requisite problems in geometry ... / the designs regulated and drawn by E. Hoppus and engraved by B. Cole.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cole, B. (Benjamin)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bd292w</idno>
+            <idno type="cico">528</idno>
+            <idno type="dcl">3cj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The gentleman's and builder's repository, or, Architecture displayed [microform] : containing the most useful and requisite problems in geometry ... / the designs regulated and drawn by E. Hoppus and engraved by B. Cole.</title>
+                  <respStmt>
+                     <persName>Hoppus, E. (Edward), -1739.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for C. Hitch and L. Hawes ..., S. Crowder ... and B. Cole</publisher>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>101 p., 90 leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4e6ff820-84d9-4920-84d9-68d00141fb9c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4e6ff820-84d9-4920-84d9-68d00141fb9c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

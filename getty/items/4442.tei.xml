@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4442</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4442</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOWLES John</author>, <title>Catalogue for the years 1768 of usefull and correct maps</title>, <pubPlace>London</pubPlace>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue for the year MDCCLXVIII of useful and correct maps, books of maps, curious and entertaining prints, drawing-books from the greatest masters, copy-books in all the branches of penmanship, and the best of each kind, &amp;c. &amp;c [microform] / printed for John Bowles, at no. 13 in Cornhill, London ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Wilkinson, Robert, -approximately 1825.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d35x3f</idno>
+            <idno>(OCoLC)212134319</idno>
+            <idno type="cico">4442</idno>
+            <idno type="dcl">hzt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A catalogue for the year MDCCLXVIII of useful and correct maps, books of maps, curious and entertaining prints, drawing-books from the greatest masters, copy-books in all the branches of penmanship, and the best of each kind, &amp;c. &amp;c [microform] / printed for John Bowles, at no. 13 in Cornhill, London ...</title>
+                  <respStmt>
+                     <persName>Bowles, John, 1701-1779.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>[London : John Bowles]</publisher>
+                     <date>[1768?]</date>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>166 p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/04520fdd-935f-4d23-8026-5d02240043d8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/04520fdd-935f-4d23-8026-5d02240043d8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

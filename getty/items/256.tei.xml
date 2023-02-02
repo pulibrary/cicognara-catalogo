@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 256</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">256</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BOSSI Luigi</author>, 
+                     <title>Estratto dell’Essai sur l’origine de la<pb type="cico" n="43"/> gravure,</title> 
+                     <pubPlace>pubblicato in Parigi</pubPlace> 
+                     <date>1808</date>,
+	  <publisher>dal sig. Jansen,</publisher> 
+                     <extent>M. 97.</extent> Vedi Jansen.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[On H. Jansen's Essai sur l'origine] [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8r6q6d</idno>
+            <idno type="cico">256</idno>
+            <idno type="dcl">32v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[On H. Jansen's Essai sur l'origine] [microform].</title>
+                  <respStmt>
+                     <persName>Bossi, Luigi, 1758-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Italy : s.n]</publisher>
+                     <date>[1808?]</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>37 p., [1] folded leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81b307e2-d938-48b4-9ce7-0b6bbf859568/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81b307e2-d938-48b4-9ce7-0b6bbf859568/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

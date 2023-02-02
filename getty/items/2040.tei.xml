@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2040</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2040</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>HISTOIRE du V. et du N. Testament (par David Martin) enrichie de plus de 400 fig.</title>, à
+  <pubPlace>Anverse</pubPlace>, par <publisher>Mortier</publisher>, <date>1700</date>, 2 vol. in fol. f. Esemplare magnifico in maroch. dor.
+  <note>Questa suole denominarsi la Biblia di Mortier: il cui pregio maggiore consiste qualora gli esemplari siano tirati
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  avanti l’avvenimento per cui si ruppe la lamina ultima dell’Apocalisse a pag. 146 del secondo volume e non
+  veggansi in quella stampa i segni dei chiodi che servirono per accomodarla. Quantunque questi segni
+  s’incontrino nel nostro esemplare è non pertanto di bellissima conservazione; ma le arti poco possono consolarsi
+  dì quest’edizione consecrata a un lusso apparente e non tratta da disegni preziosi e non intagliata con gusto e
+  sapore dell’arte.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire du Vieux et du Nouveau Testament [microform] : enrichie de plus de quatre cens figures en taille-douce, &amp;c.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0k6833</idno>
+            <idno type="cico">2040</idno>
+            <idno type="dcl">s58</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire du Vieux et du Nouveau Testament [microform] : enrichie de plus de quatre cens figures en taille-douce, &amp;c.</title>
+                  <respStmt>
+                     <persName>Martin, David, 1639-1721.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Anvers : Chez Pierre Mortier</publisher>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8fbcbbde-9453-4e81-b05c-bd3f156f6150/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8fbcbbde-9453-4e81-b05c-bd3f156f6150/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

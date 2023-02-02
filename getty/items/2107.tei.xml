@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2107</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2107</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>SERIE cronologica dei re di Francia da Faramondo sino ad Enrico III in 4</title>, 62 ritratti, <pubPlace>Venezia</pubPlace>.
+  <note>Questi o sono intagliati da F. Franco, o piuttosto da alcuno che lo ha preceduto: si trova nelle poche righe
+  intagliate a piedi di ciascun ritratto la vita in iscorcio dei personaggi <pb type="cico" n="363"/> e si riconosce l’epoca in cui fu
+  finita la serie, mentre in quello d’Enrico III sono queste parole ove sin d’hora, che siamo del 1588 è quasi ec.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Portraits of the kings of France] [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w39g88</idno>
+            <idno type="cico">2107</idno>
+            <idno type="dcl">p2c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Portraits of the kings of France] [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[after 1588]</date>
+                     <date>1588</date>
+                  </imprint>
+                  <extent>[62] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9d19769b-5061-42b2-8b21-2b57ba7e8a47/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9d19769b-5061-42b2-8b21-2b57ba7e8a47/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

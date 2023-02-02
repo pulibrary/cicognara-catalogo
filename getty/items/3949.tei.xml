@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3949</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3949</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAROZZI Serafino</author>, <title>Pianta, e spaccato della celebre chiesa di S. Vitale di Ravenna</title>, <pubPlace>Bologna</pubPlace> <date>1782</date>, in fol., fig.
+<note>Con tre tavole in rame, e la figura della rotonda ravennate nel frontespizio.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pianta E Spaccato Della Celebre Chiesa Di S. Vitale Di Ravenna</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barozzi, Serafino, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-267149</idno>
+            <idno type="URI">http://portal.getty.edu/api/hh287d</idno>
+            <idno type="cico">3949</idno>
+            <idno type="dcl">7cw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pianta E Spaccato Della Celebre Chiesa Di S. Vitale Di Ravenna</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>San Vitale &lt;Ravenna&gt;</pubPlace>
+                     <date>1782</date>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>16 S., [3] Faltbl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/barozzi1782/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/barozzi1782/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pianta e spaccato della celebre chiesa di S. Vitale di Ravenna [microform] : dati in luce per la prima volta / da Serafino Barozzi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sb809h</idno>
+            <idno type="cico">3949</idno>
+            <idno type="dcl">7cw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pianta e spaccato della celebre chiesa di S. Vitale di Ravenna [microform] : dati in luce per la prima volta / da Serafino Barozzi.</title>
+                  <respStmt>
+                     <persName>Barozzi, Serafino Lodovico, d. 1810.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella Stamperia di Lelio della Volpe</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Ravenna (Italy)</pubPlace>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>15, [1], p., [3] folded leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b72671b5-1de7-4fef-977f-b7579966a3c9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b72671b5-1de7-4fef-977f-b7579966a3c9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

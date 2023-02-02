@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2406</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2406</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZABEO Prosdocimo</author>, <title>Elogio di Giacomo Robusti detto il Tintoretto</title>, <pubPlace>Venezia</pubPlace> <date>1815</date>, in 8, M.
+    87.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio a Giacomo Robusti [microform] / del professore Gio. Prosdocimo Zabeo ; recitato all'Imperiale R. Accademia di belle arti in Venezia ; il di 8 agosto 1813 ; pella solenne distribuzione dei premi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s66n5h</idno>
+            <idno type="cico">2406</idno>
+            <idno type="dcl">r5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio a Giacomo Robusti [microform] / del professore Gio. Prosdocimo Zabeo ; recitato all'Imperiale R. Accademia di belle arti in Venezia ; il di 8 agosto 1813 ; pella solenne distribuzione dei premi.</title>
+                  <respStmt>
+                     <persName>Zabeo, Gio. Prosdocimo (Giovanni Prosdocimo), 1753-1828.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Bernardi</publisher>
+                     <date>[1813?]</date>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>61 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2f3af637-5344-44dc-be15-b65d472a507b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2f3af637-5344-44dc-be15-b65d472a507b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

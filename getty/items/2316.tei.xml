@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2316</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2316</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MASACCIO</author>, <title>Sua vita e collezione di 24 teste delineate ed incise dalle sue opere di pennello
+    per cura ed opera di Tomaso Patch</title>, <pubPlace>Firenze</pubPlace> <date>1770</date>, in fol. ingl e ital.
+    <note>Opera molta pulitamente e fedelmente eseguita in 24 tavole di bello e gustoso intaglio da disegni lucidati sulle
+    stupende pitture della Cappella Brancacci al Carmine in Firenze. <bibl>Vedi anche <author>Piroli</author>.</bibl>
+                    </note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of Masaccio = La vita di Masaccio [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d80d44</idno>
+            <idno type="cico">2316</idno>
+            <idno type="dcl">fcg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The life of Masaccio = La vita di Masaccio [microform].</title>
+                  <respStmt>
+                     <persName>Patch, Thomas, 1725-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Florence : s.n]</publisher>
+                     <date>[1770]</date>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>iv p., xix leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ad5859f8-fed0-420e-87fc-dde81038d4e6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ad5859f8-fed0-420e-87fc-dde81038d4e6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

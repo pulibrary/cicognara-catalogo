@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 857</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">857</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROY Cl., graveur en taille douce sur tous métaux</author>, <title>Essai sur la perspective pratique par le
+	moyen du calcul</title>, <pubPlace>Paris</pubPlace>, chez <publisher>Jombert</publisher>, <date>1756</date>, en 8, fig.
+	<note>Con una tavola in fine. Questo saggio presenta alcuni pareri dell’autore, ma non insegna la prospettiva a chi non
+	fosse in essa fondato.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essai sur la perspective pratique par le moyen du calcul [microform] / par Cl. Roy ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fk4741</idno>
+            <idno type="cico">857</idno>
+            <idno type="dcl">1wp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essai sur la perspective pratique par le moyen du calcul [microform] / par Cl. Roy ...</title>
+                  <respStmt>
+                     <persName>Roy, Cl. (Claude)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Ch. Ant. Jombert</publisher>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>[4], 48 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/eaad6704-7900-4390-94f6-57975d06f2a3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eaad6704-7900-4390-94f6-57975d06f2a3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

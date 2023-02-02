@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 137</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">137</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>GRIMALDO Francisci Marire</author>, 
+                     <title>De lumine, coloribus et iride, aliisque adnexis, libri duo,</title>
+	                    <pubPlace>Bononiae</pubPlace> 
+                     <date>1665</date> 
+                     <extent>in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Physico-mathesis de lumine, coloribus, et iride [microform] : alijsque adnexis, libri duo : in quorum primo afferuntur noua experimenta, et rationes ab ijs deductae pro substantialitate luminis : in secundo autem dissoluuntur argumenta in primo adducta, &amp; probabiliter sustineri posse docetur sententia : peripatetica de accidentalitate luminis, qua occasione de hactenus incognita luminis diffusione, de reflexionis, refractionis, ac diffractionis modo &amp; causis, de visone, deque speciebus intentionalibus visibilium et audibilium, ac de substantiali magnetis efluuio omnia corpora peruadente, non pauca scitu digna proferuntur, &amp; speciali etiam argumento impugnantur atmoistae / auctore Francisco Maria Grimaldo ; opus posthumum.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6m059k</idno>
+            <idno type="cico">137</idno>
+            <idno type="dcl">bcd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Physico-mathesis de lumine, coloribus, et iride [microform] : alijsque adnexis, libri duo : in quorum primo afferuntur noua experimenta, et rationes ab ijs deductae pro substantialitate luminis : in secundo autem dissoluuntur argumenta in primo adducta, &amp; probabiliter sustineri posse docetur sententia : peripatetica de accidentalitate luminis, qua occasione de hactenus incognita luminis diffusione, de reflexionis, refractionis, ac diffractionis modo &amp; causis, de visone, deque speciebus intentionalibus visibilium et audibilium, ac de substantiali magnetis efluuio omnia corpora peruadente, non pauca scitu digna proferuntur, &amp; speciali etiam argumento impugnantur atmoistae / auctore Francisco Maria Grimaldo ; opus posthumum.</title>
+                  <respStmt>
+                     <persName>Grimaldi, Francesco Maria, 1618-1663.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Ex typographia haeredis Victorij Benatij, impensis Hieronymi Berniae</publisher>
+                     <date>1665</date>
+                  </imprint>
+                  <extent>[20], 535, [16] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/efe5f679-3880-4682-bc72-c746da303325/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/efe5f679-3880-4682-bc72-c746da303325/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

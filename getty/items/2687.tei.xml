@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2687</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2687</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Di NOLA Molisi Giovan Battista</author>, <title>Cronica dell’antichissima e nobilissima città di Crotone e della magna Gre <pb type="cico" n="33"/> cia raccolta da veri ed antichi autor</title>i, <pubPlace>Napoli</pubPlace> <date>1649</date>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cronica dell'antichissima e nobilissima città di Crotone e della Magna Grecia / raccolta da Veri &amp; Antichi Auttori per il sig. Gio. Battista Nola Molisi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2b734k</idno>
+            <idno type="cico">2687</idno>
+            <idno type="dcl">n86</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cronica dell'antichissima e nobilissima città di Crotone e della Magna Grecia / raccolta da Veri &amp; Antichi Auttori per il sig. Gio. Battista Nola Molisi ...</title>
+                  <respStmt>
+                     <persName>Nola Molisi, Giovanni Battista di, active 17th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Nap. : Per. Francesco Sauio</publisher>
+                     <pubPlace>Crotone (Italy)</pubPlace>
+                     <date>1649</date>
+                  </imprint>
+                  <extent>208 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5725e366-c1ac-4e3f-9584-bbb1a4fd3994/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5725e366-c1ac-4e3f-9584-bbb1a4fd3994/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

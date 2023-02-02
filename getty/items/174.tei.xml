@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 174</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">174</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>OCCOLTI Coronato</author> da Canedolo,<title> Trattato de’ colori, nuovamente stampato con l’aggiunta del
+	  significato d’alcuni doni, dal medesimo data in luce,</title> 
+                     <pubPlace>Parma,</pubPlace> 
+                     <publisher>presso Seth Viotto,</publisher> 
+                     <date>1568,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato de'colori [microform] / di M. Coronato Occolti da Canedolo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985248333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/863f28</idno>
+            <idno type="cico">174</idno>
+            <idno type="dcl">g5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato de'colori [microform] / di M. Coronato Occolti da Canedolo.</title>
+                  <respStmt>
+                     <persName>Occolti, Coronato.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Parma : Appresso Seth Viotto</publisher>
+                     <date>1568</date>
+                  </imprint>
+                  <extent>77 numbered leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8e73924c-b63f-4be7-8519-78a8c1bfefa4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8e73924c-b63f-4be7-8519-78a8c1bfefa4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

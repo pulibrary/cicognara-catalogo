@@ -1,0 +1,111 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4724</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4724</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARTIN Jacob</author>, <title>Bénédictin de la congregation de S. Maur. La religion des gaulois tirée des plus pures sources de
+l’antiquité, ouvrage enrichi de figures en taille douce</title>, <pubPlace>Paris</pubPlace> <date>1737</date>, in 4, 2 vol.
+<note>Nel frontespizio l’autore però apparisce anonimo. In cin <pb type="cico" n="324"/>que libri è divisa tutta l’opera arricchita di 44
+tavole incise dagli stessi artisti che lavorarono all’Antiquité expliquée di Montfaucon. Opera piena di preziosa
+erudizione.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Religion des Gaulois: tirée des plus pures sources de l'antiquité</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280060</idno>
+            <idno type="URI">http://portal.getty.edu/api/vd5536</idno>
+            <idno type="cico">4724</idno>
+            <idno type="dcl">zrn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Religion des Gaulois: tirée des plus pures sources de l'antiquité</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1727</date>
+                     <date>1727</date>
+                  </imprint>
+                  <extent>[1] Bl., XXXIII S., [1] Bl., 535 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/martin1727bd1/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/martin1727bd1/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Religion des Gaulois: tirée des plus pures sources de l'antiquité</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280070</idno>
+            <idno type="URI">http://portal.getty.edu/api/3n1k7j</idno>
+            <idno type="cico">4724</idno>
+            <idno type="dcl">zrn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Religion des Gaulois: tirée des plus pures sources de l'antiquité</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1727</date>
+                     <date>1727</date>
+                  </imprint>
+                  <extent>VIII, 110, 403 S., [1] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/martin1727bd2/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/martin1727bd2/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

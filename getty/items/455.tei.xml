@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 455</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">455</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BULLANT Maître Jean</author>, 
+                     <title>Reigle generale d’architecture de cinq manières de colonnes, livre
+	enrichi de plusieurs autres, à l’example de l’antique,</title> 
+                     <pubPlace>à Rouen</pubPlace> 
+                     <date>1647,</date>
+                     <extent> in fol. fig.</extent>
+	                    <note>Sono 30 fogli che compongono il libro; e le tavole assai ben disegnate e intagliate in legno sono frapposte al
+	testo. L’opera fu scritta nel 1564 e pubblicata in quel tempo. Questa seconda edizione non è però comune, né
+	senza pregio e l’autore si mostra inteso delle dottrine vitruviane profondamente.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reigle generale d'architecture des cinq manieres de colonnes a scavoir tuscane, dorique, ionique, corinthe et composite [microform] : livre enrichy de plusieurs autres a l'exemple de l'antique ... / par Jean Bullant ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jm7j1r</idno>
+            <idno type="cico">455</idno>
+            <idno type="dcl">zz2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Reigle generale d'architecture des cinq manieres de colonnes a scavoir tuscane, dorique, ionique, corinthe et composite [microform] : livre enrichy de plusieurs autres a l'exemple de l'antique ... / par Jean Bullant ...</title>
+                  <respStmt>
+                     <persName>Bullant, Jean, approximately 1515-1578.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Rouen : De l'imprimerie de David Ferrand</publisher>
+                     <date>1647</date>
+                  </imprint>
+                  <extent>[63] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/922a412c-022e-429a-ad4b-808c8d341068/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/922a412c-022e-429a-ad4b-808c8d341068/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

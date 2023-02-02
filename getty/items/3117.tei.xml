@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3117</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3117</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HAGER Joseph</author>, <title>Monument de Yu, on la plus ancienne inscription de la Chine, suivie de 32 formes d’anciens
+caracteres chinois</title>, <pubPlace>Paris</pubPlace> <date>1802</date>, in fol., fig.
+<note>Preziosa e bellissima è la formazione di questi caratteri cubitali, che rendono pregiatissima e un giorno
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+renderanno anche rara l’edizione di quest’opera, che vede la luce per la prima volta mercè le cure del dottissimo
+orientalista. Il volume è composto da 43 foglietti.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monument de Yu ou La plus ancienne inscription de la Chine: suivie de trente-deux formes d'anciens caractères chinois ; avec quelques remarques sur cette inscription et sur ces caractères</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hager, Joseph, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-246581</idno>
+            <idno type="URI">http://portal.getty.edu/api/0j648d</idno>
+            <idno type="cico">3117</idno>
+            <idno type="dcl">prr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monument de Yu ou La plus ancienne inscription de la Chine: suivie de trente-deux formes d'anciens caractères chinois ; avec quelques remarques sur cette inscription et sur ces caractères</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1802</date>
+                     <date>X [1802]</date>
+                  </imprint>
+                  <extent>32 S.</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/hager1802/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/hager1802/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monument de Yu, ou, La plus ancienne inscription de la Chine [microform] : suivie de trente-deux formes d'anciens caracteres chinois : avec quelques remarques sur cette inscription et sur ces caracteres / par Joseph Hager.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0w6s7r</idno>
+            <idno type="cico">3117</idno>
+            <idno type="dcl">prr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monument de Yu, ou, La plus ancienne inscription de la Chine [microform] : suivie de trente-deux formes d'anciens caracteres chinois : avec quelques remarques sur cette inscription et sur ces caracteres / par Joseph Hager.</title>
+                  <respStmt>
+                     <persName>Hager, Giuseppe, 1757-1819.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Treuttel et Wurtz ... :</publisher>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>12 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d488ace8-af7b-465d-a758-1f6b418b82e4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d488ace8-af7b-465d-a758-1f6b418b82e4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

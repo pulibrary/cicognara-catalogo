@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 587</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">587</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>ORTIZ (Jos. Fran.)</author>, 
+                     <title>Abaton reseratum, sive gemina declaratio duorum iocorum obscurorum, M.
+	Vitruvii,</title> 
+                     <pubPlace>Romae</pubPlace> 
+                     <date>1781,</date> 
+                     <extent>in 8, fig., M. 62.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abaton reseratum, sive, Genuina declaratio duorum locorum cap. ult. lib. tert. architecturae M. Vitruvii Pollionis nusquam ad mentem auctoris facta scilicet [microform] : De adjectione ad stylobatas cum podio, seu ad podium ipsum per scamillos impares, et item De secunda adjectione in epistyliis facienda, primae respondente / scribebat Joseph Franciscus Ortiz ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tv2v6d</idno>
+            <idno type="cico">587</idno>
+            <idno type="dcl">rzp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Abaton reseratum, sive, Genuina declaratio duorum locorum cap. ult. lib. tert. architecturae M. Vitruvii Pollionis nusquam ad mentem auctoris facta scilicet [microform] : De adjectione ad stylobatas cum podio, seu ad podium ipsum per scamillos impares, et item De secunda adjectione in epistyliis facienda, primae respondente / scribebat Joseph Franciscus Ortiz ...</title>
+                  <respStmt>
+                     <persName>Ortiz y Sanz, José Francisco, 1739-1822.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Michaelis Ageli Barbiellini</publisher>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>[4], 73, [4] p., [4] p. of plates</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/850654f0-8d82-4d76-8d2d-1c5bf4dd69b9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/850654f0-8d82-4d76-8d2d-1c5bf4dd69b9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3168</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3168</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BALASSA Francisci</author>, <title>Casulae Sancti Stephani regis <pb type="cico" n="107"/> Hunghariae vera imago, et expositio</title>, <pubPlace>Viennae</pubPlace> <date>1754</date>, in
+4, fig.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casulae S. Stephani regis Hungariae vera imago et expositio [microform] / quas publica luce donavit Franciscus L.B. Balassa de Balassa Gyarmath in Collegio Regio Theresiano ... historiae, physciae, ethicae, et matheseos, studiosus ex iisdem scientiis anno M.DCC.LIV. mense octobri publicum tentamen subiturus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Frölich, Erasmus, 1700-1758.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985416953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mt793j</idno>
+            <idno type="cico">3168</idno>
+            <idno type="dcl">404</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Casulae S. Stephani regis Hungariae vera imago et expositio [microform] / quas publica luce donavit Franciscus L.B. Balassa de Balassa Gyarmath in Collegio Regio Theresiano ... historiae, physciae, ethicae, et matheseos, studiosus ex iisdem scientiis anno M.DCC.LIV. mense octobri publicum tentamen subiturus.</title>
+                  <respStmt>
+                     <persName>Balassa, Franciscus L. B.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Viennae, Austriae : Typis Joannis Thomae Trattner</publisher>
+                     <pubPlace>Hungary</pubPlace>
+                     <date>[1754]</date>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>[13], 58, [32] p., [1] leaf of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fd920ca4-071a-45c0-924e-f39465b8ded4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fd920ca4-071a-45c0-924e-f39465b8ded4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

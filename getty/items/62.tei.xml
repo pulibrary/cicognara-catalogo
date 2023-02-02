@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 62</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">62</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ZANETTI Girolamo</author>, 
+                     <title>Dell’origine di alcune arti principali presso i Veneziani.</title> 
+                     <extent>Libri due,</extent> 
+                     <pubPlace>Venezia</pubPlace>
+	                    <date>1758,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'origine di alcune arti principali appresso i Viniziani [microform] : libri due.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jc1s6d</idno>
+            <idno type="cico">62</idno>
+            <idno type="dcl">8zz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'origine di alcune arti principali appresso i Viniziani [microform] : libri due.</title>
+                  <respStmt>
+                     <persName>Zanetti, Girolamo Francesco, 1713-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Appresso Stefano Orlandini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>[4], 100 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d38293db-0bc3-4ac6-8da8-b762ad68b2df/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d38293db-0bc3-4ac6-8da8-b762ad68b2df/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'origine di alcune arti principali appresso i viniziani, libri due.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Orlandini, Stefano</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929594600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/r0290k</idno>
+            <idno>(OCoLC)146009479</idno>
+            <idno type="cico">62</idno>
+            <idno type="dcl">8zz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'origine di alcune arti principali appresso i viniziani, libri due.</title>
+                  <respStmt>
+                     <persName>Zanetti, Girolamo Francesco, 1713-1782</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Appresso Stefano Orlandini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>[4], 100 pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/73bc0101-8cca-4fac-b0c0-7520e33166c6"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/73bc0101-8cca-4fac-b0c0-7520e33166c6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

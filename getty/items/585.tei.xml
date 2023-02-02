@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 585</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">585</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>De l’ORME Philibert</author>, 
+                     <title>Nouvelles inventions pour bien bastir et à petits frais trouvées à Agueres.</title>
+	                    <pubPlace>Paris</pubPlace> 
+                     <date>1578,</date> 
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouuelles inuentions pour bien bastir et a petits fraiz, trouuees n'Agueres [microform] / par Philibert de L'orme ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/282z5j</idno>
+            <idno type="cico">585</idno>
+            <idno type="dcl">v22</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouuelles inuentions pour bien bastir et a petits fraiz, trouuees n'Agueres [microform] / par Philibert de L'orme ...</title>
+                  <respStmt>
+                     <persName>L'Orme, Philibert de, 1515?-1570.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'Imprimerie de Hierosme de Marnes, &amp; Guillaume Cauellat</publisher>
+                     <date>1578</date>
+                  </imprint>
+                  <extent>[12], 94, [6] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/83d8b390-8cab-4d05-bb08-0021d12fb7b5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/83d8b390-8cab-4d05-bb08-0021d12fb7b5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

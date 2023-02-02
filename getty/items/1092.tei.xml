@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1092</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1092</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FENELON François</author>, <title>Les aventures de Télémaque fils d’Ulisse</title>, <pubPlace>Amsterdam</pubPlace> <date>1734</date>, in 4, avec
+      figures de Bernard Picart, et autres.
+      <note>Bisogna osservare che non manchi il bel ritratto inciso da Daret. Dopo che furono tirati soli 150 esemplari della
+      prima edizione che porta la data dello stesso anno (in fine della quale trovansi alcune volte cinque articoli
+      addizionali, indicati anche da Brunet) fu subito stampata la suddetta, che dopo quella è la migliore e prevale di
+      molto alla ristampa fatta nello stesso luogo nel 1761.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les avantures de Telemaque, fils d'Ulysse [microform] / par feu Messire François de Salignac, de la Mothe Fenelon ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sq618x</idno>
+            <idno type="cico">1092</idno>
+            <idno type="dcl">ck4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les avantures de Telemaque, fils d'Ulysse [microform] / par feu Messire François de Salignac, de la Mothe Fenelon ...</title>
+                  <respStmt>
+                     <persName>Fénelon, François de Salignac de La Mothe-, 1651-1715.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez J. Wetstein &amp; G. Smith, &amp; Z. Chatelain ;</publisher>
+                     <date>1734</date>
+                  </imprint>
+                  <extent>x, xxvii, 424 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3295ddf4-9700-4d69-8bed-6957914feedc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3295ddf4-9700-4d69-8bed-6957914feedc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

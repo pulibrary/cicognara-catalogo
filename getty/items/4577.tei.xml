@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4577</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4577</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REGNAULT</author>, <title>Catalogue d’une précieuse colléction d’estampes de M. d’Etienne</title>, <pubPlace>Paris</pubPlace>
+                    <date> 1807</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une précieuse collection d'estampes encadrées, en feuilles et en recueils, gouaches et dessins [microform] : qui composoient le cabinet de feu M.r Detienne / par F.L. Regnault.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Poussin, commissaire-priseur.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j5227f</idno>
+            <idno>(OCoLC)175280254</idno>
+            <idno type="cico">4577</idno>
+            <idno type="dcl">5pn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une précieuse collection d'estampes encadrées, en feuilles et en recueils, gouaches et dessins [microform] : qui composoient le cabinet de feu M.r Detienne / par F.L. Regnault.</title>
+                  <respStmt>
+                     <persName>Regnault-Delalande, François Léandre, 1762-1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Se distribué ... chez M.rs. Regnault, Pussin, commissaire-priseur</publisher>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d3744d98-d473-49f7-880d-0196f2d82320/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d3744d98-d473-49f7-880d-0196f2d82320/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

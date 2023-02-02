@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 441</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">441</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BONARROTI Michel Angelo</author>,
+                     <title> Le porte di Roma nuo <pb type="cico" n="79"/>vamente ed esattamente disegnate
+	ed intagliate,</title> 
+                     <pubPlace>Bologna</pubPlace> 
+                     <date>1787,</date>
+                     <extent> in fol. fig.</extent>
+	                    <note>Uno scolaro del Bibiena, par nome Giovanni Lodovico Quadri, lasciò per morte incompleto il lavoro, che fu fatto
+	terminare da Pio Panfili a spese di Lelio dalla Volpe editore. L’opera è scarsa, eseguita con poco gusto. Dopo il
+	frontespizio è un avviso che istruisce di quanto sopra; indi il ritratto del Buonarroti e sette tavole.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Porte di Roma d'invenzione di Michelagnolo Bonarroti [microform] : pittore, scultore, e architetto fiorentino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0s124s</idno>
+            <idno type="cico">441</idno>
+            <idno type="dcl">rz6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le Porte di Roma d'invenzione di Michelagnolo Bonarroti [microform] : pittore, scultore, e architetto fiorentino.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Dalle stampe di Lelio dalla Volpe</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>[2] leaves, [8] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5b8c7dfb-e16f-4817-b935-c32d3ade372b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5b8c7dfb-e16f-4817-b935-c32d3ade372b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

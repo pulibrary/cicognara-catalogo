@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1978</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1978</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>ABREGÉ de l’histoire romaine orné de 49 estampes en taille douce avec le plus grand soin</title>,
+    <pubPlace>Paris</pubPlace> <date>1789</date>, in 4 gr.<note>
+    Il ristretto dell’istoria è lo stesso che quello di Millot che trovasi nel corso di studi per uso della scuola R.
+    Militare e le tavole furono acquistate dall’editore di questo libro dagli eredi di M. Pretot che le avea fatte
+    intagliare per lo Spectacle de l’histoire romaine. Ricomparvero poi alla luce una terza, cena quarta volta nel
+    1786 e nel 1801 coll’abregé di Millot stampato isolatamente dopo la sua morte ed estratto dal citato corso di
+    studi.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abrégé de l'histoire romaine [microform] : orné de 49 estampes gravées en taille-douce avec le plus grand soin, qui en représentent les principaux sujets.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p83m22</idno>
+            <idno type="cico">1978</idno>
+            <idno type="dcl">6s5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Abrégé de l'histoire romaine [microform] : orné de 49 estampes gravées en taille-douce avec le plus grand soin, qui en représentent les principaux sujets.</title>
+                  <respStmt>
+                     <persName>Millot, abbé (Claude François Xavier), 1726-1785.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Nyon l'aîné &amp; fils</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>viij, 192 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/03cfa104-4c7a-433b-9701-78c13494831a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/03cfa104-4c7a-433b-9701-78c13494831a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

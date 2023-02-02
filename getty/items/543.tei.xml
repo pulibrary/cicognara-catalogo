@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 543</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">543</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>LAVALLÉE Poussin</author>, 
+                     <title>Nouvelle collection d’arabesques propres à la decoration des appartemens
+	dessinées à Rome par L. P., et autres celebres artistes modernes et gravées par Guyot,</title> 
+                     <pubPlace>Paris,</pubPlace>
+	                    <publisher>chez Treuttel et Wurtz etc.,</publisher> 
+                     <extent>in 4, gr. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouvelle collection d'arabesques, propres à la décoration des appartemens [microform] : dessinées à Rome par Lavallée, Poussin, et autres célèbres artistes modernes, et gravées par Guyot / précédée d'une notice historique sur le genre arabesque et d'une explication raisonnée des planches de la collection, par M. Alexandre Le Noir.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bk6104</idno>
+            <idno type="cico">543</idno>
+            <idno type="dcl">nft</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouvelle collection d'arabesques, propres à la décoration des appartemens [microform] : dessinées à Rome par Lavallée, Poussin, et autres célèbres artistes modernes, et gravées par Guyot / précédée d'une notice historique sur le genre arabesque et d'une explication raisonnée des planches de la collection, par M. Alexandre Le Noir.</title>
+                  <respStmt>
+                     <persName>Lenoir, Alexandre, 1761-1839.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Treuttel et Würtz</publisher>
+                     <date>[after 1800]</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>12 p., [26] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1b481606-69d5-4bdb-99a2-cead9552b758/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1b481606-69d5-4bdb-99a2-cead9552b758/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouvelle collection d'arabesques, propres à la décoration des appartemens</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lenoir, Alexandre, Author</authority>
+            <authority>Lavallée-Poussin, Etienne de, Illustrator</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-68680</idno>
+            <idno type="URI">http://portal.getty.edu/api/hj4w80</idno>
+            <idno type="cico">543</idno>
+            <idno type="dcl">nft</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouvelle collection d'arabesques, propres à la décoration des appartemens</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1810</date>
+                     <date>[1810]</date>
+                  </imprint>
+                  <extent>12 S., 38 Taf.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/lenoir1810/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/lenoir1810/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

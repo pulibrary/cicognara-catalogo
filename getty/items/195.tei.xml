@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 195</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">195</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>REQUENO D. Vincenzo</author>,
+                     <title> Lettera al sig. cavalier Lorgna sulla cera punica adoperata nei colori,</title>
+	                    <pubPlace>Bologna</pubPlace> 
+                     <date>1785,</date>
+                     <extent> in 8, M. 87.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera dell' Abb. Requeno al Sig. Cav. Lorgna [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lorgna, Antonio Mario, 1730-1796.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dc2t7b</idno>
+            <idno type="cico">195</idno>
+            <idno type="dcl">8zv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera dell' Abb. Requeno al Sig. Cav. Lorgna [microform].</title>
+                  <respStmt>
+                     <persName>Requeno y Vives, Vicente, 1743-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : A.S. Tommaso d'Aquino</publisher>
+                     <date>[1785]</date>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>45, [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1764f963-faed-462b-9cc1-50287ed14cbc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1764f963-faed-462b-9cc1-50287ed14cbc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

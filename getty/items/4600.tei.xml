@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4600</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4600</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>EISEMBERG</author>, <title>Déscription du manége moderne dans la perféction, gravée par Bernard Picard</title>, a la <pubPlace>Haye</pubPlace>, <date>1737</date>, <note>in
+fol. oblong., chez Pierre de Hondt. Tavole 55 rappresentanti cavalli, e 4 tavole comprendono diversi morsi: sono
+60 tavole compresovi il frontespizio.
+Edizione in bel disegno, ed intaglio, quantunque l’altra comparsa dieci anni avanti possa ritenersi in qualche
+maggior pregio per la freschezza delle tavole</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'art de monter a cheval, ou, Description du manege moderne [microform] : dans sa perfection : expliqué par des leçons necessaires, &amp; réprésenté par des figures exactes, depuis l'assiette de l'homme à cheval, jusqu'à l'arrêt : accompagné aussi de divers mords pour bien brider les chevaux / écrit et dessiné par le baron d'Eisenberg ; et gravé par B. Picart.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Picart, Bernard, 1673-1733.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5g1p03</idno>
+            <idno type="cico">4600</idno>
+            <idno type="dcl">734</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'art de monter a cheval, ou, Description du manege moderne [microform] : dans sa perfection : expliqué par des leçons necessaires, &amp; réprésenté par des figures exactes, depuis l'assiette de l'homme à cheval, jusqu'à l'arrêt : accompagné aussi de divers mords pour bien brider les chevaux / écrit et dessiné par le baron d'Eisenberg ; et gravé par B. Picart.</title>
+                  <respStmt>
+                     <persName>Eisenberg, Reis, baron d'</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A La Haye : Chez Pierre de Hondt</publisher>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>56 leaves</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b7af1bce-adde-447e-9b48-68a06ae47bd8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b7af1bce-adde-447e-9b48-68a06ae47bd8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

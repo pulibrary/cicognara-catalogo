@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 301</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">301</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>BUCHOTTE, </author>
+                     <title>Les regles du dessein et du lavis,</title> 
+                     <pubPlace>Paris </pubPlace>
+                     <date>1722,</date> 
+                     <extent>in 8.</extent> Prima edizione con minor
+	numero di tavole della seguente.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les regles du dessein et du lavis [microform] : pour les plans particuliers des ouvrages &amp; des bâtimens, &amp; pour leurs coupes, profils, elevations &amp; façades, tant de l'architecture militaire que civile, comme aussi pour le plan en entier d'une place, pour sa carte particuliere, &amp; pour celles des elections, des provinces, &amp; des royaumes / par M. Buchotte ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rd8553</idno>
+            <idno type="cico">301</idno>
+            <idno type="dcl">rfr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les regles du dessein et du lavis [microform] : pour les plans particuliers des ouvrages &amp; des bâtimens, &amp; pour leurs coupes, profils, elevations &amp; façades, tant de l'architecture militaire que civile, comme aussi pour le plan en entier d'une place, pour sa carte particuliere, &amp; pour celles des elections, des provinces, &amp; des royaumes / par M. Buchotte ...</title>
+                  <respStmt>
+                     <persName>Buchotte, M., active 18th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Claude Jombert</publisher>
+                     <date>1722</date>
+                  </imprint>
+                  <extent>130, [6] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/696d9638-1ded-4318-ab7c-38d9260e7351/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/696d9638-1ded-4318-ab7c-38d9260e7351/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

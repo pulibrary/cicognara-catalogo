@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 932</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">932</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HERRONIS Alexandrini</author>, <title>Spiritalium liber a Federico Commandino Urbinate ex graeco nuper in
+      latinum couversus</title>. <pubPlace>Urbini</pubPlace> <date>1576</date>, in 4, pic.
+      <note>Bella ed accurata edizione colle tavole in legno fra il testo.</note>
+      
+      — <author>HIGGINS</author>, <title>Experiments the calcareous cements</title>. Vedi Faujas de Saint-fond cui va unito.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heronis Alexandrini spiritalium liber .. [microform] / ex Graeco, nuper in latinum conversus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x12d8b</idno>
+            <idno type="cico">932</idno>
+            <idno type="dcl">13f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Heronis Alexandrini spiritalium liber .. [microform] / ex Graeco, nuper in latinum conversus.</title>
+                  <respStmt>
+                     <persName>Hero, of Alexandria</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Urbini : [s.n.]</publisher>
+                     <date>1575</date>
+                  </imprint>
+                  <extent>[4] p., 70 [i.e. 80] leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d4ffc773-b98c-42a6-80a8-fce6d01a5da1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d4ffc773-b98c-42a6-80a8-fce6d01a5da1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

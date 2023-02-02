@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 289</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">289</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>DE ARPHE</author> y Villafanne, <title>Varia consummeracion para la escultura y arquitectura,</title> 
+                     <pubPlace>Madrid</pubPlace> 
+                     <date>1736</date>,
+	<extent>f. fig.</extent>
+	                    <note>In fronte è il ritratto dell’autore. L’opera è divisa in quattro libri: il primo tratta della geometria, il secondo delle
+	proporzioni e dell’anatomia, il terzo de’ quadrupedi e dei volatili, il quarto dell’architettura. Le tavole sono
+	numerosissime, alcune frammiste al testo a tutta pagina e altre marginali intagliate in legno con grandissimo
+	magistero e rendono per conseguenza l’opera assai preziosa, giustificandone la rarità.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Varia commensuracion para la escultura y arquitectura [microform] / por Juan de Arphe y Villafañe, natural de Leon, escultor de oro, y plata ... Añadido en esta quarta impression por Don Pedro Enguera ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Enguera, Pedro, -1735.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984942123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1q5s7v</idno>
+            <idno type="cico">289</idno>
+            <idno type="dcl">xv4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Varia commensuracion para la escultura y arquitectura [microform] / por Juan de Arphe y Villafañe, natural de Leon, escultor de oro, y plata ... Añadido en esta quarta impression por Don Pedro Enguera ...</title>
+                  <respStmt>
+                     <persName>Arfe y Villafañe, Juan de, 1535-1603.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>En Madrid : En la Imprenta de la viuda de Don Pedro Enguera</publisher>
+                     <date>Ãno de 1736</date>
+                     <date>1736</date>
+                  </imprint>
+                  <extent>1 v. (various pagings)</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8a2afe00-ff19-4135-879e-5738fbcafa6d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a2afe00-ff19-4135-879e-5738fbcafa6d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

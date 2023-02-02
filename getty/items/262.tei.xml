@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 262</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">262</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>HUBER ET ROST</author>, 
+                     <title>Manuel des curieux et des amateurs de l’art avec une notice des principaux
+	graveurs,</title> 
+                     <pubPlace>Zuric</pubPlace>
+                     <date> 1797 a 1804,</date> 
+                     <extent>vol. 8, rel. In 4, in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Manuel des curieux et des amateurs de l'art / par M. Huber et C.C.H. Rost. 1, L'école allemande.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100829633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7h8q1n</idno>
+            <idno>(OCoLC)313217136</idno>
+            <idno type="cico">262</idno>
+            <idno type="dcl">q2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Manuel des curieux et des amateurs de l'art / par M. Huber et C.C.H. Rost. 1, L'école allemande.</title>
+                  <respStmt>
+                     <persName>Huber, Michael.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Londres : Escher</publisher>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>11 Mikrofiches (zus. mit T. 2) : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/06a0e0a0-0ba7-4649-9897-b8d57f6fb278/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/06a0e0a0-0ba7-4649-9897-b8d57f6fb278/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

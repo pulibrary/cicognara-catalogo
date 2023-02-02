@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3904</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3904</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VENUTI Ridolfino</author>, <title>Marmora Albana, sive in duas inscriptiones gladiatorias conjecturae</title>, <pubPlace>Romae</pubPlace> <date>1756</date>, in 4 pic.,
+M. 22, con due gran tavole d’iscrizioni.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marmora albana sive in duas inscriptiones gladiatorias Collegii Silvana Aureliani inter rudera urbis Romae nuper repertas conjecturae [microform] / auctore Rodulphino Venuto ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3f1b3g</idno>
+            <idno type="cico">3904</idno>
+            <idno type="dcl">wvh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marmora albana sive in duas inscriptiones gladiatorias Collegii Silvana Aureliani inter rudera urbis Romae nuper repertas conjecturae [microform] / auctore Rodulphino Venuto ...</title>
+                  <respStmt>
+                     <persName>Venuti, Ridolfino, 1705-1763.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Sumptibus Fausti Amidei</publisher>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>39 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/425e471b-762e-45da-9870-d118996c9ca3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/425e471b-762e-45da-9870-d118996c9ca3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

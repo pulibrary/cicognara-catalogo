@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4572</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4572</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REGNAULT</author>, <title>Notices des tableaux de maîtres anciens et mo <pb type="cico" n="307"/> dernes après décès de M. Delhaas</title>, <pubPlace>Paris</pubPlace>
+                    <pubPlace> 1805</pubPlace>,
+in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notice de tableaux de maîtres anciencs et modernes, portefeuille de dessins, estampes encadrées, &amp;c [microform] : après décès M.r Delhaas, jouaillier / par F.L. Regnault.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Girardin.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984938703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cd2w4f</idno>
+            <idno>(OCoLC)182781393</idno>
+            <idno type="cico">4572</idno>
+            <idno type="dcl">5wj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notice de tableaux de maîtres anciencs et modernes, portefeuille de dessins, estampes encadrées, &amp;c [microform] : après décès M.r Delhaas, jouaillier / par F.L. Regnault.</title>
+                  <respStmt>
+                     <persName>Regnault-Delalande, François Léandre, 1762-1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez M.rs Regnault ... Girardin</publisher>
+                     <date>an XIII, 1805</date>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>8 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/39e31186-d75b-4420-9538-2aeaf0fd9bbc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/39e31186-d75b-4420-9538-2aeaf0fd9bbc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

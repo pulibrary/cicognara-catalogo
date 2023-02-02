@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 885</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">885</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BLANCHARD Edme</author>, <title>Traité de la coupé des bois pour le revêtement des voutes etc.</title>, à <pubPlace>Paris</pubPlace>
+      <date>1729</date>, in 4, fig.
+      <note>Opera ben fatta per le pratiche con 46 tavole in rame. Se l’autore si fosse ritenuto dal proporre modelli di gusto,
+      limitandosi alla parte scientifica, l’opera sarebbe infinitamente più pregievole.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de la coupe des bois [microform] : pour le revêtement des voutes, arrieres-voussures, trompes, rampes et tours rondes / utile aux arts de charpente, menuiserie et marbrerie par Edme Blanchard ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0k280g</idno>
+            <idno type="cico">885</idno>
+            <idno type="dcl">43b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de la coupe des bois [microform] : pour le revêtement des voutes, arrieres-voussures, trompes, rampes et tours rondes / utile aux arts de charpente, menuiserie et marbrerie par Edme Blanchard ...</title>
+                  <respStmt>
+                     <persName>Blanchard, Edme, fl. 1725.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jacques Josse ... et Claude Jombert</publisher>
+                     <date>1729</date>
+                  </imprint>
+                  <extent>xii, 80 [i.e. 82] p., [47] leaves of plates (some fold.)</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ca5cfa76-c34e-4eae-8498-e5797ff4ab9f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ca5cfa76-c34e-4eae-8498-e5797ff4ab9f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2965</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2965</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PATINUS Carolus</author>, <title>Commentarius in antiquum monumentum Marcellinae in Graecia nuper allatum</title>, 
+                        <pubPlace>Patavii</pubPlace> <date>1688</date>,
+in <pb type="cico" n="78"/> 4, fig., con una tavola in rame e numerose iscrizioni, M. 65.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commentarius Caroli Patini in antiquum monumentum Marcellinae e Graecia nuper allatum [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/716k8q</idno>
+            <idno type="cico">2965</idno>
+            <idno type="dcl">srh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Commentarius Caroli Patini in antiquum monumentum Marcellinae e Graecia nuper allatum [microform].</title>
+                  <respStmt>
+                     <persName>Patin, Charles, 1633-1693.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Ex typographia Seminarii</publisher>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>p. [2], 369-417</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e27e652a-344a-4c6e-ad7f-50fe56a87c50/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e27e652a-344a-4c6e-ad7f-50fe56a87c50/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commentarius Caroli Patani, In Antiquum Monumentum Marcellinae: E Graecia Nuper Allatum</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Patin, Charles, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-281940</idno>
+            <idno type="URI">http://portal.getty.edu/api/vp615g</idno>
+            <idno type="cico">2965</idno>
+            <idno type="dcl">srh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Commentarius Caroli Patani, In Antiquum Monumentum Marcellinae: E Graecia Nuper Allatum</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Römisches Reich</pubPlace>
+                     <date>1688</date>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>S. 367-418</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/patin1688/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/patin1688/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

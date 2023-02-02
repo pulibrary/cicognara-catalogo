@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2113</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2113</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TEMPESTA Ant.</author>, <title>Il primo e il secondo libro delle Cac <pb type="cico" n="364"/> cie intagliate per mano di Ant. Temp.</title>,
+  <pubPlace>Roma</pubPlace>, presso <publisher>Andrea Vaccario</publisher>, <date>1598</date>.
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+  <note>Tav. 50 in 8 per traverso ove sono le caccie del selvaggiame, delle fiere e degli uccelli.</note>
+  
+  — Aggiuntovi: <title>Herculis aerumnas maximas etc.</title>, <pubPlace>Romae</pubPlace> <date>1608</date>, in 13 tav. senza alcun testo.
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primo libro di caccie varie [microform] / intagliate per mano di Antonio Tempesta.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8d1w33</idno>
+            <idno type="cico">2113</idno>
+            <idno type="dcl">2sc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Primo libro di caccie varie [microform] / intagliate per mano di Antonio Tempesta.</title>
+                  <respStmt>
+                     <persName>Tempesta, Antonio, 1555-1630.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Andrea Vaccario</publisher>
+                     <date>[16-?]</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0d977914-e865-487f-9375-e26439edf190/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0d977914-e865-487f-9375-e26439edf190/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Engravings of hunting scenes and mythological subjects] [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kc713p</idno>
+            <idno type="cico">2113</idno>
+            <idno type="dcl">fcd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Engravings of hunting scenes and mythological subjects] [microform].</title>
+                  <respStmt>
+                     <persName>Tempesta, Antonio, 1555-1630.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[16-?]</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b333b9d5-c5a5-43af-90c2-8388dec89b6d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b333b9d5-c5a5-43af-90c2-8388dec89b6d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

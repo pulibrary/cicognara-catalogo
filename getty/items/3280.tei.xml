@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3280</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3280</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MULLERI Chris. Henrici</author>, <title>De M. T. Ciceronis Bibliothecis pauca praefatus etc.</title>, <pubPlace>Jenae</pubPlace> <date>1753</date>, M. 41.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De M.T. Ciceronis bibliothecis pauca praefatus .. [microform] : viro ... Christiano Henrico Mullero ... in Academiam Lipsiensem ... / Io. Matthaeus Unoldus ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Müller, Christian Heirnich.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n42m2m</idno>
+            <idno type="cico">3280</idno>
+            <idno type="dcl">vfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De M.T. Ciceronis bibliothecis pauca praefatus .. [microform] : viro ... Christiano Henrico Mullero ... in Academiam Lipsiensem ... / Io. Matthaeus Unoldus ...</title>
+                  <respStmt>
+                     <persName>Unold, Johann Matthaeus.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Ienae : Litteris Schillianis</publisher>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>XII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4e0ceb82-b20f-44b3-9812-c05d4253f9e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4e0ceb82-b20f-44b3-9812-c05d4253f9e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

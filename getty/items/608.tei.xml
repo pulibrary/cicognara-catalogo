@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 608</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">608</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>PERUCCI Orazio</author>, 
+                     <title>Porte d’architettura rustica date <pb type="cico" n="110"/> in luce da Francesco suo figlio,</title>
+	                    <pubPlace>Reggio</pubPlace> 
+                     <date>1634,</date> 
+                     <extent>in foglio.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Porte d'architettura rustica [microform] / d'Oratio Perucci ; date in luce da' dotr. Francesco, suo figlo ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Coriolano, Giovanni Battista, -1649.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985136493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1x8p56</idno>
+            <idno type="cico">608</idno>
+            <idno type="dcl">2s4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Porte d'architettura rustica [microform] / d'Oratio Perucci ; date in luce da' dotr. Francesco, suo figlo ...</title>
+                  <respStmt>
+                     <persName>Perucci, Oratio, 1548-1624.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Reggio] : Vittorio Serena</publisher>
+                     <date>1634</date>
+                  </imprint>
+                  <extent>[21] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4081814d-daf4-4345-bf64-310e0393ddd4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4081814d-daf4-4345-bf64-310e0393ddd4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

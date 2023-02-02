@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1975</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1975</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>WEIGEL Christoph.</author>, <title>Ethica naturalis seu documenta moralia e variis rerum naturalium
+    proprietatibus virtutum vitiorumque symbolicis imaginibus collecta</title>, <pubPlace>Norimbergae</pubPlace> sine anno,
+    in 4, fig.<note>
+    Cento tavole incise con molto brio e colle illustrazioni in versi elegiaci.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ethica naturalis, seu, documenta moralia e variis rerum naturalium proprietatib[us], virtutum vitiorumq[ue] symbolicis imaginibus collecta [microform] / a Christophoro Weigelio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Luiken, Caspar, 1672-1708.</authority>
+            <authority>Luiken, Jan, 1649-1712.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c62w49</idno>
+            <idno type="cico">1975</idno>
+            <idno type="dcl">crz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ethica naturalis, seu, documenta moralia e variis rerum naturalium proprietatib[us], virtutum vitiorumq[ue] symbolicis imaginibus collecta [microform] / a Christophoro Weigelio.</title>
+                  <respStmt>
+                     <persName>Weigel, Christoph.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae [s.n</publisher>
+                     <date>[1700?]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>[1], C leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/838cafb7-f84a-4d73-afb9-0eea2e4a8055/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/838cafb7-f84a-4d73-afb9-0eea2e4a8055/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ethica naturalis, seu, Documenta moralia e variis rerum naturalium proprietatib[us], virtutum vitiorumq[ue] symbolicis imaginibus collecta / a Christophoro Weigelio Norimbergae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Luiken, Jan, 1649-1712</authority>
+            <authority>Luiken, Caspar, 1672-1708</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924367730001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vc7g65</idno>
+            <idno>(OCoLC)181670021</idno>
+            <idno type="cico">1975</idno>
+            <idno type="dcl">crz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ethica naturalis, seu, Documenta moralia e variis rerum naturalium proprietatib[us], virtutum vitiorumq[ue] symbolicis imaginibus collecta / a Christophoro Weigelio Norimbergae.</title>
+                  <respStmt>
+                     <persName>Weigel, Johann Christoph, 1661-1726</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Nuremberg]  : [Johann Christoph Weigel]</publisher>
+                     <pubPlace>Germany Nuremberg.</pubPlace>
+                     <date>[1700]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>[101] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/686f7724-303e-4017-b6e8-3af2a58a040a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/686f7724-303e-4017-b6e8-3af2a58a040a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

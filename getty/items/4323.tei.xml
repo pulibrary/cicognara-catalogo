@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4323</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4323</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CORONELLI P.</author>, <title>Ravenna ricercata, antica e moderna, accresciuta di memorie, ed ornata di copiose figure</title>, in 4 obl.
+<note>Con molte cattive tavole come in tutte le opere del Coronelli, e con una farragine di nozioni con poca critica e
+poco ordine disposte.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ravenna ricercata antico-moderna [microform] : accresciuta di memorie ed ornata di copiose figure / dal P. Generale Coronelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v2224b</idno>
+            <idno type="cico">4323</idno>
+            <idno type="dcl">r2r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ravenna ricercata antico-moderna [microform] : accresciuta di memorie ed ornata di copiose figure / dal P. Generale Coronelli ...</title>
+                  <respStmt>
+                     <persName>Coronelli, Vincenzo, 1650-1718.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Ravenna (Italy)</pubPlace>
+                     <date>[after 1706]</date>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fdefc32b-3b4e-4c36-8f5c-014fae96c30b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fdefc32b-3b4e-4c36-8f5c-014fae96c30b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

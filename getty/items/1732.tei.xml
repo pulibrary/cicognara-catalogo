@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1732</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1732</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NICOLAI</author>, <title>Recerches historiques sur l’usage des <pb type="cico" n="299"/> cheveux postiches, et des perruques
+  dans les tems anciens, et modernes</title>, à <pubPlace>Paris</pubPlace>, en 8, traduit de l’allemand.
+  <note>Con due grandi tavole il fine</note>.
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recherches historiques sur l'usage des cheveux postiches et des perruques dans les temps anciens et modernes [microform] / traduit de l'Allemand.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1z092s</idno>
+            <idno type="cico">1732</idno>
+            <idno type="dcl">x24</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recherches historiques sur l'usage des cheveux postiches et des perruques dans les temps anciens et modernes [microform] / traduit de l'Allemand.</title>
+                  <respStmt>
+                     <persName>Nicolai, Friedrich, 1733-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : L. Collin</publisher>
+                     <date>[1809]</date>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>221 p., [2] folded leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1e56fdff-88f1-40c5-9bd5-b84e9f21351a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1e56fdff-88f1-40c5-9bd5-b84e9f21351a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

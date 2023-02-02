@@ -1,0 +1,129 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 6</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">6</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                 <author>BATTEUX Ch.</author>, 
+                 <title>Les beaux Arts reduites à un même principe,</title> 
+                 <pubPlace>Paris</pubPlace>
+                 <date> 1747,</date> 
+                 <extent>in 12.</extent>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les beaux arts réduits à un même principe [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Delafosse, Jean-Charles, 1734-1789.</authority>
+            <authority>Eisen, Charles, 1720-1778.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f3822w</idno>
+            <idno type="cico">6</idno>
+            <idno type="dcl">0pw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les beaux arts réduits à un même principe [microform].</title>
+                  <respStmt>
+                     <persName>Batteux, Charles, 1713-1780.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Durand</publisher>
+                     <date>1747</date>
+                  </imprint>
+                  <extent>[8], xiij, 308 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/079b7002-6f63-44bc-9788-08c81d18899f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/079b7002-6f63-44bc-9788-08c81d18899f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les beaux arts réduits à un même principe.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Eisen, Charles, 1720-1778, illustrator.</authority>
+            <authority>Delafosse, Jean-Charles, 1734-1789, illustrator.</authority>
+            <authority>Louis, Dauphin of France, 1729-1765</authority>
+            <authority>Delespine, Charles-Jean-Baptiste.</authority>
+            <authority>Durand, Laurent, 1712?-1763</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922460140001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d28d77</idno>
+            <idno>(OCoLC)5121483</idno>
+            <idno type="cico">6</idno>
+            <idno type="dcl">0pw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les beaux arts réduits à un même principe.</title>
+                  <respStmt>
+                     <persName>Batteux, Charles, 1713-1780</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris, Chez Durand</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1747</date>
+                  </imprint>
+                  <extent>[8], xiii, [5], 308, [17] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/12eca5b5-23f4-43bf-b67c-018f9f5d4a01"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/12eca5b5-23f4-43bf-b67c-018f9f5d4a01">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 78</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">78</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BARDON Dandré</author>, 
+                     <title>Histoire universelle traitée rélativement aux arts de peindre et de sculpter; ou
+	  tableau de l’ histoi <pb type="cico" n="13"/> re enrichi de connaissances etc.,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1769,</date>
+                     <extent> 3, vol. 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire universelle [microform] : traitée relativement aux arts de peindre et de sculpter : ou, Tableaux de l'histoire, enrichis de connoissances analogues à ces talens / par M. Dandré Bardon ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247613506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/650s76</idno>
+            <idno type="cico">78</idno>
+            <idno type="dcl">hnt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire universelle [microform] : traitée relativement aux arts de peindre et de sculpter : ou, Tableaux de l'histoire, enrichis de connoissances analogues à ces talens / par M. Dandré Bardon ...</title>
+                  <respStmt>
+                     <persName>Dandré-Bardon, Michel François, 1700-1783.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Merlin</publisher>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/58bd9451-9a7e-4e73-9977-24b1f199a6be/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/58bd9451-9a7e-4e73-9977-24b1f199a6be/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

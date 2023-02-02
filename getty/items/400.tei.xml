@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 400</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">400</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ANTOLINI Giovanni</author>, 
+                     <title>Idee elementari d’architettura civile per le scuole del disegno,</title> 
+                     <pubPlace>Bologna
+</pubPlace>	
+                     <date>1813,</date> 
+                     <extent>in fol. fig., M. 85.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Idee elementari di architettura civile per le scuole del disegno [microform] / di Giovanni Antolini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xp1719</idno>
+            <idno type="cico">400</idno>
+            <idno type="dcl">pfz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Idee elementari di architettura civile per le scuole del disegno [microform] / di Giovanni Antolini ...</title>
+                  <respStmt>
+                     <persName>Antolini, Giovanni Antonio, approximately 1753-1841.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Nella tipografia di Iacopo Marsigli</publisher>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>40, [2] p., 24 p. of plates</extent>
+                  <extent>4 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f95f57ab-b660-4f43-a2c2-fef4e401292f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f95f57ab-b660-4f43-a2c2-fef4e401292f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Idee elementari di architettura civile per le scuole del disegno
+                / di Giovanni Antolini ...</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990123624190203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/px984x</idno>
+            <idno>(OCoLC)37479463</idno>
+            <idno type="cico">400</idno>
+            <idno type="dcl">pfz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Idee elementari di architettura civile per le scuole del disegno
+                / di Giovanni Antolini ...</title>
+                  <respStmt>
+                     <persName>Antolini, Giovanni Antonio, approximately 1753-1841.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Bologna : Nella tipograpfia di Iacopo Marsigli a San Salvatore</publisher>
+                     <date>MDCCCXIII [1813]</date>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>40, [2] p., XXIV leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:448075763"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:448075763">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

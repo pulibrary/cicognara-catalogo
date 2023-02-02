@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1528</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1528</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>LETTERA scritta da un Patrizio Veneto ad un suo amico</title>, in cui descrivonsi gli spettacoli
+    grandiosi dati dal governo ai Conti del Nord, <pubPlace>Venezia</pubPlace> 18 Gennaio <date>1781</date>, in 8.
+    MDCCLXXXIX
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera scritta da un patrizio veneto ad un suo amico [microform] : con cui si descrivono minutamente tutti li grandiosi spettacoli, co' quali si compiacque il veneto governo di trattenere li signori conti del Nord, dal giorno del loro arrivo, sino al giorno della loro partenza dalla dominante.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985448713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kt266m</idno>
+            <idno type="cico">1528</idno>
+            <idno type="dcl">85w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera scritta da un patrizio veneto ad un suo amico [microform] : con cui si descrivono minutamente tutti li grandiosi spettacoli, co' quali si compiacque il veneto governo di trattenere li signori conti del Nord, dal giorno del loro arrivo, sino al giorno della loro partenza dalla dominante.</title>
+                  <respStmt>
+                     <persName>Morelli, Lodovico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia? : s.n]</publisher>
+                     <pubPlace>Venice (Italy)</pubPlace>
+                     <date>[1781]</date>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>XXX p.</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b8a30332-c19e-44f1-a3ed-30d6d2702ebc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b8a30332-c19e-44f1-a3ed-30d6d2702ebc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

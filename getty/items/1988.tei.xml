@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1988</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1988</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAUR Guglielmo</author>, <title>Battaglie di varie nazioni da lui inventate ed incise</title>, dedicate a D. Federico
+    Colonna, 15 tavole in 8, oblong., <date>1637</date>. Aggiuntovi vari capricci di battaglie, 15 tavole <date>1635</date>.
+    <note>Inoltre vedute di giardini diversi 6 tavole 1636. E in fine il nuovo libro di diverse nazioni, non
+    tanto quelle che furono incise da Guglielmo Baur nel 1636 quanto le altre, che furono
+    ricopiate dalle sue stampe nella calcografia di Mariette da Ciartres, tavole 22.
+    Libretto prezioso per la grazia di queste acque forti, che formano la delizia degli artisti.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Collection of engravings by Johann Wilhelm Baur] [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/df450r</idno>
+            <idno type="cico">1988</idno>
+            <idno type="dcl">ck8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Collection of engravings by Johann Wilhelm Baur] [microform]</title>
+                  <respStmt>
+                     <persName>Baur, Johann Wilhelm, 1607-1642.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome : s.n]</publisher>
+                     <date>[1635-1637]</date>
+                     <date>1635</date>
+                  </imprint>
+                  <extent>[58] leaves plates</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d493d646-c1c9-441b-917e-9955db3d916f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d493d646-c1c9-441b-917e-9955db3d916f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vedute de' giardini / Io: Wilhelmus Baur fecitt.</title>
+            <respStmt>
+               <orgName>Dumbarton Oaks</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/huldo_990089124590203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/fg6524</idno>
+            <idno>(OCoLC)49777783</idno>
+            <idno type="cico">1988</idno>
+            <idno type="dcl">ck8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vedute de' giardini / Io: Wilhelmus Baur fecitt.</title>
+                  <respStmt>
+                     <persName>Baur, Johann Wilhelm, 1607-1642.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Rom [i.e. Rome] : Calisto Ferranti Form</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1636</date>
+                  </imprint>
+                  <extent>[6] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:432937771"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:432937771">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

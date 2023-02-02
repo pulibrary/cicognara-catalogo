@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 283</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">283</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>LEMÉE François</author>, 
+                     <title>Traité des statues,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1688</date>,<extent> 12.</extent>
+	                    <note>Si tratta dell’origine delle statue, degli scultori, della materia, della forma, degli ornamenti, grandezza piedistalli,
+	iscrizioni, luogo, utilità, decoro, diritto, consecrazione ec. In fine è registrato l’atto di donazione, inter vivos, del
+	marchese de la Feuillade a suo figlio di alcuni fondi per il mantenimento e doratura da rinovarsi ogni 25 anni alla
+	statua del re di Francia, eretta sulla piazza della Vittoria.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité Des Statuës</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lemée, François, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-78997</idno>
+            <idno type="URI">http://portal.getty.edu/api/cw547s</idno>
+            <idno type="cico">283</idno>
+            <idno type="dcl">0kf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité Des Statuës</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1688</date>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>10] Bl., 472, 54 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/lemee1688/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/lemee1688/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité des statuës [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984942053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5m5q1z</idno>
+            <idno type="cico">283</idno>
+            <idno type="dcl">0kf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité des statuës [microform]</title>
+                  <respStmt>
+                     <persName>Lemée, François.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Arnould Seneuze</publisher>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>[16], 472, 47 [i.e. 57], [1] p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e868e9e9-e7bc-4ec5-b15a-6794f9d12393/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e868e9e9-e7bc-4ec5-b15a-6794f9d12393/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

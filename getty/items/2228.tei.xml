@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2228</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2228</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CARRIERA Rosalba dipintrice famosa</author>, <title>Diario degli anni 1720 e 1721 scritto di propria mano
+    in Parigi, posseduto, illustrato e pubblicato dal D. Gio. Vianelli</title>, <pubPlace>Venezia</pubPlace> <date>1793</date>, in 4.
+    <note>Operetta piena di interessanti memorie sopratutto relative al soggiorno di questa pittrice in Francia.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diario degli anni MDCCXX e MDCCXXI [microform] / scritto di propria mano in Parigi da Rosalba Carriera, dipintrice famosa ; posseduto, illustrato e pubblicato dal signor dn Giovanni dr Vianelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vianelli, Giovanni.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x50c5h</idno>
+            <idno type="cico">2228</idno>
+            <idno type="dcl">jnz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Diario degli anni MDCCXX e MDCCXXI [microform] / scritto di propria mano in Parigi da Rosalba Carriera, dipintrice famosa ; posseduto, illustrato e pubblicato dal signor dn Giovanni dr Vianelli ...</title>
+                  <respStmt>
+                     <persName>Carriera, Rosalba, 1675-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Nella stamperia Colete</publisher>
+                     <pubPlace>Paris (France)</pubPlace>
+                     <date>1793</date>
+                  </imprint>
+                  <extent>105 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4977d2e7-88f8-41c8-b229-a0e9ebdc0d61/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4977d2e7-88f8-41c8-b229-a0e9ebdc0d61/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

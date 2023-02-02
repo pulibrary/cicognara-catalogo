@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3415</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3415</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> MUSEO Capitolino. Ossia descrizione delle statue e busti ed antichità custodite nel Campidoglio</title>, <pubPlace>Roma</pubPlace> <date>1750</date>, in
+4.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Museo capitolino, o sia, Descrizione delle statue, busti, bassirilievi, urne sepolcrali, iscrizioni, ed altre ammirabili, ed erudite antichità [microform] : che si custodiscono nel Palazzo alla destra del Senatorio vicino alla Chiesa d'Araceli, in Campidoglio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Musei capitolini (Rome, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bn2f8c</idno>
+            <idno type="cico">3415</idno>
+            <idno type="dcl">dzx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Museo capitolino, o sia, Descrizione delle statue, busti, bassirilievi, urne sepolcrali, iscrizioni, ed altre ammirabili, ed erudite antichità [microform] : che si custodiscono nel Palazzo alla destra del Senatorio vicino alla Chiesa d'Araceli, in Campidoglio.</title>
+                  <respStmt>
+                     <persName>Locatelli, Giampietro.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia del Bernabò e Lazzarini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>71 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8459bd11-5ba2-45e3-862e-476050dc36f5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8459bd11-5ba2-45e3-862e-476050dc36f5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

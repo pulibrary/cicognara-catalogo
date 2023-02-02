@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2203</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2203</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BARTOLOZZI Sebastiano Benedetto</author>, <title>Vita di Jacopo Vignali pittore fiorentino</title>, <pubPlace>Firenze</pubPlace> <date>1753</date>, in
+    4.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Jacopo Vignali, pittor fiorentino [microform] / scritta da Sebastiano Benedetto Bartolozzi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r34b3t</idno>
+            <idno type="cico">2203</idno>
+            <idno type="dcl">zvb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Jacopo Vignali, pittor fiorentino [microform] / scritta da Sebastiano Benedetto Bartolozzi.</title>
+                  <respStmt>
+                     <persName>Bartolozzi, Sebastiano Benedetto.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Per gli eredi Paperini</publisher>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>XXXI p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99d98446-df42-4dae-9cc3-028a04c0da95/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99d98446-df42-4dae-9cc3-028a04c0da95/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Jacopo Vignali, pittor fiorentino / scritta da Sebastiano Benedetto Bartolozzi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925873710001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/f80m3t</idno>
+            <idno>(OCoLC)27268630</idno>
+            <idno type="cico">2203</idno>
+            <idno type="dcl">zvb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Jacopo Vignali, pittor fiorentino / scritta da Sebastiano Benedetto Bartolozzi.</title>
+                  <respStmt>
+                     <persName>Bartolozzi, Sebastiano Benedetto.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Per gli eredi Paperini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Florence</pubPlace>
+                     <date>MDCCLIII [1753]</date>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>xxxi pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ab6eff55-6a53-4324-90c5-d35ab64eb570"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ab6eff55-6a53-4324-90c5-d35ab64eb570">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

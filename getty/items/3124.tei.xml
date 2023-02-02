@@ -1,0 +1,116 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3124</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3124</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MALVASIAE cav. Caes.</author>, <title>Aelia Laelia Crispis non nata resurgens: expositio legalis</title>. Jo. Bap. Colbert dicata,
+<pubPlace>Bononiae</pubPlace> <date>1683</date>, in 4.
+<note>Colla tavola dell’enigmatica iscrizione in principio.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aelia Laelia Crispis non nata resurgens in expositione legali [microform] / co: Caroli Caesaris Malvasiae ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985414373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vx985d</idno>
+            <idno type="cico">3124</idno>
+            <idno type="dcl">ms0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aelia Laelia Crispis non nata resurgens in expositione legali [microform] / co: Caroli Caesaris Malvasiae ...</title>
+                  <respStmt>
+                     <persName>Malvasia, Carlo Cesare, conte, 1616-1693.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Typis HH. Dominici Barberii</publisher>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>196 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6687c06d-f165-4afd-9a60-c7c8be014180/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6687c06d-f165-4afd-9a60-c7c8be014180/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aelia Laelia Crispis Non Nata Resurgens In Expositione Legali</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Malvasia, Carlo Cesare, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-234259</idno>
+            <idno type="URI">http://portal.getty.edu/api/z1330z</idno>
+            <idno type="cico">3124</idno>
+            <idno type="dcl">ms0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aelia Laelia Crispis Non Nata Resurgens In Expositione Legali</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1683</date>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>[12] Bl., 196 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/malvasia1683/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/malvasia1683/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2314</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2314</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MANZINI Giovann Battista e Luigi</author>, <title>Il Trionfo del pennello: raccolta di alcune composizioni
+    nate a gloria d’un Ratto d’Helena di Guido</title>, <pubPlace>Bologna</pubPlace> <date>1633</date>, in 4, pic.
+    <note>Queste sono tutte prose dei Manzini e dell’Achillini le più pazze e ridicole che si lessero mai in quel secolo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il trionfo del pennello [microform] / raccolta d'alcune compositioni nate à gloria d'vn ratto d'Helena di Guido.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t98q3z</idno>
+            <idno type="cico">2314</idno>
+            <idno type="dcl">nvt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il trionfo del pennello [microform] / raccolta d'alcune compositioni nate à gloria d'vn ratto d'Helena di Guido.</title>
+                  <respStmt>
+                     <persName>Manzini, Giovanni Battista, 1599-1664.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Nicolò Tebaldini</publisher>
+                     <date>1633</date>
+                  </imprint>
+                  <extent>51 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/de041c59-646d-413b-b68c-2bc1ce3d6573/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/de041c59-646d-413b-b68c-2bc1ce3d6573/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

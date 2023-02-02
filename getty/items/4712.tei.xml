@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4712</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4712</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GUMPPENBERG Guillelmi</author>, <title>Atlas Marianus, sive de imaginibus Deiparae per orbem christianum miraculosis, libri
+duo</title>, <pubPlace>Monachi</pubPlace> <date>1657</date>, in 12, fig.
+<note>La relazione e il tipo figurato in pessime tavole di 50 diverse immagini celebri formano la sostanza di questo
+libro.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Atlas Marianus, sive, De imaginibus Deiparae per orbem Christianum miraculosis [microform] / auctore Guilielmo Gumppenberg ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985425803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xk7j2s</idno>
+            <idno type="cico">4712</idno>
+            <idno type="dcl">zc2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Atlas Marianus, sive, De imaginibus Deiparae per orbem Christianum miraculosis [microform] / auctore Guilielmo Gumppenberg ...</title>
+                  <respStmt>
+                     <persName>Gumppenberg, Wilhelm, 1609-1675.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Monachii : Typis Lucae Straub</publisher>
+                     <date>Anno à partu Virgeneo 1657</date>
+                     <date>1657</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0c9b7b5f-ac75-4d5d-9f84-cbebf84cfebd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0c9b7b5f-ac75-4d5d-9f84-cbebf84cfebd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

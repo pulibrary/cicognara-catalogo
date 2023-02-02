@@ -1,0 +1,81 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 23</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">23</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DALBERG le Baron</author>,
+                     <title> De l’influence des sciences et des beaux arts pour la tranquillité publique.
+	  Discours prononcé dans une societé litteraire precedé d’un idille, traductions libres de
+	  <fw type="foot"/>
+	                       <pb type="memofonte"/>
+	                       <fw type="head"/>
+	  
+	  l’Allemand par Louis Arborio Breme,</title>
+                     <pubPlace> Parme,</pubPlace>
+                     <publisher> par Bodoni,</publisher>
+                     <date> 1802,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'influence des sciences et des beaux-arts sur la tranquillité publique [microform] / [discours ... par le Baron Dalbert ... precéde d'une idylle sur l'abolition de la corvée en Bohème par l'empereur Joseph II, composée par Mademoiselle de Mundersbach, aujourd'hui duchesse de Giovane ; traductions libres de l'allemand par Louis Arborio Breme]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r78q7t</idno>
+            <idno type="cico">23</idno>
+            <idno type="dcl">38s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'influence des sciences et des beaux-arts sur la tranquillité publique [microform] / [discours ... par le Baron Dalbert ... precéde d'une idylle sur l'abolition de la corvée en Bohème par l'empereur Joseph II, composée par Mademoiselle de Mundersbach, aujourd'hui duchesse de Giovane ; traductions libres de l'allemand par Louis Arborio Breme]</title>
+                  <respStmt>
+                     <persName>Dalberg, Karl Theodor von, 1744-1817.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Parme : Imprimé par Bodoni</publisher>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>90 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3376316e-ae98-49dd-a670-eb56ceba9360/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3376316e-ae98-49dd-a670-eb56ceba9360/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

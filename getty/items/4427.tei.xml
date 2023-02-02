@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4427</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4427</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REMY</author>, <title>Catalogue de tableaux de differents bons maitres de trois ecoles après le décés de M. Le Marquis de
+Villette pêre</title>, <pubPlace>Paris</pubPlace> <date>1766</date>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de tableaux de differens bons maîtres des trois écoles de figures de bronze de bustes de marbre, d'estampes montées sous verre &amp; d'estampes en feuilles, apres̀ le décès de m. le Marquis de Villette, Pere [microform] / par Remy.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984938933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jm067t</idno>
+            <idno>(OCoLC)193790807</idno>
+            <idno type="cico">4427</idno>
+            <idno type="dcl">qrn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de tableaux de differens bons maîtres des trois écoles de figures de bronze de bustes de marbre, d'estampes montées sous verre &amp; d'estampes en feuilles, apres̀ le décès de m. le Marquis de Villette, Pere [microform] / par Remy.</title>
+                  <respStmt>
+                     <persName>Remy, Pierre, active 1749-1787.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Didot</publisher>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>22 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/405b6a0b-b644-4569-b4c1-c5f1a1bab7af/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/405b6a0b-b644-4569-b4c1-c5f1a1bab7af/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

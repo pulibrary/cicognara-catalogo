@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4569</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4569</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CATALOGO delle stampe intagliate in rame, e a bulino, e in acqua forte esistenti nella calcografia della R. Camera
+                           Apostolica. Indice delle stampe intagliate in rame, a bulino, acqua forte, etc. esistenti nella suddetta calcografia</title>,
+                           <pubPlace>Roma</pubPlace>
+                    <date> 1797</date>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indice delle stampe intagliate in rame a bulino, ed in acqua forte, esistenti nella Calcografia della rev. Camera apostolica accanto alla Stamperia camerale [microform] : con nuove aggiunre [sic], e co' loro prezzi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/450z2j</idno>
+            <idno type="cico">4569</idno>
+            <idno type="dcl">667</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Indice delle stampe intagliate in rame a bulino, ed in acqua forte, esistenti nella Calcografia della rev. Camera apostolica accanto alla Stamperia camerale [microform] : con nuove aggiunre [sic], e co' loro prezzi ...</title>
+                  <respStmt>
+                     <persName>Calcografia camerale (Rome, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso i Lazzarini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>118 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bf756e9d-b6df-46ec-9116-84127312d7a9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bf756e9d-b6df-46ec-9116-84127312d7a9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

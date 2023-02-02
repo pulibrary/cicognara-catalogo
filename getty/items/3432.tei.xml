@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3432</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3432</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PATINA Carola Catharina</author>, <title>Tabellae selectae ac explicatae</title>, <pubPlace>Patavii</pubPlace> <date>1691</date>, in fol., fig.
+<note>Contiene un numero considerabile di stampe tratte da quadri, la più parte di scuola veneziana ed esistenti nello
+stato Veneto.
+Sono 40 tavole mal disegnate e peggio incise, difficili a trovarsi. Nell’indice ne sono ommesse tre come si può
+riscontrare.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tabellae selectae ac explicatae a Carola Catharina Patina.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Typographia Seminarii (Padua, Italy), printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929210930001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d60013</idno>
+            <idno>(OCoLC)4085612</idno>
+            <idno type="cico">3432</idno>
+            <idno type="dcl">rzx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tabellae selectae ac explicatae a Carola Catharina Patina.</title>
+                  <respStmt>
+                     <persName>Patin, Charlotte Catherine, approximately 1660-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii, Ex Typographia Seminarii</publisher>
+                     <pubPlace>Italy Padua.</pubPlace>
+                     <date>1691</date>
+                  </imprint>
+                  <extent>[204, i.e. 206] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4f0d42f8-5a76-4cff-b811-21c0b5e94506"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4f0d42f8-5a76-4cff-b811-21c0b5e94506">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tabellae Selectae Ac Explicatae / a Carola Catharina Patina.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zp6c3c</idno>
+            <idno>(OCoLC)313325607</idno>
+            <idno type="cico">3432</idno>
+            <idno type="dcl">rzx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tabellae Selectae Ac Explicatae / a Carola Catharina Patina.</title>
+                  <respStmt>
+                     <persName>Patin, Catherine Charlotte.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Typogr. Seminarii</publisher>
+                     <date>1691</date>
+                  </imprint>
+                  <extent>4 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c7218210-bc5f-4362-b902-e737a7eec53f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c7218210-bc5f-4362-b902-e737a7eec53f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1582</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1582</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BECCHETTI Filippo Angelico</author>, <title>Lettera sopra i giuochi circensi celebrati da Nerva e sopra il
+    commercio degli antichi Romani</title>, <pubPlace>Roma</pubPlace> <date>1784</date>, 8, M. 60.
+    Con un medaglione intagliato in rame.
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera del P.M.F. Filippo Angleico Becchetti ... sopra i giuochi circensi celebrati da Nerva e sopra il commercio de gli antichi Romani [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rj371t</idno>
+            <idno type="cico">1582</idno>
+            <idno type="dcl">zbq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera del P.M.F. Filippo Angleico Becchetti ... sopra i giuochi circensi celebrati da Nerva e sopra il commercio de gli antichi Romani [microform].</title>
+                  <respStmt>
+                     <persName>Becchetti, Filippo Angelico, -1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome? : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Forum of Nerva (Rome, Italy)</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>[1784]</date>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>32 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/75edebef-0028-4b97-940c-fd1b68b041aa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/75edebef-0028-4b97-940c-fd1b68b041aa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

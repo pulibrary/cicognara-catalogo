@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1817</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1817</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De VASCULIS libellus adolescentulorum causa ex Bayfio decerptus</author>, <title>addita vulgari latinarum
+                     vocum interpretatione</title>, <pubPlace>Lugduni</pubPlace>
+                    <date> 1536</date>, in 8.
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De vasculis libellus [microform] / adulescentulorum causa ex Bayfio decerptus, addita uulgari Latinarum uocum interpretatione.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Estienne, Charles, 1504-approximately 1564.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/67753t</idno>
+            <idno type="cico">1580</idno>
+            <idno type="dcl">mvh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De vasculis libellus [microform] / adulescentulorum causa ex Bayfio decerptus, addita uulgari Latinarum uocum interpretatione.</title>
+                  <respStmt>
+                     <persName>Baïf, Lazare de, 1496?-1547.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni : Apud Seb. Gryphium</publisher>
+                     <date>1536</date>
+                  </imprint>
+                  <extent>55, [9] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ae12f6d4-47e7-45ae-a970-3c2fe198f73e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ae12f6d4-47e7-45ae-a970-3c2fe198f73e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

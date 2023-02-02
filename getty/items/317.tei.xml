@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 317</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">317</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DANTI Vincenzo</author>, 
+                     <title>Il primo libro del trattato delle perfette proporzioni di tute le cose che imiare
+	e ritrarre si possano con l’arte del disegno,</title> 
+                     <pubPlace>Firenze</pubPlace> 
+                     <date>1567,</date>
+                     <extent> in 4.</extent> Senza nome di stampatore ma
+	dei Giunti, esemplare magnifico in carta distinta in marocchino dorato.
+	<note>Questo trattato doveva essere composto di quindici libri ed il primo soltanto vide la luce. Libretto prezioso e
+	meritamente raro e degno che sia ristampato; poiché non hanno forse le arti un’opera più chiaramente e meglio
+	scritta di questa. Ma chi sa ove siano sepolti gli altri quattordici libri, che probabilmente saranno stati estesi
+	dall’autore?</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il primo libro del trattato delle perfette proporzioni di tutte le cose che imitare e ritrarre si possono con l'arte del disegno.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929435380001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/625r1v</idno>
+            <idno>(OCoLC)83909158</idno>
+            <idno type="cico">317</idno>
+            <idno type="dcl">qbv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il primo libro del trattato delle perfette proporzioni di tutte le cose che imitare e ritrarre si possono con l'arte del disegno.</title>
+                  <respStmt>
+                     <persName>Danti, Vincenzo, 1530-1576</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze</publisher>
+                     <date>1567</date>
+                  </imprint>
+                  <extent>[8], 62, [2] pages (the last 2 blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d7e51a06-db5d-4295-b36d-534f67bbbab8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d7e51a06-db5d-4295-b36d-534f67bbbab8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2306</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2306</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LONGHI Alessandro</author>, <title>Compendio delle vite de’ pittori veneziani istorici più rinomati del
+    presente secolo, con suoi ritratti tratti dal naturale, delineati ed incisi</title>, <pubPlace>Venezia</pubPlace>, presso
+    <publisher>l’autore</publisher>, <date>1762</date>, in foglio.
+    <note>Sono questi 44 ritratti all’acqua forte in grande intagliati con libertà, ma senza buon gusto, i quali però
+    conservano il carattere che questo artista metteva nelle sue opere di pennello. Esemplare in mar. rosso dorato
+    della Biblioteca Pisani.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compendio delle vite de' pittori veneziani istorici più rinomati del presente secolo con suoi [microform] / ritratti tratti dal naturale delineati ed incisi da Alessandro Longhi, veneziano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5f378m</idno>
+            <idno type="cico">2306</idno>
+            <idno type="dcl">4ct</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Compendio delle vite de' pittori veneziani istorici più rinomati del presente secolo con suoi [microform] / ritratti tratti dal naturale delineati ed incisi da Alessandro Longhi, veneziano.</title>
+                  <respStmt>
+                     <persName>Longhi, Alessandro, 1733-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Appresso l'autore</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>[53] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d66c7a84-e157-4e5a-a1a8-72d42509542c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d66c7a84-e157-4e5a-a1a8-72d42509542c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

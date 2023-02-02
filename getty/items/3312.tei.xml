@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3312</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3312</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PONTEDERAE Julii</author>, <title>Antiquitatum latinarum, graecarumque enarrationes; atque emendationes praecipuae ad veteris
+anni rationem attinentes</title>, <pubPlace>Patavii</pubPlace> <date>1740</date>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Julii Pontederae antiquitatum Latinarum Graecarumque enarrationes atque emendationes : praecipue ad veteris anni rationem attinentes epistolis LXVIII. comprensae et tabulis plurimis ornatae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Manfré, Giovanni, publisher.</authority>
+            <authority>Typis Seminarii, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927794190001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fg3z0q</idno>
+            <idno>(OCoLC)17883840</idno>
+            <idno type="cico">3312</idno>
+            <idno type="dcl">2gh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Julii Pontederae antiquitatum Latinarum Graecarumque enarrationes atque emendationes : praecipue ad veteris anni rationem attinentes epistolis LXVIII. comprensae et tabulis plurimis ornatae.</title>
+                  <respStmt>
+                     <persName>Pontedera, Giulio, 1688-1757</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii [Padua] : Typis Seminarii, apud Joannem Manfrè</publisher>
+                     <pubPlace>Italy Patavii.</pubPlace>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>[20], 616, [12] p. [XXXVIII] folded leaves (some plates)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/638e03b3-693b-41b4-a0a4-955ab73b6a7e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/638e03b3-693b-41b4-a0a4-955ab73b6a7e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Julii Pontederae antiquitatum Latinarum Graecarumque enarrationes atque emendationes [microform] : praecipue ad veteris anni rationem attinentes epistolis LXVIII. comprensae et tabulis plurimis ornatae.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985417793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wj4j3h</idno>
+            <idno type="cico">3312</idno>
+            <idno type="dcl">2gh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Julii Pontederae antiquitatum Latinarum Graecarumque enarrationes atque emendationes [microform] : praecipue ad veteris anni rationem attinentes epistolis LXVIII. comprensae et tabulis plurimis ornatae.</title>
+                  <respStmt>
+                     <persName>Pontedera, Giulio, 1688-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii [Padua] : Typis Seminarii :</publisher>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>[20], 616 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/494e1343-ec15-4e15-ad0c-dac95902cf9f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/494e1343-ec15-4e15-ad0c-dac95902cf9f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

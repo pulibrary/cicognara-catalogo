@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 832</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">832</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COUSIN Jehan Senonois, Maistre painctre</author>, <title>Livre de perspective</title>, <pubPlace>Paris</pubPlace>, chez <publisher>Jean le Royer
+	imprimere du Roy es Mathematiques</publisher>. Senz’anno.
+	<note>Tutte le opere di questo maestro deggiono ritenersi come le migliori produzioni della Francia. Egli visse
+	nell’aureo secolo de’ buoni artisti, e il suo gusto e cosi lunge dall’esser corrotto, che direbbesi autore di Scuola
+	Toscana più che Francese. Le tavole in legno sono bellissime in quest’opera, ove l’autore le disegnò ed interpose
+	al testo in gran copia. Il libro è composto di settanta fogli e nitidissima è l’impressione.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Livre de perspectiue de Iehan Cousin, senonois, maistre painctre à Paris.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Royer, Iehan, active 16th century.</authority>
+            <authority>Olivier, Aubin, -1581.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925414040001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vm0n1v</idno>
+            <idno>(OCoLC)46353001</idno>
+            <idno type="cico">832</idno>
+            <idno type="dcl">vvx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Livre de perspectiue de Iehan Cousin, senonois, maistre painctre à Paris.</title>
+                  <respStmt>
+                     <persName>Cousin, Jean, approximately 1490-1560?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de Iehan le Royer imprimeur du Roy és mathematiques</publisher>
+                     <date>1560</date>
+                  </imprint>
+                  <extent>[144] pages (the last 2 blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/32a2ee81-304b-426f-b565-8b0d35828a9d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/32a2ee81-304b-426f-b565-8b0d35828a9d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

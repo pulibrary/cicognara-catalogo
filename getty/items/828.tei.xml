@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 828</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">828</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CHAMBERS’</author> <title>Jesuits’ practice of perspective</title>, <pubPlace>London</pubPlace> <date>1726</date>, in 4, f.
+	<note>Opera copiosissima di tavole, traduzione dal francese da Roberto Pricke.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The practice of perspective, or, An easy method of representing natural objects according to the rules of art .. [microform] / the whole illustrated with one hundred and fifty copper-plates ; written in French by a Jesuit of Paris, since translated into German ... and into English ... And now, a second time, into the same language, by E. Chambers.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Chambers, Ephraim, approximately 1680-1740.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985232953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/372p6z</idno>
+            <idno type="cico">828</idno>
+            <idno type="dcl">w5k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The practice of perspective, or, An easy method of representing natural objects according to the rules of art .. [microform] / the whole illustrated with one hundred and fifty copper-plates ; written in French by a Jesuit of Paris, since translated into German ... and into English ... And now, a second time, into the same language, by E. Chambers.</title>
+                  <respStmt>
+                     <persName>Dubreuil, Jean, 1602-1670.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for Tho. Bowles ... and John Bowles</publisher>
+                     <date>1726</date>
+                  </imprint>
+                  <extent>xiii,[6], 150 [i.e. 300] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ee18f4a1-bc5a-4199-be02-fec223d9960b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ee18f4a1-bc5a-4199-be02-fec223d9960b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

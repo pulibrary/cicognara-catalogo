@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4130</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4130</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BARBARO Tommaso</author>, <title>Il pellegrino geografo cronistorico da Napoli fino a Venezia</title>, <pubPlace>Venezia</pubPlace> <date>1739</date>, 
+                        in 8, diviso in 7
+libri, e la serie Cronistica dell’origine di Venezia sino all’anno 1738.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il pellegrino geografo cronistorico da Napoli sino a Venezia [microform] / di Tommaso Barbaro ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rg5c4t</idno>
+            <idno type="cico">4130</idno>
+            <idno type="dcl">fgf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il pellegrino geografo cronistorico da Napoli sino a Venezia [microform] / di Tommaso Barbaro ...</title>
+                  <respStmt>
+                     <persName>Barbaro, Tommaso.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Per Jacopo Tomasini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>588 p.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1b7eb963-a231-4611-89a5-84e6b55b1774/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1b7eb963-a231-4611-89a5-84e6b55b1774/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

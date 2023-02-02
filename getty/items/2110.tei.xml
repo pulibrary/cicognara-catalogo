@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2110</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2110</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>STRADANO Ioan.</author>, <title>Venationes ferarum, avium, piscium etc.</title> depictae et editae a Philippo
+  Gallaeo; Carmine illustratae a Killiano Duffleo: in fol. obl. tab. 104.
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Venationes ferarum, auium, piscium [microform] : pugnae bestiariorum &amp; mutuae bestiarum / depictae a Ioanne Stradano ; editae a Philippo Gallaeo ; carmine illustratae a C. Kiliano Dufflaeo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gallaeus, Philippus.</authority>
+            <authority>Kiel, Cornelis, 1528-1607.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h48052</idno>
+            <idno type="cico">2110</idno>
+            <idno type="dcl">vjp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Venationes ferarum, auium, piscium [microform] : pugnae bestiariorum &amp; mutuae bestiarum / depictae a Ioanne Stradano ; editae a Philippo Gallaeo ; carmine illustratae a C. Kiliano Dufflaeo.</title>
+                  <respStmt>
+                     <persName>Straet, Jan van der, 1523-1605.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Antwerp? : s.n]</publisher>
+                     <date>[156-?]</date>
+                     <date>1560</date>
+                  </imprint>
+                  <extent>[93] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fc1dfd41-a9be-4e82-8979-49c1ebecf580/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc1dfd41-a9be-4e82-8979-49c1ebecf580/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 344</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">344</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>PETRALIA Franciscus</author>, 
+                     <title>Tabulae anatomicae ex archetypis egregii pictoris Petri Berrettini
+	cortonensis expressae in aes incisae,</title> 
+                     <pubPlace>Romae</pubPlace> 
+                     <date>1778,</date> 
+                     <extent>in f. f.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tabulae anatomicae ex archetypis egregii pictoris Petri Berrettini Cortonensis [microform] / expressae et in aes incisae opus chirurgis et pictoribus apprime necessarium alteram hanc editionem recensuit nothas iconas expunxit perpetuas explicationes adjecit Franciscus Petraglia ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Petraglia, Franciscus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4t4723</idno>
+            <idno type="cico">344</idno>
+            <idno type="dcl">g59</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tabulae anatomicae ex archetypis egregii pictoris Petri Berrettini Cortonensis [microform] / expressae et in aes incisae opus chirurgis et pictoribus apprime necessarium alteram hanc editionem recensuit nothas iconas expunxit perpetuas explicationes adjecit Franciscus Petraglia ...</title>
+                  <respStmt>
+                     <persName>Pietro, da Cortona, 1597-1669.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Impensis Venantii Monaldini</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>xv, [1], 104 p., [27] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/749b232e-b403-44bf-9c28-71ee1c49f993/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/749b232e-b403-44bf-9c28-71ee1c49f993/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

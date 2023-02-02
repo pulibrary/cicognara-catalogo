@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1968</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1968</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VAENII Othonis</author>, <title>Amoris divini emblemata studio ex aere concinnata, Antuerpiae, ex officina
+    Plantiniana</title>, <date>1660</date>, in 4.
+    <note>Edizione elegantissima con sessanta bellissime tavole intagliate in rame e le illustrazioni, in latino, spagnuolo,
+    olandese e francese.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amoris divini emblemata, studio et aere Othonis VaenI concinnata [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hattron, Charles Philippe, -1632.</authority>
+            <authority>Ledesma, Alonso de, active 1600.</authority>
+            <authority>Veen, Gijsbert van, 1558-1630.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2s0x34</idno>
+            <idno type="cico">1968</idno>
+            <idno type="dcl">xz4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Amoris divini emblemata, studio et aere Othonis VaenI concinnata [microform].</title>
+                  <respStmt>
+                     <persName>Veen, Otto van, 1556-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Dutch; Flemish</textLang>
+                  <textLang>French</textLang>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>Antverpiae : Ex officina Plantiniana, Balthasaris Moreti</publisher>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>127, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99ebfaa7-9cd0-42b5-ac47-c71e7f043f62/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99ebfaa7-9cd0-42b5-ac47-c71e7f043f62/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2223</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2223</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CALVI Jacopo Alessandro</author>, <title>Memorie della vita ed opere di Francesco Raibolini</title>, detto il
+    Francia, pittor bolognese, <pubPlace>Bologna</pubPlace> <date>1812</date>, in 8, M. 37.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie della vita e delle opere di Francesco Raibolini, detto Il Francia, pittore bolognese [microform] / scritte da Jacopo Alessandro Calvi ... e pubblicate dal cavaliere Luigi Salina.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985448873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0h5m9s</idno>
+            <idno type="cico">2223</idno>
+            <idno type="dcl">52w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie della vita e delle opere di Francesco Raibolini, detto Il Francia, pittore bolognese [microform] / scritte da Jacopo Alessandro Calvi ... e pubblicate dal cavaliere Luigi Salina.</title>
+                  <respStmt>
+                     <persName>Calvi, Iacopo Alessandro, 1740-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Nella tipografia Lucchesini</publisher>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>58 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b3ed9063-5e14-4627-b8b1-28076f69ecd3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b3ed9063-5e14-4627-b8b1-28076f69ecd3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie della vita, e delle opere di Francesco Raibolini detto il Francia, pittore bolognese / scritte da Jacopo Alessandro Calvi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923940340001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rz8k7x</idno>
+            <idno>(OCoLC)17157863</idno>
+            <idno type="cico">2223</idno>
+            <idno type="dcl">52w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie della vita, e delle opere di Francesco Raibolini detto il Francia, pittore bolognese / scritte da Jacopo Alessandro Calvi.</title>
+                  <respStmt>
+                     <persName>Calvi, Iacopo Alessandro, 1740-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Luigi Salina</publisher>
+                     <date>MDCCCXII [1812]</date>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>58 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f0746ef9-1e09-40b6-a114-4f59216411cf"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f0746ef9-1e09-40b6-a114-4f59216411cf">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

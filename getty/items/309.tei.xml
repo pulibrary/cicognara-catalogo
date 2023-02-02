@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 309</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">309</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CESIO Carlo</author>,
+                     <title> Elementi del disegno.</title> Dato in luce dalle stampe originali di Matteo Gregorio
+	Rossi in Piazza Navona all’insegna della Stampa,<extent> in 4.</extent>
+	                    <note>Sono queste 24 tavole pubblicate in Roma di Bellissima e larga maniera sullo stile carraccesco, delle migliori
+	che si conoscano in tal genere, ma divenute rare; poiché furono consumate nelle scuole dalla gioventù.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elementi del disegn di Carlo Cesio [microform] / dato in luce dalle stampe originali di Matteo Gregorio Rossi in Piazza Nauona all'insegna della stampa.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985292713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vv8v42</idno>
+            <idno type="cico">309</idno>
+            <idno type="dcl">pfs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elementi del disegn di Carlo Cesio [microform] / dato in luce dalle stampe originali di Matteo Gregorio Rossi in Piazza Nauona all'insegna della stampa.</title>
+                  <respStmt>
+                     <persName>Rossi, Matthia de', 1637-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome? : Rossi]</publisher>
+                     <date>1690</date>
+                  </imprint>
+                  <extent>[1] p., [23] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9d6335a4-f296-4672-874a-35d7c18d23ca/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9d6335a4-f296-4672-874a-35d7c18d23ca/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 207</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">207</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>SCARMILIONI Vidi Antonii</author>, 
+                     <title>De coloribus, libri duo,</title> 
+                     <pubPlace>Marpurgi Cattorum</pubPlace> 
+                     <date>1601</date>, <extent>in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vidi Antonii Scarmilionii ... De coloribus [microform] : libri duo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941613506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b13983</idno>
+            <idno type="cico">207</idno>
+            <idno type="dcl">vfn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vidi Antonii Scarmilionii ... De coloribus [microform] : libri duo.</title>
+                  <respStmt>
+                     <persName>Scarmiglioni, Guido Antonio, d. 1620.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Marpurgi Cattorum : Typis Pauli Egenolphi</publisher>
+                     <date>1601</date>
+                  </imprint>
+                  <extent>192, [22] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fab14c7c-6e01-4746-abe7-f4b5aa633d88/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fab14c7c-6e01-4746-abe7-f4b5aa633d88/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

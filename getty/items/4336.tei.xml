@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4336</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4336</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PECCI Giovan Antonio</author>, <title>Ristretto delle cose più notabili della città di Siena ad uso dei forestieri</title>, <pubPlace>Siena</pubPlace> <date>1759</date>, in 12,
+fig.
+<note>Sono poche, e cattive stampe.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ristretto delle cose più notabili della città di Siena [microform] : a uso de' forestieri / ricorretto, e accresciuto ... dal cavaliere Gio. Antonio Pecci ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p13j4b</idno>
+            <idno type="cico">4336</idno>
+            <idno type="dcl">v58</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ristretto delle cose più notabili della città di Siena [microform] : a uso de' forestieri / ricorretto, e accresciuto ... dal cavaliere Gio. Antonio Pecci ...</title>
+                  <respStmt>
+                     <persName>Pecci, Giovanni Antonio, 1693-1768.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Siena : Appresso il Bonetti nella Stam. del public per Francesco Rossi, stampatore</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Siena (Italy)</pubPlace>
+                     <date>1759</date>
+                  </imprint>
+                  <extent>XVII, 185 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/49bdb889-5464-4253-bab0-c61b50182575/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49bdb889-5464-4253-bab0-c61b50182575/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

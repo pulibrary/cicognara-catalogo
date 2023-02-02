@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1698</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1698</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MANELPHI Ioan. Eretani</author>, <title>Mensa Romana sive urbana victus ratio</title>, <pubPlace>Roma</pubPlace> <date>1650</date>, in 4.
+  <note>Bellissimo ed eruditissimo libro nel singolare suo genere.
+  </note>
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mensa romana siue vrbana victus ratio [microform] / Ioan. Manelphi Eretani Sabini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b9255z</idno>
+            <idno type="cico">1698</idno>
+            <idno type="dcl">jzj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mensa romana siue vrbana victus ratio [microform] / Ioan. Manelphi Eretani Sabini ...</title>
+                  <respStmt>
+                     <persName>Manelfi, Giovanni.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis &amp; expensis Philippi de Rubeis</publisher>
+                     <date>Anno iubilaei 1650</date>
+                     <date>1650</date>
+                  </imprint>
+                  <extent>[12], 239, [20] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9d0a5bea-75a0-42d8-a00f-4ac8b28c8237/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9d0a5bea-75a0-42d8-a00f-4ac8b28c8237/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

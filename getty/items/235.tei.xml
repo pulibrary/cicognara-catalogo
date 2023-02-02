@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 235</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">235</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>Da VINCI Lionardo</author>, 
+                     <title>Traité de la peinture precedé de la vie de l’auteur et du catalogue de ses
+	  ouvrages avec des notes et observationes par le traducteur M. de Gault de S. Germain,
+	  nouvelle édition,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1803</date>, <extent>in 8, fig. con 30 tav.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de la peinture de Léonard de Vinci [microform] : precéde de la vie de l'auteur et du catalogue de ses ouvrages, avec des notes et observations / par P.M. Gault de Saint-Germain.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gault de Saint-Germain, P. M. (Pierre Marie), 1754-1842.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ft196q</idno>
+            <idno type="cico">235</idno>
+            <idno type="dcl">mjs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de la peinture de Léonard de Vinci [microform] : precéde de la vie de l'auteur et du catalogue de ses ouvrages, avec des notes et observations / par P.M. Gault de Saint-Germain.</title>
+                  <respStmt>
+                     <persName>Leonardo, da Vinci, 1452-1519.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Perlet</publisher>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>lxxxviii, 412, [1] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1022492c-d8ef-40c1-81a7-ad1afea130ac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1022492c-d8ef-40c1-81a7-ad1afea130ac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

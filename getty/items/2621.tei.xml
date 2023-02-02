@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2621</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2621</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PERSICO Giovan Battista</author>, <title>Descrizione della città di Massalubrense (Massa di Sorrento)</title>, <pubPlace>Napoli</pubPlace> <date>1644</date>, in 4 pic.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrittione dellà città di Massa Lubrense [microform] : mandata in luce dal Dotte. Gio. Batt[ist]a Persico ... / conposta da un patrizio dell'istessa famiglia.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985407763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/td0s9k</idno>
+            <idno type="cico">2621</idno>
+            <idno type="dcl">xz8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrittione dellà città di Massa Lubrense [microform] : mandata in luce dal Dotte. Gio. Batt[ist]a Persico ... / conposta da un patrizio dell'istessa famiglia.</title>
+                  <respStmt>
+                     <persName>Da Persico, Giovanni Battista.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Nap[oli] : Per Fran.co Sauio</publisher>
+                     <pubPlace>Massalubrense (Italy)</pubPlace>
+                     <date>1644</date>
+                  </imprint>
+                  <extent>100 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4082d715-99a3-4d48-a696-9b2d5be00355/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4082d715-99a3-4d48-a696-9b2d5be00355/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3129</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3129</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARSILIO Aloysii Ferdinandi</author>, <title>Inscriptiones, monumenta, ornamenta etc. ad ripas Danubii in Hungaria inventa</title>,
+tab. 3l expressae, <pubPlace>Bononiae</pubPlace>, in fol.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inscriptiones, monumenta, ornamenta, lateres hierogliphicis inscripti, metae, scapi columnarum, urnae &amp;c [microform] / omnia ad ripas Danubii in Hungaria inventa ab Aloysio Ferdinando Comite Marsilio ... atque in XXXI. tab. aere expressa.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pn1k8m</idno>
+            <idno type="cico">3129</idno>
+            <idno type="dcl">f8j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Inscriptiones, monumenta, ornamenta, lateres hierogliphicis inscripti, metae, scapi columnarum, urnae &amp;c [microform] / omnia ad ripas Danubii in Hungaria inventa ab Aloysio Ferdinando Comite Marsilio ... atque in XXXI. tab. aere expressa.</title>
+                  <respStmt>
+                     <persName>Marsili, Luigi Ferdinando, 1658-1730.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : [s.n</publisher>
+                     <pubPlace>Danube River Valley</pubPlace>
+                     <pubPlace>Hungary</pubPlace>
+                     <date>1730</date>
+                  </imprint>
+                  <extent>[31] leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/69513686-7586-45b7-a74f-f311c42346bf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/69513686-7586-45b7-a74f-f311c42346bf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

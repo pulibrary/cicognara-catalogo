@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2068</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2068</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MOYNE Pierre</author>, <title>La Galérie des femmes fortes</title>, <pubPlace>Paris</pubPlace>, chez <publisher>Antoine de Somaville</publisher>, <date>1647</date>, in fol.
+  fig.
+  <note>Vi sono venti grandi tavole intagliate in rame con io figure in piedi di donne coraggiose disegnate da Vignon e
+  incise da Abr. Bosse, da Roussellet e altri nella Calcografia di Mariette. Nel fondo di ciascun quadro è intagliato
+  in lontano il fatto principale caratteristico di ciascuna.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La gallerie des femmes fortes [microform] / par le P. Pierre Le Moyne ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g45v7c</idno>
+            <idno type="cico">2068</idno>
+            <idno type="dcl">sfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La gallerie des femmes fortes [microform] / par le P. Pierre Le Moyne ...</title>
+                  <respStmt>
+                     <persName>Le Moyne, Pierre, 1602-1671.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Antoine de Sommaville</publisher>
+                     <date>1647</date>
+                  </imprint>
+                  <extent>378 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b42ae9aa-8a61-4914-aa11-1c31478891ac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b42ae9aa-8a61-4914-aa11-1c31478891ac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

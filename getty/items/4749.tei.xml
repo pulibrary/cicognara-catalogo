@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4749</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4749</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TEMPESTA Antonio</author>, <title>Metamorphoseon sive transformationum ovidianarum libri quindecim, aeneis formis incisi,
+et in pictorum antiquitatisque studiosorum gratiam nunc primum exquisitissimis sumptibus a Petro de Jode
+Antuerpiano in lucem editi</title>, <publisher>Villelmus Jansonius</publisher> excudit, <pubPlace>Amsterodami</pubPlace>, in 4 parv. obl.
+<note>Con una tavola grande intagliata in rame: dissertazione dottissima.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Metamorphoseon, sive, Transformationum Ovidianarum libri quidecim [microform] / aeneis formis ab Antonio Tempesta florentino incisi, et in pictorum antiquitatisque studiosorum gratiam nunc primum exquisitissimis sumptibus a Petro de Iode antverpiano in lucem editi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jode, Pieter de, 1573-1634.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985444133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/178d24</idno>
+            <idno type="cico">4749</idno>
+            <idno type="dcl">xvs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Metamorphoseon, sive, Transformationum Ovidianarum libri quidecim [microform] / aeneis formis ab Antonio Tempesta florentino incisi, et in pictorum antiquitatisque studiosorum gratiam nunc primum exquisitissimis sumptibus a Petro de Iode antverpiano in lucem editi.</title>
+                  <respStmt>
+                     <persName>Tempesta, Antonio, 1555-1630.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amsterodami : Wilhelmus Ianssonius excudit</publisher>
+                     <date>1606</date>
+                  </imprint>
+                  <extent>150 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8d7a9546-f85f-491f-bd6f-6c91382e856d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8d7a9546-f85f-491f-bd6f-6c91382e856d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1415</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1415</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>MASCHERATA di selvaggi</title>, ballo danzato nel palazzo del Sig. Lorenzo Strozzi, presenti i
+    Principi di Toscana, <pubPlace>Firenze</pubPlace> <date>1613</date>, in 4.
+    <note>Sono due soli foglietti in versi.</note>
+    MDCXIV
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mascherata di selvaggi ballo danzato nel Palazzo del sig. Lorenzo Strozzi .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8s2d3v</idno>
+            <idno type="cico">1415</idno>
+            <idno type="dcl">3s8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mascherata di selvaggi ballo danzato nel Palazzo del sig. Lorenzo Strozzi .. [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso gli heredi del Mariscotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1613</date>
+                  </imprint>
+                  <extent>[8] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b709db4e-7bfb-44cd-ab9d-32d7ea97d359/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b709db4e-7bfb-44cd-ab9d-32d7ea97d359/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

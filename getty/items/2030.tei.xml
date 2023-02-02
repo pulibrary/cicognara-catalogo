@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2030</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2030</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FERRARI P. Giovan Battista sanese</author>, <title>Flora ovvero cultura di fiori distinta</title> in 4 lib. e trasportata
+  dalla lingua latina all’italiana da Lodovico Aureli perugino, <pubPlace>Roma</pubPlace> <date>1638</date>, in 4, fig.
+  <note>L’edizione originale latina comparve nel 1632. Ne furono fatte ristampe in Olanda, ma non hanno alcun pregio.
+  Le due edizioni italiane hanno il merito delle tavole: sonovi sparse nel testo sette tavole istoriate intagliate da
+  Greuter e da Cla. Mellau sui disegni di Guido e di Pietro da Cortona oltre altre 89 tavole di fiori e oggetti relativi
+  ai giardini.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flora ouero Cultura di fiori [microform] / del P. Gio. Battista ... distinta in quattro libri e trasportata dalla lingua Latina nell'Italiana da Lodouico Aureli Perugino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Perugino, Lodovico Aureli.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x70h2m</idno>
+            <idno type="cico">2030</idno>
+            <idno type="dcl">gg5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Flora ouero Cultura di fiori [microform] / del P. Gio. Battista ... distinta in quattro libri e trasportata dalla lingua Latina nell'Italiana da Lodouico Aureli Perugino.</title>
+                  <respStmt>
+                     <persName>Ferrari, Giovanni Battista, 1584-1655.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Pier.'Ant. Facciotti</publisher>
+                     <date>1638</date>
+                  </imprint>
+                  <extent>520, [27] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/aaa2411f-baf5-472c-b134-2f95bfbec8ab/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/aaa2411f-baf5-472c-b134-2f95bfbec8ab/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

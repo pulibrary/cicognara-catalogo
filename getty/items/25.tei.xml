@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 25</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">25</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DIALOGHI</author>,
+                     <title> La stessa opera corretta ed accresciuta,</title>
+                     <pubPlace> Firenze</pubPlace>
+                     <date> l770,</date>
+                     <extent> in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialoghi sopra le tre arti del disegno [microform] : corretti e accresciuti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985284293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/06898r</idno>
+            <idno type="cico">25</idno>
+            <idno type="dcl">wc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialoghi sopra le tre arti del disegno [microform] : corretti e accresciuti.</title>
+                  <respStmt>
+                     <persName>Bottari, Giovanni Gaetano, 1689-1775.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : [s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>viii, 346 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7281f34a-d8ac-4e28-82a9-3aa7b3b7743d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7281f34a-d8ac-4e28-82a9-3aa7b3b7743d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialoghi sopra le tre arti del disegno.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Maratti, Carlo, 1625-1713.</authority>
+            <authority>Farjat, Benoît, 1646-approximately 1720.</authority>
+            <authority>Berrettoni, Niccolò, 1637-1682.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923580210001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/3w203x</idno>
+            <idno>(OCoLC)83533968</idno>
+            <idno type="cico">25</idno>
+            <idno type="dcl">wc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialoghi sopra le tre arti del disegno.</title>
+                  <respStmt>
+                     <persName>Bottari, Giovanni Gaetano, 1689-1775.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : [s.n.]</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCCLXX [1770]</date>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>viii, 333, [3], 335-346 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6594a298-6e0d-4b72-be69-30a85a5be490"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6594a298-6e0d-4b72-be69-30a85a5be490">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

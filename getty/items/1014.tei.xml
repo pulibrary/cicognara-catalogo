@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1014</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1014</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CALVI Jacopo Alessandro pittore</author>, <title>Versi e prose sopra una serie d’eccellenti pitture possedute
+      da Mons. Filippo Ercolani</title>, <pubPlace>Bologna</pubPlace> <date>1780</date>, in 4.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Versi e prose sopra una serie di eccellenti pitture [microform] / posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985299483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/047d0h</idno>
+            <idno type="cico">1014</idno>
+            <idno type="dcl">h87</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Versi e prose sopra una serie di eccellenti pitture [microform] / posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+                  <respStmt>
+                     <persName>Calvi, Iacopo Alessandro, 1740-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Stamperia di San Tommaso d'Aquino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>109, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ec7e0572-ac4b-4ea1-b469-a89d712b8a74/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ec7e0572-ac4b-4ea1-b469-a89d712b8a74/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Versi e prose sopra una serie di eccellenti pitture posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Calvi, Iacopo Alessandro, 1740-1815</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924424600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1z6508</idno>
+            <idno>(OCoLC)148221201</idno>
+            <idno type="cico">1014</idno>
+            <idno type="dcl">h87</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Versi e prose sopra una serie di eccellenti pitture posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperia di San Tommaso d'Aquino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>109, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/fc919195-adab-41b1-abdc-5a501589e1b0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fc919195-adab-41b1-abdc-5a501589e1b0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

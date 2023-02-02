@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1652</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1652</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FICORONI Francesco</author>, <title>Le maschere sceniche e le figure comiche, di’ antichi Romani
+    brevemente descritte</title>, <pubPlace>Roma</pubPlace> <date>1736</date>, in 4, fig.
+    <note>Con 84 tavole in rame. Opera che in questa materia può ritenersi per la più classica e copiosa di quante l’hanno
+    preceduta e seguitata. Ma fatalmente il povero autore cadde in mano di cattivi disegnatori e peggiori intagliatori
+    per le tavole che deturpano un’opera cosi distinta.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le maschere sceniche e le figure comiche d'antichi Romani [microform] / descritte brevemente da Francesco de' Ficoroni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6x0h7j</idno>
+            <idno type="cico">1652</idno>
+            <idno type="dcl">88p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le maschere sceniche e le figure comiche d'antichi Romani [microform] / descritte brevemente da Francesco de' Ficoroni.</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Antonio de' Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1736</date>
+                  </imprint>
+                  <extent>227 p., LXXXIII, [1] leaves of plates</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a70bdc41-5025-4d4f-9d00-955896e9b3d5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a70bdc41-5025-4d4f-9d00-955896e9b3d5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le maschere sceniche e le figure comiche d'antichi Romani, descritte brevemente da Francesco de' Ficoroni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920244063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9x4x1g</idno>
+            <idno>(OCoLC)03058585</idno>
+            <idno type="cico">1652</idno>
+            <idno type="dcl">88p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le maschere sceniche e le figure comiche d'antichi Romani, descritte brevemente da Francesco de' Ficoroni.</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma, nella stamperia di Antonio de' Rossi</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <date>1736</date>
+                  </imprint>
+                  <extent>227 p., 83 leaves of plates (1 fold)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7c883018-81a5-42eb-bf66-0067efadd410/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7c883018-81a5-42eb-bf66-0067efadd410/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4000</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4000</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DISSERTAZIONE critico-lapidaria sopra l’antico arco di Fano innalzato a Cesare Augusto</title>, <pubPlace>Fano</pubPlace> <date>1772</date>, in 4, M. 8.
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+
+                     <pb type="cico" n="239"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione critico-lapidaria sopra l'antico Arco di Fano inalzato all'Imperadore Cesare Augusto [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985443693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c85201</idno>
+            <idno type="URI">http://portal.getty.edu/api/jh8895</idno>
+            <idno type="URI">http://portal.getty.edu/api/8t4d2w</idno>
+            <idno type="URI">http://portal.getty.edu/api/22949s</idno>
+            <idno type="cico">4000</idno>
+            <idno type="dcl">4kq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione critico-lapidaria sopra l'antico Arco di Fano inalzato all'Imperadore Cesare Augusto [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Fano : Dalle stampe di Giuseppe Leonardi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Fano (Italy)</pubPlace>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>VII, 144 p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99e2b5ca-7c6a-452d-b928-571fa281026a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99e2b5ca-7c6a-452d-b928-571fa281026a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

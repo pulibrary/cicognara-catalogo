@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2774</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2774</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BIZOT</author>, <title>Histoire métallique de la république d’Hollande</title>, <pubPlace>Paris</pubPlace> <date>1687</date>, in fol., fig.
+<note>Opera ricchissima per le tavole interposte al testo e accuratamente intagliate su disegni diligenti. Il frontespizio
+fu disegnato da Seb. Le Clerc, che avrà probabilmente contribuito allo splendore dell’edizione anche in molte
+altre tavole.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire metallique de la Republique de Hollande [microform] / par Mr. Bizot.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985407083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w3975r</idno>
+            <idno type="cico">2774</idno>
+            <idno type="dcl">309</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire metallique de la Republique de Hollande [microform] / par Mr. Bizot.</title>
+                  <respStmt>
+                     <persName>Bizot, Pierre, 1630-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Daniel Horthemels</publisher>
+                     <pubPlace>Netherlands</pubPlace>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>317 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c290e2ee-daf8-451e-8a1e-62eb1e8884f5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c290e2ee-daf8-451e-8a1e-62eb1e8884f5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire metallique de la Republique de Hollande / par Mr. Bizot.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925925930001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/q70n2w</idno>
+            <idno>(OCoLC)13602100</idno>
+            <idno type="cico">2774</idno>
+            <idno type="dcl">309</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire metallique de la Republique de Hollande / par Mr. Bizot.</title>
+                  <respStmt>
+                     <persName>Bizot, Pierre, 1630-1696</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Daniel Horthemels Libraire</publisher>
+                     <pubPlace>Netherlands.</pubPlace>
+                     <pubPlace>Netherlands</pubPlace>
+                     <date>1687</date>
+                  </imprint>
+                  <extent>[14], 317, [15] pages, 12 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/69b33bd6-11f5-4d51-aead-961e6129aa10"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/69b33bd6-11f5-4d51-aead-961e6129aa10">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

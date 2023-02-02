@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 772</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">772</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PIERMARINI Giuseppe</author>, <title>Architettura del Teatro della Scala in Milano</title>, <date>1789</date>, otto tavole in fol.
+	atlant.
+	<note>Nella prima di queste 8 tavole viene instituito un paralello fra alcuni teatri d’Italia.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Teatro della Scala in Milano [microform] : architettura del Giuseppe Piermarini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985205803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7k6x5m</idno>
+            <idno type="cico">772</idno>
+            <idno type="dcl">wjw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Teatro della Scala in Milano [microform] : architettura del Giuseppe Piermarini.</title>
+                  <respStmt>
+                     <persName>Piermarini, Giuseppe, 1734-1808.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : [s.n.]</publisher>
+                     <pubPlace>Theaters</pubPlace>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>[9] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e47cce9b-4a76-4413-938d-c1b432bf3b2c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e47cce9b-4a76-4413-938d-c1b432bf3b2c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Teatro della Scala in Milano : architettura del Regio Professore Giuseppe Piermarini.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mercoli, Giacomo, 1745-1825</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929986590001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/cg9f2x</idno>
+            <idno>(OCoLC)145973881</idno>
+            <idno type="cico">772</idno>
+            <idno type="dcl">wjw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Teatro della Scala in Milano : architettura del Regio Professore Giuseppe Piermarini.</title>
+                  <respStmt>
+                     <persName>Piermarini, Giuseppe, 1734-1808</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Milan (Italy)</pubPlace>
+                     <date>MDCCLXXXIX [1789]</date>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>1 portfolio ([1] leaf, [8] leaves of plates)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/154a750a-62bd-4565-ba05-209b10eeeeb2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/154a750a-62bd-4565-ba05-209b10eeeeb2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

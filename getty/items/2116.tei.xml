@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2116</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2116</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>THEATRUM crudelitatum hereticorum nostri temporis</title>, <pubPlace>Antuerpiae</pubPlace> <date>1587</date>, in 4, fig.
+  <note>Riccardo Verstegan è l’autore di quest’opera della quale la edizione qui citata è la prima e preferibile per le
+  trenta tavole in rame di nitida e accurata incisione. È inesplicabile come disegnatori e incisori potessero
+  occuparsi di orrori che sorpassano la più strana immaginazione. Infatti né gli uni, né gli altri vi posero il nome,
+  quantunque vi si conoscano i modi di Teod. e di Fil. Gallé.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theatrum crudelitatum haereticorum nostri temporis [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n30r6x</idno>
+            <idno type="cico">2116</idno>
+            <idno type="dcl">5gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Theatrum crudelitatum haereticorum nostri temporis [microform].</title>
+                  <respStmt>
+                     <persName>Verstegan, Richard, approximately 1550-1640.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae : Apud Adrianum Huberti</publisher>
+                     <date>1592</date>
+                  </imprint>
+                  <extent>95 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2e920948-3483-4260-b0a7-c11c0c782fac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2e920948-3483-4260-b0a7-c11c0c782fac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

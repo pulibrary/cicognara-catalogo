@@ -1,0 +1,115 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3979</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3979</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CARLI Giovan Rinaldo</author>, <bibl>Vedi <title>delle Antichità romane</title> etc.</bibl>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I. B. Piranesii Lapides Capitolini Sive Fasti Consvlares Trivmphalesq[ue] Romanorvm Ab Vrbe Condita Vsqve Ad Tiberivm Caesarem</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Piranesi, Giovanni Battista, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-37610</idno>
+            <idno type="URI">http://portal.getty.edu/api/2c5b10</idno>
+            <idno type="cico">3834</idno>
+            <idno type="dcl">568</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I. B. Piranesii Lapides Capitolini Sive Fasti Consvlares Trivmphalesq[ue] Romanorvm Ab Vrbe Condita Vsqve Ad Tiberivm Caesarem</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1762</date>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>[4] Bl., [1] Faltbl., 61 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/piranesi1762/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/piranesi1762/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I.B. Piranesii Lapides capitolini : sive, Fasti consvlares triumphalesq[ue] Romanorum ab vrbe condita vsqve ad Tiberivm Caesarem.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928614810001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vx9092</idno>
+            <idno>(OCoLC)5506115</idno>
+            <idno type="cico">3834</idno>
+            <idno type="dcl">568</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I.B. Piranesii Lapides capitolini : sive, Fasti consvlares triumphalesq[ue] Romanorum ab vrbe condita vsqve ad Tiberivm Caesarem.</title>
+                  <respStmt>
+                     <persName>Piranesi, Giovanni Battista, 1720-1778</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Romae] : [Typis Generosi Salomoni]</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>MDCCLXII [1762]</date>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>5 preliminary leaves, 61 pages, 3 unnumbered leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6e051e90-d609-45f6-b4e7-ed9fa51985d0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6e051e90-d609-45f6-b4e7-ed9fa51985d0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

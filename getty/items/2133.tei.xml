@@ -1,0 +1,69 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2133</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2133</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VILLEFORE</author>, <title>Les vies des SS. Peres des deserts d’Occident avec des figures etc.</title>, à <pubPlace>Paris</pubPlace>, chez
+    <publisher>Mariette</publisher>, <date>1708</date>, in 12, 2 vol.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les vies des SS. peres des deserts d'occident [microform] : avec des figures qui représentent l'austerité de leur vie, &amp; leurs principales occupations.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bv7f16</idno>
+            <idno type="cico">2133</idno>
+            <idno type="dcl">wbz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les vies des SS. peres des deserts d'occident [microform] : avec des figures qui représentent l'austerité de leur vie, &amp; leurs principales occupations.</title>
+                  <respStmt>
+                     <persName>Villefore, Joseph François Bourgoin de, 1652-1737.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jean Mariette</publisher>
+                     <date>1708</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>16 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c5bb7ca2-f22b-439f-8e84-6caced0462d9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c5bb7ca2-f22b-439f-8e84-6caced0462d9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

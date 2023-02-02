@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 141</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">141</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>HAGEDORN</author>,
+                     <title> Reflexions sur la peinture traduites de l’allemand par Hubert,</title> 
+                     <pubPlace>Leipzig</pubPlace> 
+                     <date>1775,</date> 
+                     <extent>in 8
+	  V. 2.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflexions sur la peinture [microform] / par M. de Hagedorn ; traduites de l'allemand par M. Huber.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f71v04</idno>
+            <idno type="cico">141</idno>
+            <idno type="dcl">d88</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Reflexions sur la peinture [microform] / par M. de Hagedorn ; traduites de l'allemand par M. Huber.</title>
+                  <respStmt>
+                     <persName>Hagedorn, Christian Ludwig von, 1712-1780.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Leipzig : Chez G. Fritsch</publisher>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>14 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2e3e4983-650c-4c58-abfe-62b465234648/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2e3e4983-650c-4c58-abfe-62b465234648/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Réflexions sur la peinture / par M. de Hagedorn ; traduites de l'allemand par M. Huber.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Huber, M. (Michel), 1727-1804.</authority>
+            <authority>Fritsch, Gaspar.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922260230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z26n2j</idno>
+            <idno>(OCoLC)7302643</idno>
+            <idno type="cico">141</idno>
+            <idno type="dcl">d88</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Réflexions sur la peinture / par M. de Hagedorn ; traduites de l'allemand par M. Huber.</title>
+                  <respStmt>
+                     <persName>Hagedorn, Christian Ludwig von, 1712-1780.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Leipzig : Chez Gaspar Fritsch</publisher>
+                     <pubPlace>Germany Leipzig.</pubPlace>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/20896621-841e-43a6-99d9-745f12063509"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/20896621-841e-43a6-99d9-745f12063509">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

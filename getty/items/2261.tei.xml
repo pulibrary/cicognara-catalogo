@@ -1,0 +1,67 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2261</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2261</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>ESEQUIE al divino Michel Angelo Buonarroti, celebrate in Firenze dall’Accademia de’ Pittori,
+    Scultori et Architetti nella chiesa di S. Lorenzo il dì 14 Luglio 1564</title>, <pubPlace>Firenze</pubPlace>, appresso <publisher>i
+    Giunti</publisher>, <date>1564</date>, in 4, p.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esequie del divino Michelagnolo Buonarroti [microform] : celebrate in Firenze dall'Accademia de pittori, scultori, &amp; architettori, nella chiesa di S. Lorenzo il di 14 luglio, MDLXIIII.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7d6q11</idno>
+            <idno type="cico">2261</idno>
+            <idno type="dcl">x80</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Esequie del divino Michelagnolo Buonarroti [microform] : celebrate in Firenze dall'Accademia de pittori, scultori, &amp; architettori, nella chiesa di S. Lorenzo il di 14 luglio, MDLXIIII.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso i Giunti</publisher>
+                     <date>1564</date>
+                  </imprint>
+                  <extent>[44] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5faae612-3b64-40fd-9b7a-7d21e2faa48a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5faae612-3b64-40fd-9b7a-7d21e2faa48a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 431</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">431</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>BIBIENA Ferdinando Galli</author>, 
+                     <title>Architetture e prospettive dedicate a S. M. Carlo VI imperatore de’
+	Romani,</title> 
+                     <pubPlace>Augusta</pubPlace> 
+                     <date>1740,</date> 
+                     <extent>in fol.</extent>
+	                    <note>Lo sforzo della scienza di questo sommo prospettico non basta a rendere tollerabile il pessimo gusto delle sue
+	macchine e decorazioni. In questo volume oltre a 41 tavole delle quali è formato, trovansi alla fine alcuni suoi
+	disegni originali.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architetture, e Prospettive: Dedicate Alla Maestà Di Carlo Sesto Imperador De' Romani</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bibièna, Giuseppe, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-219442</idno>
+            <idno type="URI">http://portal.getty.edu/api/0z3f8x</idno>
+            <idno type="cico">431</idno>
+            <idno type="dcl">hrp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architetture, e Prospettive: Dedicate Alla Maestà Di Carlo Sesto Imperador De' Romani</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1740</date>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>[4], 10, 10, 10 Bl.</extent>
+                  <extent>überw. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bibiena1740/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bibiena1740/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architetture e prospettive [microform] / ... da Giuseppe Galli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g80p93</idno>
+            <idno type="cico">431</idno>
+            <idno type="dcl">hrp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architetture e prospettive [microform] / ... da Giuseppe Galli ...</title>
+                  <respStmt>
+                     <persName>Galli Bibiena, Giuseppe, 1696-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Augustae [Augsburg]: Sotto la Direzione di Andrea Pfeffel</publisher>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>[4] leaves, [42] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/75d32969-3d2f-4206-9cc8-ca75c4ed1cfa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/75d32969-3d2f-4206-9cc8-ca75c4ed1cfa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

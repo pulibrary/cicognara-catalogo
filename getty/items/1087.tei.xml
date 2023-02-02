@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1087</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1087</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CAMOENS Louis</author>, <title>Os Lusiados poema epico</title>. Nova edicao correda e dada a’ luz por D. Joze M.
+      de Souza-Botelho, <pubPlace>Paris</pubPlace>, <publisher>Didot</publisher>, <date>1817</date>, in 4, gr. fig.
+      <note>Questa è una delle più splendide e accurate edizioni di Firmino Didot, ornata di tavole elegantemente intagliate
+      sui disegni di M. Gerard. Libro che pel ristretto numero degli esemplari in questa forma sarà sempre, oltre che di
+      grandissimo pregio, della massima rarità. Le tavole sono 10 siccome i canti del poema, oltre due ritratti.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Os Lusiadas [microform] : poema epico / de Luis de Camões.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Souza-Botelho, Ioze Maria de, Morgado de Matteus, 1758-1825.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/967b7d</idno>
+            <idno type="cico">1087</idno>
+            <idno type="dcl">bk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Os Lusiadas [microform] : poema epico / de Luis de Camões.</title>
+                  <respStmt>
+                     <persName>Camões, Luís de, 1524?-1580.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Portuguese</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Na Officina typographica de Firmin Didot</publisher>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>cxxx, 413 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/55f8a3ca-6b7a-4a5e-b5f5-986325dfaeeb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/55f8a3ca-6b7a-4a5e-b5f5-986325dfaeeb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

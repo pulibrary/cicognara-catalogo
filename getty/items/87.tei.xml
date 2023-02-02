@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 87</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">87</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BONNANI</author>,
+                     <title> Traité des vernis, ou l’on donne la manière d’en composer un qui resemble
+	  parfaitement à celui de la chine; et plusieurs autres,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1723,</date>
+                     <extent> in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité des vernis, où, L'on donne la maniere d'en composer un qui ressemble parfaitement à celui de la Chine, &amp; plusierus autres qui concernent la peinture, la dorure, la gravure à l'eau forte, &amp;c.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Buonanni, Filippo, 1638-1725. Traité de la composition des vernis en général.</authority>
+            <authority>Houry, Laurent d', -1725</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924581260001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4x0j0v</idno>
+            <idno>(OCoLC)8304439</idno>
+            <idno type="cico">87</idno>
+            <idno type="dcl">cvq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité des vernis, où, L'on donne la maniere d'en composer un qui ressemble parfaitement à celui de la Chine, &amp; plusierus autres qui concernent la peinture, la dorure, la gravure à l'eau forte, &amp;c.</title>
+                  <respStmt>
+                     <persName>Buonanni, Filippo, 1638-1725</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Laurent d'Houry</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>[12], 206, [1] pages, 4 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/db70f88f-13b0-480f-886f-e218a7ccd780"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/db70f88f-13b0-480f-886f-e218a7ccd780">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

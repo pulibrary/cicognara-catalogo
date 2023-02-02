@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3733</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3733</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FONTANA</author>, <title>Descrizione della nobilissima cappella del Fonte Battesimale nella basilica Vaticana colla gran tazza di
+porfido coperta di bronzi dorati, e da lui delineata</title>, <pubPlace>Roma</pubPlace> <date>1697</date>, in 4, M. 5.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizzione della nobilissima cappella del fonte batismale nella Basilica Vaticana [microform] : con la gran tazza antica di porfido coperta di metalli dorati / delineata dal Cavalier Carlo Fontana ... ed intagliata in rame con grandissima diligenza.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985458883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jt2d4s</idno>
+            <idno type="cico">3733</idno>
+            <idno type="dcl">jk5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizzione della nobilissima cappella del fonte batismale nella Basilica Vaticana [microform] : con la gran tazza antica di porfido coperta di metalli dorati / delineata dal Cavalier Carlo Fontana ... ed intagliata in rame con grandissima diligenza.</title>
+                  <respStmt>
+                     <persName>Fontana, Carlo, 1634-1714.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella Stamparia di Gio. Francesco Buagni</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <date>1697</date>
+                  </imprint>
+                  <extent>[10] p., [3] folded leaves of plates</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/40840ebd-fe2b-4215-9537-31545282d9e2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/40840ebd-fe2b-4215-9537-31545282d9e2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

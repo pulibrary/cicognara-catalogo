@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4232</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4232</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LUCIDI Antonio</author>, <title>Notizie della Santa Casa di Loreto</title>, <pubPlace>Loreto</pubPlace> <date>1789</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie della Santa casa di Maria Vergine venerata in Loreto [microform] / raccolte dal fù D. Antonio Lucidi, già benefiziato, e custode di detta S. casa ; estratte dall'Angelita, Torsellino, Seragli, Renzuoli, ed altri rari scrittore ; aggiuntivi tutti i preziosi doni, che si conservano nel suo tesoro ; ed in fine le poste per diverse parti del mondo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sartori, Federico.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vh9n3q</idno>
+            <idno type="cico">4232</idno>
+            <idno type="dcl">kzn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie della Santa casa di Maria Vergine venerata in Loreto [microform] / raccolte dal fù D. Antonio Lucidi, già benefiziato, e custode di detta S. casa ; estratte dall'Angelita, Torsellino, Seragli, Renzuoli, ed altri rari scrittore ; aggiuntivi tutti i preziosi doni, che si conservano nel suo tesoro ; ed in fine le poste per diverse parti del mondo.</title>
+                  <respStmt>
+                     <persName>Lucidi, Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Loreto : Nella stamperìa Sartorj</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>88 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8fdee954-8bac-4d51-8950-ac998a38ba56/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8fdee954-8bac-4d51-8950-ac998a38ba56/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

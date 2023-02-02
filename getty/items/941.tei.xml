@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 941</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">941</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARTINELLI cav. D. Agostino ferrarese</author>, <title>Notizie e delineazione del famoso Ponte di Ottaviano
+      Augusto nella città di Rimino</title>, <pubPlace>Roma</pubPlace> <date>1681</date>, in 4, fig.
+      <note>Con una gran tavola in rame.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notitie, e delineatione del famoso ponte d'Ottauiano Augusto nella città di Rimini inuiate alliss. consolidi detta città [microform] / dal Dottor Cau. D. Agostino Martinelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4b0r0s</idno>
+            <idno type="cico">941</idno>
+            <idno type="dcl">pzz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notitie, e delineatione del famoso ponte d'Ottauiano Augusto nella città di Rimini inuiate alliss. consolidi detta città [microform] / dal Dottor Cau. D. Agostino Martinelli ...</title>
+                  <respStmt>
+                     <persName>Martinelli, Agostino, 17th cent.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per il Tinassi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rimini (Italy)</pubPlace>
+                     <date>1618</date>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>18, [2] p., [1] folded leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/76da8580-603f-4195-9db5-fff0096896fb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/76da8580-603f-4195-9db5-fff0096896fb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

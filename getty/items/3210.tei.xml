@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3210</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3210</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CRAMERII Jo. Christoph.</author>, <title>Commentatio de Thespide, primo haud dubie cultioris tragoediae auctore</title>, <pubPlace>Jenae</pubPlace> <date>1754</date>,
+in 4, M. 41.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commentatio de Thespide primo haud dubie cultioris traogoediae auctore [microform] / conscripta Ioann. Ghristophoro Cramero ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985453343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d83r94</idno>
+            <idno type="cico">3210</idno>
+            <idno type="dcl">2cq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Commentatio de Thespide primo haud dubie cultioris traogoediae auctore [microform] / conscripta Ioann. Ghristophoro Cramero ...</title>
+                  <respStmt>
+                     <persName>Cramer, Johann Christoph.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Ienae : Litteris Schillianis</publisher>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>XVI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7d25e019-76ac-444d-8ac7-e2f217e787f3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7d25e019-76ac-444d-8ac7-e2f217e787f3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

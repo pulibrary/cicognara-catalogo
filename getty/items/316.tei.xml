@@ -1,0 +1,81 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 316</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">316</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>COUSIN Maître Jean</author>, 
+                     <title>L’arte de dessiner, revu, corrigé et augmenté de plusieurs morceaux
+	d’après l’antique ec,</title>
+                     <pubPlace> à Paris,</pubPlace> 
+                     <publisher>chez Fr. Chereau,</publisher> 
+                     <date>1778,</date> 
+                     <extent>in 4 obl.</extent>
+	                    <note>In quest’edizione furono copiate le tavole della prima edizione originale; sono pagine 72 ed al dorso d’ogni
+	tavola sta l’illustrazione. L’ultima riferisce un ritratto della vita di F. Cousin. Le tavole sono in legno e
+	quantunque non sian in dimensione utile abbastanza per la gioventù che comincia a disegnare, sono ripiene di
+	ottime nozioni per la prospettiva, lo scorcio, le proporzioni e l’anatomia anche applicata alle statue antiche. Si
+	conosce da questo libretto come questo fosse un uomo grandissimo.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'art de dessiner [microform] / par Jean Cousin.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985280143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h69j83</idno>
+            <idno type="cico">316</idno>
+            <idno type="dcl">mc2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'art de dessiner [microform] / par Jean Cousin.</title>
+                  <respStmt>
+                     <persName>Cousin, Jehan, approximately 1522-approximately 1593.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jacques-François Chereau</publisher>
+                     <date>1750</date>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>72 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fc9096f5-4775-4ad5-b8a8-2accdaace01d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc9096f5-4775-4ad5-b8a8-2accdaace01d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

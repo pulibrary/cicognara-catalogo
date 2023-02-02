@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1917</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1917</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARISCOTTI Ercole patrizio bolognese</author>, <title>Parere se i concetti favolosi si debbono ammettere nel
+    corpo delle imprese</title>, problema proposto nell’Accademia dei Gelati, <pubPlace>Bologna</pubPlace> <date>1613</date>, in 4.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parere di Hercole Mariscotti patricio bolognese : se i concetti favolosi si debbano ammettere ne i corpi dell'imprese : problemma proposto nell' Academia de' Gelati all'istessa illustrissima Academia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia dei Gelati (Bologna, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922406880001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/q98b44</idno>
+            <idno>(OCoLC)82911035</idno>
+            <idno type="cico">1917</idno>
+            <idno type="dcl">gnt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Parere di Hercole Mariscotti patricio bolognese : se i concetti favolosi si debbano ammettere ne i corpi dell'imprese : problemma proposto nell' Academia de' Gelati all'istessa illustrissima Academia.</title>
+                  <respStmt>
+                     <persName>Marescotti, Ercole, -1621</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per gli Heredi di Gio. Rossi</publisher>
+                     <date>1613</date>
+                  </imprint>
+                  <extent>[12], 76, [14] pages (the last 2 blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/dc4102bc-abf2-4f4d-bf03-058faa68a33e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dc4102bc-abf2-4f4d-bf03-058faa68a33e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1553</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1553</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALBERTI Giuseppe</author>, <title>De’ funerali, ossia dissertazione in cui si espongono le varie maniere di
+    sepel <pb type="cico" n="269"/> lire i defunti usate da diverse nazioni</title>, <pubPlace>Rimino</pubPlace> <date>1790</date>, in 8.
+    <note>Opera scarsa di erudizione e di critica.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De' funerali ossia dissertazione [microform] : in cui si espongono le varie maniere di seppelire i defonti usate da' diverse nazioni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h10s0g</idno>
+            <idno type="cico">1553</idno>
+            <idno type="dcl">08q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De' funerali ossia dissertazione [microform] : in cui si espongono le varie maniere di seppelire i defonti usate da' diverse nazioni.</title>
+                  <respStmt>
+                     <persName>Albetti, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Rimino : Presso Giacomo Marsoner</publisher>
+                     <date>1790</date>
+                  </imprint>
+                  <extent>48 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/769c785f-c7de-4575-ac26-664d39fb292b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/769c785f-c7de-4575-ac26-664d39fb292b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

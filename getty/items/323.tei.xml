@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 323</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">323</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <title>FACILLIMA methodus delineandi omnes humani corporis partes,</title> 
+                     <extent>in fol.,</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Facillima methodus delineandi omnes humani corporis partes [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kn2c1k</idno>
+            <idno type="cico">323</idno>
+            <idno type="dcl">tjk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Facillima methodus delineandi omnes humani corporis partes [microform]</title>
+                  <respStmt>
+                     <persName>Esengren, Philipp.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Veneto : ex Typographio Remondiniano</publisher>
+                     <date>[1770?]</date>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>[1] p., [24] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/db6e9277-b88f-421c-ad43-5ff4d8a2aa00/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/db6e9277-b88f-421c-ad43-5ff4d8a2aa00/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Facillima methodus delineandi omnes humani corporis partes</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Esengren, Philipp, active 1594-1631. Primi elementi della simmetria</authority>
+            <authority>Remondini (Firm), publisher.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926994740001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4k1t4q</idno>
+            <idno>(OCoLC)84287252</idno>
+            <idno type="cico">323</idno>
+            <idno type="dcl">tjk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Facillima methodus delineandi omnes humani corporis partes</title>
+                  <respStmt>
+                     <persName>Esengren, Philipp, active 1594-1631 artist.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Veneto : Ex Typographio Remondiniano</publisher>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>[1770?]</date>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>27 prints</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/038a5b69-a54e-427d-abf7-6b50c9e24a40"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/038a5b69-a54e-427d-abf7-6b50c9e24a40">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

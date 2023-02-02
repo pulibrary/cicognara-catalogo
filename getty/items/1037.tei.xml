@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1037</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1037</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROCCO Bernardino veronese</author>, <title>Roma restaurata alla Santità di N. S. Sisto V. Poemetto in
+      ottava rima</title>, <pubPlace>Verona</pubPlace> <date>1590</date>, in 8, M. 97.
+      <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+      <note>Questo grazioso poemetto fu dedicato da Marc’Antonio Palazzo al Sig. Carlo Prato Nunzio di Verona presso la
+      Rep. di Venezia e composto di sole 39 stanze, della dedica e del frontespizio.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma restaurata [microform] : alla santita di N.S. Sisto Quinto / del Sig. Bernardino Rocco ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w189r</idno>
+            <idno type="cico">1037</idno>
+            <idno type="dcl">45p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma restaurata [microform] : alla santita di N.S. Sisto Quinto / del Sig. Bernardino Rocco ...</title>
+                  <respStmt>
+                     <persName>Rocca, Bernardino, 1515-1587.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Appresso Girolamo Discepolo :</publisher>
+                     <date>1589</date>
+                  </imprint>
+                  <extent>[16] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ce86e9d6-bdbb-4111-9ceb-c607d2240168/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ce86e9d6-bdbb-4111-9ceb-c607d2240168/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

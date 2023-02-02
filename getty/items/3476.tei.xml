@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3476</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3476</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALBRIZZI Isabella</author>, <title>La testa d’Elena scolpita in marmo dall’impareggiabil Canova e da esso regalata ad Isabella
+Albrizzi nata Teotochi</title>, <pubPlace>Pisa</pubPlace> <date>1812</date>, in 8.
+<note>Con una tavola di belle incisioni in rame.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Testa d'Elena : scolpita in marmo dall'impareggiabil Canova e da esso regalata ad Isabella Albrizzi, nata Teotochi.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990047916720203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/g66n58</idno>
+            <idno>(OCoLC)1008462141</idno>
+            <idno type="cico">3476</idno>
+            <idno type="dcl">c2v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Testa d'Elena : scolpita in marmo dall'impareggiabil Canova e da esso regalata ad Isabella Albrizzi, nata Teotochi.</title>
+                  <respStmt>
+                     <persName>Teotochi Albrizzi, Isabella, 1760-1836 author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Co' Caratteri di Firmino Didot</publisher>
+                     <date>MDCCCXII [1812]</date>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>ix, 7 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481964411"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481964411">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Testa d'Elena scolpita in marmo dall'impareggiabil Canova e da esso regalata [microform] / ad Isabella Albrizzi, nata Teotochi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9z2m80</idno>
+            <idno type="cico">3476</idno>
+            <idno type="dcl">c2v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Testa d'Elena scolpita in marmo dall'impareggiabil Canova e da esso regalata [microform] / ad Isabella Albrizzi, nata Teotochi.</title>
+                  <respStmt>
+                     <persName>Teotochi Albrizzi, Isabella, 1760-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Co' Caratteri di Firmino Didot</publisher>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>7 p.</extent>
+                  <extent>1 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/18b73e80-79e9-4cac-827e-54eabb900406/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/18b73e80-79e9-4cac-827e-54eabb900406/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

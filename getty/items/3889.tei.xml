@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3889</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3889</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TAJA Agostino sanese</author>, <title>Descrizione del Palazzo Apostolico Vaticano, opera postuma</title>, <pubPlace>Roma</pubPlace> <date>1750</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del Palazzo Apostolico Vaticano [microform] : opera postuma d'Agostino Taja Senese revista ed accresciuta ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xt6z5x</idno>
+            <idno type="cico">3889</idno>
+            <idno type="dcl">s5j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del Palazzo Apostolico Vaticano [microform] : opera postuma d'Agostino Taja Senese revista ed accresciuta ...</title>
+                  <respStmt>
+                     <persName>Taja, Agostino Maria.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Niccolò, e Marco Pagliarini</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>30 p., 525 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8e377481-165b-4f36-bfa2-da7df7d5ec62/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8e377481-165b-4f36-bfa2-da7df7d5ec62/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del Palazzo Apostolico Vaticano / opera postuma d'Agostino Taja Senese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pagliarini, Niccolò, author.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924679860001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fm9j5x</idno>
+            <idno>(OCoLC)41990207</idno>
+            <idno type="cico">3889</idno>
+            <idno type="dcl">s5j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del Palazzo Apostolico Vaticano / opera postuma d'Agostino Taja Senese.</title>
+                  <respStmt>
+                     <persName>Taja, Agostino Maria.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Niccolò, e Marco Pagliarini</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Vatican City</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>[8], 30, [2], 525 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/cf4569ad-50cd-439d-b617-89b179f0a20b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cf4569ad-50cd-439d-b617-89b179f0a20b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

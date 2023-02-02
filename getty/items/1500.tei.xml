@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1500</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1500</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>RELAZIONE delle solenni esequie celebrate nel Duomo di Milano a S. M. la Reina di Sardegna
+    Polissena Giovanna Cristina</title>, <pubPlace>Milano</pubPlace> <date>1735</date>, in fol. fig.
+    <note>Le invenzioni furono dell’architetto Francesco Croce. Le undici tavole si intagliarono da M. Ant. dal Re. I rami
+    che rappresentano la veduta e i due spaccati del Duomo servirono anche per la descrizione dei funerali di Carlo
+    VI Imperatore e sono assai ben fatti.</note>
+    MDCCXXXV
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione delle solenni esequie celebrate nel Duomo di Milano a Sua Maestà la reina di Sardigna Polissena Giovanna Cristina.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dal Re, Marc'Antonio, 1697-1766</authority>
+            <authority>Croce, Francesco, 1696-1773</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922888700001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7d8g4v</idno>
+            <idno>(OCoLC)145862098</idno>
+            <idno type="cico">1500</idno>
+            <idno type="dcl">znb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione delle solenni esequie celebrate nel Duomo di Milano a Sua Maestà la reina di Sardigna Polissena Giovanna Cristina.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Nella Regia ducal corte, per Giuseppe Richino Malatesta</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCXXXV [1735]</date>
+                     <date>1735</date>
+                  </imprint>
+                  <extent>31, [1] pages, 10 unnumbered leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/27f85ddf-adcb-4104-85ed-4c867b99893d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/27f85ddf-adcb-4104-85ed-4c867b99893d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione delle solenni esequie celebrate nel Duomo di Milano a Sua Maestà la reina di Sardigna Polissena Giovanna Cristina [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wf2d6h</idno>
+            <idno type="cico">1500</idno>
+            <idno type="dcl">znb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione delle solenni esequie celebrate nel Duomo di Milano a Sua Maestà la reina di Sardigna Polissena Giovanna Cristina [microform].</title>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Milano : Nella Regia ducal corte, per Giuseppe Richino Malatesta</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1735</date>
+                  </imprint>
+                  <extent>31 p.</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/658f50de-061b-42d4-8c0f-eac1e6379b72/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/658f50de-061b-42d4-8c0f-eac1e6379b72/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

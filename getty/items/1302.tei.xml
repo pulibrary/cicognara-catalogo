@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1302</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1302</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BRUNI Pier Antonio Luigi</author>, <title>Dell’architettura: Orazione recitata nella pubblica Veneta
+    Accademia di Belle Arti nell’anno <date>1777</date>
+                    </title>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della architettura [microform] : orazione recitata nella pubblica, Veneta accademia di pittura, scultura, e architettura il dì 10. marzo, 1777 ; per la solenne distribuzione de' premi all'architettura proposti nello scorso anno 1776.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Regia accademia di belle arti di Venezia.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pd8n10</idno>
+            <idno type="cico">1302</idno>
+            <idno type="dcl">4kc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della architettura [microform] : orazione recitata nella pubblica, Veneta accademia di pittura, scultura, e architettura il dì 10. marzo, 1777 ; per la solenne distribuzione de' premi all'architettura proposti nello scorso anno 1776.</title>
+                  <respStmt>
+                     <persName>Bruni, Pierantonio Luigi.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Pietro Savioni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1777]</date>
+                     <date>1777</date>
+                  </imprint>
+                  <extent>XLVI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c138a1e2-068a-4d3f-89ce-1de0b76802e7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c138a1e2-068a-4d3f-89ce-1de0b76802e7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

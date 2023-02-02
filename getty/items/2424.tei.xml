@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2424</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2424</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALBERTO Magno</author>, <title>De secretis mulierum, de mirabilibus Mundi et Michaelis Scotti de secretis
+    Naturae</title>, <pubPlace>Amstelodami</pubPlace> <date>1669</date>, in 12.
+    <note>In questa seconda edizione di Michel Scotto non avvi alterazione al capitolo 56 degli auguri. Ma nella versione
+    italiana fu mutilato a cagiono delle censure.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Albertus Magnus de secretis mulierum ; item de virtutibus herbarum lapidum et animalium [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Albertus, Magnus, Saint, 1193?-1280.</authority>
+            <authority>Henricus, de Saxonia, active 13th century.</authority>
+            <authority>Scot, Michael, approximately 1175-approximately 1234. Physionomia.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985399853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7r351j</idno>
+            <idno type="cico">2424</idno>
+            <idno type="dcl">pzg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Albertus Magnus de secretis mulierum ; item de virtutibus herbarum lapidum et animalium [microform].</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Apud Henricum et Theod. Boom</publisher>
+                     <date>a[nn]o 1669</date>
+                     <date>1669</date>
+                  </imprint>
+                  <extent>329 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4c525515-4221-4dc5-98c9-c6054b34eb3e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4c525515-4221-4dc5-98c9-c6054b34eb3e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

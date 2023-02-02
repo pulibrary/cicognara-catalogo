@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3202</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3202</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CIAMPI Sebastiano</author>, <title>Descrizione della cassa di Cipselo tradotta ed illustrata</title>, <pubPlace>Pisa</pubPlace> <date>1814</date>, in 8.
+Aggiuntavi <title>la dissertazione di Heyne sullo stesso argomento</title>. M. 34.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della Cassa di Cipselo tradotta dal greco di Pausania el illustratia / da l'Ab. Sebastino Ciampi ; s'aggiunge la dissertazione dell' Heyne sopra lo stesso argomento.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pausanias, active approximately 150-175 author.</authority>
+            <authority>Heyne, Christian Gottlob, 1729-1812 author.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990096206550203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh0j8j</idno>
+            <idno>(OCoLC)44094115</idno>
+            <idno type="cico">3202</idno>
+            <idno type="dcl">jwk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della Cassa di Cipselo tradotta dal greco di Pausania el illustratia / da l'Ab. Sebastino Ciampi ; s'aggiunge la dissertazione dell' Heyne sopra lo stesso argomento.</title>
+                  <respStmt>
+                     <persName>Ciampi, Sebastiano, 1769-1847, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Presso Niccolò Capurro</publisher>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>iv, 93 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481968677"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481968677">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

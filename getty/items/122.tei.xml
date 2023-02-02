@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 122</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">122</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>ÉSCOLE de la mignature, dans la quelle ou peut aisement apprendre a peindre sans maître, avec
+	  le secret de faire le plus beau couleur d’or et l’or en coquille,</title>
+                     <pubPlace> Lion</pubPlace> 
+                     <date>1679,</date> 
+                     <extent>in 12,</extent> seconda
+	  edizione.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ecole de la mignature : dans laquelle on peut aisément apprendre à peindre sans maître : avec le secret de faire les plus belles couleurs, l'or bruni &amp; l'or en coquille.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_991771073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0v4b6z</idno>
+            <idno>(OCoLC)13175507</idno>
+            <idno type="cico">122</idno>
+            <idno type="dcl">nvj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ecole de la mignature : dans laquelle on peut aisément apprendre à peindre sans maître : avec le secret de faire les plus belles couleurs, l'or bruni &amp; l'or en coquille.</title>
+                  <respStmt>
+                     <persName>Boutet, Claude.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Lyon : Chez François du Chesne, marchand libraire</publisher>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>xi, [1], 164, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c4e4ff19-503f-4b3a-be92-0d5a90d127c7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c4e4ff19-503f-4b3a-be92-0d5a90d127c7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

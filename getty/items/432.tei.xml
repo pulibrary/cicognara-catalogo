@@ -1,0 +1,81 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 432</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">432</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BIBIENA Ferdinando Galli</author>,
+                     <title> Direzioni ai giovani studenti del disegno dell’architettura civile e
+	della prospettiva teorica,</title> 
+                     <pubPlace>Bologna</pubPlace> 
+                     <date>1731 e 1732,</date> 
+                     <extent>vol. 2 in 8, fig.</extent>
+	                    <note>Lasciando a parte il gusto ornamentale di questo artista relativo all’epoca in cui viveva, li suoi trattati sono ben
+	ordinati ed espressi, e le tavole di questa piccola edizione sono nitidamente intagliate in finissimi e precisi
+	contorni. Nel primo volume il corso di architettura è illustrato con 69 tavole: nel secondo quello della prospettiva
+	comprende 56 tav.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Direzioni à giovani studenti nel disegno dell'architettura civile, nell'Accademia Clementina dell'Instituto delle scienze [microform] / unite da Ferdinando Galli Bibiena ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galli Bibiena, Ferdinando, 1657-1743. Architettura civile.</authority>
+            <authority>Accademia clementina.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fq8c4d</idno>
+            <idno type="cico">432</idno>
+            <idno type="dcl">6s1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Direzioni à giovani studenti nel disegno dell'architettura civile, nell'Accademia Clementina dell'Instituto delle scienze [microform] / unite da Ferdinando Galli Bibiena ...</title>
+                  <respStmt>
+                     <persName>Bibiena, Ferdinando Galli, 1657-1743.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperia di Lelio dalla Volpe</publisher>
+                     <date>1731-1732</date>
+                     <date>1731</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ac382657-1eee-4600-8197-1055694cd130/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ac382657-1eee-4600-8197-1055694cd130/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2017</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2017</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CONQUÊTES de Louis XV, c’est a dire suits de gravures qui representent tous les exploits
+  militaires de l’armée française depuis 1744 jusqu’à 1747, avec tous les plans des forteresses et
+  des retranchéments</title>, in fol. fig.
+  <note>Sono 14 piani di battaglie e 28 tavole di assedi figurati, col frontespizio in cui è il ritratto del re intagliato da
+  Lempereur.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conquetes de Louis XV, 1759 [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boucher, François, 1703-1770.</authority>
+            <authority>Lempereur, Louis Simon, 1728-1808.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cm3793</idno>
+            <idno type="cico">2017</idno>
+            <idno type="dcl">4kh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conquetes de Louis XV, 1759 [microform].</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris? : s.n]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[1759?]</date>
+                     <date>1759</date>
+                  </imprint>
+                  <extent>[42] leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8ded7bc0-d48a-46a1-b378-123751b57fb4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8ded7bc0-d48a-46a1-b378-123751b57fb4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

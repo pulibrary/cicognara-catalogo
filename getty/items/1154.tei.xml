@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1154</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1154</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DRAGONI D. Antonio</author>, <title>Lettera sul dittico eburno de’ S. Martiri Teodoro ed Acacio esistente
+    nel Museo Ponzoni di Cremona</title>, <pubPlace>Parma</pubPlace>, <publisher>Bodoni</publisher>, <date>1810</date>, in 4, figurato.
+    <note>Splendida edizione colla tavola del dittico intagliata in rame ec.</note>
+    
+    <pb type="cico" n="207"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sul dittico eburneo de'santi martiri Teodoro ed Acacio esistente nel museo Ponzoni di Cermona [microform] / lettera dell'ab. D. Antonio Dragoni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xj7t52</idno>
+            <idno type="cico">1154</idno>
+            <idno type="dcl">zjh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sul dittico eburneo de'santi martiri Teodoro ed Acacio esistente nel museo Ponzoni di Cermona [microform] / lettera dell'ab. D. Antonio Dragoni.</title>
+                  <respStmt>
+                     <persName>Dragoni, Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Co' tipi Bodoniani</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>vii, 133 p., [1] leaf of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a8515bc5-0329-461d-8fc0-45806d7c2132/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a8515bc5-0329-461d-8fc0-45806d7c2132/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

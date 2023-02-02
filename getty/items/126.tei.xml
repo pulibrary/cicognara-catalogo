@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 126</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">126</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>FRANCHI Antonio</author>,
+                     <title> La teorica della pittura, ovvero trattato delle materie più necessarie per
+	  apprendere con fondamento quest’arte,</title> 
+                     <pubPlace>Lucca,</pubPlace> 
+                     <date>1739,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La teorica della pittura [microform] : ovvero, Trattato delle materie piu' necessarie, per apprendere con fondamento quest' arte / composta da Antonio Franchi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8z4m6s</idno>
+            <idno type="cico">126</idno>
+            <idno type="dcl">trc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La teorica della pittura [microform] : ovvero, Trattato delle materie piu' necessarie, per apprendere con fondamento quest' arte / composta da Antonio Franchi ...</title>
+                  <respStmt>
+                     <persName>Franchi, Antonio, 1638-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Salvatore e Giandomenico Marescandoli</publisher>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>207 [1] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a72c0faa-688a-4a4c-bb4c-f9b2aa5de051/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a72c0faa-688a-4a4c-bb4c-f9b2aa5de051/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La teorica della pittura, ovvero, Trattato delle materie più necessarie, per apprendere con fondamento quest' arte / composta da Antonio Franchi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rigacci, Giuseppe, editor.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930047100001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/hf903b</idno>
+            <idno>(OCoLC)23615873</idno>
+            <idno type="cico">126</idno>
+            <idno type="dcl">trc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La teorica della pittura, ovvero, Trattato delle materie più necessarie, per apprendere con fondamento quest' arte / composta da Antonio Franchi.</title>
+                  <respStmt>
+                     <persName>Franchi, Antonio, 1638-1709</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Salvatore e Giandomenico Marescandoli</publisher>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>[8], 207, [1] pages, 1 folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/603c5b1a-5402-4c61-a58c-1302002f5b47"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/603c5b1a-5402-4c61-a58c-1302002f5b47">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 426</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">426</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BEDESCHINI Francisci Aquilani</author>, 
+                     <title>Collection de cartouches d’après les plus grands maîtres
+	<fw type="foot"/>
+	                       <pb type="memofonte"/>
+	                       <fw type="head"/>
+	
+	contenantes 82 desseins differens gravés en 58 planches, ouvrage très utile aux architects,
+	sculpteurs, peintres,</title> 
+                     <pubPlace>Rome</pubPlace> 
+                     <date>1770,</date> 
+                     <extent>in fol.</extent>
+	                    <note>Opera che attesta lo stile guasto e corrotto dell’età in cui venne prodotta.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collection de cartouches d'après plusieurs grands maîtres [microform] : contenant quatre vingt deux desseins différens gravés en cinquante huit planches : ouvrage très utile aux architectes, sculpteurs, peintres et autres artistes.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5m1749</idno>
+            <idno type="cico">426</idno>
+            <idno type="dcl">0pb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Collection de cartouches d'après plusieurs grands maîtres [microform] : contenant quatre vingt deux desseins différens gravés en cinquante huit planches : ouvrage très utile aux architectes, sculpteurs, peintres et autres artistes.</title>
+                  <respStmt>
+                     <persName>Bedeschini, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Rome : Chez Bouchard &amp; Gravier</publisher>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>[1] p., [30] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c76b33cd-9b98-496a-94f5-cbca3a2c9c92/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c76b33cd-9b98-496a-94f5-cbca3a2c9c92/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

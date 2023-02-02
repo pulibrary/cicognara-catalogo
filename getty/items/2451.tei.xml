@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2451</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2451</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PADOVANI Joan. Veronensis</author>, <title>De singularum humani corporis partium significationibus</title>,
+    <pubPlace>Veronae</pubPlace> <date>1689</date>, in 4, parv.
+    <note>L’ ordine e la chiarezza di questo libretto epiloga quelle diffuse nozioni che trovatisi sparse in tante altre opere.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioannis Padovanii veronensis De singularum humani corporis partium significationibus [microform] : ex varijs antiquorum sapientum voluminibus excerptis atque in peculiares tabulas summatim pro qualibet parte digestis ; opus ad dignoscendos hominum mores &amp; qualitates valde vtile &amp; necessarium ; authorum nomina ex quibus significationes ipsa excerpta sunt versa pagina indicabit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5x1h19</idno>
+            <idno type="cico">2451</idno>
+            <idno type="dcl">dvt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ioannis Padovanii veronensis De singularum humani corporis partium significationibus [microform] : ex varijs antiquorum sapientum voluminibus excerptis atque in peculiares tabulas summatim pro qualibet parte digestis ; opus ad dignoscendos hominum mores &amp; qualitates valde vtile &amp; necessarium ; authorum nomina ex quibus significationes ipsa excerpta sunt versa pagina indicabit.</title>
+                  <respStmt>
+                     <persName>Padovani, Giovanni, approximately 1512-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Veronae : Apud Hieronymum Discipulum</publisher>
+                     <date>1589</date>
+                  </imprint>
+                  <extent>58 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/340b66ea-7468-4455-bfc5-892721e4020f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/340b66ea-7468-4455-bfc5-892721e4020f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

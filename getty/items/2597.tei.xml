@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2597</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2597</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>LETTERA di un socio etrusco ad un altro della stessa Accademia e cooperatore al Giornale dei Letterati sopra
+alcuni scarabei trovati in Valdichiana</title>, <pubPlace>Firenze</pubPlace> <date>1805</date>, in 8, fig., M. 54.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera d'un Socio Etrusco ad un'altro della stessa Accademia e cooperatore al Giornale dei letterati, sopra alcuni scarabei trovati in Valdichiana [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh745p</idno>
+            <idno type="cico">2597</idno>
+            <idno type="dcl">fzt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera d'un Socio Etrusco ad un'altro della stessa Accademia e cooperatore al Giornale dei letterati, sopra alcuni scarabei trovati in Valdichiana [microform].</title>
+                  <respStmt>
+                     <persName>Boni, Onofrio, 1743-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1805]</date>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>47 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6479c794-5980-4b9d-9974-5a1153b4fcc2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6479c794-5980-4b9d-9974-5a1153b4fcc2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

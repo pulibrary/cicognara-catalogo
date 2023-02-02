@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1703</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1703</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARINELLO</author>, La stessa opera, <pubPlace>Venezia</pubPlace>, presso <publisher>Gio. Batt. Bonfadini</publisher>, <date>1610</date>, in 8.
+  <note>Questo è uno dei più curiosi e interessanti libri nel suo genere, in cui si raccontano tutti gli artifizi che erano in
+  grand’uso nel cinquecento per gli abbellimenti non tanto con me per la conservazione della salute. La prima di
+  queste edizioni è stampata con eleganza.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gli ornamenti delle donne [microform] / scritti per M. Giovanni Marinello et diuisi in quattro libri ; ne quali si racconta, come vaghe &amp; belle possono con l'arte apparir le donne ... opera vtile &amp; necessaria ad ogni gentile persona.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bq3j09</idno>
+            <idno type="cico">1703</idno>
+            <idno type="dcl">hrx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gli ornamenti delle donne [microform] / scritti per M. Giovanni Marinello et diuisi in quattro libri ; ne quali si racconta, come vaghe &amp; belle possono con l'arte apparir le donne ... opera vtile &amp; necessaria ad ogni gentile persona.</title>
+                  <respStmt>
+                     <persName>Marinello, Giovanni, active 16th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Gio. Battista Bonfadino &amp; compagni</publisher>
+                     <date>1610</date>
+                  </imprint>
+                  <extent>[32], 335, [1] numb. leaves</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0707c7a5-205f-4647-aac1-23d319646bf1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0707c7a5-205f-4647-aac1-23d319646bf1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

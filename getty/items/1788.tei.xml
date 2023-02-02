@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1788</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1788</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RUBENII Alberti Petri Pauli filii</author>, <title>De re vestiario veterum, praecipue de lato clavo: libri duo</title>,
+                     <pubPlace>Antuerpiae</pubPlace>
+                    <date> 1665</date>, Plantin, in 4, fig.
+  <note>— Accedunt: De Gemma Tiberiana; de Gemma Augustea: De urbibus Neocoris, de Nummo
+  Augusti, de Natali die Caesaris Augusti, Io. Bap. Donii de utraque paenula.
+  Bella e nitida edizione con tavole intagliate in rame, fra le quali in grande si vede l’apoteosi d’Augusto</note>.
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alberti RvbenI. De re vestiaria vetervm, prœcipve de lato clavo libri dvo, et alia eiusdem opuscula posthuma, quorum seriem adversa pagina exhibet.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Graevius, Joannes Georgius, 1632-1703.</authority>
+            <authority>Doni, Gio. Battista (Giovanni Battista), 1593 or 1594-1647.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9922951203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/20000r</idno>
+            <idno>(OCoLC)02147599</idno>
+            <idno type="cico">1788</idno>
+            <idno type="dcl">q85</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alberti RvbenI. De re vestiaria vetervm, prœcipve de lato clavo libri dvo, et alia eiusdem opuscula posthuma, quorum seriem adversa pagina exhibet.</title>
+                  <respStmt>
+                     <persName>Rubens, Albert, 1614-1657.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiœ, ex officina plantiniana Balthasaris Moreti</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1665</date>
+                  </imprint>
+                  <extent>15 p. ., [3]-328 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7acf897f-a8e7-40a8-92cb-62d82f3a6394/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7acf897f-a8e7-40a8-92cb-62d82f3a6394/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

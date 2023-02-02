@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 86</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">86</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BONI cavalier Onofrio</author>,
+                     <title> Riflessioni sopra Michelangelo Buonarroti in risposta a quanto ne scrisse
+	  Rolando Freart sig. de Chambray nell’opera Idée de la perfection de la peinture,</title>
+                     <pubPlace> Firenze,</pubPlace>
+	                    <date> 1809,</date> 
+                     <extent>in 8, M. 88.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riflessioni sopra Michelangelo Buonarroti del Onofrio Boni in risposta a quanto ne scrisse Rolando Freart Sig. de Chambray nell'opera Idée de la perfection de la peinture etc [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pf197k</idno>
+            <idno type="cico">86</idno>
+            <idno type="dcl">pcm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Riflessioni sopra Michelangelo Buonarroti del Onofrio Boni in risposta a quanto ne scrisse Rolando Freart Sig. de Chambray nell'opera Idée de la perfection de la peinture etc [microform].</title>
+                  <respStmt>
+                     <persName>Boni, Onofrio, 1743-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Nella stamperia in Borgo SS. Apostoli</publisher>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>59 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6aa0cd00-3795-4a5c-88ba-bddbdfb9bcc0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6aa0cd00-3795-4a5c-88ba-bddbdfb9bcc0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

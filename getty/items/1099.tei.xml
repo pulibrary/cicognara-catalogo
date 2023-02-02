@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1099</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1099</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIULIO Cesare</author>, <title>Commentari colle figure in rame di Andrea Palladio</title>, di nuovo corretti e
+      ristampati, <pubPlace>Venezia</pubPlace>, presso <publisher>Niccolò Missirini</publisher>, <date>1618</date>, in 4, e in fine, <pubPlace>Venezia</pubPlace>, presso <publisher>Girolamo
+      Foglietti</publisher>, <date>1598</date>, seconda edizione.
+      <note>Esemplare del Tuano.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commentari di C. Giulio Cesare [microform] : con le figure in rame / di Andrea Palladio ... di nuouo diligentemente corretti e ristampati.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baldelli, Francesco, active 16th century.</authority>
+            <authority>Palladio, Andrea, 1508-1580.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zc7d6h</idno>
+            <idno type="cico">1099</idno>
+            <idno type="dcl">dcd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Commentari di C. Giulio Cesare [microform] : con le figure in rame / di Andrea Palladio ... di nuouo diligentemente corretti e ristampati.</title>
+                  <respStmt>
+                     <persName>Caesar, Julius.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Nicolo Misserini</publisher>
+                     <date>1618</date>
+                  </imprint>
+                  <extent>407 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a78a9ffc-b1e4-417b-909d-6d33562f3b8d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a78a9ffc-b1e4-417b-909d-6d33562f3b8d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

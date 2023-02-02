@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1341</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1341</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PUCCINI Cav. Tommaso</author>, <title>Orazione letta nella R. Accademia di Belle Arti di Firenze il giorno
+    del solenne triennale concorso</title>, 14 Settembre <date>1794</date>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione letta nella R. Accademia delle belle arti di Firenze [microform]: il giorno del solenne triennale concorso 14. settembre 1794 / dal cav. Tommaso Puccini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia di belle arti (Florence, Italy)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rq857g</idno>
+            <idno type="cico">1341</idno>
+            <idno type="dcl">rz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione letta nella R. Accademia delle belle arti di Firenze [microform]: il giorno del solenne triennale concorso 14. settembre 1794 / dal cav. Tommaso Puccini.</title>
+                  <respStmt>
+                     <persName>Puccini, Tommaso, 1749-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[In Firenze : Per Gaetano Cambiagi]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1794]</date>
+                     <date>1794</date>
+                  </imprint>
+                  <extent>35 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e14d3a4c-3e28-48ad-8133-7039d2d88e76/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e14d3a4c-3e28-48ad-8133-7039d2d88e76/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione letta nella R. Accademia delle belle arti di Firenze : il giorno del solenne triennale concorso 14. settembre 1794 / dal cav. Tommaso Puccini.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia di belle arti (Florence, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991086233504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/bm7t5d</idno>
+            <idno>(OCoLC)79605014</idno>
+            <idno type="cico">1341</idno>
+            <idno type="dcl">rz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione letta nella R. Accademia delle belle arti di Firenze : il giorno del solenne triennale concorso 14. settembre 1794 / dal cav. Tommaso Puccini.</title>
+                  <respStmt>
+                     <persName>Puccini, Tommaso, 1749-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Gaetano Cambiagi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1794</date>
+                  </imprint>
+                  <extent>35, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991086233504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991086233504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

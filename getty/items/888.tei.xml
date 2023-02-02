@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 888</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">888</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BRACCI Virginio (e Gaudio Francesco Maria)</author>, <title>Riflessioni idrostatiche sul Ponte di Rieti e sui
+      fiume Velino</title>, <pubPlace>Roma</pubPlace> <date>1772</date>, in 4, fig., M. 15.
+      <note>Con due tavole. Questo è uno dei casi più complicati e difficili nella sistemazione del corso de’ fiumi.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione della visita del ponte di Rieti [microform] / fatta dall'architetto Sig. Virginio Bracci.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/730c99</idno>
+            <idno type="URI">http://portal.getty.edu/api/v63m54</idno>
+            <idno type="URI">http://portal.getty.edu/api/s36f8w</idno>
+            <idno type="cico">888</idno>
+            <idno type="dcl">68x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione della visita del ponte di Rieti [microform] / fatta dall'architetto Sig. Virginio Bracci.</title>
+                  <respStmt>
+                     <persName>Bracci, Virginio, 1737-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome : s.l]</publisher>
+                     <pubPlace>Ponte di Rieti (Italy)</pubPlace>
+                     <date>[1772]</date>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>36 p., [2] leaves of plates</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/79d05c46-9faf-48d3-87fa-28661733d2b8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/79d05c46-9faf-48d3-87fa-28661733d2b8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

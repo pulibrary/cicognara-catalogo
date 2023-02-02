@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 506</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">506</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>FRANCART Jacques</author>,
+                     <title> Premier livre d’architecture, contenant diverses inventions de portes: en
+	trois langues: allem., fran., lat.,</title> 
+                     <pubPlace>Bruxelles</pubPlace> 
+                     <date>1616,</date> 
+                     <extent>in fol.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Premier livre d'architecture de Iaques Francart [microform] : contenant diuerses inuentions de portes seruiables à tous ceux qui désirent bastir et pour sculpteurs, tailleurs de pieres, escriniers, massons et autres : en trois langues.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ng1d8c</idno>
+            <idno type="cico">506</idno>
+            <idno type="dcl">3cg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Premier livre d'architecture de Iaques Francart [microform] : contenant diuerses inuentions de portes seruiables à tous ceux qui désirent bastir et pour sculpteurs, tailleurs de pieres, escriniers, massons et autres : en trois langues.</title>
+                  <respStmt>
+                     <persName>Francquart, Jacques, 1577-1651.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Dutch; Flemish</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Brussels: s.n]</publisher>
+                     <pubPlace>Belgium.</pubPlace>
+                     <date>[1617]</date>
+                     <date>1617</date>
+                  </imprint>
+                  <extent>XXII numb. leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/97673f22-c798-4b5e-a29b-df8c7846a903/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/97673f22-c798-4b5e-a29b-df8c7846a903/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five studies of roof construction [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985301203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k8692w</idno>
+            <idno type="cico">506</idno>
+            <idno type="dcl">ncf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Five studies of roof construction [microform]</title>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[16-?]</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>[5] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/221e6d9b-6f74-4e25-aaf7-fc801c0acfac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/221e6d9b-6f74-4e25-aaf7-fc801c0acfac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

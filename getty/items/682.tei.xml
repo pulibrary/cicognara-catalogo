@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 682</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">682</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VASCONI Filippo</author>,
+			<title>Studiò d’architettura civile</title>,
+			<pubPlace>Roma</pubPlace>, <extent>in fol., senz’anno.</extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studio d'architettura civile / invenzione disegno, ed intaglio di Filippo Vasconi, cittadino Rom° ... [i.e., Romano]</title>
+            <respStmt>
+               <orgName>Metropolitan Museum of Art</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_36632</idno>
+            <idno type="dcl">nvg</idno>
+            <idno type="cico">682</idno>
+            <idno type="URI">http://portal.getty.edu/api/6v0w6f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Studio d'architettura civile / invenzione disegno, ed intaglio di Filippo Vasconi, cittadino Rom° ... [i.e., Romano]</title>
+                  <respStmt>
+                     <persName>Vasconi, Filippo, 1687?-1730</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Rome : Stamparia di Girolamo Mainardi</publisher>
+                  </imprint>
+                  <extent>21 leaves of plates : all ill. ; 35 cm</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/36632/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/36632/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studio d'architettura civile [microform] / invenzione disegno, ed intaglio di Filippo Vasconi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985163853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s9521w</idno>
+            <idno type="cico">682</idno>
+            <idno type="dcl">nvg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Studio d'architettura civile [microform] / invenzione disegno, ed intaglio di Filippo Vasconi ...</title>
+                  <respStmt>
+                     <persName>Vasconi, Filippo, 1687?-1730.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome] : Stamparia di Girolamo Mainardi in Roma</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>[1725?]</date>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>[21] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/97ed2e51-8608-42db-9746-dfbee8c44f99/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/97ed2e51-8608-42db-9746-dfbee8c44f99/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

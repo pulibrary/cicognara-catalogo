@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1875</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1875</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COSTALII Petri</author>, <title>Pegna cum narrationibus philosophicis</title>, <pubPlace>Lugduni</pubPlace>, ap. <publisher>Mattiam Bonhomme</publisher>,
+    <date>1555</date>, in 8, fig.
+    <note>Gli intagli in legno copiosissimi sono di bella esecuzione e sono impressi con eleganti contorni di pagina in 91
+    tavole.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petri Costalii Pegma : cum narrationibus philosophicis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925546060001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/r47v27</idno>
+            <idno>(OCoLC)10421564</idno>
+            <idno type="cico">1840</idno>
+            <idno type="cico">1875</idno>
+            <idno type="dcl">4s1</idno>
+            <idno type="dcl">6p3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Petri Costalii Pegma : cum narrationibus philosophicis.</title>
+                  <respStmt>
+                     <persName>Coustau, Pierre, active 1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lvgdvni : Apud Matthiam Bonhomme</publisher>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>[16], 336, [8] p. (the last blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4947543e-4fad-42aa-b138-7d53f8c06699"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4947543e-4fad-42aa-b138-7d53f8c06699">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

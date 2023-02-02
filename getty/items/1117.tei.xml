@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1117</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1117</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TISCHBEIN Guill.</author>, <title>Figures d’Homere dessinées d’après l’antique avec les explications de Chr.
+    Gottl. Heyne, tom. 1 e 2, Iliade et Odissée</title>. <pubPlace>Met.</pubPlace> chez <publisher>Collignon</publisher>, <date>1801, 1802</date>, in fol. M.
+    <note>Quest’opera splendidissima non vide il suo termine; e non presenta il nostro esemplare che il primo volume
+    dell’Iliade fino alle pag. 70 del testo e nel secondo dell’Odissea non giunge che alla pagina 40, essendo in tutto
+    otto vignette e trenta una tavola di bellissimo intaglio, in ispecie quella dei sette eroi, che è di un effetto mirabile.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Figures d'Homère dessinées d'après l'antique [microform] / par H. Guill. Tischbein ... avec les explications de Chr. Gottl. Heyne ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Heyne, Christian Gottlob, 1729-1812.</authority>
+            <authority>Villers, Charles de, 1765-1815.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xj4j28</idno>
+            <idno type="cico">1117</idno>
+            <idno type="dcl">z7v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Figures d'Homère dessinées d'après l'antique [microform] / par H. Guill. Tischbein ... avec les explications de Chr. Gottl. Heyne ...</title>
+                  <respStmt>
+                     <persName>Tischbein, Johann Heinrich Wilhelm, 1751-1829.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Metz : Chez Collignon</publisher>
+                     <date>1801-02 [i.e. 1806?]</date>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e523a34b-d8c2-49a6-92f9-446665f5597d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e523a34b-d8c2-49a6-92f9-446665f5597d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

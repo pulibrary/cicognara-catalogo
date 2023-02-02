@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2078</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2078</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PASSEO Crispino</author>,<title> Liber Genesis aeris formis expressus et explicatus a Guillelmo Salsmanno</title>,
+  <pubPlace>Arnhemii</pubPlace>, ap. <publisher>Jo. Jansonium</publisher>, <date>1616</date>, in 8.
+  <note>Le tavole sono 60 compresa quella del frontespizio e sono intagliate colla maggiore accuratezza.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber Genesis [microform] : aereis formis a Crispin Passaeo expressus versebusque tam Latinis quam Germanicis ornatus, sententijs ite[m] exss. / patribus desumptis, explicatus per R.D. Guilielmum Salsmannum ... et S. Albani apud Agrippinenses pastorem.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Albani, S.</authority>
+            <authority>Salsman, Gulielmus.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341243506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hx8m5t</idno>
+            <idno type="cico">2078</idno>
+            <idno type="dcl">6cd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Liber Genesis [microform] : aereis formis a Crispin Passaeo expressus versebusque tam Latinis quam Germanicis ornatus, sententijs ite[m] exss. / patribus desumptis, explicatus per R.D. Guilielmum Salsmannum ... et S. Albani apud Agrippinenses pastorem.</title>
+                  <respStmt>
+                     <persName>Passe, Crispijn van de, approximately 1565-1637.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Arnhemii : Apud Iohannem Iansonium, biblioposam</publisher>
+                     <date>1616</date>
+                  </imprint>
+                  <extent>LIX leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e9cecfc4-f8e3-40cf-9a7e-9696b455e0d6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e9cecfc4-f8e3-40cf-9a7e-9696b455e0d6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

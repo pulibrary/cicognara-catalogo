@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1886</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1886</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>EMBLEMATA anniversaria Academiae Althorphinae studiorum juventutis exercitandorum
+    causa proposita et variorum orationibus exposita</title>, <pubPlace>Norimbergae</pubPlace> <date>1597</date>, in 4, fig.
+    <note>Bella e dotta opera con 59 tavole d’emblemi e un bel frontespizio figurato.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emblemata anniversaria Academiae Altorfinae [microform] : studiorum iuuentutis exercitandorum causa proposita et variorum orationibus exposita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mp795b</idno>
+            <idno type="cico">1886</idno>
+            <idno type="dcl">gvn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata anniversaria Academiae Altorfinae [microform] : studiorum iuuentutis exercitandorum causa proposita et variorum orationibus exposita.</title>
+                  <respStmt>
+                     <persName>Universität Altdorf.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae : Impensis Leuini Hulsy</publisher>
+                     <pubPlace>Germany.</pubPlace>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1597</date>
+                  </imprint>
+                  <extent>[6], 153, [3] numb. leaves</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f131c72e-2428-42ba-84ee-cb31dd921b93/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f131c72e-2428-42ba-84ee-cb31dd921b93/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emblemata anniversaria Academiae Altorfinae : stvdiorvm ivventvtis exercitandorvm cavsa proposita et variorvm orationibvs exposita.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Siebmacher, Johann, -1611</authority>
+            <authority>Hulsius, Levinus, -1606.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930339120001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4c799n</idno>
+            <idno>(OCoLC)9082574</idno>
+            <idno type="cico">1886</idno>
+            <idno type="dcl">gvn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata anniversaria Academiae Altorfinae : stvdiorvm ivventvtis exercitandorvm cavsa proposita et variorvm orationibvs exposita.</title>
+                  <respStmt>
+                     <persName>Academia Altorfina.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae : Impensis Levini Hvlsy :</publisher>
+                     <pubPlace>Germany Nuremberg.</pubPlace>
+                     <date>1597</date>
+                  </imprint>
+                  <extent>[6], 153, [3] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/178e0da2-6de9-470e-a254-9b371dff0ef2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/178e0da2-6de9-470e-a254-9b371dff0ef2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

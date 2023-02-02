@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3789</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3789</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MAZZOCCHI Jacobi</author>, <title>Epigrammata antiquae urbis Romae</title>, <pubPlace>Romae</pubPlace>, in aedibus auctoris, <date>1521</date>, f. p., fig.
+<note>Con note marginali manoscritte di ottimo autore, il quale le trasse dal tomo V degli atti della Società latina di Iena
+comentando questo esemplare, che oltre l’essere per se stesso pregiatissimo, in tal modo divenne prezioso. Le
+lapidi, e i monumenti sono intagliati in legno e inseriti fra il testo.</note>
+<pb type="cico" n="201"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigrammata Antiqvae  Vrbis</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Colocci, Angelo, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-281330</idno>
+            <idno type="URI">http://portal.getty.edu/api/328h0z</idno>
+            <idno type="cico">3789</idno>
+            <idno type="dcl">xjh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Epigrammata Antiqvae  Vrbis</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1521</date>
+                     <date>1521</date>
+                  </imprint>
+                  <extent>[10] Bl., CLXXX, [1] S., [8] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/colocci1521/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/colocci1521/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epigrammata antiquae vrbis [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Colocci, Angelo, 1474-1549.</authority>
+            <authority>Mazochius, Jacobus, active 1506-1527.</authority>
+            <authority>Probus, Marcus Valerius. De notis Romanorum.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hh7s07</idno>
+            <idno type="cico">3789</idno>
+            <idno type="dcl">xjh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Epigrammata antiquae vrbis [microform].</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : In aedib. Iacobi Mazochii</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1521 men. April</date>
+                     <date>1521</date>
+                  </imprint>
+                  <extent>CLXXX, [8] leaves</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e58ff931-f23c-49b5-9c43-34765bed6d9c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e58ff931-f23c-49b5-9c43-34765bed6d9c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

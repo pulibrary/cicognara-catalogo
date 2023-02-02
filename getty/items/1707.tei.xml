@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1707</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1707</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MEDICI Paolo</author>, <title>Riti e costumi degli ebrei confutati coll’aggiunta d’una lettera di Nicolò Stratta
+  già rabbino ebreo</title>, <pubPlace>Venezia</pubPlace> <date>1788</date>, in 12.
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riti e costumi degli Ebrei confutati dal dott. Paolo Medici [microform] : coll'aggiunta di una lettera all'universale del giudaismo / compilata colle riflessioni di Niccolo Stratta, giá rabbino ebreo e poi cattolico romano ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Stratta, Niccolò.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/196924</idno>
+            <idno type="cico">1707</idno>
+            <idno type="dcl">x7z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Riti e costumi degli Ebrei confutati dal dott. Paolo Medici [microform] : coll'aggiunta di una lettera all'universale del giudaismo / compilata colle riflessioni di Niccolo Stratta, giá rabbino ebreo e poi cattolico romano ...</title>
+                  <respStmt>
+                     <persName>Medici, Paolo, 1671-1738.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Gio: Antonio Pezzana</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>379 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b518b918-63e0-41ef-9c6b-7a03cbba7753/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b518b918-63e0-41ef-9c6b-7a03cbba7753/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

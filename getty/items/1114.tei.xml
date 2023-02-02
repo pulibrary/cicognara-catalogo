@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1114</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1114</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TASSO Torquato</author>, <title>La Gerusalemme liberata con la vita del medesimo, l’allegoria del poema e
+      cogli argomenti incisi nei rami del Tempesta</title>, <pubPlace>Roma</pubPlace> <date>1738</date>, in fol.
+      <note>Le tavole sono ad ogni canto cogli argomenti in mezzo a comparti figurati.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Gerusalemme liberata [microform] / di Torquato Tasso; con la vita del medesimo, allegorìa del poema, argomenti incisi ne' rami del Tempesta, ed indice di tutti i nomi proprj, e materie principali contenute nell'opera ; e con le annotazioni di Scipione Gentili e di Giulio Guastavini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gentili, Scipione, 1563-1616.</authority>
+            <authority>Guastavini, Giulio, active 16th century.</authority>
+            <authority>Tempesta, Antonio, 1555-1630.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v00p8n</idno>
+            <idno type="cico">1114</idno>
+            <idno type="dcl">9g9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Gerusalemme liberata [microform] / di Torquato Tasso; con la vita del medesimo, allegorìa del poema, argomenti incisi ne' rami del Tempesta, ed indice di tutti i nomi proprj, e materie principali contenute nell'opera ; e con le annotazioni di Scipione Gentili e di Giulio Guastavini ...</title>
+                  <respStmt>
+                     <persName>Tasso, Torquato, 1544-1595.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamparia di Girolamo Mainardi</publisher>
+                     <pubPlace>Jerusalem</pubPlace>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>316 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1a1b80ac-93be-435f-9526-87fbd901fda5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1a1b80ac-93be-435f-9526-87fbd901fda5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

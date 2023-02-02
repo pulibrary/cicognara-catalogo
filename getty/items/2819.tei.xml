@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2819</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2819</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DEBIEL Ludovico</author>, <title>Utilitas rei nummariae veteris compendio proposita. Accedit appendicula ad nummos
+Coloniarum per Cl. Vaillantium editos</title>, <pubPlace>Viennae</pubPlace> <date>1733</date>, in 8, M. 68.
+<note>Questo compendio è assai ben ordinato e chiaramente esposto.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vtilitas rei numariae veteris [microform] : comendio proposita ; accedit appendicula ad numos coloniarum per Cl. Vaillantium editos, e cimeliarchio Vindobonensi cujusdam è Societate Jesu / auctore R.P. Ludovico Debiel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/90021v</idno>
+            <idno type="cico">2819</idno>
+            <idno type="dcl">z8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vtilitas rei numariae veteris [microform] : comendio proposita ; accedit appendicula ad numos coloniarum per Cl. Vaillantium editos, e cimeliarchio Vindobonensi cujusdam è Societate Jesu / auctore R.P. Ludovico Debiel ...</title>
+                  <respStmt>
+                     <persName>Frölich, Erasmus, 1700-1758.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Veinnae Austriae : Sumptibus Joannis Adami Schmidii</publisher>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>[8], 118 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bb93aeda-3f2b-4e96-92eb-3e2be097eafc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb93aeda-3f2b-4e96-92eb-3e2be097eafc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

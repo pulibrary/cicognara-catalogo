@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1569</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1569</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAR</author>, <title>Recueil de tous les costumes des ordres réligieux et militaires avec un abrégé historique
+    et chronologique enrichi de notes et de planches colorées</title>, <pubPlace>Paris</pubPlace> <date>1778</date>, vol. 6, in. fol.
+   <note> Quest’opera di gran lusso e ricchezza, per essere tutte le tavole miniate con precisione, è utile oltre modo agli
+    artisti e alle decorazioni teatrali. Il primo volume contiene 93 tavole: il secondo 74: il terzo 106: il quarto 91: il
+    quinto 117: il sesto 93. Le dissertazioni illustrative sono tolte dalle fonti migliori, ma nell’esecuzione delle tavole
+    si è posta troppa celerità per farne un’opera di speculazione, che per la sua mole sostiensi peraltro a un prezzo
+    considerabile.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de tous les costumes des ordres religieux et militaires [microform] : avec un abrégé historique et chronologique, enrichi de notes et de planches coloriées / par m. Bar.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/778v17</idno>
+            <idno type="cico">1569</idno>
+            <idno type="dcl">4p7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de tous les costumes des ordres religieux et militaires [microform] : avec un abrégé historique et chronologique, enrichi de notes et de planches coloriées / par m. Bar.</title>
+                  <respStmt>
+                     <persName>Bar, Jacques Charles.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez l'auteur, rue du Roi-Doré, au Marais</publisher>
+                     <date>1778-1789</date>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>6 v.</extent>
+                  <extent>37 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4fb620cd-0a0f-4ae3-82fa-bcc9c72f56af/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4fb620cd-0a0f-4ae3-82fa-bcc9c72f56af/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4287</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4287</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FELIBIEN des Avaux</author>, <title>Déscription de la nouvelle église de l’hôtel royal des Invalides</title>, <pubPlace>Paris</pubPlace> <date>1706</date>, in 18, fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de la nouvelle eglise de L'Hostel Royal des Invalides [microform] : avec un plan général de l'ancienne &amp; de la nouvelle eglise / par Monsieur Felibien des Avaux ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k9587d</idno>
+            <idno type="cico">4287</idno>
+            <idno type="dcl">r8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de la nouvelle eglise de L'Hostel Royal des Invalides [microform] : avec un plan général de l'ancienne &amp; de la nouvelle eglise / par Monsieur Felibien des Avaux ...</title>
+                  <respStmt>
+                     <persName>Félibien, André, sieur des Avaux et de Javercy, 1619-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jacque Quillau</publisher>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4608bd0e-173f-44cb-9bd4-491563ae7ffa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4608bd0e-173f-44cb-9bd4-491563ae7ffa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de la nouvelle eglise de l'Hostel royal des invalides : avec un plan général de l'ancienne &amp; de la nouvelle eglise / par M. Felibien des Avaux ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926601650001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/tx8w8b</idno>
+            <idno>(OCoLC)25922989</idno>
+            <idno type="cico">4287</idno>
+            <idno type="dcl">r8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de la nouvelle eglise de l'Hostel royal des invalides : avec un plan général de l'ancienne &amp; de la nouvelle eglise / par M. Felibien des Avaux ...</title>
+                  <respStmt>
+                     <persName>Félibien des Avaux, J.-F. (Jean-François), 1658?-1733</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jacques Quillau</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Paris (France)</pubPlace>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>2 volumes (168 pages, approximately 47 unnumbered leaves of plates; 317 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4dfc5077-c1ae-4c91-b3bd-e7314f45dbf8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4dfc5077-c1ae-4c91-b3bd-e7314f45dbf8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

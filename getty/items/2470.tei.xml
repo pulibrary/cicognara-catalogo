@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2470</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2470</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>SCRIPTORES physiognomiae veteres ex recensione Camilli Perusci et Friderici Sylburgii
+    (greco e latino)</title>, <pubPlace>Altemburgi</pubPlace> <date>1680</date>, in 8.
+    <note>Questo è corredato delle note di vari commentatori e fa parte della collezione de’ classici cum notis variorum.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scriptores physiognomoniae veteres ex recensione Camilli Perusci et Frid. Sylburgii Graece et Latine recensuit, animadversiones Sylburgii et Dan. Guil. Trilleri v. ill. in Melampodem emendationes addidit suasque adspersit notas Iohannes Georgius Fridericus Franzius.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Polemo, Antonius, approximately 88-145.</authority>
+            <authority>Peruschi, Camillo, -1572 or 1573</authority>
+            <authority>Sylburg, Friedrich, 1536-1596.</authority>
+            <authority>Triller, Daniel Wilhelm, 1695-1782.</authority>
+            <authority>Adamant.</authority>
+            <authority>Malampus, active 3rd century B.C.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990061254250203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/pg8d7x</idno>
+            <idno>(OCoLC)5087896</idno>
+            <idno type="cico">2470</idno>
+            <idno type="dcl">4x6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Scriptores physiognomoniae veteres ex recensione Camilli Perusci et Frid. Sylburgii Graece et Latine recensuit, animadversiones Sylburgii et Dan. Guil. Trilleri v. ill. in Melampodem emendationes addidit suasque adspersit notas Iohannes Georgius Fridericus Franzius.</title>
+                  <respStmt>
+                     <persName>Franz, Johann Georg Friedrich, 1737-1789, editor.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Altenburgi : Impensis Gottlob Emanuel Richteri</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>xxxii, 508 pages, 20 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482167182"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482167182">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

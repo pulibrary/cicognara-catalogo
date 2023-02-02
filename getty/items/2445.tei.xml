@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2445</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2445</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Ab INDAGINE Joannis</author>, <title>Introductiones apotelesmaticae in physiognomiam etc.</title> Accessit
+    Guglielmi Grattatoli opuscula de memoria et Pomponii Gaurici tractatus de Sculptura etc.,
+    <pubPlace>Argentorati</pubPlace> <date>1630</date>, in 8, figurato.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioannis ab Indagine Introductiones apotelesmaticae in physiognomiam, astrologiam naturalem, complexiones hominum, naturas planetarum [microform] : cum periaxiomatibus de faciebus signorum ... quibus ... accessit Gulielmi Grataroli ... opuscula De memoria reparanda, augenda, conservanda; De praedictione morum naturarumque hominum; De mutatione temporum ... et Pomponii Gaurici ... tractatus De symmetriis, lineamentis &amp; physiognomia, ejusque speciebus, &amp;c.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gaurico, Pomponio, 1481 or 1482-1528.</authority>
+            <authority>Gratarolo, Guglielmo, 1516?-1568?</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6b2d05</idno>
+            <idno type="cico">2445</idno>
+            <idno type="dcl">3sb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ioannis ab Indagine Introductiones apotelesmaticae in physiognomiam, astrologiam naturalem, complexiones hominum, naturas planetarum [microform] : cum periaxiomatibus de faciebus signorum ... quibus ... accessit Gulielmi Grataroli ... opuscula De memoria reparanda, augenda, conservanda; De praedictione morum naturarumque hominum; De mutatione temporum ... et Pomponii Gaurici ... tractatus De symmetriis, lineamentis &amp; physiognomia, ejusque speciebus, &amp;c.</title>
+                  <respStmt>
+                     <persName>Indagine, Johannes ab, -1537.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Argentorati : Sumptibus haeredum Lazari Zetzneri</publisher>
+                     <date>1630</date>
+                  </imprint>
+                  <extent>384 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b0f5611d-d6fb-42f2-ad34-fe4257875406/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b0f5611d-d6fb-42f2-ad34-fe4257875406/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

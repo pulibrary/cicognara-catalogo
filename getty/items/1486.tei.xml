@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1486</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1486</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AQUINO Car.</author> <title>Sacra exequialia in funere Jacobi II, Magnae Britanniae Regis descriptae Carolo
+    de Aquino</title>, <pubPlace>Roma</pubPlace> <date>1702</date>, in fol. fig.
+    <note>Sebastiano Cipriani inventò gli apparati e Alessandro Specchi intagliò le 19 tavole di nitida esecuzione: in fine è
+    la orazione funebre dello stesso Carlo d’Aquino.</note>
+    MDCCIII
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sacra exequialia in funere Jacobi II Magnae Britanniae regis exhibita ab ementiss. et reverendiss. principe Carolo sanctae Romanae Ecclesiae Cardinali Barberino, in templo sui tituli sancti Laurentii in Lucina [microform] / descripta a Carolo de Aquino ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barberini, Carlo, 1630-1704.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s79x47</idno>
+            <idno type="cico">1486</idno>
+            <idno type="dcl">6s2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sacra exequialia in funere Jacobi II Magnae Britanniae regis exhibita ab ementiss. et reverendiss. principe Carolo sanctae Romanae Ecclesiae Cardinali Barberino, in templo sui tituli sancti Laurentii in Lucina [microform] / descripta a Carolo de Aquino ...</title>
+                  <respStmt>
+                     <persName>Aquino, Carlo d', 1654-1737.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Barberinis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>43 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9b6232dd-ce87-49e9-a035-3ec9b060f5c7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9b6232dd-ce87-49e9-a035-3ec9b060f5c7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

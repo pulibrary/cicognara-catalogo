@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3748</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3748</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIOVANNOLI Alò da Civita Castellana</author>, <title>Roma antica</title>, <pubPlace>Roma</pubPlace> <date>1619</date>, in fol. obl., fig., libri III.
+<note>Questi tre libri sono affatto senza testo, meno un’interpretazione delle tavole in italiano, e in latino intagliato sotto
+le stesse. La prima parte contiene il frontespizio figurato, la pianta di Roma, e 33 tavole. Il secondo contiene 40
+tavole, e un frontespizio istoriato, e il terzo 50 tav. con un frontespizio figurato. Le incisioni sono all’acqua forte
+eseguite in una maniera tutta proprio di questo autore.</note>
+<pb type="cico" n="196"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma antica [microform] / di Alò Giouannioli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985422983506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1h175c</idno>
+            <idno type="cico">3748</idno>
+            <idno type="dcl">mzp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma antica [microform] / di Alò Giouannioli ...</title>
+                  <respStmt>
+                     <persName>Giovannioli, Alò.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : [s.n.]</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1615-1619</date>
+                     <date>1615</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/89d119fb-9237-45f3-8748-812692d97fb4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/89d119fb-9237-45f3-8748-812692d97fb4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

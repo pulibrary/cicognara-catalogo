@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3357</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3357</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De VENUTIS Philippus</author>, <title>De cruce cortonensi dissertatio</title>, <pubPlace>Liburni</pubPlace> <date>1751</date>, in 4, fig., M. 28.
+<note>Con due tavole intagliate in rame e varie medaglie e monumenti riportati fra il testo.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De Cruce cortonensi : dissertatio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bailleul, Nicolas</authority>
+            <authority>Montfaucon, Bernard de, 1655-1741.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924423630001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/kh5c50</idno>
+            <idno>(OCoLC)265996759</idno>
+            <idno type="cico">3357</idno>
+            <idno type="dcl">hw0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De Cruce cortonensi : dissertatio.</title>
+                  <respStmt>
+                     <persName>Venuti, Filippo, 1709-1769</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Liburni : Ex Typographia Joannis Pauli Fantechi et Sociorum</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCLI [1751]</date>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>35 pages, 2 folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/348833a9-e8e3-4dd2-90bd-74dc65eb109f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/348833a9-e8e3-4dd2-90bd-74dc65eb109f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

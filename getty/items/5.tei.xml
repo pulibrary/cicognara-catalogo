@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 5</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">5</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                 <author>BANNISTER Jacques</author>, 
+                 <title>Tableau des arts et des sciences depuis le tems le plus reculé, jusque au
+		 siecle d’Alexandre le Grand,</title> 
+                 <pubPlace>Paris</pubPlace> 
+                 <date>1789,</date> 
+                 <extent>in 12.</extent>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tableau des arts et des sciences [microform] : depuis les temps les plus reculés jusqu'au siecle d'Alexandre-le-Grand / ouvrage traduit de l'anglois de M. Jacques Bannister.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rf4m52</idno>
+            <idno type="cico">5</idno>
+            <idno type="dcl">jp7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tableau des arts et des sciences [microform] : depuis les temps les plus reculés jusqu'au siecle d'Alexandre-le-Grand / ouvrage traduit de l'anglois de M. Jacques Bannister.</title>
+                  <respStmt>
+                     <persName>Bannister, James, 1750 or 1751-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Maradan</publisher>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>x, 225 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/60086dc8-1def-426b-a737-e84d7dead1b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/60086dc8-1def-426b-a737-e84d7dead1b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

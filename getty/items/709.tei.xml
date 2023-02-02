@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 709</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">709</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VITRUVII</author>, <title>De architectura adnotationes Guglielmi Philandri</title>, <pubPlace>Parisiis</pubPlace> <date>1545</date>, in 8, fig.
+	<note>Non avvi altra differenza dall’edizione presente all’altra dell’anno che la precede, se non che
+	in quella avvi un errata che indica e corregge i falli trascorsi e in questa vi sono tutti gli
+	spropositi dell’edizione romana non emendati, con molti altri di più.</note>
+	<pb type="cico" n="132"/>
+	                 <fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	
+	              </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gulielmi Philandri Castilionii Galli ciuis Ro. In decem libros M. Vitruuij Pollionis De architectura annotationes .. [microform] : cum indicibus Graeco &amp; Latino locupletissimis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985174463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cz878m</idno>
+            <idno type="cico">709</idno>
+            <idno type="dcl">zc3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gulielmi Philandri Castilionii Galli ciuis Ro. In decem libros M. Vitruuij Pollionis De architectura annotationes .. [microform] : cum indicibus Graeco &amp; Latino locupletissimis.</title>
+                  <respStmt>
+                     <persName>Philandrier, Guillaume, 1505-1565.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Ex officina Michaëlis Fezandat</publisher>
+                     <date>1545</date>
+                  </imprint>
+                  <extent>[16], 357, [34] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d9f6c6a7-98ee-4663-bc79-70d412209ae6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d9f6c6a7-98ee-4663-bc79-70d412209ae6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

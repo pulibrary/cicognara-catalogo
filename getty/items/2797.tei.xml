@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2797</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2797</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Catalogus numismaticus Musaei Lefroyani</title>, <pubPlace>Liburni</pubPlace> <date>1763</date>, in 4, p. M. 43.
+<note>Questo è un catalogo assai ben ordinato.</note>
+<pb type="cico" n="51"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogus numismaticus Musei Lefroyani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Coltellini, Marco, 1724-1777, printer.</authority>
+            <authority>Hollis, Thomas, 1720-1774, former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926480440001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/227t91</idno>
+            <idno>(OCoLC)83767854</idno>
+            <idno type="cico">2797</idno>
+            <idno type="dcl">7zx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogus numismaticus Musei Lefroyani.</title>
+                  <respStmt>
+                     <persName>Lefroy, Antony</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Liburni : Apud Marci Cultellini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Livorno.</pubPlace>
+                     <date>anno 1763</date>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>180 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d5dd2e62-c25f-4427-a58c-ec57f9afd8f1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d5dd2e62-c25f-4427-a58c-ec57f9afd8f1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogus numismaticus Musei Lefroyani [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r04985</idno>
+            <idno type="cico">2797</idno>
+            <idno type="dcl">7zx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogus numismaticus Musei Lefroyani [microform].</title>
+                  <respStmt>
+                     <persName>Lefroy, Antony.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Liburni : Apud Marci Cultellini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1763]</date>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>180 p.</extent>
+                  <extent>3 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c6249334-65e2-4e14-b08e-555d003fd1d3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c6249334-65e2-4e14-b08e-555d003fd1d3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

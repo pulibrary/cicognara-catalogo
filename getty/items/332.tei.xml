@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 332</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">332</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>LOMAZZO Jean Pol</author> peintre milanois, <title>Traicté de la poportion naturelle et artificielle des choses,
+	trauduit d’italien en françois par Ilaire Pader tolosain peintre du prince Maurice de Savoie,</title> 
+                     <pubPlace>à
+	Tolouse</pubPlace> 
+                     <publisher>par Arnoud,</publisher> Coloniae 1649, <extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traicté de la proportion naturelle et artificielle des choses [microform] / par Jean Pol Lomazzo ... ouvrage nécessaire aux peintres, sculpteurs, graveurs, &amp; à tous ceux qui prétendent à la perfection du dessein ; traduit d'italien en françois par Hilaire Pader ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pader, Hilaire, 1607?-1667.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rc0d76</idno>
+            <idno type="cico">332</idno>
+            <idno type="dcl">mzd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traicté de la proportion naturelle et artificielle des choses [microform] / par Jean Pol Lomazzo ... ouvrage nécessaire aux peintres, sculpteurs, graveurs, &amp; à tous ceux qui prétendent à la perfection du dessein ; traduit d'italien en françois par Hilaire Pader ...</title>
+                  <respStmt>
+                     <persName>Lomazzo, Giovanni Paolo, 1538-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Tolose : Par Arnaud Colmiez</publisher>
+                     <date>1649</date>
+                     <date>1659</date>
+                  </imprint>
+                  <extent>[40], 91, [8] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/40ecffa3-ab84-4170-aeee-625ee7c19fe9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/40ecffa3-ab84-4170-aeee-625ee7c19fe9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1629</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1629</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COLUMNAE Fabii Lyncei</author>, <title>De purpura, opusculum, nunc iterum luci datum opera et studio Jo.
+    Danielis maioris</title>, <pubPlace>Kiliae</pubPlace> <date>1675</date>, in 4, parv.
+    <note>Due piccoli volumetti legati assieme; nel secondo de’ quali sta il dizionario ostracologico; non può vedersi
+    esecuzione più esatta e più elegante delle tavole in legno, di cui è ornato questo libro: ma la pessima carta in cui
+    è stampato rende l’edizione poco appariscente.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fabii Columnae, Lyncei, nobilis Neapolitani, genere Romani, opusculum de purpura [microform] / Romae primúm, an. 1616. editum, &amp; nunc iterum luci datum, operâ ac studio Johann Danielis Majoris ... cujus novissimè accesserunt annotationes quaedam.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Major, Johann Daniel, 1634-1693.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mn6d6m</idno>
+            <idno type="cico">1629</idno>
+            <idno type="dcl">7cq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Fabii Columnae, Lyncei, nobilis Neapolitani, genere Romani, opusculum de purpura [microform] / Romae primúm, an. 1616. editum, &amp; nunc iterum luci datum, operâ ac studio Johann Danielis Majoris ... cujus novissimè accesserunt annotationes quaedam.</title>
+                  <respStmt>
+                     <persName>Colonna, Fabio, 1567-1650.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Kiliae : Imprimebat Joachim Reumannus</publisher>
+                     <date>1675</date>
+                  </imprint>
+                  <extent>44, [10], 114, [2], [72] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f1c26598-1b02-4d2c-9ce8-c68d0bcc3640/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f1c26598-1b02-4d2c-9ce8-c68d0bcc3640/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

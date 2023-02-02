@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4479</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4479</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Le BRUN</author>, <title>Catalogue des tableaux des écoles flamande et française, pastels, desseins, estampes etc. du Cabinet de
+M. Prault</title>, <pubPlace>Paris</pubPlace> <date>1780</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de tableaux des ecoles flamande et francoise [microform] : pastels, gouaches, dessins, estampes sous verre &amp; en feulles, terres cuites, &amp; autres objets de curiosités qui composent le cabinet de feu M. Prault ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Hubert.</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rn7m4c</idno>
+            <idno>(OCoLC)213098774</idno>
+            <idno type="cico">4479</idno>
+            <idno type="dcl">m5m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de tableaux des ecoles flamande et francoise [microform] : pastels, gouaches, dessins, estampes sous verre &amp; en feulles, terres cuites, &amp; autres objets de curiosités qui composent le cabinet de feu M. Prault ...</title>
+                  <respStmt>
+                     <persName>Le Brun, Jean-Baptiste-Pierre, 1748-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : M. Hubert ... M. Le Brun</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>30 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/153f55d4-db18-4b7e-8bb7-30c7c56b04af/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/153f55d4-db18-4b7e-8bb7-30c7c56b04af/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

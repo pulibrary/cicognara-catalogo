@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1963</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1963</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>SYMBOLA divina et humana pontificum, imperatorum, regum</title>: accessit brevis et facilis
+    Isagoge Jac. Typotii, <date>1666</date>, in 12, fig., senza luogo.
+    <note>Con più di 370 emblemi intagliati in rame.</note>
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Symbola divina &amp; humana pontificvm imperatorum regum; ex musaeo Octavii de Strada ... Accessit brevis &amp; facilis isagoge ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923636933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kp7k5p</idno>
+            <idno>(OCoLC)38056587</idno>
+            <idno type="cico">1923</idno>
+            <idno type="dcl">dk1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Symbola divina &amp; humana pontificvm imperatorum regum; ex musaeo Octavii de Strada ... Accessit brevis &amp; facilis isagoge ...</title>
+                  <respStmt>
+                     <persName>Typot, Jacob, 1540-approximately 1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Arnhemiae, Apud Joh. Fridericum Hagium</publisher>
+                     <date>1666</date>
+                  </imprint>
+                  <extent>398, [24] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/edb2e2cc-868c-4059-928c-ccbadf906ce0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/edb2e2cc-868c-4059-928c-ccbadf906ce0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

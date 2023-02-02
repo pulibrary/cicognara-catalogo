@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1565</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1565</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BACII Andreae</author>, <title>De thermis libri septem</title>,<pubPlace> Venetiis</pubPlace> 
+                     <date>1571</date>, in fol. pic. fig.
+    <note>Prima e rara edizione, esemplare bellissimo, secondo la descrizione del de Bure.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De thermis Andreae Baccii Elpidiani .. [microform] : libri septem : opus locupletissimum, non solùm medicis necessarium, verumetiam studiosis variarum rerum naturae perutile in quo agitur de vniversa aquarum natura ... de lacubus, fontibus, fluminibus ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vn0q3s</idno>
+            <idno type="cico">1565</idno>
+            <idno type="dcl">tz5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De thermis Andreae Baccii Elpidiani .. [microform] : libri septem : opus locupletissimum, non solùm medicis necessarium, verumetiam studiosis variarum rerum naturae perutile in quo agitur de vniversa aquarum natura ... de lacubus, fontibus, fluminibus ...</title>
+                  <respStmt>
+                     <persName>Bacci, Andrea, -1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Apud Vincentum Valgrisium</publisher>
+                     <date>1571</date>
+                  </imprint>
+                  <extent>509 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ade49be9-fb4e-45dc-8412-f9c2c984be82/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ade49be9-fb4e-45dc-8412-f9c2c984be82/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

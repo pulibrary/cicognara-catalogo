@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 365</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">365</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>VERRI (Carlo)</author>, 
+                     <title>Saggio elementare sul disegno della figura umana, in due parti diviso,</title> 
+                     <pubPlace>Milano
+</pubPlace>	
+                     <date>1814,</date>
+                     <extent> 8, M. 46.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio elementare sul disegno della figura umana : in due parti diviso / scritto dal conte Carlo Verri ; per istruzione de' Giovani che s'incamminano alla pittura ; con alcune avvertenze sull'uso de' colori ad olio.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990054802000203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/sx0x6g</idno>
+            <idno>(OCoLC)54746671</idno>
+            <idno type="cico">365</idno>
+            <idno type="dcl">nw6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio elementare sul disegno della figura umana : in due parti diviso / scritto dal conte Carlo Verri ; per istruzione de' Giovani che s'incamminano alla pittura ; con alcune avvertenze sull'uso de' colori ad olio.</title>
+                  <respStmt>
+                     <persName>Verri, Carlo, conte, 1743-1823, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dal tipi di Gioanni [that is, Giovanni] Bernardoni</publisher>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>x, 144 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482147108"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482147108">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

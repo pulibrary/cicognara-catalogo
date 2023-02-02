@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 101</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">101</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CAYLUS M. le Comte</author>, et <author>M. Majault</author>,
+                     <title> Memoires sur le peinture à l’encaustique et sur la
+	  peinture à la cire,</title> 
+                     <pubPlace>Geneve</pubPlace>
+                     <date> 1780,</date>
+                     <extent> in 8 fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoire sur la peinture a l'encaustique [microform] : et sur la peinture a la cire / par M. le Comte de Caylus ... et M. Majault ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Majault, M. (Michel Joseph)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j28r2w</idno>
+            <idno type="cico">101</idno>
+            <idno type="dcl">gc3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoire sur la peinture a l'encaustique [microform] : et sur la peinture a la cire / par M. le Comte de Caylus ... et M. Majault ...</title>
+                  <respStmt>
+                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Geneve ; Chez le veuve Tilliard ... Saugrain &amp; Lamy, Barrois, aîné</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>133 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/26e2b1a5-e8c8-49dc-acd2-0722849d60bf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/26e2b1a5-e8c8-49dc-acd2-0722849d60bf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

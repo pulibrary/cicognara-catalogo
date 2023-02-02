@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2632</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2632</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VERMIGLIOLI Giovan Battista</author>, <title>Sepolcro etrusco chiusino dichiarato nelle sue epigrafi</title>, <pubPlace>Perugia</pubPlace> <date>1818</date>, in 8, M. 97.
+<note>Il monumento vedesi sul frontespizio.</note>
+<pb type="cico" n="24"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sepolcro etrusco Chiusino, scoperto nel febbrajo del MDCCCXVIII e dichiarato nelle sue epigrafi [microform] / da Gio: Battista Vermiglioli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mb6t56</idno>
+            <idno type="cico">2632</idno>
+            <idno type="dcl">s59</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sepolcro etrusco Chiusino, scoperto nel febbrajo del MDCCCXVIII e dichiarato nelle sue epigrafi [microform] / da Gio: Battista Vermiglioli.</title>
+                  <respStmt>
+                     <persName>Vermiglioli, Giovanni Battista, 1769-1848.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Nella tipografia di Francesco Baduel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>16 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cb7173f9-6dc0-469b-bb74-9d5928463d47/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cb7173f9-6dc0-469b-bb74-9d5928463d47/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

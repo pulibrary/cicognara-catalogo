@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3656</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3656</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CASALIO Joan. Bapt.</author>, <title>De urbis ac romani olim imperiis splendore</title>, 
+                        Romae<pubPlace/> <date>1650</date>, in fol., fig.
+<note>Opera eseguita con magistero, e con ottimo gusto anche per la sua sobrietà: in ispecie lodatissimo è il capitolo,
+ove l’autore parla degli anelli.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De vrbis ac romani olim imperii splendore [microform] : opus eruditionibus, historijs, ac animaduersionibus, tam sacris quam profanis illustratum : in quo etiam nonnulla ex occasione tanguntur, tam circa romanae ecclesiae principatum, quam circa alias reliquarum orbis regionum res memoratu dignas / auctore Ioanne Baptista Casalio romano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zm9m2q</idno>
+            <idno type="cico">3656</idno>
+            <idno type="dcl">js4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De vrbis ac romani olim imperii splendore [microform] : opus eruditionibus, historijs, ac animaduersionibus, tam sacris quam profanis illustratum : in quo etiam nonnulla ex occasione tanguntur, tam circa romanae ecclesiae principatum, quam circa alias reliquarum orbis regionum res memoratu dignas / auctore Ioanne Baptista Casalio romano.</title>
+                  <respStmt>
+                     <persName>Casali, Giovanni Battista, 1578-1648.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typographia Francisci Alberti Tani</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1650</date>
+                  </imprint>
+                  <extent>437 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c364de39-492f-47a5-8ee4-fea2d1770280/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c364de39-492f-47a5-8ee4-fea2d1770280/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

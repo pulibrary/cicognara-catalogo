@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3803</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3803</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NERINI Felicis</author>, <title>De templo, et coenobio SS. Bonifacii, et Alexi historica monumenta</title>, 
+                        <pubPlace>Romae</pubPlace> <date>1752</date>, in 4, fig.
+<note>Opera ricca di documenti, e stesa con abbondanza di eru <pb type="cico" n="207"/> dizione. Sonovi alcune tavole in rame collocate
+fra il testo. Volume di 600 pagine.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Devoti, Fabio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927940330001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/208z17</idno>
+            <idno>(OCoLC)9718013</idno>
+            <idno type="cico">3803</idno>
+            <idno type="dcl">mzq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta.</title>
+                  <respStmt>
+                     <persName>Nerini, Felix Marius, 1705-1787</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typog. Apollinea :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>XXXI, [1], 600, [12] p., XIII leaves of plates (7 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b379dfd5-2c87-4ad5-95b3-aff4af6250e1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b379dfd5-2c87-4ad5-95b3-aff4af6250e1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Devoti, Fabio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985437783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t71219</idno>
+            <idno type="cico">3803</idno>
+            <idno type="dcl">mzq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta [microform].</title>
+                  <respStmt>
+                     <persName>Nerini, Felix Marius, 1705-1787.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typographia Apollinea, Apud heredes Jo. Laurentii Barbiellini in Foro Pasquini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>XXXI, 600, [13] p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d529b5a5-d33a-4d65-91f5-0e3ac5ac2436/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d529b5a5-d33a-4d65-91f5-0e3ac5ac2436/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

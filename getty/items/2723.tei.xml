@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2723</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2723</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>WOOD Robert</author>, <title>Les ruines de Balbec autrement dit Héliopolis etc.</title>, <pubPlace>Londres</pubPlace> <date>1757</date>, in fol., fig., <note>con 47 tavole simili
+in bellezza all’opera precedente.
+Queste sono le due prime opere che diedero movimento al lusso enorme introdottosi poi nei libri di antichità.
+Esemplari legati in mar</note>. der.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les ruines de Balbec, autrement dite Heliopolis dans la Coelosyrie [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d82m5n</idno>
+            <idno type="cico">2723</idno>
+            <idno type="dcl">gcd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les ruines de Balbec, autrement dite Heliopolis dans la Coelosyrie [microform].</title>
+                  <respStmt>
+                     <persName>Wood, Robert, 1717?-1771.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Londres : [s.n.]</publisher>
+                     <pubPlace>Lebanon</pubPlace>
+                     <pubPlace>Baʻlabakk (Lebanon)</pubPlace>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>28 p., XLVI leaves of plates</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b4607657-4e2a-45e1-8564-b2ee3401ab7d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b4607657-4e2a-45e1-8564-b2ee3401ab7d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

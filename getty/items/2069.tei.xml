@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2069</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2069</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>NAVICULA</title>, sive speculum fatuorum praestantissimi sacrarum litterarum doctoris Jo. Begler,
+  Kepserbergii, a Jacopo Odiero diligenter collecta, compendiosa vitae eiusdem descriptio per
+  Beatum Rhenanum Sclestaninum, <pubPlace>Argentorati</pubPlace> <date>1511</date>, in 4, fig.
+  <note>Questa è una parafrasi della Stultifera Navis di Sebastiano Brandi con copiosissime tavole in legno di prima
+  bellezza. Cento e dieci sono le torme dei stolti con altrettanti disegni e la tavola delle materie è copiosissima.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nauicula siue speculu[m] fatuor[um] .. [microform] / Joannis Geyler Keysersbergij ... in sermones iuxta turmarum seriem diuisa suis figures iam insignita a Jacobo Othero diligenter collecta ; compendiosa vite eiusdem descriptio per Beatum Rhenanum Selestatinum ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Otther, Jacob, active 1500.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ck5b4q</idno>
+            <idno type="cico">2069</idno>
+            <idno type="dcl">48n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nauicula siue speculu[m] fatuor[um] .. [microform] / Joannis Geyler Keysersbergij ... in sermones iuxta turmarum seriem diuisa suis figures iam insignita a Jacobo Othero diligenter collecta ; compendiosa vite eiusdem descriptio per Beatum Rhenanum Selestatinum ...</title>
+                  <respStmt>
+                     <persName>Geiler von Kaysersberg, Johann, 1445-1510.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Strasbourg : s.n]</publisher>
+                     <date>[1511]</date>
+                     <date>1511</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/67389766-9dcf-4529-8198-749295481841/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/67389766-9dcf-4529-8198-749295481841/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

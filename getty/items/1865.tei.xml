@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1865</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1865</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CABURACI M. Francesco da Imola</author>, <title>Trattato dove si dimostra il vero e nuovo modo di fare le
+    imprese</title>: Con un breve discorso in difesa dell’Orlando furioso di M. Lodovico Ariosto,
+    <pubPlace>Bologna</pubPlace> <date>1580</date>, in 4.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato di m. Francesco Cabvracci da Immola, doue si dimostra il vero, &amp; nouo modo di fare le imprese, con un breue discorso in difesa dell'Orlando furioso di m. Lodouico Ariosto.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920863363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n1034t</idno>
+            <idno>(OCoLC)40077665</idno>
+            <idno type="cico">1865</idno>
+            <idno type="dcl">4ck</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato di m. Francesco Cabvracci da Immola, doue si dimostra il vero, &amp; nouo modo di fare le imprese, con un breue discorso in difesa dell'Orlando furioso di m. Lodouico Ariosto.</title>
+                  <respStmt>
+                     <persName>Caburacci, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna, Per G. Rossi</publisher>
+                     <date>1580</date>
+                  </imprint>
+                  <extent>94 p., 1 .</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ce6dcfd6-31ec-4d3c-85ae-11df6e364a96/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ce6dcfd6-31ec-4d3c-85ae-11df6e364a96/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato [microform] / di m. Francesco Caburacci da Immola ; doue si dimostra il vero, &amp; nouo modo di fare le imprese ; con vn breue discorso in difesa dell'Orlando furioso di m. Lodouico Ariosto.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336733506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/m60t1j</idno>
+            <idno type="cico">1580</idno>
+            <idno type="dcl">18r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato [microform] / di m. Francesco Caburacci da Immola ; doue si dimostra il vero, &amp; nouo modo di fare le imprese ; con vn breue discorso in difesa dell'Orlando furioso di m. Lodouico Ariosto.</title>
+                  <respStmt>
+                     <persName>Caburacci, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Gio. Rossi</publisher>
+                     <date>1580</date>
+                  </imprint>
+                  <extent>94, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fb15dbaa-4c1e-4437-8f2d-b52f7a8ab70d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb15dbaa-4c1e-4437-8f2d-b52f7a8ab70d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

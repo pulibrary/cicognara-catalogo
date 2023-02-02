@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2295</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2295</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>JOVII Pauli Novocomensis Episcopi Nucerini</author>, <title>Illustrium virorum vitae</title>, <pubPlace>Florentiae</pubPlace>, in officina
+    <publisher>Torrentini</publisher>, <date>1551</date>.
+    — <bibl>Accedunt: <title>Leonis X, Adriani VI, et Pompeii Columnae vitae</title>, ibi <date>1548</date>, in fol.</bibl>
+    <note>Le vite contenute nel primo di questi due volumi legati unitaraente sono quelle dei XII Visconti, di Lodovico
+    Sforza, di Consalvo di Cordova e del Marchese di Pescara. Trovatisi a molti luoghi nel nostro esemplare buone
+    postille marginali e incontratisi in più luoghi fatti e memorie utili allo studio delle arti e dell’antichità.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pauli Iouii Nouocomensis Vitae duodecim Vicecomitum Mediolani principum [microform] : ex Bibliotheca Regia.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985345033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r94z59</idno>
+            <idno type="cico">2295</idno>
+            <idno type="dcl">nc6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pauli Iouii Nouocomensis Vitae duodecim Vicecomitum Mediolani principum [microform] : ex Bibliotheca Regia.</title>
+                  <respStmt>
+                     <persName>Giovio, Paolo, 1483-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lutetiae : Ex officina Rob. Stephani</publisher>
+                     <date>1549</date>
+                  </imprint>
+                  <extent>199 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/56b8d0d1-5785-4bf3-ab17-29d523490916/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/56b8d0d1-5785-4bf3-ab17-29d523490916/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pavli Iovii ... Vitae Dvodecim Vicecomitvm Mediolani Principvm: Ex Bibliotheca Regia</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Giovio, Paolo, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-279241</idno>
+            <idno type="URI">http://portal.getty.edu/api/1b2g16</idno>
+            <idno type="cico">2295</idno>
+            <idno type="dcl">nc6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pavli Iovii ... Vitae Dvodecim Vicecomitvm Mediolani Principvm: Ex Bibliotheca Regia</title>
+                  <textLang>Latin</textLang>
+                  <textLang>Greek, Ancient (to 1453)</textLang>
+                  <imprint>
+                     <date>1549</date>
+                     <date>1549</date>
+                  </imprint>
+                  <extent>199 S.</extent>
+                  <extent>Portr.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/giovio1549/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/giovio1549/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

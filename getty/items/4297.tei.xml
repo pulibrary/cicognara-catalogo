@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4297</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4297</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BREVENTANO Stefano</author>, <title>Istoria dell’antichità, no <pb type="cico" n="281"/> biltà, e cose notabili di Pavia</title>, <pubPlace>Pavia</pubPlace> <date>1570</date>, in 4 piccolo.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istoria della antichita, nobilità, et delle cose notabili della citta di Pavia [microform] / raccolta da M. Stefano Breventano ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kb8m2p</idno>
+            <idno type="cico">4297</idno>
+            <idno type="dcl">zvf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istoria della antichita, nobilità, et delle cose notabili della citta di Pavia [microform] / raccolta da M. Stefano Breventano ...</title>
+                  <respStmt>
+                     <persName>Breventano, Stefano, -1577.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Pavia : Appresso Hieronimo Bartholi</publisher>
+                     <pubPlace>Pavia (Italy)</pubPlace>
+                     <date>1570</date>
+                  </imprint>
+                  <extent>104 leaves</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3bdcb5be-38da-45b2-8646-11fe723abe4e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3bdcb5be-38da-45b2-8646-11fe723abe4e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

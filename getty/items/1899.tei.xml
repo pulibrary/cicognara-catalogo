@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1899</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1899</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIARDAE Christophori</author>, <title>Icones symbolicae elogiis illustratae</title>, <pubPlace>Mediolani</pubPlace> <date>1626</date>, ex typographia
+    <publisher>Melchioris Malatestre</publisher>, in 4.
+    <note>Sono 17 tavole con altrettante immagini allegoriche di mediocre lavoro.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliothecae Alexandrinae icones symbolicae p. d. Christofori Giardae ... elogiis illustratae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bassano, Cesare, 1584-1648</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927749390001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/j78m7f</idno>
+            <idno>(OCoLC)514206069</idno>
+            <idno type="cico">1899</idno>
+            <idno type="dcl">52v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bibliothecae Alexandrinae icones symbolicae p. d. Christofori Giardae ... elogiis illustratae.</title>
+                  <respStmt>
+                     <persName>Giarda, Cristoforo, 1595-1649</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Milan] : Ex typographia hered. Melchioris Malatestae</publisher>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>[1626]</date>
+                     <date>1626</date>
+                  </imprint>
+                  <extent>[8], 140 [i.e. 172], [4] pages, 16 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/19f1b4b2-9bda-4cdf-a591-bcfe58c6d6f2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/19f1b4b2-9bda-4cdf-a591-bcfe58c6d6f2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>
