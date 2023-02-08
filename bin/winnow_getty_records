@@ -1,12 +1,10 @@
 #!/usr/bin/env ruby
 
 ##
-# The raw dump of Getty records contains many that
-# are not part of the Cicognara Collection.  This
-# script winnows out the unnecessary records non-
-# destructively, by copying only the relevant files
-# to the "tmp/cicorecords" directory.
-##
+# The raw dump of Getty records contains many that are not part of the
+# Cicognara Collection.  This script winnows out the unnecessary
+# records, keeping only files that have cico numbers, a manifest, and
+# are part of the Cicognara Collection.
 
 require "fileutils"
 require "logger"
@@ -22,35 +20,20 @@ def is_cico(node)
 end
 
 sourcedir = "#{File.dirname(__FILE__)}/../tmp/resources"
-targetdir = "#{File.dirname(__FILE__)}/../tmp/cicorecords"
-
-
-logger = Logger.new(STDOUT)
-records = []
-
-FileUtils.mkdir_p targetdir
-
-log = Logger.new(STDOUT)
-number_kept_files = 0
 
 Dir["#{sourcedir}/*.xml"].each do |file|
   record = Nokogiri::XML(File.read(file))
 
-  ids = record.xpath('//dc:identifier')
-  has_cico = ids.any? { |id| is_cico(id) }
+  has_cico = record.xpath('//dc:identifier').any? { |id|
+    is_cico(id)
+  }
 
-  collections = record.xpath('//dcterms:isPartOf')
-  in_collection = collections.any?{ |c| c.text == "Cicognara Collection"}
+  in_collection = record.xpath('//dcterms:isPartOf').any?{ |c|
+    c.text == "Cicognara Collection"
+  }
 
-  hasFormat = record.xpath('//dcterms:hasFormat')
+  has_manifest = record.xpath('//dcterms:hasFormat').length > 0
 
-  has_manifest = hasFormat.length > 0
-
-  if has_cico and in_collection and has_manifest
-    number_kept_files += 1
-    log.info("keeping #{file}")
-    FileUtils.cp file, targetdir
-  end
+  FileUtils.remove_file file unless
+    has_cico and in_collection and has_manifest
 end
-
-log.info("kept #{number_kept_files} files")
