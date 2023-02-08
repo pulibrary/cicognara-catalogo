@@ -20,5 +20,3 @@ for i in $FILES; do
   FN=`basename $i`
   unzip -o $FN -x resourcedump_manifest*
 done
-
-cd $CUR
