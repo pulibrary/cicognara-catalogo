@@ -1,7 +1,9 @@
 #!/bin/sh
 
 CUR=`dirname $0`
-SOURCEDIR=$CUR/../tmp/cicorecords
-TARGETDIR=$CUR/../getty/records
+SOURCEDIR=$CUR/../tmp/resources
+TARGETDIR=$CUR/../tmp/getty_tei
 XSL=$CUR/getty_to_tei.xsl
-java -cp ./saxon-he-10.5.jar net.sf.saxon.Transform -s:$SOURCEDIR -xsl:$XSL -o:$TARGETDIR
+
+mkdir -p $TARGETDIR
+java -cp $CUR/saxon-he-10.5.jar net.sf.saxon.Transform -s:$SOURCEDIR -xsl:$XSL -o:$TARGETDIR
