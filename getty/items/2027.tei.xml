@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2027</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2027</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>EUSTACHE</author>, <title>Les amours d’Ismene et d’Ismenias</title>, traduit par Beauchamps, <pubPlace>Amst.</pubPlace> <date>1708</date>, in 8.
+  Le tavole sono intagliale da B. Picard.
+  <note>È strana la teoria del bello espressa nel libro 3 ove si dice in proposito della bellezza d’Ismenia: Tutto il di Lei
+  viso era un perfetto circolo, ed il naso vi stava, al centro.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les amours d'Ismene et d'Ismenias [microform] / par Mr. De Beauchamps ; avec figures.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Eustathius, Macrembolites, active 12th century. De Ismeniae et Ismenes amoribus libri XI. French</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n35v17</idno>
+            <idno type="cico">2027</idno>
+            <idno type="dcl">hs0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les amours d'Ismene et d'Ismenias [microform] / par Mr. De Beauchamps ; avec figures.</title>
+                  <respStmt>
+                     <persName>Beauchamps, Pierre-François Godart de, 1689-1761.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez François l'Honoré</publisher>
+                     <date>1729</date>
+                  </imprint>
+                  <extent>158 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f1c6e140-a0f8-4a09-b1c1-4a922f5e7f46/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f1c6e140-a0f8-4a09-b1c1-4a922f5e7f46/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

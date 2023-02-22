@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1897</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1897</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FARLEI</author>, <title>Lychnocausia, sive moralia emblemata etc. Light Morall Emblems</title>, <pubPlace>London</pubPlace> <date>1638</date>, in
+    ottavo.
+    <note>Sono 58 tavole in legno colle illustrazioni latine e inglesi in versi. Bibl. Malborough.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lychnocausia, sive moralia facum emblemata [microform] = Lights morall emblems / authore Roberto Farlaeo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pw154p</idno>
+            <idno type="cico">1897</idno>
+            <idno type="dcl">x25</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lychnocausia, sive moralia facum emblemata [microform] = Lights morall emblems / authore Roberto Farlaeo.</title>
+                  <respStmt>
+                     <persName>Farlie, Robert.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by Tho. Cotes, for Michael Sparke Iunior and are to be sold at the blue Bible in Greene Arbor</publisher>
+                     <date>1638</date>
+                  </imprint>
+                  <extent>[133] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/becec4e6-9e74-4693-ae4e-003c7d66bf84/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/becec4e6-9e74-4693-ae4e-003c7d66bf84/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

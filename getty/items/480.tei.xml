@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 480</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">480</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CORDEMOY</author>,
+                     <title> Nouveau traité de toutes architectures utile aux entrepreneurs, aux ouvriers et à
+	ceux qui foni bâtir ec.,</title> 
+                     <pubPlace>Paris,</pubPlace>
+                     <publisher> chez Coignard,</publisher>
+                     <date> 1706,</date>
+                     <extent> in 12 fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouveau traité de toute l'architecture utile aux entrepreneurs, aux ouvriers, &amp; à ceux qui font bâtir [microform] : où l'on trouvera aisément &amp; sans fraction, la mesure de chaque ordre de colonne, &amp; ce qu'il faut observer dans les edifices publics, ou particuliers / par M. de Cordemoy.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g84q8g</idno>
+            <idno type="cico">480</idno>
+            <idno type="dcl">wv6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouveau traité de toute l'architecture utile aux entrepreneurs, aux ouvriers, &amp; à ceux qui font bâtir [microform] : où l'on trouvera aisément &amp; sans fraction, la mesure de chaque ordre de colonne, &amp; ce qu'il faut observer dans les edifices publics, ou particuliers / par M. de Cordemoy.</title>
+                  <respStmt>
+                     <persName>Cordemoy, Jean-Louis de, approximately 1631-1713.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Jean-Baptiste Coignard</publisher>
+                     <date>1706</date>
+                  </imprint>
+                  <extent>216, [14] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/07e29dfe-720c-46ff-b6ab-b77e0e65a7ed/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/07e29dfe-720c-46ff-b6ab-b77e0e65a7ed/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

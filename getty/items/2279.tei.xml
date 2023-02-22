@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2279</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2279</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GOLTZII Huberti</author>, <title>Lamberti Lombardi apud Eburones pictoris celeberrimi vita: pictoribus,
+    sculptoribus, architectis, aliisque id genus artificibus utilis et necessaria</title>, <pubPlace>Burgiis Fland.</pubPlace>, ex
+    officina <publisher>Huberti Golzii</publisher>, <date>1565</date>.
+    <note>Elegantissimo e raro opuscolo con un bellissimo ritratto del Lombardi.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lamberti Lombardi apud Eburones pictoris celeberrimi vita [microform] : pictoribus, sculptoribus, architectis, aliisque id genus artificibus vtilis et necessaria.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fx334p</idno>
+            <idno type="cico">2279</idno>
+            <idno type="dcl">q89</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lamberti Lombardi apud Eburones pictoris celeberrimi vita [microform] : pictoribus, sculptoribus, architectis, aliisque id genus artificibus vtilis et necessaria.</title>
+                  <respStmt>
+                     <persName>Lampsonius, Dominicus, 1532-1599.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Brugis Fland. : Ex officina Huberti Goltzij</publisher>
+                     <pubPlace>Belgium</pubPlace>
+                     <date>1565</date>
+                  </imprint>
+                  <extent>37 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2a0973bd-b6b5-4bcd-b759-8eea67bd7836/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2a0973bd-b6b5-4bcd-b759-8eea67bd7836/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

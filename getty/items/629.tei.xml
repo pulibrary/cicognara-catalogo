@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 629</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">629</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>RANDONI Carlo</author>, 
+                     <title>Degli ornamenti d’architettura e delle loro simetrie colle regole teoricopratiche per ben profilare ogni genere di cornici,</title> 
+                     <pubPlace>Parma</pubPlace> 
+                     <date>1813,</date> 
+                     <extent>in 4, fig.</extent>
+	                    <note>Con 15 tavole intagliate in rame dall’autore.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Degli ornamenti d'architettura e delle loro simmetrie, colle regole teorico-pratiche per ben profilare ogni genere di cornici [microform] / opera di Carlo Randoni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985147733506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cw3m28</idno>
+            <idno type="cico">629</idno>
+            <idno type="dcl">fvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Degli ornamenti d'architettura e delle loro simmetrie, colle regole teorico-pratiche per ben profilare ogni genere di cornici [microform] / opera di Carlo Randoni ...</title>
+                  <respStmt>
+                     <persName>Randoni, Carlo, 1755-1831.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Blanchon</publisher>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>viii, 159 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f7bd4ef4-6cf5-4568-a51f-eaf59fc1c0e1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f7bd4ef4-6cf5-4568-a51f-eaf59fc1c0e1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Degli ornamenti d'architettura e delle loro simmetrie : colle regole teorico-pratiche per ben profilare ogni genere di cornici / opera di Carlo Randoni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923306020001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6t647m</idno>
+            <idno>(OCoLC)21767769</idno>
+            <idno type="cico">629</idno>
+            <idno type="dcl">fvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Degli ornamenti d'architettura e delle loro simmetrie : colle regole teorico-pratiche per ben profilare ogni genere di cornici / opera di Carlo Randoni.</title>
+                  <respStmt>
+                     <persName>Randoni, Carlo, 1755-1831</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Dalla stamperia Blanchon</publisher>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>viii, 159 p., [16] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c095a078-4967-4b36-ad35-d706e175b498"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c095a078-4967-4b36-ad35-d706e175b498">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

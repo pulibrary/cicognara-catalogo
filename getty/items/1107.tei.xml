@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1107</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1107</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>OVIDE</author>, <title>Les Métamorphoses en latin et en français de la traduction de M. l’abbé Banier</title> avec
+      des explications historiqnes et des gravures sur les desseins des meilleurs peintres français par
+      les soins des Sieurs Le Mire et Basan graveurs, <pubPlace>Paris</pubPlace> <date>1767, 1771</date>, 4 vol. en 4, avec 141
+      planches.
+      <note>Prima edizione e ricchissima, per riconoscer la quale, ol <pb type="cico" n="196"/>tre alla freschezza dette stampe, osservisi che
+      nella seconda, alla pag. 215 del tomo terzo è posto il num. 109 e la data del titolo del tomo quarto è segnata 1770
+      invece che 1771.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les Metamorphoses d'Ovide [microform] : en latin et en françois / de la traduction de m. l'abbé Banier ... avec des explications historiques ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Banier, M. l'abbé (Antoine), 1673-1741.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/498r2n</idno>
+            <idno type="cico">1107</idno>
+            <idno type="dcl">7vx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les Metamorphoses d'Ovide [microform] : en latin et en françois / de la traduction de m. l'abbé Banier ... avec des explications historiques ...</title>
+                  <respStmt>
+                     <persName>Ovid, 43 B.C.-17 A.D. or 18 A.D.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Panckoucke</publisher>
+                     <date>1767-71</date>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>28 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9786c6c4-95e9-4791-8f87-bdd19a6fef8e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9786c6c4-95e9-4791-8f87-bdd19a6fef8e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1957</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1957</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Simone Gabriele</author>, <title>Dialogo pio et speculativo con diverse sentenze latine e volgari</title>, <pubPlace>Lione</pubPlace>,
+    presso <publisher>Guglielmo Rovillio</publisher>, <date>1560</date>, in 4, fig.
+    <note>Con diverse medaglie, imprese e monumenti intagliati in legno collocati fra il testo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo pio et specvlativo : con diuerse sentenze, Latine &amp; volgari / di M. Gabriel Symeoni Fiorentino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Eskrich, Pierre, approximately 1530-approximately 1590</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923038360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jt5m2m</idno>
+            <idno>(OCoLC)34950573</idno>
+            <idno type="cico">1957</idno>
+            <idno type="dcl">n84</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo pio et specvlativo : con diuerse sentenze, Latine &amp; volgari / di M. Gabriel Symeoni Fiorentino.</title>
+                  <respStmt>
+                     <persName>Simeoni, Gabriele, 1509-1575</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lione : Apresso Gvglielmo Roviglio</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Auvergne (France)</pubPlace>
+                     <date>1560</date>
+                  </imprint>
+                  <extent>230, [16] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/df8aaf6b-f535-4990-8fc3-3bdc8f18c6b1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/df8aaf6b-f535-4990-8fc3-3bdc8f18c6b1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo Pio Et Specvlativo: Con diuerse sentenze latine &amp; volgari</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Simeoni, Gabriello, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-277150</idno>
+            <idno type="URI">http://portal.getty.edu/api/z52099</idno>
+            <idno type="cico">1957</idno>
+            <idno type="dcl">n84</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo Pio Et Specvlativo: Con diuerse sentenze latine &amp; volgari</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1560</date>
+                     <date>1560</date>
+                  </imprint>
+                  <extent>230 S., [7] Bl.</extent>
+                  <extent>Ill., [1] Faltkt.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/simeoni1560/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/simeoni1560/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

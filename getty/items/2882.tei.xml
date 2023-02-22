@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2882</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2882</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HIRSCH Johann Christoph</author>, <title>Bibliotheca numismatica, exhibens catalogum auctorum, qui de re monetaria, et
+                        nummis scripsere</title>,<pubPlace> Norimbergae</pubPlace>
+                    <date> 1760</date>, in fol.
+<note>Questo sarebbe libro da rifarsi per le immense e preziose opere di questo genere, venute in luce dopo
+   l’impressione di questa biblioteca, che per le opere moderne non serve a nulla</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca numismatica, exhibens catalogvm avctorvm qvi de re monetaria et nvmis tam antiqvis qvam recentioribvs scripsere; collecta, et indice rervm instrvcta à John. Christ. Hirsch.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Heredes Felseckeri.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929988810001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vr6b8m</idno>
+            <idno>(OCoLC)8611416</idno>
+            <idno type="cico">2882</idno>
+            <idno type="dcl">ccd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bibliotheca numismatica, exhibens catalogvm avctorvm qvi de re monetaria et nvmis tam antiqvis qvam recentioribvs scripsere; collecta, et indice rervm instrvcta à John. Christ. Hirsch.</title>
+                  <respStmt>
+                     <persName>Hirsch, Johann Christoph, 1698-1780</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae, Impens. hered. Felseckeri</publisher>
+                     <pubPlace>Germany Nuremberg.</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>4 preliminary leaves, 232, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/52ed0cdf-b34a-4ac3-81eb-29282fa286a8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/52ed0cdf-b34a-4ac3-81eb-29282fa286a8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

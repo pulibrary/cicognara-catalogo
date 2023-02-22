@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2423</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2423</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALBERTO Magno</author>, <title>De’ secreti: nel quale tratta della virtù delle erbe, pietre e ani mali</title>, <date>1545</date>, in
+    8, p,
+    — <bibl>Aggiuntovi: <title>La Fisonomia naturale</title> di <author>Michel Scotto</author>, <date>1555</date>, in 8, pic.</bibl>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De' secretti [microform] : nel quale tratta della virtù delle herbe, pietre &amp; animali / Alberto Magno.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wk7z9d</idno>
+            <idno type="cico">2423</idno>
+            <idno type="dcl">78r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De' secretti [microform] : nel quale tratta della virtù delle herbe, pietre &amp; animali / Alberto Magno.</title>
+                  <respStmt>
+                     <persName>Albertus, Magnus, Saint, 1193?-1280.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n.]</publisher>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>94 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d2150844-2e55-46cf-8d74-f0d349022a34/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d2150844-2e55-46cf-8d74-f0d349022a34/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La physionomia natural [microform] / di Michel Scotto.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985345063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/96607r</idno>
+            <idno type="cico">2423</idno>
+            <idno type="dcl">p5d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La physionomia natural [microform] / di Michel Scotto.</title>
+                  <respStmt>
+                     <persName>Scot, Michael, approximately 1175-approximately 1234.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n.]</publisher>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/362d2c8c-92c1-430e-bb46-362b717e88de/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/362d2c8c-92c1-430e-bb46-362b717e88de/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

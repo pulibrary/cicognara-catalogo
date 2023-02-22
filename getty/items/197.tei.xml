@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 197</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">197</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>REYNOLDS Josué</author>, 
+                     <title>Discours prononcés à l’Accademie Royale de Londres, traduit de l’anglais, 2
+	  vol.,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1787,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discours prononcés a l'Académie Royale de Peinture de Londres [microform] / par M. Josué Reynolds ... Suivis des Notes du même auteur, sur le poëme de l'Art de peindre, de Dufresnoy ; le tout traduit de l'anglois ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Royal Academy of Arts (Great Britain)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bg4z9d</idno>
+            <idno type="cico">197</idno>
+            <idno type="dcl">8k3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discours prononcés a l'Académie Royale de Peinture de Londres [microform] / par M. Josué Reynolds ... Suivis des Notes du même auteur, sur le poëme de l'Art de peindre, de Dufresnoy ; le tout traduit de l'anglois ...</title>
+                  <respStmt>
+                     <persName>Reynolds, Joshua, Sir, 1723-1792.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Moutard</publisher>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e4e80973-863e-429c-82f4-548a1b5dc74c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e4e80973-863e-429c-82f4-548a1b5dc74c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 326</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">326</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>GROSE François</author>, 
+                     <title>Principes de caricature suivis d’un essai sur la peinture comique, traduit en
+	français avec des augmentation, </title>
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1802,</date>
+                     <extent> in 8, fig.</extent>
+	                    <note>Edizione elegantemente pubblicata da Renouard e arricchita con 28 tavole curiosissime, oltre il ritratto
+	dell’autore inglese in principio.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principes de caricatures [microform] : suivis d'un essai sur la peinture comique / par François Grose ; traduits en français, avec es augmentations.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Renouard, Ant. Aug. (Antoine Augustin), 1765-1853.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xn585s</idno>
+            <idno type="cico">326</idno>
+            <idno type="dcl">qnw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Principes de caricatures [microform] : suivis d'un essai sur la peinture comique / par François Grose ; traduits en français, avec es augmentations.</title>
+                  <respStmt>
+                     <persName>Grose, Francis, 1731?-1791.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Antoine-Agustin Renouard</publisher>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>48 p., [23] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/158f45c3-7ce2-4061-871f-3a4f14421903/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/158f45c3-7ce2-4061-871f-3a4f14421903/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

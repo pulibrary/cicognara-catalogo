@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1241</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1241</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CICOGNARA Leopoldo</author>, <title>Dei quattro cavalli riposti sul pronao della Basilica di S. Marco</title>,
+    Narrazione Storica, <pubPlace>Venezia</pubPlace> <date>1815</date>, in 4, M. 7.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dei quattro cavalli riposti sul pronao della Basilica di S. Marco : narrazione storica.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929353190001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/724v1w</idno>
+            <idno>(OCoLC)214294753</idno>
+            <idno type="cico">1241</idno>
+            <idno type="cico">3494</idno>
+            <idno type="dcl">v27</idno>
+            <idno type="dcl">wjz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dei quattro cavalli riposti sul pronao della Basilica di S. Marco : narrazione storica.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Alvisopoli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>34 [i.e. 36] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/fc3a254e-53a3-41dd-a0ad-fe5051309443"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fc3a254e-53a3-41dd-a0ad-fe5051309443">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dei quattro cavalli riposti sul pronao della Basilica di S. Marco [microform] : narrazione storica / [Leopoldo Cicognara].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985463123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c16s0z</idno>
+            <idno type="URI">http://portal.getty.edu/api/ft321j</idno>
+            <idno type="cico">1241</idno>
+            <idno type="cico">3494</idno>
+            <idno type="dcl">v27</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dei quattro cavalli riposti sul pronao della Basilica di S. Marco [microform] : narrazione storica / [Leopoldo Cicognara].</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venice : Dalla Tipografia di Alvisopoli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>36 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b39b0ace-d8e6-4f8f-8a6c-720260b89d40/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b39b0ace-d8e6-4f8f-8a6c-720260b89d40/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

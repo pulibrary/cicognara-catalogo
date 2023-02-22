@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2353</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2353</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RATTI Carlo Giuseppe</author>, <title>Epilogo della vita del fu Cav. Antonio Rafaello Mengs, primo pittor di
+    Camera di S. M. Cattolica</title>, <pubPlace>Genova</pubPlace> <date>1779</date>, in 4, gr.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epilogo della vita del fu cavalier Antonio Raffaello Mengs, primo pittor di Camera .. [microform] / scritto da Carlo Giuseppe Ratti ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rp593r</idno>
+            <idno type="cico">2353</idno>
+            <idno type="dcl">r5b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Epilogo della vita del fu cavalier Antonio Raffaello Mengs, primo pittor di Camera .. [microform] / scritto da Carlo Giuseppe Ratti ...</title>
+                  <respStmt>
+                     <persName>Ratti, Carlo Giuseppe, 1737-1795.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Genova : Nella stamperia del Casamara dalle cinque Lampadi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1779</date>
+                  </imprint>
+                  <extent>XXX p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/17e172ef-b41e-4ab7-9a76-7be772a01131/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/17e172ef-b41e-4ab7-9a76-7be772a01131/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

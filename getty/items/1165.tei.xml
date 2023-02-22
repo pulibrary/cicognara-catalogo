@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1165</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1165</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>LETTERA dell’anonimo difensore del Padre Corsini al Sig. Ab. Amaduzzi</title>, <pubPlace>Pisa</pubPlace> <date>1773</date>, in 12,
+    M. 67.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera dell'anonimo difensore del P. Corsini al sig. abate Gio: Cristofano Amaduzzi .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Amaduzzi, Giovanni Cristoforo, 1740-1792.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sh013w</idno>
+            <idno type="cico">1165</idno>
+            <idno type="dcl">v4z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera dell'anonimo difensore del P. Corsini al sig. abate Gio: Cristofano Amaduzzi .. [microform].</title>
+                  <respStmt>
+                     <persName>Marini, Gaetano, 1742-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Pisa : Appresso li Fratelli Pizzorni</publisher>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>56 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ecc95e30-7d3c-4b73-a5b7-0060ce14980f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ecc95e30-7d3c-4b73-a5b7-0060ce14980f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

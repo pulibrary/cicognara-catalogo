@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 53</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">53</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>SALMON William</author>,
+                     <title> Polygraphice or the arts of drawing, engraving, limning, painting, etc. In four
+	  books to with is added a discourse of perspective, and chiromance,</title> 
+                     <pubPlace>London</pubPlace> 
+                     <date>1675,</date>
+                     <extent> 8 fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Polygraphice, or, The arts of drawing, engraving, etching, linning, painting, washing, varnishing, gilding, colouring, dying, beautifying and perfuming, in four books .. [microform] : to which is added, a discourse of perspective and chiromancy / by William Salmon.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c7473h</idno>
+            <idno type="cico">53</idno>
+            <idno type="dcl">zjd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Polygraphice, or, The arts of drawing, engraving, etching, linning, painting, washing, varnishing, gilding, colouring, dying, beautifying and perfuming, in four books .. [microform] : to which is added, a discourse of perspective and chiromancy / by William Salmon.</title>
+                  <respStmt>
+                     <persName>Salmon, William, 1644-1713.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by Andr. Clark, for John Crumpe</publisher>
+                     <date>1675</date>
+                  </imprint>
+                  <extent>407 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7ee3bfac-34d5-4c75-9511-f8507beda9f7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7ee3bfac-34d5-4c75-9511-f8507beda9f7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

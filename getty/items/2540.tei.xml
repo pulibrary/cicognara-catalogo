@@ -1,0 +1,116 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2540</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2540</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NIEBUHR</author>, <title>Recueil des questions proposées à une societé de savants qui font le voyage de l’Arabie par M.
+Michaelis, avec un extrait de la description de 1’Arabie</title>, <pubPlace>Amsterdam</pubPlace> <date>1774</date>, in 4.
+<note>In questi quattro volumi riunisconsi le migliori notizie riguardo ad ogni costumanza di quei popoli.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de questions proposées à une société de savans, qui par ordre de Sa Majesté Danoise font le voyage de l'Arabie</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Michaelis, Johann David, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-288432</idno>
+            <idno type="URI">http://portal.getty.edu/api/zs1h4b</idno>
+            <idno type="cico">2540</idno>
+            <idno type="dcl">jk1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de questions proposées à une société de savans, qui par ordre de Sa Majesté Danoise font le voyage de l'Arabie</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1774</date>
+                     <date>1774</date>
+                  </imprint>
+                  <extent>XLIV, 256, 38 S.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/michaelis1774/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/michaelis1774/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de questions proposées à une société de savants, qui par ordre de Sa Majesté danoise font le voyage de l'Arabie [microform] / par Monsieur Michaelis ... traduit de l'allemand.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mérian, Jean-Bernard, 1723-1807.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g1615t</idno>
+            <idno type="cico">2540</idno>
+            <idno type="dcl">jk1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de questions proposées à une société de savants, qui par ordre de Sa Majesté danoise font le voyage de l'Arabie [microform] / par Monsieur Michaelis ... traduit de l'allemand.</title>
+                  <respStmt>
+                     <persName>Michaelis, Johann David, 1717-1791.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>À Amsterdam : Chez S.J. Baalde ;</publisher>
+                     <pubPlace>Arabian Peninsula</pubPlace>
+                     <date>1774</date>
+                  </imprint>
+                  <extent>XLIV, 256, [16], 38 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4e7907dd-219b-43b7-835b-4e4240d8154a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4e7907dd-219b-43b7-835b-4e4240d8154a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

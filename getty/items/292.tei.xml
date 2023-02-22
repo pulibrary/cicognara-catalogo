@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 292</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">292</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BARISIONI Giovanni</author>, 
+                     <title>Il vero lume dell’arte dello scrivere, col quale Giovanni Barisioni
+	privilegiato dalla Ser. Rep. di Venezia insegna in una sola lezione a formare il vero carattere
+	cancelleresco ad ogni persona, dedicato al sig. Paolo Sarotti,</title> stampato in Venezia dall’autore,
+	<date>l’anno 1607,</date> 
+                     <extent>in 4, obl.</extent>
+	                    <note>Questo esemplare di dedica è tutto in fondo d’oro lucente nelle prime tre pagine miniate e figurate. 8 foglietti
+
+	                       sono im<pb type="cico" n="51"/> pressi coi tipi e dodici sono le tavole di caratteri intagliate in rame.</note>
+
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il vero lume dell'arte dello scrivere [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g95d2b</idno>
+            <idno type="cico">292</idno>
+            <idno type="dcl">jvk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il vero lume dell'arte dello scrivere [microform]</title>
+                  <respStmt>
+                     <persName>Barisoni, Giovanni.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venice : s.n]</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>[1607]</date>
+                     <date>1607</date>
+                  </imprint>
+                  <extent>8 numb. leaves, [13] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0cc0c88f-f98b-4b00-a60d-51422629524a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0cc0c88f-f98b-4b00-a60d-51422629524a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

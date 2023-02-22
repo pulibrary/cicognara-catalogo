@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3144</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3144</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SALOMONI Jacobi</author>, <title>Urbis Patavinae inscriptiones sacrae et prophanae, quibus accedunt vulgatae anno 1644 a Jac.
+Phil. Tomasino</title>, <pubPlace>Patavii</pubPlace> <date>1701</date>, in 4, fig.
+<note>Volume di oltre 600 pagine, ove trovasi unito alla rinfusa il buono e il cattivo in questa materia, poiché l’autore
+non fu che un materiale raccoglitore, senza critica.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Urbis patavinae inscriptiones sacrae, et prophanae ... / quibus accedunt vulgatae anno M. DC. XLIV à Jacobo Philippo Tomasino ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w61m08</idno>
+            <idno>(OCoLC)84416804</idno>
+            <idno type="cico">3144</idno>
+            <idno type="dcl">h02</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Urbis patavinae inscriptiones sacrae, et prophanae ... / quibus accedunt vulgatae anno M. DC. XLIV à Jacobo Philippo Tomasino ...</title>
+                  <respStmt>
+                     <persName>Tomasini, Giacomo Filippo, 1595-1655.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Sumptibus Jo :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>1701</date>
+                  </imprint>
+                  <extent>631, [1] pages</extent>
+                  <extent>10 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0d402981-0a02-4c79-86fa-5c0f07ba9498/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0d402981-0a02-4c79-86fa-5c0f07ba9498/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

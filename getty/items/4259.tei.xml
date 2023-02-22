@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4259</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4259</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MANNLICH</author>, <title>Notice des tableaux de la Galérie Royale de Munic</title>, <pubPlace>Munic</pubPlace> <date>1818</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notice des tableaux de la galerie royale de Munic.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Alte Pinakothek (Munich, Germany)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924572900001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/r92581</idno>
+            <idno>(OCoLC)7725418</idno>
+            <idno type="cico">3424</idno>
+            <idno type="cico">4259</idno>
+            <idno type="dcl">kk3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notice des tableaux de la galerie royale de Munic.</title>
+                  <respStmt>
+                     <persName>Alte Pinakothek (Munich, Germany)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Munic. : Se vend a la galerie</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>180 [i.e. 168], [2] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f40a7558-8064-4fd3-ab89-3028b0ca0ed0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f40a7558-8064-4fd3-ab89-3028b0ca0ed0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notice des tableaux de la galerie royale de Munic [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mannlich, Johann Christian von, 1741-1822.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vf9z1b</idno>
+            <idno type="cico">4259</idno>
+            <idno type="dcl">kk3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notice des tableaux de la galerie royale de Munic [microform].</title>
+                  <respStmt>
+                     <persName>Alte Pinakothek (Munich, Germany)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Munic. : Se vend a la galerie</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>vi, [7]-180 [i.e. 168] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d93d0e88-438d-4856-baa4-9adebf2b2b9d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d93d0e88-438d-4856-baa4-9adebf2b2b9d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

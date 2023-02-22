@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 268</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">268</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>WELLER Singer Samuel</author>, 
+                     <title>Rescerches into the history of payng card, with illustrations of the
+	<fw type="foot"/>
+	                       <pb type="memofonte"/>
+	                       <fw type="head"/>
+	
+	origin of painting and engraving on wood,</title> 
+                     <pubPlace>London</pubPlace> 
+                     <date>1816</date>, <extent>in 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Researches into the history of playing cards [microform] : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6p4w00</idno>
+            <idno type="cico">268</idno>
+            <idno type="dcl">dc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Researches into the history of playing cards [microform] : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
+                  <respStmt>
+                     <persName>Singer, Samuel Weller, 1783-1858.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by T. Bensley and Son for Robert Triphook</publisher>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>xvi, 373 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99ec66dd-8a3a-4924-ac4f-f4c0197c7ff9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99ec66dd-8a3a-4924-ac4f-f4c0197c7ff9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Researches into the history of playing cards : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Triphook, Robert.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990066029420203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/rn7f0r</idno>
+            <idno>(OCoLC)9179365</idno>
+            <idno type="cico">268</idno>
+            <idno type="dcl">dc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Researches into the history of playing cards : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
+                  <respStmt>
+                     <persName>Singer, Samuel Weller, 1783-1858, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by T. Bensley and Son for Robert Triphook</publisher>
+                     <pubPlace>England London.</pubPlace>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>xvi, 2 unnumbered pages, 373 pages, 3 unnumbered pages, 19 unnumbered leaves of plates (some color)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481957751"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481957751">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

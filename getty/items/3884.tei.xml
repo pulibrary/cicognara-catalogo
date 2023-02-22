@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3884</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3884</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SIDONE Raffaele, e Martinetti Antonio</author>, <title>De’ pregi e nuova struttura della Basilica Vaticana</title>. Libri due, 2, vol. in
+uno, <pubPlace>Roma</pubPlace> <date>1750</date> anno del Giubileo, in 8.
+<note>Libro fatto con sterilità, e fallacia di cognizioni.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della sacrosanta basilica di S. Pietro in Vaticano [microform] : libri due : nel primo de'quali trattasi delle di lei prerogative : nel secondo ragionasi della nuova struttura della medesima.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Martinetti, Antonio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3c7556</idno>
+            <idno type="cico">3884</idno>
+            <idno type="dcl">hw3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della sacrosanta basilica di S. Pietro in Vaticano [microform] : libri due : nel primo de'quali trattasi delle di lei prerogative : nel secondo ragionasi della nuova struttura della medesima.</title>
+                  <respStmt>
+                     <persName>Sindone, Raffaele.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Giovanni Maria Salvioni</publisher>
+                     <date>L'anno del Giubileo 1750</date>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>2 v. (207, 230 p.)</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/20b0fe6f-c88a-4050-ab5e-38421a83f831/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/20b0fe6f-c88a-4050-ab5e-38421a83f831/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

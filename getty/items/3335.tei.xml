@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3335</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3335</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SCHURZFLEISCHIUS Henricus Leonardus</author>, <title>Variarum lectionum et animadversionum in Titi Livii libros qui extant
+etc.</title>, <pubPlace>Halae</pubPlace> <date>1712</date>, M. 41.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Variarum lectionum et animadversionum in Titi LivI historiarum qui extant libros [microform]: a Iano Gebhardo ... olim ex tribus codicibus Bibliothecae Palatinae erutarum et huc vsque nondum editarum specimen ad primum LivI librum dare volit / Henricus Leonardus Schurzfleischius.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gebhard, Jan, 1592-1632.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3x614h</idno>
+            <idno type="cico">3335</idno>
+            <idno type="dcl">vc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Variarum lectionum et animadversionum in Titi LivI historiarum qui extant libros [microform]: a Iano Gebhardo ... olim ex tribus codicibus Bibliothecae Palatinae erutarum et huc vsque nondum editarum specimen ad primum LivI librum dare volit / Henricus Leonardus Schurzfleischius.</title>
+                  <respStmt>
+                     <persName>Schurzfleisch, Heinrich Leonhard, d. 1723.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Prostat Halae : Apud Io. Godofredum Rengerum</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>[1712]</date>
+                     <date>1712</date>
+                  </imprint>
+                  <extent>32 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f93238d3-a8e2-48ed-9472-beb4bebf2a95/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f93238d3-a8e2-48ed-9472-beb4bebf2a95/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

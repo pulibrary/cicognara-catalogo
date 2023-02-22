@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2509</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2509</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ADLER Jacobus Georgius</author>, <title>Descriptio codicum quorundam Cuficorum partes Corani exhibentium etc. Praemittitur
+disquisitio generalis de arte scribendi apud Arabos</title>, <pubPlace>Altonae</pubPlace> <date>1780</date>, in 4, M 45.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descriptio codicum quorundam cuficorum partes Corani exhibentium in Bibliotheca Regia Hafniensi et ex iisdem de scriptura cufica arabum observationes novae [microform] : praemittitur disquisitio generalis de arte scribendi apud arabes ex ipsis auctoribus arabicis iisque adhuc ineditas sumta / auctore Iacobo Georgio Christiano Adler.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6h2s4b</idno>
+            <idno type="cico">2509</idno>
+            <idno type="dcl">bgm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descriptio codicum quorundam cuficorum partes Corani exhibentium in Bibliotheca Regia Hafniensi et ex iisdem de scriptura cufica arabum observationes novae [microform] : praemittitur disquisitio generalis de arte scribendi apud arabes ex ipsis auctoribus arabicis iisque adhuc ineditas sumta / auctore Iacobo Georgio Christiano Adler.</title>
+                  <respStmt>
+                     <persName>Adler, Jacob Georg Christian, 1756-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Altonae : Ex Officina Eckhardiana</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>34 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d2c2d923-8358-47a4-a8ce-0916f8da3f20/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d2c2d923-8358-47a4-a8ce-0916f8da3f20/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

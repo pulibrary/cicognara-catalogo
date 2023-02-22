@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2271</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2271</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GARATONII Gasp.</author>, <title>De vita Eustachii Zanotti commentarius</title>, <pubPlace>Romae</pubPlace> <date>1780</date>, in 8, M. 48, con una
+    tavola in principio.
+    <note>Le vite degli uomini come i Zanotti, i Maffei e altri cultori delle arti e delle antichità fanno di diritto parte nella
+    biografia degli artisti.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De vita Eustachii Zanotti [microform] : commentarius iterum editus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985451403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rg6m60</idno>
+            <idno type="cico">2271</idno>
+            <idno type="dcl">w26</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De vita Eustachii Zanotti [microform] : commentarius iterum editus.</title>
+                  <respStmt>
+                     <persName>Garatoni, Gaspari, 1743-1817.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : E typographia Salomoniana</publisher>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>47 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a2728ad6-77fb-4c48-a7ef-5d190582a122/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a2728ad6-77fb-4c48-a7ef-5d190582a122/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 118</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">118</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DURAND David</author>,
+                     <title> Histoire de la peinture ancienne extraite de l’histoire de la peinture de Pline,
+	  livre 35 avec le texte latin etc.,</title> 
+                     <pubPlace>Londres</pubPlace> 
+                     <date>1725,</date> 
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire de la peinture ancienne [microform] : extraite de l'Hist. naturelle de Pline, Liv. XXXV / avec le texte latin, corrigé sur les Mss. de Vossius &amp; sur la I. Ed. de Venise, &amp; éclairci par des remarques nouvelles ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Durand, David, 1680-1763.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mm1b2j</idno>
+            <idno type="cico">118</idno>
+            <idno type="dcl">7p4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire de la peinture ancienne [microform] : extraite de l'Hist. naturelle de Pline, Liv. XXXV / avec le texte latin, corrigé sur les Mss. de Vossius &amp; sur la I. Ed. de Venise, &amp; éclairci par des remarques nouvelles ...</title>
+                  <respStmt>
+                     <persName>Pliny, the Elder</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>A Londres : Chez Guillaume Bowyer</publisher>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>[6], 308, [8] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a99aef79-0d51-4057-979c-3c0068b315c5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a99aef79-0d51-4057-979c-3c0068b315c5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

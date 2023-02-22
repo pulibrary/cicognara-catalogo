@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2277</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2277</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIOVIO Monsig. Paolo</author>, <title>La vita di Alfonso d’Este Duca di Ferrara tra <pb type="cico" n="388"/> dotta in toscano
+    da Giovan Battista Gelli fiorentino</title>, <pubPlace>Venezia</pubPlace> <date>1597</date>, in 12.
+    <note>Le memorie che riguardano i principi d’Este di quest’epoca appartengono alle arti poiché parlano di signori e
+    mecenati nobilissimi e protettori d’ogni studio, d’ogni ingegno, d’ogni patria grandezza.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La vita di Alfonso da Este Duca di Ferrara [microform] / di Mons. Paolo Giovio ... ; tradotta in lingua Toscana, da Giouambattista Gelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gelli, Giovanni Battista, 1498-1563.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/963209</idno>
+            <idno type="cico">2277</idno>
+            <idno type="dcl">wz8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La vita di Alfonso da Este Duca di Ferrara [microform] / di Mons. Paolo Giovio ... ; tradotta in lingua Toscana, da Giouambattista Gelli ...</title>
+                  <respStmt>
+                     <persName>Giovio, Paolo, 1483-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Gio. Battista &amp; Gio. Bernardo Sessa</publisher>
+                     <pubPlace>Nobility</pubPlace>
+                     <date>1597</date>
+                  </imprint>
+                  <extent>552 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1b7edbfc-4dc8-4fb0-807a-8788b19ba592/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1b7edbfc-4dc8-4fb0-807a-8788b19ba592/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

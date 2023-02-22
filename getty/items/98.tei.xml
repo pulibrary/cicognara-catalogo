@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 98</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">98</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CARDUCHO Vincencio</author>,
+                     <title> Dialogo della pintura, su defensa, origen, essencia, etc.,</title>
+                     <pubPlace> Madrid </pubPlace>
+                     <date>1634,</date>
+                     <extent> in
+	  4, fig.</extent>
+                  </bibl>
+                <bibl>CARICATURE, Vedi Hollar, Mariette, Gerli, Grose.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogos de la pintvra : sv defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930266350001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/660676</idno>
+            <idno>(OCoLC)19702766</idno>
+            <idno type="cico">98</idno>
+            <idno type="dcl">dzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogos de la pintvra : sv defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+                  <respStmt>
+                     <persName>Carducho, Vicente, 1578-1638</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>En Madrid : Impresso con licencia por Frco. Martinez</publisher>
+                     <pubPlace>Spain Madrid.</pubPlace>
+                     <date>Ano de 1633</date>
+                     <date>1633</date>
+                  </imprint>
+                  <extent>[18] pages, 229 leaves, [25] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e215ca3d-24f6-4385-9591-71b90aad3699"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e215ca3d-24f6-4385-9591-71b90aad3699">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogos de la pintura [microform] : su defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3p1t78</idno>
+            <idno type="cico">98</idno>
+            <idno type="dcl">dzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogos de la pintura [microform] : su defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+                  <respStmt>
+                     <persName>Carducho, Vicente, 1578-1638.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>[En Madrid] : Impresso con licencia por Fr. ... Martinez</publisher>
+                     <date>Ano de 1633 [1634]</date>
+                     <date>1634</date>
+                  </imprint>
+                  <extent>[18] p., 229 leaves.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d6a6099b-f1d9-4f8c-ad3f-5cffedc97832/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d6a6099b-f1d9-4f8c-ad3f-5cffedc97832/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

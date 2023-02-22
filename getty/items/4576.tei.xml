@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4576</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4576</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>NOTICE des tableaux par les grands maîtres d’Italie composant le Cabinet de M. Cellotti de Venise</title>, <pubPlace>Paris</pubPlace>
+                    <date> 1807</date>, in
+                           8, <note>coi prezzi</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notice de tableaux, par les plus grands maitres d'italie et de quelques ouvrages anciens et précieux, des ecoles flamande, allemande et hollandaise [microform] : ainsi que de différens objets de curiosités, consistant en deux bustes antiques, de marbre de Paros ... composant le cabinet de M. Celotti, de Venise ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Delaroche, Henri.</authority>
+            <authority>Simonard, M.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1x7f2h</idno>
+            <idno type="cico">4576</idno>
+            <idno type="dcl">kzp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notice de tableaux, par les plus grands maitres d'italie et de quelques ouvrages anciens et précieux, des ecoles flamande, allemande et hollandaise [microform] : ainsi que de différens objets de curiosités, consistant en deux bustes antiques, de marbre de Paros ... composant le cabinet de M. Celotti, de Venise ...</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez H. Delaroche ... et chez M. Simonard</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1807]</date>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>31 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2e208359-cdab-499a-bb36-3889b06921b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2e208359-cdab-499a-bb36-3889b06921b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

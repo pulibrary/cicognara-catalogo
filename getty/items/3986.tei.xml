@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3986</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3986</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CIAMPI
+                    Sebastiano</author>, <title>Notizie inedite della
+                    sagrestia pistojese de’ belli arredi, del Campo
+                    Santo pisano; e di altre opere di disegno dal
+                    secolo XII al XV raccolte ed illustrate</title>, <pubPlace>Firenze</pubPlace>,
+                    <date>1810</date>, per <publisher>Molini e Landi</publisher>, in 4, fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie inedite della Sagrestia pistoiese de' belli arredi, del Campo Santo Pisano, e di altre opere di disegno dal secolo XII. al XV [microform] / raccolte ed illustrate dal professor Ciampi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Branchi, Giuseppe, b. 1766.</authority>
+            <authority>Viani, Giorgio, 1762-1816.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985422753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c40f8v</idno>
+            <idno type="cico">3986</idno>
+            <idno type="dcl">2gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie inedite della Sagrestia pistoiese de' belli arredi, del Campo Santo Pisano, e di altre opere di disegno dal secolo XII. al XV [microform] / raccolte ed illustrate dal professor Ciampi.</title>
+                  <respStmt>
+                     <persName>Ciampi, Sebastiano, 1769-1847.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Molini, Landi e compagno</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>vi, 156, 40 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e2e3378b-8969-409f-9f0d-46fc8777ea44/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e2e3378b-8969-409f-9f0d-46fc8777ea44/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

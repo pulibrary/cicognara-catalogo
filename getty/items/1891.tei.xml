@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1891</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1891</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>EMBLEMI d’amore</title>, senza luogo ed anno. In quattro lingue, inglese, francese, italiana e latina,
+    in 13, fig.
+    <note>Sono 44 emblemi mal intagliati con altrettanti strani e curiosi epigrammi nelle quattro lingue: senza luogo, anno
+    e nome di stampatore.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emblemata amatoria [microform] = Emblemes d'amour en quatre langue.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ayres, Philip, 1638-1712.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w5482q</idno>
+            <idno type="cico">1891</idno>
+            <idno type="dcl">5s5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata amatoria [microform] = Emblemes d'amour en quatre langue.</title>
+                  <respStmt>
+                     <persName>Van Vianen, Jan, approximately 1660-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>French</textLang>
+                  <textLang>Dutch; Flemish</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Londe : Chez l'amoureux</publisher>
+                     <date>1690</date>
+                  </imprint>
+                  <extent>44 leaves, 44 leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/24ee52bd-c613-4623-ac1a-2fc728a85472/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/24ee52bd-c613-4623-ac1a-2fc728a85472/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

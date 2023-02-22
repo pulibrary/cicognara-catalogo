@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 26</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">26</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>DISSERTAZIONE in cui dimostrasi essere più profittevole che i professori delle belle arti e
+	  scienze spieghino alla gioventù libri impressi che trattati manoscritti,</title>
+                     <pubPlace> Firenze</pubPlace>
+                     <date> 1765,</date>
+                     <extent> in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breve dissertazione in cui succintamente si dimostra essere assai piu profittevole che i professori delle belle arti e scienze alla gioventù spieghino libri impressi che trattati manoscritti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kb0w0s</idno>
+            <idno>(OCoLC)313603615</idno>
+            <idno type="cico">26</idno>
+            <idno type="dcl">v84</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breve dissertazione in cui succintamente si dimostra essere assai piu profittevole che i professori delle belle arti e scienze alla gioventù spieghino libri impressi che trattati manoscritti.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Bonducci</publisher>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>1 Mikrofiche : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9dffcaa0-7275-46f4-9a76-4b4e30904642/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9dffcaa0-7275-46f4-9a76-4b4e30904642/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

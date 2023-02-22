@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4388</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4388</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VALERINI Adriano</author>, <title>Le bellezze di Verona, nuovo ragionamento</title>, <pubPlace>Verona</pubPlace> <date>1586</date>.
+<note>Questo libretto benissimo stampato da Girolamo Discepoli è sommamente interessante, perché ripieno di trattati
+di insigni autori, e non è un’arida guida, ma un’operetta istruttiva e piacevolissima. Non è però punto facile a
+trovarsi.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le bellezze di Verona : nuovo ragionamento / d'Adriano Valerini ... ; nel quale con brevità si tratta di tutte le cose notabili della città ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99836683504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/rg1h7q</idno>
+            <idno>(OCoLC)973474055</idno>
+            <idno type="cico">4388</idno>
+            <idno type="dcl">092</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le bellezze di Verona : nuovo ragionamento / d'Adriano Valerini ... ; nel quale con brevità si tratta di tutte le cose notabili della città ...</title>
+                  <respStmt>
+                     <persName>Valerini, Adriano, approximately 1542-1592.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Appresso Girolamo Discepoli</publisher>
+                     <pubPlace>Verona (Italy)</pubPlace>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>[16], 106, [4] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99836683504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99836683504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

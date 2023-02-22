@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 672</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">672</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>SERLII Sebastiani</author> bononiensis, <title>De architectura libri V, a Joanne Carlo Saraceno ex italica in
+	latina in linguam nunc primum translati atque conversi,</title> 
+                     <pubPlace>Venetiis,</pubPlace> 
+                     <publisher>apud Franciscum de
+	Franciscis et Jo. Crugher,</publisher> 
+                     <date>1569,</date> 
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sebastiani Serlii Bononiensis De architectvra libri qvinqve ... : necnon extraordinarius quinquaginta portarum libellus in operis calce adiunctus hic demum conspicitur. / À Ioanne Carolo Saraceno ex Italica in Latinam linguam nunc primùm translati atque conuersi ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Saraceni, Giovanni Carlo, translator.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924262090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/892f6v</idno>
+            <idno>(OCoLC)3506370</idno>
+            <idno type="cico">672</idno>
+            <idno type="dcl">szs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sebastiani Serlii Bononiensis De architectvra libri qvinqve ... : necnon extraordinarius quinquaginta portarum libellus in operis calce adiunctus hic demum conspicitur. / À Ioanne Carolo Saraceno ex Italica in Latinam linguam nunc primùm translati atque conuersi ...</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis, Apud Franciscum de Franciscis Senensem, &amp; Joannem Chriegher</publisher>
+                     <date>1569</date>
+                  </imprint>
+                  <extent>23 unnumbered pages, 448 pages, 1 unnumbered page</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d994c529-b868-4d4f-a406-132736b7e313"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d994c529-b868-4d4f-a406-132736b7e313">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2118</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2118</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TOTTI Pompilio</author>, <title>Ritratti ed elogi di Capitani il <pb type="cico" n="365"/> lustri. Dedicati a Francesco d’Este
+  Duca di Modena.</title> In fine: <pubPlace>Roma</pubPlace> appresso <publisher>Andrea Fei</publisher>, <date>1635</date>, in 4, figurato.
+  <note>Sono questi 129 ritratti con brevi notizie storiche dei Capitani. In molti di questi Pompilio Totti pose le sue
+  iniziali P. T. che nel dizionario di Crist sono spiegate malamente per Pompilio Tito incisore nel 1685 Roma. Il
+  fatto sta che il Totti e non il Tito riunì molti antichi ritratti e lavorò egli stesso per comporre il volume intitolato
+  al Duca di Modena. Per giudicare se questo è completo, si osservi trasportato il ritratto e la vita di Fabrizio
+  Colonna dopo il registro alla fine del volume e si numerino i ritratti.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ritratti et elogii di capitani illustri .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Totti, Pompilio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ck4788</idno>
+            <idno type="cico">2118</idno>
+            <idno type="dcl">nzh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ritratti et elogii di capitani illustri .. [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Alle spese di Pompilio Totti libraro</publisher>
+                     <date>1635</date>
+                  </imprint>
+                  <extent>295 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/49daeae5-1756-4714-9474-a96902647577/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49daeae5-1756-4714-9474-a96902647577/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ritratti et elogii di capitani illustri.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Roscio, Giulio, active 16th century.</authority>
+            <authority>Caprioli, Aliprando, active 16th century.</authority>
+            <authority>Totti, Pompilio</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929042940001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/hz4t6b</idno>
+            <idno>(OCoLC)21726329</idno>
+            <idno type="cico">2118</idno>
+            <idno type="dcl">nzh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ritratti et elogii di capitani illustri.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Alle spese di Pompilio Totti libraro</publisher>
+                     <pubPlace>Europe</pubPlace>
+                     <date>MDCXXXV [1635]</date>
+                     <date>1635</date>
+                  </imprint>
+                  <extent>[16], 295, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/beb6501e-c368-4c82-aa4a-63ec3db5893a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/beb6501e-c368-4c82-aa4a-63ec3db5893a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

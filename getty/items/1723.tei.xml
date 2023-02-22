@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1723</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1723</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NADAL M. l’Abbé</author>, <title>Histoire des Vestales, suivie d’un traité du luxe des dames romanes</title>, <pubPlace>Paris</pubPlace>
+  <date>1725</date>, in 12.
+  <title>Opera erudita non solo e rara, ma utile per conoscere le costumanze della vita privata degli antichi.</title>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire des vestales [microform] : avec un traitè duluxe des dames romaines ... / par Mr. Abbé Nadal ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2x9h9q</idno>
+            <idno type="cico">1723</idno>
+            <idno type="dcl">qjv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire des vestales [microform] : avec un traitè duluxe des dames romaines ... / par Mr. Abbé Nadal ...</title>
+                  <respStmt>
+                     <persName>Nadal, Augustin, 1664-1740.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez la Veuve de Pierre Ribou</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>[24], 386, [5] p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/02ac81dc-8893-4208-b441-1779e14872d3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/02ac81dc-8893-4208-b441-1779e14872d3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

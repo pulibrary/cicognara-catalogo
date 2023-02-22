@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3924</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3924</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ABELA Francesco</author>, <title>Descrizione di Malta, colle sue antichità, ed altre notizie, libri quattro</title>, in <pubPlace>Malta</pubPlace>, per <publisher>Paolo
+Bonacotta</publisher>, <date>1647</date>, in fol., fig.
+<note>Questa è la prima edizione con alcune cattive tavole fra il testo: si reputa migliore la seconda edizione del 1772,
+che venne aumentata e corretta dal cavalier Giovan Antonio Ciantar.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Malta illustrata, ovvero Descrizione di Malta isola del mare Siciliano e Adriatico [microform] : con le sue antichità, ed altre notizie, divisa in quattro libri / del commendatore F. Giovanfrancesco Abela ... ; corretta, accresciuta, e continovata dal conte Giovannantonio Ciantar ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ciantar, Giovannantonio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985421123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jb151n</idno>
+            <idno type="cico">3924</idno>
+            <idno type="dcl">svm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Malta illustrata, ovvero Descrizione di Malta isola del mare Siciliano e Adriatico [microform] : con le sue antichità, ed altre notizie, divisa in quattro libri / del commendatore F. Giovanfrancesco Abela ... ; corretta, accresciuta, e continovata dal conte Giovannantonio Ciantar ...</title>
+                  <respStmt>
+                     <persName>Abela, Giovanfrancesco, 1582-1655.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Malta : Nella Stamperia del Palazzo di S.A.S. ... : Per F. Giovanni Mallia suo stampatore</publisher>
+                     <pubPlace>Malta</pubPlace>
+                     <date>1772-1780</date>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>28 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/69571a57-554e-4a7b-9236-7833d46bbd5c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/69571a57-554e-4a7b-9236-7833d46bbd5c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

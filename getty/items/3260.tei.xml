@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3260</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3260</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MONACHII Thomae</author>, <title>De episcopatus Hortani antiquitate liber singularis</title>, <pubPlace>Romae</pubPlace>
+                    <date> 1759</date>, in 4, figurato, M. 24.
+                        <note>Con quattro tavole d’iscrizioni e sigilli</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F. Thomae M. Mamachii ... De episcopatus Hortani antiquitate ad hortanos cives [microform] : liber singularis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3n9t6d</idno>
+            <idno type="cico">3260</idno>
+            <idno type="dcl">295</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>F. Thomae M. Mamachii ... De episcopatus Hortani antiquitate ad hortanos cives [microform] : liber singularis.</title>
+                  <respStmt>
+                     <persName>Mamachi, Tommaso Maria, 1713-1792.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Excudebant Fratres Palearinii</publisher>
+                     <date>1759</date>
+                  </imprint>
+                  <extent>161 p.</extent>
+                  <extent>4microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ff409afd-137b-4b84-92aa-5c1c83ec5a04/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff409afd-137b-4b84-92aa-5c1c83ec5a04/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

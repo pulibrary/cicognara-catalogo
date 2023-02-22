@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3261</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3261</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MANIN Leonardo</author>, <title>Memorie storico-critiche intorno la vita traslazione e invenzione di S. Marco Evangelista</title>,
+                        <pubPlace>Venezia</pubPlace>
+                    <date> 1815</date>, in 4, fig., M. 76.
+                        <note>Memoria eruditissima con 5 grandi tavole nitidamente disegnate e intagliate</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie storico-critiche intorno la vita, translazione e invenzione di San Marco Evangelista, principale protettore di Venezia [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jg787v</idno>
+            <idno type="cico">3261</idno>
+            <idno type="dcl">6kc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie storico-critiche intorno la vita, translazione e invenzione di San Marco Evangelista, principale protettore di Venezia [microform].</title>
+                  <respStmt>
+                     <persName>Manin, Leonardo, conte, 1771-1863.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia: Nella tipografia Picotti</publisher>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>37 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9eb76f45-4bb4-42ce-8e9d-33ab5068e21b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9eb76f45-4bb4-42ce-8e9d-33ab5068e21b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

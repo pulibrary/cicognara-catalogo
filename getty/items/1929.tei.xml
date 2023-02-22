@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1929</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1929</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PARADIN M. Claude Chanoine de Beaujen</author>, <title>Dévises héroiques</title>, à <pubPlace>Lyon</pubPlace>, par <publisher>Jean de Tournes et
+    Guil. Gazeau</publisher>, <date>1557</date>, in 12.
+    <note>Edizione elegantissima per le belle 174 incisioni in legno. <bibl>Vedi anche <author>d’Amboise</author>
+                        </bibl>.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Devises heroïqves.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Salomon, Bernard, approximately 1506-approximately 1561.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923536813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6t3d7g</idno>
+            <idno>(OCoLC)21738713</idno>
+            <idno type="cico">8</idno>
+            <idno type="cico">3</idno>
+            <idno type="dcl">8s3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Devises heroïqves.</title>
+                  <respStmt>
+                     <persName>Paradin, Claude, active 16th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Lion, I. de Tovrnes, et G. Gazeav</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>261, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dfa52e93-a27b-41da-8868-dc203128730e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dfa52e93-a27b-41da-8868-dc203128730e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Devises heroïques [microform] / par M. Claude Paradin, Chanoine de Beaujeu.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Salomon, Bernard, approximately 1506-approximately 1561.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985338133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mt7k7f</idno>
+            <idno type="cico">1929</idno>
+            <idno type="dcl">8s3</idno>
+            <idno type="dcl">564</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Devises heroïques [microform] / par M. Claude Paradin, Chanoine de Beaujeu.</title>
+                  <respStmt>
+                     <persName>Paradin, Claude, active 16th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>A Lion : Par Ian de Tournes, et Guil. Gazeau</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>261 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b4e28bd1-48f0-41fa-838b-a58a68ae636b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b4e28bd1-48f0-41fa-838b-a58a68ae636b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

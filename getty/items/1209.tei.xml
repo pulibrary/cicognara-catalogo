@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1209</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1209</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SCARFÒ Giovanni Grisostomo</author>, <title>Lettera scritta al Sig. Francesco de’ Ficoroni, che si denomina
+    antiquario Romano</title>, <pubPlace>Cosenza</pubPlace> <date>1712</date>, in 8, M. 56.
+    <note>Il Ficoroni aveva indotto in errore lo Scarfò in alcuni punti di antiquaria contro il Cav. Paolo Alessandro Maffei
+    e sul falso fondamento di questi errori produsse alcune memorie per le quali i giornalisti di Trevoux lavorono
+    ben bene il <pb type="cico" n="214"/> capo allo Scarfò, che in questa lettera strapazza il Ficoroni, e gli leva crudamente la pelle.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera del molto reverendo padre D. Giangrisostomo Scarfo' ... detto altramente Grisofano Cardieclietti scritta al signor Francesco de' Ficoroni ... che si denomina antiquario romano [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ficoroni, Francesco, 1664-1747.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wm510k</idno>
+            <idno type="cico">1209</idno>
+            <idno type="dcl">qnr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera del molto reverendo padre D. Giangrisostomo Scarfo' ... detto altramente Grisofano Cardieclietti scritta al signor Francesco de' Ficoroni ... che si denomina antiquario romano [microform].</title>
+                  <respStmt>
+                     <persName>Scarfò, Giangrisostomo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Cosenza : Per Alfonso Lelli</publisher>
+                     <date>1712</date>
+                  </imprint>
+                  <extent>16 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/83d35b99-0bee-4968-ae2b-14917b017a2c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/83d35b99-0bee-4968-ae2b-14917b017a2c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

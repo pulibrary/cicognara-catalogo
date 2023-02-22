@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3180</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3180</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOETTIGERI Carl August</author>,<title> Explicatio antiquaria anaglyphi in Museo Napoleonico</title>, <pubPlace>Lipsiae</pubPlace> <date>1809</date>, in 8, fig., M. 102.
+<note>Nel frontespizio vedesi il monumento intagliato.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Car. Aug. Boettigeri explicatio antiquaria anaglyphi in Museo napoleoneo [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5n2h0c</idno>
+            <idno type="cico">3180</idno>
+            <idno type="dcl">gvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Car. Aug. Boettigeri explicatio antiquaria anaglyphi in Museo napoleoneo [microform].</title>
+                  <respStmt>
+                     <persName>Böttiger, Karl August, 1760-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lipsiae : Apud Io. Aug. Glo. Weigel</publisher>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>XXV p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/85566d1f-eda4-404e-a8a7-8e1092e1917b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/85566d1f-eda4-404e-a8a7-8e1092e1917b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2343</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2343</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PASCOLI Lione</author>, <title>Vite de’ pittori, scultori ed architetti perugini dedicate al Re di Sardegna</title>,
+    <pubPlace>Roma</pubPlace> <date>1732</date>, in 4.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori, scultori, ed architetti perugini [microform] / scritte ... da Lione Pascoli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985401763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c47s9x</idno>
+            <idno type="cico">2343</idno>
+            <idno type="dcl">xnh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori, scultori, ed architetti perugini [microform] / scritte ... da Lione Pascoli.</title>
+                  <respStmt>
+                     <persName>Pascoli, Lione, 1674-1744.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Antonio de' Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Perugia (Italy)</pubPlace>
+                     <date>1732</date>
+                  </imprint>
+                  <extent>259 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/acf1cbe6-a11a-4967-a397-f25df23932e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/acf1cbe6-a11a-4967-a397-f25df23932e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori, scultori, ed architetti perugini : scritte, e dedicate alla maesta' di Carlo Emanuel, re di Sardegna / da Lione Pascoli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921626940001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/qs9v9f</idno>
+            <idno>(OCoLC)3457450</idno>
+            <idno type="cico">2343</idno>
+            <idno type="dcl">xnh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori, scultori, ed architetti perugini : scritte, e dedicate alla maesta' di Carlo Emanuel, re di Sardegna / da Lione Pascoli.</title>
+                  <respStmt>
+                     <persName>Pascoli, Lione, 1674-1744</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Antonio de' Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1732</date>
+                  </imprint>
+                  <extent>10 unnumbered pages, 259 pages, 10 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/291a492a-28cf-4301-8120-aa74afdfac8c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/291a492a-28cf-4301-8120-aa74afdfac8c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

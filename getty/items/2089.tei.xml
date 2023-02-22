@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2089</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2089</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PUSSINO Niccolò</author>, <title>Vita della gran Madre di Dio incisa in 22 rami da Felice Polanzani</title>, <pubPlace>Roma</pubPlace>
+  <date>1683</date>, in fol.
+  <note>Opera che rende un’idea della sola composizione, ma che per quanto riguarda allo stile e al gusto del sommo
+  autore, la mediocrità del bulino non rende la menoma idea.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita della gran madre di Dio [microform] : incisa in XXII rami / da Felice Polanzani su li disegni originali del celebre pittore Nicolò Pussino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Poussin, Nicolas, 1594?-1665.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ns7c2z</idno>
+            <idno>(OCoLC)175292110</idno>
+            <idno type="cico">2089</idno>
+            <idno type="dcl">jk0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita della gran madre di Dio [microform] : incisa in XXII rami / da Felice Polanzani su li disegni originali del celebre pittore Nicolò Pussino.</title>
+                  <respStmt>
+                     <persName>Polanzani, Francesco, 1700-approximately 1783.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Venanzio Monaldini</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>XXII leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fb0748cd-9f61-4ea0-b38c-1b3f49f9e52d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb0748cd-9f61-4ea0-b38c-1b3f49f9e52d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

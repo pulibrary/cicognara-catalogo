@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 109</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">109</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DIDEROT</author>,
+                     <title> Essais sur la peinture,</title>
+                     <pubPlace> à Paris,</pubPlace>
+                     <publisher> chez Fr. Buisson,</publisher>
+                     <date> l’an IV de la Republique</date>
+                     <extent> in 8.</extent> Oltre
+	  a questa prima Opera di 110 pagine, contiene il volume anche: Observations sur le Salon de
+	  peinture de 1765 par le meme Auteur.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essais sur la peinture / par Diderot.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Buisson, François, 1753-1814, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928976060001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/83513z</idno>
+            <idno>(OCoLC)2130324</idno>
+            <idno type="cico">109</idno>
+            <idno type="dcl">15s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essais sur la peinture / par Diderot.</title>
+                  <respStmt>
+                     <persName>Diderot, Denis, 1713-1784</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Fr. Buisson</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>l'an quatrième de la République [1795 or 1796]</date>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>[4], iv, 415, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c81e602c-9791-44e1-bad2-a44f279f1f0c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c81e602c-9791-44e1-bad2-a44f279f1f0c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essais sur la peinture [microform] / par Diderot.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gq7v40</idno>
+            <idno type="cico">109</idno>
+            <idno type="dcl">15s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essais sur la peinture [microform] / par Diderot.</title>
+                  <respStmt>
+                     <persName>Diderot, Denis, 1713-1784.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Fr. Buisson</publisher>
+                     <date>L'an quatrième de la République [1796]</date>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>iv, 415 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b1471ea5-6c3c-4004-8aff-69d371f5cf65/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b1471ea5-6c3c-4004-8aff-69d371f5cf65/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

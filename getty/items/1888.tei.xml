@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1888</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1888</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>EMBLEMATISCHE gedancken muster</title>, senza data, fig.
+    <note>Sono 252 emblemi morali intagliati da Cristoforo Weigel <pb type="cico" n="322"/> cui ne seguono altri 144 civili, il tutto espresso
+    con intagli in rame e spiegazioni in tedesco, francese e italiano. Esemplare della bibl. Malborough.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gedancken Muster und Anleitungen [microform] : werinen eine grosse Zahl nicht allein Sumarischer sondern auch Moral: emblematischer Figuren in vier Sprachen als Lat:, Franz:, Ital: und Teutsch vorstellet samt noch eines Stambuchs schöner Anweisungen woraus bey jeder Gelegeneheit aus solchen etwas kan gezogen werden.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Weigel, Johann Christoph, 1661-1726.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/db9t3t</idno>
+            <idno type="cico">1888</idno>
+            <idno type="dcl">103</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gedancken Muster und Anleitungen [microform] : werinen eine grosse Zahl nicht allein Sumarischer sondern auch Moral: emblematischer Figuren in vier Sprachen als Lat:, Franz:, Ital: und Teutsch vorstellet samt noch eines Stambuchs schöner Anweisungen woraus bey jeder Gelegeneheit aus solchen etwas kan gezogen werden.</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>[Germany : s.n]</publisher>
+                     <date>[between 1680 and 1730]</date>
+                     <date>1680</date>
+                  </imprint>
+                  <extent>24 [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7420fe3c-955e-4202-8059-c48075904992/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7420fe3c-955e-4202-8059-c48075904992/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

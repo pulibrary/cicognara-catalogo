@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3021</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3021</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>STREINNIO Richardo</author>, <title>Gentium et familiarum romanarum stemmata</title>, <date>1559</date>, in fol., excudebat <publisher>Henricus Stephanus</publisher>,
+senza luogo.
+<note>Edizione estremamente accurata per la forma dei tipi. Quest’opera cronologica è eseguita con tutta la chiarezza e
+l’eleganza possibile.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gentium et familiarum Romanorum stemmata [microform] / Richardo Streinnio barone Schuuarzenauio auctor.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fn300p</idno>
+            <idno type="cico">3021</idno>
+            <idno type="dcl">h5g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gentium et familiarum Romanorum stemmata [microform] / Richardo Streinnio barone Schuuarzenauio auctor.</title>
+                  <respStmt>
+                     <persName>Strein von Schwartzenau, Richard, Freiherr, 1538-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l.] : Excudebat Henricus Stephanus illustris viri Huldrici Fuggeri typographus</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>Anno 1559</date>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>[120] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5417bc06-2c07-4652-982c-8c907cdbc198/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5417bc06-2c07-4652-982c-8c907cdbc198/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gentivm et familiarvm Romanarum stemmata</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Strein von Schwarzenau, Richard, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-281896</idno>
+            <idno type="URI">http://portal.getty.edu/api/d6318z</idno>
+            <idno type="cico">3021</idno>
+            <idno type="dcl">h5g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gentivm et familiarvm Romanarum stemmata</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1559</date>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>[60] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/strein_von_schwarzenau1559/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/strein_von_schwarzenau1559/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

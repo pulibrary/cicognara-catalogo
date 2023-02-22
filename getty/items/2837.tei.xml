@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2837</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2837</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FICORONI Francesco</author>, <title>I piombi antichi</title>, <pubPlace>Roma</pubPlace> <date>1740</date>, in 4, vol. 2, fig.
+<note>Il secondo volume non contiene che le figure, le quali sono in quaranta tavole, compreso il ritratto di Benedetto
+XIV cui l’opera fu dedicata.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I piombi antichi [microform] / opera di Francesco de Ficoroni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8v4t6m</idno>
+            <idno type="cico">2837</idno>
+            <idno type="dcl">hs8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I piombi antichi [microform] / opera di Francesco de Ficoroni ...</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Girolamo Mainardi</publisher>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>168 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c9e539a3-1de3-4dd2-8407-745011d71553/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c9e539a3-1de3-4dd2-8407-745011d71553/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I piombi antichi / opera di Francesco de Ficoroni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929897830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/cx2d7n</idno>
+            <idno>(OCoLC)11598475</idno>
+            <idno type="cico">2837</idno>
+            <idno type="dcl">hs8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I piombi antichi / opera di Francesco de Ficoroni.</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Girolamo Mainardi</publisher>
+                     <date>1740</date>
+                  </imprint>
+                  <extent>168 pages, 65 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/076f8d86-0376-4edf-af97-04de6344c32d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/076f8d86-0376-4edf-af97-04de6344c32d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 12</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                 <author>BODENUS Ben. Gottlib.</author>,
+                 <title> Dissertatio seconda. Iterum proponit.</title>
+                 <pubPlace> Vit.</pubPlace>
+                 <date> 1767,</date>
+                 <extent> in 4, M.45.</extent>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artificem ea quae sibi non conveniunt fingentem poetae monitorem iterum proponit atque Praelectiones aestiuas in Academia Vitebergensi A.R.S. MDCCXVII / [microform] indicit Beniamin Gottlib Laurent. Bodenus ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985451273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bx2z1q</idno>
+            <idno type="cico">12</idno>
+            <idno type="dcl">1gp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Artificem ea quae sibi non conveniunt fingentem poetae monitorem iterum proponit atque Praelectiones aestiuas in Academia Vitebergensi A.R.S. MDCCXVII / [microform] indicit Beniamin Gottlib Laurent. Bodenus ...</title>
+                  <respStmt>
+                     <persName>Boden, Benjamin Gottlieb Laurenz, 1737-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Vitebergae : Litteris Caroli Christiani Dürrii</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>[1767]</date>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0483a601-8538-4204-948e-fc2f48a9e86d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0483a601-8538-4204-948e-fc2f48a9e86d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

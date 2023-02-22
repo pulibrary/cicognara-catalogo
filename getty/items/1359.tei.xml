@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1359</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1359</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SALVIATI Leonardo</author>, <title>Il primo libro delle orazioni, nuovamente raccolte (ove ne sono alcune
+    riguardanti oggetti delle Arti)</title>, <pubPlace>Firenze</pubPlace>, pel <publisher>Giunti</publisher>, <date>1575</date>, in 4, pic.
+    — Aggiuntovi <title>le lettere e le rime di Vincenzo Martelli Gentiluomo Fiorentino</title>, <pubPlace>Firenze</pubPlace>,
+    <publisher>Giunti</publisher>, <date>1606</date>.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettere di Vincenzio Martelli gentil-huomo Fiorentino e rime del medesimo [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xs9v05</idno>
+            <idno type="cico">1359</idno>
+            <idno type="dcl">s26</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettere di Vincenzio Martelli gentil-huomo Fiorentino e rime del medesimo [microform]</title>
+                  <respStmt>
+                     <persName>Martelli, Vincenzio, d. 1556.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso Cosimo Giunti</publisher>
+                     <date>1606</date>
+                  </imprint>
+                  <extent>[4], 64, [60] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fb7f6e0f-6b04-422a-a12c-809aab453594/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb7f6e0f-6b04-422a-a12c-809aab453594/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

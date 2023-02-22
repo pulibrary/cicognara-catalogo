@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2552</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2552</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZOEGA Georgii</author>, <title>Nummi Egyptii. Vedi nella Numismatica.</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Numi Aegyptii imperatorii prostantes in museo Borgiano Velitris [microform] : adientis praeterea quotquot reliqua huius classis numismata ex variis museis atque libris colligere obtigit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Museo Borgiano.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w55c21</idno>
+            <idno type="cico">3085</idno>
+            <idno type="dcl">8kd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Numi Aegyptii imperatorii prostantes in museo Borgiano Velitris [microform] : adientis praeterea quotquot reliqua huius classis numismata ex variis museis atque libris colligere obtigit.</title>
+                  <respStmt>
+                     <persName>Zoega, Georg, 1755-1809.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Antonium Fulgonium</publisher>
+                     <pubPlace>Egypt</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>XII, 404 p., XXII leaves of plates</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/559951e9-132b-4a2b-ac97-9320974ad6b9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/559951e9-132b-4a2b-ac97-9320974ad6b9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Numi Aegyptii imperatorii prostantes in museo Borgiano Velitris: adiectis praeterea quotquot reliqua huius classis numismata ex variis museis atque libris colligere obtigit</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zoega, Georg, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-52754</idno>
+            <idno type="URI">http://portal.getty.edu/api/x76t5h</idno>
+            <idno type="cico">2252</idno>
+            <idno type="dcl">8kd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Numi Aegyptii imperatorii prostantes in museo Borgiano Velitris: adiectis praeterea quotquot reliqua huius classis numismata ex variis museis atque libris colligere obtigit</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Velletri</pubPlace>
+                     <pubPlace>Europa</pubPlace>
+                     <pubPlace>Italien</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>41.66784 12.78103</pubPlace>
+                     <date>1787</date>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>XII, 404 S.</extent>
+                  <extent>Ill. (22 Taf.)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/zoega1787/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/zoega1787/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2533</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2533</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MERCATI Michele</author>, <title>Considerazioni sopra gli avvertimenti del sig. Latino Latini intorno alcune cose scritte nel
+libro degli obelischi di Roma insieme con alcuni supplementi al medesimo libro</title>, <pubPlace>Roma</pubPlace>, per <publisher>Domenico Basa</publisher>.
+<date>1590</date>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerationi di Monsig. Michele Mercati sopra gli avvertimenti del sig. Latino Latini [microform] : intorno ad alcune cose scritte nel libro de gli obelischi di Roma : insieme con alcuni sopplimenti al medesimo libro.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Latini, Latino, 1513-1593.</authority>
+            <authority>Mercati, Michele, 1541-1593. Obelischi di Roma.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g42c0t</idno>
+            <idno type="cico">2533</idno>
+            <idno type="dcl">8w5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Considerationi di Monsig. Michele Mercati sopra gli avvertimenti del sig. Latino Latini [microform] : intorno ad alcune cose scritte nel libro de gli obelischi di Roma : insieme con alcuni sopplimenti al medesimo libro.</title>
+                  <respStmt>
+                     <persName>Mercati, Michele, 1541-1593.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Domenico Basa</publisher>
+                     <pubPlace>Egypt</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1590</date>
+                  </imprint>
+                  <extent>148 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f749083c-07a1-4787-8bd4-7dc5d1a98113/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f749083c-07a1-4787-8bd4-7dc5d1a98113/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 419</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">419</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BAROZIO</author>, ec., <title>L’architettura ridotta a facile metodo: aggiuntovi un Trattato di meccanica,</title>
+	                    <pubPlace>Venezia</pubPlace> 
+                     <date>1748,</date>
+                     <extent> 2 piccoli volumetti in uno, in 8.</extent>
+	                    <note>Questa riproduzione del Vignola si scosta dalle precedenti edizioni ed è adattata secondo il sistema di
+	quest’anonimo all’uso delle scuole elementari. Vi è molto di buono in iscorcio: e 31 tavole appartengono
+	all’architettura e quattordici alla meccanica, compresa quella del Battipali che non è numerata.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'architettura di Jacopo Barozzi da Vignola [microform] : ridotta a facile metodo per mezzo di osservazioni a profitto de' studenti : aggiuntovi un trattato di meccanica.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hv563f</idno>
+            <idno type="cico">419</idno>
+            <idno type="dcl">tng</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'architettura di Jacopo Barozzi da Vignola [microform] : ridotta a facile metodo per mezzo di osservazioni a profitto de' studenti : aggiuntovi un trattato di meccanica.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Giambatista Pasquali</publisher>
+                     <date>1748</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/47bba0a5-3f93-4cb3-af6b-0df3884a9896/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/47bba0a5-3f93-4cb3-af6b-0df3884a9896/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

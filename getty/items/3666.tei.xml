@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3666</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3666</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Du CHOUL Guillaume</author>, <title>Discours sur la castramétation, et discipline militaire des anciens romains avec les bains, et
+antiques exercitations grecques, et romaines</title>, <pubPlace>Lyon</pubPlace>, chez Guillaume Roville, <date>1555</date>, in 4, fig.
+<note>Opera ricca di tavole intagliate in legno non senza pregio, oltre il merito d’una buona edizione del testo.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discours sur la castrametation et discipline militaire des romains [microform] / escript par Guillaume du Choul ... des bains &amp; antiques exercitations Grecques &amp; Romaines ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8t8n2c</idno>
+            <idno type="cico">3666</idno>
+            <idno type="dcl">88x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discours sur la castrametation et discipline militaire des romains [microform] / escript par Guillaume du Choul ... des bains &amp; antiques exercitations Grecques &amp; Romaines ...</title>
+                  <respStmt>
+                     <persName>Du Choul, Guillaume, active 16th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Lyon : De l'imprimerie de Guilluame Rouille</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>55, 20 leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e22ceb76-f814-4353-a4ae-870935cc460f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e22ceb76-f814-4353-a4ae-870935cc460f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discovrs Svr La Castrametation Et Discipline Militaire Des Romains</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>DuChoul, Guillaume, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-523840</idno>
+            <idno type="URI">http://portal.getty.edu/api/b83f68</idno>
+            <idno type="cico">3666</idno>
+            <idno type="dcl">88x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discovrs Svr La Castrametation Et Discipline Militaire Des Romains</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <pubPlace>Römisches Reich</pubPlace>
+                     <date>1555</date>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>55, 20, [5] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/duchoul1555/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/duchoul1555/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 840</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">840</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>JADQUIER Francesco</author>, <title>Elementi di prospettiva secondo i principi di Brook Taylor: con aggiunte
+	spettanti all’ottica e alla geometria</title>, <pubPlace>Roma</pubPlace> <date>1766</date>, in 8, fig.
+	<note>Con 19 tavole in rame. La materia vi è trattata con profondità della scienza mattematica.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elementi di perspettiva secondo li principii di Brook Taylor [microform] : con varie aggiunte spettanti all' ottica, e alle geometria / del Padre Francesco Jacquier ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985239693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/667x9j</idno>
+            <idno type="cico">840</idno>
+            <idno type="dcl">4p5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elementi di perspettiva secondo li principii di Brook Taylor [microform] : con varie aggiunte spettanti all' ottica, e alle geometria / del Padre Francesco Jacquier ...</title>
+                  <respStmt>
+                     <persName>Jacquier, François, 1711-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Per Generoso Salomoni</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>[16], 145 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/08ef412b-285b-44da-b700-a4b34e262625/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/08ef412b-285b-44da-b700-a4b34e262625/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1736</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1736</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>OESTERLIHGIUS Jo.</author>, <title>Dissertatio historica de urnis sepulcralibus et armis lapideis veterum
+  Cattorum</title>, <pubPlace>Lipsiae</pubPlace> <date>1741</date>, in 4, fig. M. 96.
+  <note>Con una tavola intagliata in rame.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertatio historica de urnis sepulchralibus et armis lapideis veterum cattorum, quam praeside I.H. Schminckio .. [microform] : publicae disquisitioni in auditorio philosophico ad diem novemb. anno MDCCXIV subjicit / respondens Johannes Oesterlingius ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n65b54</idno>
+            <idno type="cico">1736</idno>
+            <idno type="dcl">2kd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertatio historica de urnis sepulchralibus et armis lapideis veterum cattorum, quam praeside I.H. Schminckio .. [microform] : publicae disquisitioni in auditorio philosophico ad diem novemb. anno MDCCXIV subjicit / respondens Johannes Oesterlingius ...</title>
+                  <respStmt>
+                     <persName>Oesterling, Johann.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Recusa Lipsiae : Apud Io. Christianum Langenhemium</publisher>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>32 p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/86262b1c-dbd8-4c94-b7de-798c8bf69798/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/86262b1c-dbd8-4c94-b7de-798c8bf69798/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

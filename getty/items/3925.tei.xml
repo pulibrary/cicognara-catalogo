@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3925</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3925</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ACKERMANN R.</author>, <title>The microcosme of London</title>, <pubPlace>London</pubPlace>, 3 vol., in 4 gran., fig.
+<note>Opera di lusso superficiale con 104 tavole colorate oltre i frontespizj e le vignette magnifiche, ma che esprime
+piuttosto le caricature, che i costumi di quella città.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The microcosm of London [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ackermann, Rudolph, 1764-1834.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kn626s</idno>
+            <idno type="URI">http://portal.getty.edu/api/hp8g9b</idno>
+            <idno type="URI">http://portal.getty.edu/api/bg4696</idno>
+            <idno type="URI">http://portal.getty.edu/api/64552h</idno>
+            <idno type="URI">http://portal.getty.edu/api/2s3v24</idno>
+            <idno type="cico">3925</idno>
+            <idno type="dcl">hc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The microcosm of London [microform].</title>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : R. Ackermann</publisher>
+                     <pubPlace>London (England)</pubPlace>
+                     <date>[1808-11]</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>16 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1802f8b8-56ec-4cd6-99b0-efc7332171f9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1802f8b8-56ec-4cd6-99b0-efc7332171f9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

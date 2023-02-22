@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2276</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2276</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIOVIO Monsig. Paolo</author>, <title>Le vite di Leon X, d’Adriano VI e del Cardinal Colonna</title>, tradotte da
+    Ludovico Domenichi, <pubPlace>Vinegia</pubPlace>, presso <publisher>Giovanni de’ Rossi</publisher>, <date>1557</date>, in 8.
+    <note>Elegantissima edizione in minuti caratteri rotondi di un prezioso libretto in vit. dor.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vite di Leon decimo et d'Adriano Sesto Sommi Pontefici, et del Cardinal Pompeo Colonna [microform] / scritte per Mons. Paolo Giouio Vescouo di Nocera, &amp; tradotte da M. Lodovico Domenichi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Domenichi, Lodovico, 1515-1564.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kd8p0f</idno>
+            <idno type="cico">2276</idno>
+            <idno type="dcl">jc4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vite di Leon decimo et d'Adriano Sesto Sommi Pontefici, et del Cardinal Pompeo Colonna [microform] / scritte per Mons. Paolo Giouio Vescouo di Nocera, &amp; tradotte da M. Lodovico Domenichi.</title>
+                  <respStmt>
+                     <persName>Giovio, Paolo, 1483-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Appresso Giouanni de' Rossi</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>184 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4f56e2bc-c3b7-4006-a8c6-3578bf65fea0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4f56e2bc-c3b7-4006-a8c6-3578bf65fea0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

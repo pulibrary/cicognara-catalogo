@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 164</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">164</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>LOMAZZO Giovanni Paolo milanese pittore</author>, 
+                     <title>Versione inglese. A tracte containing the artes of
+	  curious painting etc.,</title> 
+                     <pubPlace>Oxford,</pubPlace> by <publisher>Joseph Barnes,</publisher> 
+                     <date>1598.</date>
+                  </bibl>
+                <bibl>– Versione francese. Vedila negli Elementi e proporzioni.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tracte containing the artes of curious paintinge, caruinge &amp; buildinge / written first in Italian by Io. Paul Lomatius, painter of Milan and Englished by R.H., student in physik.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Haydock, Richard, active 1588-1605.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927242720001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9s7x64</idno>
+            <idno>(OCoLC)41651211</idno>
+            <idno type="cico">164</idno>
+            <idno type="dcl">rvb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A tracte containing the artes of curious paintinge, caruinge &amp; buildinge / written first in Italian by Io. Paul Lomatius, painter of Milan and Englished by R.H., student in physik.</title>
+                  <respStmt>
+                     <persName>Lomazzo, Giovanni Paolo, 1538-1600</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Printed at Oxford : By Ioseph Barnes for R.H</publisher>
+                     <date>anno domini M.D.XC.VIII. [1598]</date>
+                     <date>1598</date>
+                  </imprint>
+                  <extent>[24], 119, [1], 218, [2] p. (the last blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c59a627b-338c-4afd-84b1-be97513902fe"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c59a627b-338c-4afd-84b1-be97513902fe">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

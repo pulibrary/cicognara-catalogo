@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3857</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3857</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>ROMANAE magnitudinis monumenta, quae urbem illam orbis dominam</title>, velut redivivam exhibent posteritati,
+veterum recentiorumque auctoritate probata, restituta, ed aucta, cura, sumptibus, ac typis <publisher>Dominici de Rubeis</publisher>
+Joannis Jacobi haeredis ad templum Sanctae Mariae de Pace, <pubPlace>Romae</pubPlace>, <date>1699</date>, in fol. obl., fig.
+<note>Sotto ciascuna stampa leggonsi le dichiarazioni intagliate <pb type="cico" n="216"/> in rame: sono tav. 138 raccolte in questa
+calcografia e riprodotte con questo frontespizio, le quali erano state impiegate precedentemente in simili opere,
+come vedesi dalle tavole ritoccate, e nuovamente numerate per ridurle in questo ordine.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romanae magnitudinis monumenta [microform] : quae vrbem illam orbis dominam velut rediuiuam exhibent posteritati, veterum recentiorumque quotquot hac de re scripserunt authoritate probata, quibus suffragantur numismata, et musea principum praesertim fragmenta marmorea Farnesiana, quae vrbis antiquae ichnographiam continent / restituta et aucta cura ... Dominici de Rubeis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w8382q</idno>
+            <idno type="cico">3857</idno>
+            <idno type="dcl">7sf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Romanae magnitudinis monumenta [microform] : quae vrbem illam orbis dominam velut rediuiuam exhibent posteritati, veterum recentiorumque quotquot hac de re scripserunt authoritate probata, quibus suffragantur numismata, et musea principum praesertim fragmenta marmorea Farnesiana, quae vrbis antiquae ichnographiam continent / restituta et aucta cura ... Dominici de Rubeis.</title>
+                  <respStmt>
+                     <persName>Rossi, Domenico de', active 17th century-18th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Dominici de Rubeis, Io. Iacobi haeredis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1699</date>
+                  </imprint>
+                  <extent>138 leaves</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/868114de-4177-412d-9f60-495efcaf479e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/868114de-4177-412d-9f60-495efcaf479e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

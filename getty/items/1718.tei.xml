@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1718</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1718</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MITELLI</author>, <title>Alfabeto in sogno</title>. Esemplare per disegnare, <pubPlace>Bologna</pubPlace> <date>1683</date>, fig., in 4, M. 6.
+  <note>Queste sono 26 tavole intagliate in rame, in mezzo alle quali bizzarrie alfabetiche figurate sono anche gli
+  elementi del disegno.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfabeto in sogno [microform] : esemplare per disegnare / di Giuseppe Ma. Mitelli, pittore bolognese.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vg7j69</idno>
+            <idno type="cico">1718</idno>
+            <idno type="dcl">z80</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alfabeto in sogno [microform] : esemplare per disegnare / di Giuseppe Ma. Mitelli, pittore bolognese.</title>
+                  <respStmt>
+                     <persName>Mitelli, Giuseppe Maria, 1634-1718.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Bologna : s.n.]</publisher>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>[25] leaves</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/43f43234-207e-4d72-bceb-d1bed37f4c9a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/43f43234-207e-4d72-bceb-d1bed37f4c9a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

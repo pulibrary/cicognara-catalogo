@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 716</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">716</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VITRUVII M. Pollionis</author>, <title>De architectura libri decerti cum commentariis Danielis Barbari multis
+	aedificiorum, horologiorum et machinarum descriptionibus auctis et illustratis</title>; apud
+	<publisher>Franciscum Senensem et Jo. Crugher Germanum</publisher>, <date>1567</date>, in fol.
+	<note>In questa edizione latina il Barbaro seguì particolarmente il testo dell’edizione del Filandro, 1552; meno alcune
+	varianti nelle quali preferì l’edizione di Fra Giocondo. Le tavole sempre fra il testo sono intagliate in legno.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M. Vitrvvii Pollionis De Architectvra Libri Decem: Mvltis Aedificiorvm, Horologiorvm, Et Machinarvm Descriptionibvs, &amp; figuris, unà cum indicibus copiosis, auctis &amp; illustratis</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vitruvius, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-21828</idno>
+            <idno type="URI">http://portal.getty.edu/api/t13k2z</idno>
+            <idno type="cico">716</idno>
+            <idno type="dcl">7pg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>M. Vitrvvii Pollionis De Architectvra Libri Decem: Mvltis Aedificiorvm, Horologiorvm, Et Machinarvm Descriptionibvs, &amp; figuris, unà cum indicibus copiosis, auctis &amp; illustratis</title>
+                  <textLang>Greek, Ancient (to 1453)</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1567</date>
+                     <date>1567</date>
+                  </imprint>
+                  <extent>[10] Bl., 375 S.</extent>
+                  <extent>Ill., graph. Darst., Notenbeisp.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1567/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1567/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

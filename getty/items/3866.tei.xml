@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3866</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De ROSSI Filippo</author>, <title>Ritratto di Roma moderna. Nuova edizione migliorata ed accresciuta</title>, <pubPlace>Roma</pubPlace> <date>1652</date>, in 8, fig.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ritratto di Roma moderna [microform] : nel quale sono effigiati chiese, corpi santi, reliquie, indulgenze, monasterij, hospedali, oratorij, compagnie de' secolari, collegij ... &amp; altre cose notabili / distinto in sei giornate da diuersi autori, con le dichiarationi historiche di quanto in' esso si contiene in questa nuoua editione accresciuto, e migliorato in molti luoghi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cr4f12</idno>
+            <idno type="cico">3866</idno>
+            <idno type="dcl">z28</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ritratto di Roma moderna [microform] : nel quale sono effigiati chiese, corpi santi, reliquie, indulgenze, monasterij, hospedali, oratorij, compagnie de' secolari, collegij ... &amp; altre cose notabili / distinto in sei giornate da diuersi autori, con le dichiarationi historiche di quanto in' esso si contiene in questa nuoua editione accresciuto, e migliorato in molti luoghi.</title>
+                  <respStmt>
+                     <persName>Rossi, Filippo de', active 1645.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Filippo de' Rossi</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1652</date>
+                  </imprint>
+                  <extent>[30], 560 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/296c8121-824d-4461-b905-44e47a2e9630/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/296c8121-824d-4461-b905-44e47a2e9630/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2896</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2896</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>KHELL Josephi</author>, <title>De numismate Augusti aureo formae max. ex ruderibus Herculani eruto libellus</title>,<pubPlace> Viennae</pubPlace>
+                    <date> 1765</date>,
+in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De numismate Augusti aureo formae maximae ex ruderibus Herculani eruto et praefationi tomi II. Picturarum subjecto libellus Josephi Khell .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985459233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t4725q</idno>
+            <idno type="cico">2896</idno>
+            <idno type="dcl">pcb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De numismate Augusti aureo formae maximae ex ruderibus Herculani eruto et praefationi tomi II. Picturarum subjecto libellus Josephi Khell .. [microform].</title>
+                  <respStmt>
+                     <persName>Khell von Khellburg, Josef, 1714-1772.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Viennae : Typis Joannis Thomae de Trattern</publisher>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>24 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/40c00ca7-826d-472e-84d9-44f7cb01e761/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/40c00ca7-826d-472e-84d9-44f7cb01e761/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1269</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1269</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LAMBERTI Luigi</author>, <title>Descrizione dei dipinti a buon fresco eseguiti dal pittore Andrea Appiani
+    nella sala del Trono del R. Palazzo di Milano</title>, <pubPlace>Milano</pubPlace> <date>1809</date>, in 8. Italiano e francese, M. 87.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione dei dipinti a buon fresco eseguiti dal signor cavaliere Andrea Appiani nella Sala del trono del Real Palazzo di Milano [microform] / del cavaliere Luigi Lamberti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4f2s1q</idno>
+            <idno type="cico">1269</idno>
+            <idno type="dcl">nbz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione dei dipinti a buon fresco eseguiti dal signor cavaliere Andrea Appiani nella Sala del trono del Real Palazzo di Milano [microform] / del cavaliere Luigi Lamberti.</title>
+                  <respStmt>
+                     <persName>Lamberti, Luigi, 1759-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla Stamperia reale</publisher>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>L p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/13fbe706-260f-4418-b959-c2758633d0fe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/13fbe706-260f-4418-b959-c2758633d0fe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione dei dipinti a buon fresco eseguiti dal signor cavaliere Andrea Appiani nella Sala del trono del Real Palazzo di Milano / del cavaliere Luigi Lamberti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927810870001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/h46k70</idno>
+            <idno>(OCoLC)13570255</idno>
+            <idno type="cico">1269</idno>
+            <idno type="dcl">nbz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione dei dipinti a buon fresco eseguiti dal signor cavaliere Andrea Appiani nella Sala del trono del Real Palazzo di Milano / del cavaliere Luigi Lamberti.</title>
+                  <respStmt>
+                     <persName>Lamberti, Luigi, 1759-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla Stamperia reale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>L pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b5415314-d361-4eee-ab5d-0c1f5e5cbcce"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b5415314-d361-4eee-ab5d-0c1f5e5cbcce">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,65 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4414</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4414</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>CATALOGUE des tableaux, desseins, marbres, bronzes, estampes, etc. du Cabinet de M. Coypel</title>, <pubPlace>Paris</pubPlace> <date>1753</date>, in 12.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des tableaux, desseins, marbres, bronzes, modèles, estampes et planches gravées [microform] : ainsi que des bijoux, porcelaines, et autres curiosités de prix ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nn0z8h</idno>
+            <idno>(OCoLC)210017099</idno>
+            <idno type="cico">4414</idno>
+            <idno type="dcl">8sb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des tableaux, desseins, marbres, bronzes, modèles, estampes et planches gravées [microform] : ainsi que des bijoux, porcelaines, et autres curiosités de prix ...</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : [s.n.]</publisher>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>ix, 100 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6a9678f3-7c21-46d9-ac7e-5b6258ff2d8e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a9678f3-7c21-46d9-ac7e-5b6258ff2d8e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

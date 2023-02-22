@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 572</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">572</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>MONTECUCOLI Raimondo</author>, 
+                     <title>Opere illustrate da Ugo Foscolo,</title> 
+                     <pubPlace>Milano,</pubPlace> 
+                     <publisher>per Luigi Mussi,</publisher> 
+                     <date>1807,</date>
+	                    <extent>vol. 2, in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opere [microform] / di Raimondo Montecuccoli ; illustrate da Ugo Foscolo ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Foscolo, Ugo, 1778-1827.</authority>
+            <authority>Paradisi, Agostino, 1736-1783.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985120993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c1255w</idno>
+            <idno type="cico">572</idno>
+            <idno type="dcl">2w0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opere [microform] / di Raimondo Montecuccoli ; illustrate da Ugo Foscolo ...</title>
+                  <respStmt>
+                     <persName>Montecuccoli, Raimondo, Prince, 1609-1680.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Per Luigi Mussi</publisher>
+                     <date>1807-1808</date>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81e010ba-f814-4650-8d0d-bf5cf5344f73/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81e010ba-f814-4650-8d0d-bf5cf5344f73/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

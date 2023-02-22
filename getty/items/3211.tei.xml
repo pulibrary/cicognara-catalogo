@@ -1,0 +1,116 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3211</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3211</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CRENII Thomae</author>, <title>De furibus librariis, dissertationes tres</title>, Lugd. Bat. <date>1716</date>, in 12.
+<note>È singolare l’immensa rivista degli autori citati e accusati di plagio. Se si dovesse però dall’epoca che ha scritto
+il Crenio, continuar l’esame delle immense opere stampate in quest’ultimo secolo, non basterebbero altre dieci
+dissertazioni.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Crenii De furibus librariis: dissertatio epistolica ad eximii &amp; singularis ingenii, doctrinae, virtutis &amp; elegantiae virum Fridericum Danielem Knochium ...</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Crusius, Thomas Theodor, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-286138</idno>
+            <idno type="URI">http://portal.getty.edu/api/3h4f11</idno>
+            <idno type="cico">3211</idno>
+            <idno type="dcl">5pg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Crenii De furibus librariis: dissertatio epistolica ad eximii &amp; singularis ingenii, doctrinae, virtutis &amp; elegantiae virum Fridericum Danielem Knochium ...</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1716</date>
+                     <date>1716</date>
+                  </imprint>
+                  <extent>287 S.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/crusius1716/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/crusius1716/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Crenii De furibus librariis dissertatio epistolica I[-III] ad ... Fr. Danielem Knochium ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985415333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ms803t</idno>
+            <idno type="cico">3211</idno>
+            <idno type="dcl">5pg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Crenii De furibus librariis dissertatio epistolica I[-III] ad ... Fr. Danielem Knochium ...</title>
+                  <respStmt>
+                     <persName>Crenius, Thomas, 1648-1728.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni Batav. : Ex officina Abrahami van der Mijn</publisher>
+                     <date>1716</date>
+                  </imprint>
+                  <extent>287 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/14cbe9d6-e182-43de-9416-2966cabc2f83/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/14cbe9d6-e182-43de-9416-2966cabc2f83/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

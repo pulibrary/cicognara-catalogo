@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 534</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">534</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>JOUSSE Mathurin</author>, 
+                     <title>Le secret d’architecture découvrant fidellement les traits géometriques,
+	coupés et debolement nécessaires dans les bâtimens;</title> 
+                     <pubPlace>à la Flêche</pubPlace> 
+                     <date>1642,</date> 
+                     <extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le secret d'architecture decouvrant fidelement les traits geometriques, couppes, et derobemens necessaires dans les bastiments [microform] : enrichi d'un grand nombre de figures, adioustées sur châque discours pour l'explication d'iceux / par Mathurin Iousse ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gd7b2x</idno>
+            <idno type="cico">534</idno>
+            <idno type="dcl">2s3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le secret d'architecture decouvrant fidelement les traits geometriques, couppes, et derobemens necessaires dans les bastiments [microform] : enrichi d'un grand nombre de figures, adioustées sur châque discours pour l'explication d'iceux / par Mathurin Iousse ...</title>
+                  <respStmt>
+                     <persName>Jousse, Mathurin, 1607-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A La Fleche : Par George Griveau</publisher>
+                     <date>1642</date>
+                  </imprint>
+                  <extent>8, 227 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c36b425c-e4aa-48f7-a712-ed044e85e257/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c36b425c-e4aa-48f7-a712-ed044e85e257/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

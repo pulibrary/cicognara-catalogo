@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3049</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3049</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VERMIGLIOLI</author>, <title>Lettera sopra un cammeo che appartiene al cittadino G. B. Tomitano</title>, <pubPlace>Perugia</pubPlace> <date>1798</date>, in 8, M. 48.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articolo sopra un cameo che appartiene al citt. G.B. Tomitano [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tomitano, Giulio Bernardino, 1761-1828.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gz998h</idno>
+            <idno type="cico">3049</idno>
+            <idno type="dcl">mk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Articolo sopra un cameo che appartiene al citt. G.B. Tomitano [microform].</title>
+                  <respStmt>
+                     <persName>Vermiglioli, Giovanni Battista, 1769-1848.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Perugia? : s.n]</publisher>
+                     <date>[1797?]</date>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>15 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5f0ba424-aaa8-4317-9fef-cf7cf225f112/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5f0ba424-aaa8-4317-9fef-cf7cf225f112/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

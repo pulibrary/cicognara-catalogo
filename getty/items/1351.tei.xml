@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1351</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1351</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REGOLAMENTI</author>, <title>Statuto e prescrizioni della pubblica Accademia di Belle Arti istituita in
+    Venezia per decreto dell’Eccellentiss. Senato</title>, <pubPlace>Venezia</pubPlace> <date>1782</date>, in 4, gr.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statuto e prescrizioni della pubblica Accademia di pittura, scultura, ed architettura instituita nella città di Venezia per decretò dell'eccellentissimo senato.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99836763504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/72515z</idno>
+            <idno>(OCoLC)973466453</idno>
+            <idno type="cico">1351</idno>
+            <idno type="dcl">rnm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Statuto e prescrizioni della pubblica Accademia di pittura, scultura, ed architettura instituita nella città di Venezia per decretò dell'eccellentissimo senato.</title>
+                  <respStmt>
+                     <persName>Regia accademia di belle arti di Venezia</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia] : Nella stamperia Savioniana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>L, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99836763504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99836763504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statuto e prescrizioni della pubblica Accademia di pittura, scultura, ed architettura instituita nella città di Venezia per decretò dell'eccellentissimo senato [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tp1p3m</idno>
+            <idno type="cico">1351</idno>
+            <idno type="dcl">rnm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Statuto e prescrizioni della pubblica Accademia di pittura, scultura, ed architettura instituita nella città di Venezia per decretò dell'eccellentissimo senato [microform]</title>
+                  <respStmt>
+                     <persName>Regia accademia di belle arti di Venezia.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia] : Nella stamperia Savioniana</publisher>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>LII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/262c463c-65a8-4afd-a4c9-3ff260268df2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/262c463c-65a8-4afd-a4c9-3ff260268df2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

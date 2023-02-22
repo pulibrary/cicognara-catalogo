@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3023</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3023</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>THEOPHRASTE</author>, <title>Traité des pierres traduit du grec avec des notes physiques, et critiques, traduites de l’anglois de
+M. Hill etc.</title>, <pubPlace>Paris</pubPlace> <date>1754</date>, in 8.
+<note>Opera interessante per le nozioni dell’antica zoologia esaminate e discusse profondamente quanto far si poteva in
+quell’epoca.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité des pierres de Théophraste, traduit du Grec / avec des notes physiques &amp; critiques, traduites de l'Anglois de M. Hill; auquel on a ajouté deux lettres du même auteur, l'une au Docteur Parsons, sur les couleurs du saphir &amp; de la turquoise; &amp; l'autre à M. Folkes, Président de la Société Royale de Londres, sur les effets des différens menstrues sur la cuivre.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hill, John, 1714?-1775.</authority>
+            <authority>Parsons, James, 1705-1770.</authority>
+            <authority>Folkes, Martin, 1690-1754.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990056313670203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/bt0f60</idno>
+            <idno>(OCoLC)1029916464</idno>
+            <idno type="cico">3023</idno>
+            <idno type="dcl">6st</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité des pierres de Théophraste, traduit du Grec / avec des notes physiques &amp; critiques, traduites de l'Anglois de M. Hill; auquel on a ajouté deux lettres du même auteur, l'une au Docteur Parsons, sur les couleurs du saphir &amp; de la turquoise; &amp; l'autre à M. Folkes, Président de la Société Royale de Londres, sur les effets des différens menstrues sur la cuivre.</title>
+                  <respStmt>
+                     <persName>Theophrastus, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jean-Thomas Herissant, Libraire</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>M.DCC.LIV [1754]</date>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>xxiv, 287 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482169334"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482169334">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

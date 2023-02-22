@@ -1,0 +1,129 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 735</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">735</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VITRUVIO Marco Pollione</author>, <title>L’architettura tradotta e commentata dal Marchese Bernardo
+	Galliani</title>. Edizione seconda ricorretta dagli errori della prima e corredata degli stessi rami,
+	<pubPlace>Napoli</pubPlace> <date>1790</date>, presso <publisher>i fratelli Terres</publisher>, in fol.
+	<note>In questa edizione non è posto il testo a fronte della traduzione. Leggesi in altri esemplari di questa stessa
+	edizione mutato il frontespizio. Siena 1790 nella stamperia di Luigi e Benedetto Biadi con licenza.</note>
+	
+	<pb type="cico" n="138"/>
+	              </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'architettura di Marco Vitruvio Pollione / tradotta e comentata dal marchese Berardo Galiani ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galiani, Berardo, marchese, 1724-1774</authority>
+            <authority>Marra, Francesco la, approximately 1710-approximately 1780</authority>
+            <authority>Cepparuli, Francesco</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929603430001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/x98b2r</idno>
+            <idno>(OCoLC)123408326</idno>
+            <idno type="cico">735</idno>
+            <idno type="dcl">197</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'architettura di Marco Vitruvio Pollione / tradotta e comentata dal marchese Berardo Galiani ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Presso i fratelli Terres</publisher>
+                     <pubPlace>Italy Naples.</pubPlace>
+                     <date>MDCCXC [1790]</date>
+                     <date>1790</date>
+                  </imprint>
+                  <extent>[2], XX, 272, [34] p., [26] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ada93e12-9b48-4f0a-87f7-d68c2bb12c86"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ada93e12-9b48-4f0a-87f7-d68c2bb12c86">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'architettura di Marco Vitruvio Pollione [microform] / tradotta e comentata dal marchese Berardo Galiani ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galiani, Berardo, marchese, 1724-1774.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985189933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1k2w52</idno>
+            <idno type="cico">735</idno>
+            <idno type="dcl">197</idno>
+            <idno type="dcl">735</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'architettura di Marco Vitruvio Pollione [microform] / tradotta e comentata dal marchese Berardo Galiani ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Presso i fratelli terres</publisher>
+                     <date>1790</date>
+                  </imprint>
+                  <extent>[2], xx, 272 p., XXV leaves of plates</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ccdd49c-044a-49f9-8628-269a8a36cea1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ccdd49c-044a-49f9-8628-269a8a36cea1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

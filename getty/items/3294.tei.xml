@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3294</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3294</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>OSII Theodati</author>, <title>De agriculturae et agrimensurae nobilitate</title>, <pubPlace>Mediolani</pubPlace> <date>1639</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theodati Ossi I.P. De architecturae &amp; agrimensurae nobilitate ad Io. Baptistam Sitonum dissertatio ... [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985415373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6x384q</idno>
+            <idno type="cico">3294</idno>
+            <idno type="dcl">6gj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Theodati Ossi I.P. De architecturae &amp; agrimensurae nobilitate ad Io. Baptistam Sitonum dissertatio ... [microform].</title>
+                  <respStmt>
+                     <persName>Osio, Teodato, fl. 1637.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Mediolani : Typis Georgij Rollae</publisher>
+                     <date>1639</date>
+                  </imprint>
+                  <extent>57 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8a1c967f-6266-477d-84b6-281eb01e5ba6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a1c967f-6266-477d-84b6-281eb01e5ba6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

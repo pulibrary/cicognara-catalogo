@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1132</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1132</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALTHANI Frid.</author>, <title>Baptismale hieroglyficum epistolica dissertatione explanatum etc.</title> Data S.
+    Viti ad Tilaventum, sine loco et anno, in 8, M. 46.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baptismale hieroglyphicum [microform] : epistolica dissertatione explanatum ; cui accedunt nonnulla vetusta documenta ad baptismum quoque spectantia.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sp8n28</idno>
+            <idno type="cico">1132</idno>
+            <idno type="dcl">vjk</idno>
+            <idno type="dcl">vjK</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Baptismale hieroglyphicum [microform] : epistolica dissertatione explanatum ; cui accedunt nonnulla vetusta documenta ad baptismum quoque spectantia.</title>
+                  <respStmt>
+                     <persName>Altan, Federico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[1749]</date>
+                     <date>1749</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1e74c9bb-57cb-45ce-bde0-b7245fcba3be/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1e74c9bb-57cb-45ce-bde0-b7245fcba3be/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

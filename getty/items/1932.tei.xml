@@ -1,0 +1,128 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1932</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1932</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PETRA Sancta Silvestre</author>, <title>De symbolis heroicis lib. IX</title>, <pubPlace>Ant.</pubPlace> <publisher>Plantin</publisher> <date>1634</date>, in 4, fig. Le tavole
+    sono di bell’intaglio e il frontespizio disegnato da Rubens è inciso da Teod. Galle.
+    <note>Gli emblemi sono 260 non computando quattro figure senza spiegazione e 16 altre tavole, che in tutto col
+    frontespizio formano 290.</note>
+    
+    <pb type="cico" n="328"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De symbolis heroicis libri IX / auctore Siluestro Petrasancta romano e Soc. Iesu.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galle, Cornelis, 1576-1650, engraver.</authority>
+            <authority>Rubens, Peter Paul, 1577-1640, artist.</authority>
+            <authority>Moretus, Balthasar, 1574-1641, printer.</authority>
+            <authority>Plantijnsche Drukkerij, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930469450001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fs6t4p</idno>
+            <idno>(OCoLC)52381539</idno>
+            <idno type="cico">1932</idno>
+            <idno type="dcl">w53</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De symbolis heroicis libri IX / auctore Siluestro Petrasancta romano e Soc. Iesu.</title>
+                  <respStmt>
+                     <persName>Pietrasanta, Silvestro, 1590-1647.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae : Ex officina Plantiniana Balthasaris Moreti</publisher>
+                     <date>MDCXXXIV [1634]</date>
+                     <date>1634</date>
+                  </imprint>
+                  <extent>lxxx, 480, [36] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b8994ac2-0083-43fb-93b1-ccc3f5a6d587"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b8994ac2-0083-43fb-93b1-ccc3f5a6d587">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De symbolis heroicis libri IX [microform] / auctore Silvestro Petrasancta ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galle, Cornelis, 1576-1650.</authority>
+            <authority>Rubens, Peter Paul, 1577-1640.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985338213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pz502k</idno>
+            <idno type="cico">1932</idno>
+            <idno type="dcl">w53</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De symbolis heroicis libri IX [microform] / auctore Silvestro Petrasancta ...</title>
+                  <respStmt>
+                     <persName>Pietrasanta, Silvestro, 1590-1647.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae : Ex officina Plantiniana Balthasaris Moreti</publisher>
+                     <date>1634</date>
+                  </imprint>
+                  <extent>480 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1c064116-f25e-4a67-ad66-e30b9519afcc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1c064116-f25e-4a67-ad66-e30b9519afcc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4716</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4716</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>IKENIO Conrado</author>, <title>Antiquitates Hebraicae secundum triplicem Judaeorum statum, ecclesiasticum, politicum, et
+oeconomicum</title>, <pubPlace>Bremae</pubPlace> <date>1764</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiquitates hebraicae secundum triplicem Iudaeorum statum [microform]: ecclesiasticum, politicum et oeconomicum / breviter delineatae a Conrado Ikenio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985425713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b12w4q</idno>
+            <idno type="cico">4025</idno>
+            <idno type="cico">4716</idno>
+            <idno type="dcl">6kg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiquitates hebraicae secundum triplicem Iudaeorum statum [microform]: ecclesiasticum, politicum et oeconomicum / breviter delineatae a Conrado Ikenio.</title>
+                  <respStmt>
+                     <persName>Iken, Conrad, 1689-1753.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bremae : Sumptibus Gerhardi Wilhelmi Rumpii</publisher>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>624 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/74c61eac-a893-40f1-9081-0bd8e2929c04/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/74c61eac-a893-40f1-9081-0bd8e2929c04/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiqvitates Hebraicae Secvndvm Triplicem Ivdaeorvm Statvm Ecclesiasticvm Politicvm Et Oeconomicvm</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Iken, Conrad, Author</authority>
+            <authority>Rump, Gerhard Wilhelm, Other</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-524590</idno>
+            <idno type="URI">http://portal.getty.edu/api/5m2m81</idno>
+            <idno type="cico">4716</idno>
+            <idno type="dcl">6kg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiqvitates Hebraicae Secvndvm Triplicem Ivdaeorvm Statvm Ecclesiasticvm Politicvm Et Oeconomicvm</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Svmtibvs Gerhardi Wilhelmi Rvmpii</publisher>
+                     <date>1764</date>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>2 ungezählte Blätter, 12 ungezählte Seiten, 624 Seiten, 112 ungezählte Seiten</extent>
+                  <extent>Kupfertitel</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/iken1764/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/iken1764/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

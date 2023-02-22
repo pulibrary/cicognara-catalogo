@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2188</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2188</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>D’ARGENVILLE</author>, <title>Vie des fameux architectes et sculpteurs depuis la rénaissance des arts avec
+    la déscription de leurs ouvrages</title>, <pubPlace>Paris</pubPlace> <date>1787</date>, in 8, 2 vol.
+    <note>Questa fu pubblicata dal figlio dell’autore delle vite de’ pitt <pb type="cico" n="377"/>tori; opera piuttosto arida; aggiunge egli
+    nella prefazione che disponevasi a pubblicare una nuova edizione delle Vite stampate da suo padre, con molte
+    aggiunte e senza ritratti.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vies des fameux architectes depuis la renaissance des arts [microform] : avec la description de leurs ouvrages / par M. D*** ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p0207q</idno>
+            <idno type="cico">2188</idno>
+            <idno type="dcl">5w4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vies des fameux architectes depuis la renaissance des arts [microform] : avec la description de leurs ouvrages / par M. D*** ...</title>
+                  <respStmt>
+                     <persName>Dézallier d'Argenville, A.-J. (Antoine-Joseph), 1680-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Debure l'aîné</publisher>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>16 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/72b71730-28df-4f49-ab12-3ccfed3c9c08/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/72b71730-28df-4f49-ab12-3ccfed3c9c08/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

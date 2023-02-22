@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1249</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1249</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DESCRIZIONE d’un tempio monoptero ad uso di Dessert per la Signora D. Teresa Crivelli nata
+    Olgiati</title>, <pubPlace>Roma</pubPlace> <date>1808</date>, in 4, M. 25.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione di un tempio monoptero ad uso di dessert [microform] / per ... Teresa Crivelli, nata Olgiati ; estratta dalle Memorie enciclopediche romane sulle antichita' e belle arti, volume IV. corrente, pag. 65.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985458293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vj616g</idno>
+            <idno type="cico">1249</idno>
+            <idno type="dcl">h2m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione di un tempio monoptero ad uso di dessert [microform] / per ... Teresa Crivelli, nata Olgiati ; estratta dalle Memorie enciclopediche romane sulle antichita' e belle arti, volume IV. corrente, pag. 65.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Carlo Mordacchini</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>viii p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c6cbe6d7-4e02-4ebb-9835-103cfff6f528/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c6cbe6d7-4e02-4ebb-9835-103cfff6f528/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

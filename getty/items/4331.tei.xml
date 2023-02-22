@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4331</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4331</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARCHESELLI</author>, <title>Pitture delle chiese di Rimino descritte</title>, <pubPlace>Rimino</pubPlace> <date>1756</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pitture delle chiese di Rimino [microform] / descritte dal signor Carlo Francesco Marcheselli ... ; con nuove aggiunte di altre cose notabili antiche, e moderne.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9t677q</idno>
+            <idno type="cico">4331</idno>
+            <idno type="dcl">733</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pitture delle chiese di Rimino [microform] / descritte dal signor Carlo Francesco Marcheselli ... ; con nuove aggiunte di altre cose notabili antiche, e moderne.</title>
+                  <respStmt>
+                     <persName>Marcheselli, Carlo Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Rimino : Nella stamperia Albertiniana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>80 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/359dafdd-9647-47ec-83b2-582b6541a373/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/359dafdd-9647-47ec-83b2-582b6541a373/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pitture delle chiese di Rimino / descritte dal signor Carlo Francesco Marcheselli, patrizio della medesima città ; con nuove aggiunte di altre cose notabilis antiche e moderne.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926997560001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/d83b3c</idno>
+            <idno>(OCoLC)25820035</idno>
+            <idno type="cico">4331</idno>
+            <idno type="dcl">733</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pitture delle chiese di Rimino / descritte dal signor Carlo Francesco Marcheselli, patrizio della medesima città ; con nuove aggiunte di altre cose notabilis antiche e moderne.</title>
+                  <respStmt>
+                     <persName>Marcheselli, Carlo Francesco, 1671-1735.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Rimino : Nella Stamperia Albertiniana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rimini (Italy)</pubPlace>
+                     <pubPlace>Rimini.</pubPlace>
+                     <pubPlace>Italy Rimini.</pubPlace>
+                     <date>MDCCLIV [1754]</date>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>80 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/14ac6c80-548f-4a7b-aaf3-150ea281c886"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/14ac6c80-548f-4a7b-aaf3-150ea281c886">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

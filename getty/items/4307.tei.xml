@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4307</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4307</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CARASI Carlo</author>, <title>Le pitture pubbliche di Piacenze</title>, <pubPlace>Piacenza</pubPlace> <date>1780</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Pubbliche Pitture Di Piacenza / [Carlo Carasi].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100897193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zs5t5j</idno>
+            <idno>(OCoLC)313314397</idno>
+            <idno type="cico">4307</idno>
+            <idno type="dcl">0h1</idno>
+            <idno type="dcl">2gq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le Pubbliche Pitture Di Piacenza / [Carlo Carasi].</title>
+                  <respStmt>
+                     <persName>Carasi, Carlo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Piacenza]</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>3 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/35bea4e8-0275-4fc2-a385-06a94f6ece09/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/35bea4e8-0275-4fc2-a385-06a94f6ece09/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

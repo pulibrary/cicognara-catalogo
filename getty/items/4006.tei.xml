@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4006</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4006</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FANTUZZI Marco</author>, <title>Monumenti ravennati de’ secoli di mezzo, per la maggior parte inediti</title>, <pubPlace>Venezia</pubPlace> <date>1801</date>, in 4, fig.,
+vol. 6.
+<note>Opera rara essendo stata stampata in numero di pochi esemplari che l’autore donò a’ suoi amici, come si legge
+nello stesso prospetto dell’opera. Sonovi qua e là poche tavole di monumenti, ma una ricchissima serie di atti
+autentici, e notizie storiche, e diplomatiche che rende l’opera cospicua.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenti ravennati de' secoli di mezzo [microform] / per la maggior parte inediti ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985424983506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zt676d</idno>
+            <idno type="cico">4006</idno>
+            <idno type="dcl">1kr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti ravennati de' secoli di mezzo [microform] / per la maggior parte inediti ....</title>
+                  <respStmt>
+                     <persName>Fantuzzi, Marco, 1740-1806.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : [F. Andreola]</publisher>
+                     <pubPlace>Ravenna (Italy)</pubPlace>
+                     <date>1801-1804</date>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>6 v.</extent>
+                  <extent>52 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9cff9607-f9c3-45cc-b89d-43e5ce8ab379/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9cff9607-f9c3-45cc-b89d-43e5ce8ab379/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2394</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2394</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VASARI Giorgio</author>, <title>Vita di M. Jacopo Sansovino</title>, in 4, M. 37.
+    <note>Questa vita è tratta dal secondo volume della terza parte dei libri stampati in Fiorenza l’anno 1568 e scritto da M.
+    Giorgio Vasari aretino, a c. 823, e ora da lui medesimo in più luoghi ampliata, riformata e corretta. Trovansi
+    rarissimi esemplari di questa edizione.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di M. Iacopo Sansovino, scultore et architetto eccellentissimo della sereniss. rep. di Venetia [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/967p39</idno>
+            <idno type="cico">2394</idno>
+            <idno type="dcl">jrw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di M. Iacopo Sansovino, scultore et architetto eccellentissimo della sereniss. rep. di Venetia [microform].</title>
+                  <respStmt>
+                     <persName>Vasari, Giorgio, 1511-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia : s.n]</publisher>
+                     <date>[1570]</date>
+                     <date>1570</date>
+                  </imprint>
+                  <extent>10 numbered leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/23c7a6dd-8882-481d-881a-41600c4de0c3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/23c7a6dd-8882-481d-881a-41600c4de0c3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

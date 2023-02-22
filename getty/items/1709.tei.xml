@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1709</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1709</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MENARD</author>, <title>Les moeurs et les usages des Grecs</title>, <pubPlace>Lion</pubPlace> <date>1743</date>, in 12.
+  <note>Opera divisa in 4 pati che riguardano la religione, lo stato politico, le arti e le scienze e la vita privata. Libro
+  elementare e pieno di ottime cognizioni succinte.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les mœurs et les usages des grecs / par M. Ménard ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9921960523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7p3w07</idno>
+            <idno>(OCoLC)41120974</idno>
+            <idno type="cico">1709</idno>
+            <idno type="dcl">bs1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les mœurs et les usages des grecs / par M. Ménard ...</title>
+                  <respStmt>
+                     <persName>Ménard, Léon, 1703-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Lyon : Chez la veuve Delaroche &amp; fils</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>[8], xxxv, [5], 356, [20] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/094673c5-664b-4338-86ce-16e5e4b902a1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/094673c5-664b-4338-86ce-16e5e4b902a1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les moeurs et les usages des grecs [microform] / par M. Ménard ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nm603w</idno>
+            <idno type="cico">1709</idno>
+            <idno type="dcl">bs1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les moeurs et les usages des grecs [microform] / par M. Ménard ...</title>
+                  <respStmt>
+                     <persName>Ménard, Léon, 1703-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Lyon : Chez la veuve Delaroche &amp; fils</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>[8], xxxv, [5], 356 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/45f04170-1a90-4f3f-ac16-200374d3b157/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/45f04170-1a90-4f3f-ac16-200374d3b157/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

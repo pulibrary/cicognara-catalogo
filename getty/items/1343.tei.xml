@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1343</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1343</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REZZONICO della Torre Castone</author>, <title>Discorsi Accademici relativi alle Belle Arti e rime varie</title>,
+    <pubPlace>Parma</pubPlace> <date>1772</date>, in 8, fig. Parti 2.
+    <note>Cinque eleganti rami, oltre gran numero di vignette dell’ incisore Benigno Bossi ornano questa edizione
+    elegante, la cui prima parte è destinata alle prose, la seconda ai versi.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Versi sciolti e rimati di Dorillo Dafneio .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j50158</idno>
+            <idno type="cico">1343</idno>
+            <idno type="dcl">42w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Versi sciolti e rimati di Dorillo Dafneio .. [microform]</title>
+                  <respStmt>
+                     <persName>Torre di Rezzonico, Carlo Castone della, 1742-1796.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Parma : Dalla stamperia reale]</publisher>
+                     <date>[1773]</date>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>[10], 137 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/84abb09d-da9d-4cdb-8177-fa2689ae92fa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/84abb09d-da9d-4cdb-8177-fa2689ae92fa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

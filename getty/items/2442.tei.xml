@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2442</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2442</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GOLCHENII Rodolphi</author>, <title>Physiognomica et chiromantica specialia</title>, <pubPlace>Hamburgi</pubPlace> <date>1661</date>, in 8, fig.
+    <note>Con poche tavole in legno impresse fra il testo. Il trattato è disteso in buono stile.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Physignomica et chiromantica specialia [microform] : ante annos aliquot in lucem emissa / â Rodolpho Goclenio ... ; nunc denuò recognita ac plurimis in locis deficientibus, scituq[ue] necessariis (insertâ etiam Metaposcopia speciali) aucta &amp; restituta ut sic ferè absolutam atq[ue] integram physiognomiam humanam quàm compendiosissimè exhibeant ; accesserunt in siue memorabilia experimenta &amp; observationes chiromanticae, cum speciali judicio, notatù dignissimae.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/578s8n</idno>
+            <idno type="cico">2442</idno>
+            <idno type="dcl">kjx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Physignomica et chiromantica specialia [microform] : ante annos aliquot in lucem emissa / â Rodolpho Goclenio ... ; nunc denuò recognita ac plurimis in locis deficientibus, scituq[ue] necessariis (insertâ etiam Metaposcopia speciali) aucta &amp; restituta ut sic ferè absolutam atq[ue] integram physiognomiam humanam quàm compendiosissimè exhibeant ; accesserunt in siue memorabilia experimenta &amp; observationes chiromanticae, cum speciali judicio, notatù dignissimae.</title>
+                  <respStmt>
+                     <persName>Goclenius, Rudolph, 1547-1628.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Hamburg : Apud Johannem Naumannum, Bibliop</publisher>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>280 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b161e45b-15d7-4536-a403-4b6b7d1b8f09/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b161e45b-15d7-4536-a403-4b6b7d1b8f09/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

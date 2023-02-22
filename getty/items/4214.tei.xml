@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4214</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4214</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MIGLIORE Ferdinando Leopoldo</author>, <title>Firenze, città nobilissima illustrata</title>. Prima, seconda, e terza parte del primo
+libro, <pubPlace>Firenze</pubPlace> <date>1684</date>, in 4.
+<note>Quest’opera non venne mai proseguita più oltre, e sarebbe stata della più grande utilità, poiché ben incominciata,
+e derivata dalle migliori sorgenti.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Firenze città nobilissima [microform] / illustrata da Ferdinando Leopoldo del Migliore ; prima, seconda, e terza parte del primo libro.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ancisa, Pietro Antonio dell'.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4d503h</idno>
+            <idno type="cico">4124</idno>
+            <idno type="dcl">6ck</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Firenze città nobilissima [microform] / illustrata da Ferdinando Leopoldo del Migliore ; prima, seconda, e terza parte del primo libro.</title>
+                  <respStmt>
+                     <persName>Migliore, Ferdinando Leopoldo del.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamp. della Stella</publisher>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <date>1684</date>
+                  </imprint>
+                  <extent>3 pts. in 1 v.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1eab753c-115a-4b6a-ae04-5385936e7bfb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1eab753c-115a-4b6a-ae04-5385936e7bfb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

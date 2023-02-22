@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4592</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4592</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CATALOGUE d’une colléction d’estampes choisies, etc</title>. <note>Il suddetto, traduzione in italiano. Ristrettissima
+                        collezione</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogo dei quadri dei disegni e dei libri che trattano dell' arte del disegno della galleria del fu sig. conte Algarotti in Venezia [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Edwards, Pietro, 1744-1821.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f49508</idno>
+            <idno type="cico">4592</idno>
+            <idno type="dcl">kgn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogo dei quadri dei disegni e dei libri che trattano dell' arte del disegno della galleria del fu sig. conte Algarotti in Venezia [microform].</title>
+                  <respStmt>
+                     <persName>Selva, Giovanni Antonio, 1753-1819.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venezia : s.n]</publisher>
+                     <date>[1776]</date>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>LXXX p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d69b0a16-9ccb-4f75-9749-092949c59912/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d69b0a16-9ccb-4f75-9749-092949c59912/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogo dei quadri dei disegni e dei libri che trattano dell' arte del disegno della galleria del fu Sig. conte Algarotti in Venezia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Edwards, Pietro, 1744-1821</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923784780001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vz717k</idno>
+            <idno>(OCoLC)84163986</idno>
+            <idno type="cico">4592</idno>
+            <idno type="dcl">kgn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogo dei quadri dei disegni e dei libri che trattano dell' arte del disegno della galleria del fu Sig. conte Algarotti in Venezia.</title>
+                  <respStmt>
+                     <persName>Selva, Giovanni Antonio, 1753-1819</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Venice] : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>[1776]</date>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>[8], LXXX pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/45669c05-3a98-47f2-9abf-defbd10e4e83"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/45669c05-3a98-47f2-9abf-defbd10e4e83">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

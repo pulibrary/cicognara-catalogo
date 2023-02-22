@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1050</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1050</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COZENS Alexander</author>, <title>Principles of beauty relative to the human head</title>, <pubPlace>London</pubPlace> <date>1778</date>, in fol. gr.
+      Inglese e francese.
+      <note>Le 17 tavole che accompagnano il testo di quest’opera in singolar forma pubblicate ed incise, vennero intagliate
+      da Francesco Bartolozzi. È da notarsi che le capigliature di tutte le teste vennero incise separatamente dai profili
+      e stampa <pb type="cico" n="187"/>te in carta finissima e trasparente in altretanti foglietti mobili, che si adattano e sovrappongonsi
+      ai profili stampati in carta solida, e compatta. I principi però addottati dall’autore in materia di proporzione
+      conducono all’assurdo. Vedasi Bossi Giuseppe nell’opera sul Cenacolo di Leonardo.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principles of beauty relative to the human head [microform] / by Alexander Cozens.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartolozzi, Francesco, 1727-1815.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985299623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zh5q5v</idno>
+            <idno type="URI">http://portal.getty.edu/api/j54v0r</idno>
+            <idno type="cico">1050</idno>
+            <idno type="dcl">78k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Principles of beauty relative to the human head [microform] / by Alexander Cozens.</title>
+                  <respStmt>
+                     <persName>Cozens, Alexander, approximately 1717-1786.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>London : Printed by James Dixwell</publisher>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>15, 15 p., 16 leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6e0483fe-5bf7-49e2-bd5a-903dc6e121f3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6e0483fe-5bf7-49e2-bd5a-903dc6e121f3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

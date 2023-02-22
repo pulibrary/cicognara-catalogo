@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4514</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4514</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FOILLOT, et de la Lande</author>, <title>Catalogue d’une belle colléction de tableaux, esquisse à l’huile, desseins, estampes etc.
+du Cabinét de M. Nourri</title>, <pubPlace>Paris</pubPlace> <date>1785</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une belle collection de tableaux, esquises, a l'huile, desins et estampes, des écoles d'italie, d'allemagne, de hollande, de flandre et de france [microform] : pastels, gouaches, bustes de marbre, bronzes, meubles, et autres objets de curiosité, provenans du cabinet de M. Nourri, conseiller au Grand Conseil / par J. Folliot et F. Delalande.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Regnault-Delalande, François Léandre, 1762-1824.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4s7f5t</idno>
+            <idno type="cico">4514</idno>
+            <idno type="dcl">hzv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une belle collection de tableaux, esquises, a l'huile, desins et estampes, des écoles d'italie, d'allemagne, de hollande, de flandre et de france [microform] : pastels, gouaches, bustes de marbre, bronzes, meubles, et autres objets de curiosité, provenans du cabinet de M. Nourri, conseiller au Grand Conseil / par J. Folliot et F. Delalande.</title>
+                  <respStmt>
+                     <persName>Folliot, J.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : J. Foliot [etc.]</publisher>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>viij, 278 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/840705a4-bdc9-471a-9eb8-a0422c9e7a6b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/840705a4-bdc9-471a-9eb8-a0422c9e7a6b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

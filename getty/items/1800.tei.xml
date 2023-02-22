@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1800</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1800</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SPONII Jacobi</author>, <title>De l’Origine des Estrenes discours historique et moral contenu dans une
+                     lettre</title>, <pubPlace>Lioni</pubPlace> <date>1673</date>, par T. S. D. M.
+  <note>Questa è la vera prima edizione di questo secondo raro opuscoletto e prezioso. Brunet cita una da lui creduta
+  prima edizione del 1674; ma noi la crediamo seconda, tanto più che egli dice non esservi punto nome di autore,
+  mentre qui le iniziali servono a far conoscere Giacomo Spon Dottore di medicina</note>.
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'origine des estrenes. : discours historique &amp; moral, contenu dans une lettre.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990100045840203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/0f399h</idno>
+            <idno>(OCoLC)50521947</idno>
+            <idno type="cico">1800</idno>
+            <idno type="dcl">0s8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'origine des estrenes. : discours historique &amp; moral, contenu dans une lettre.</title>
+                  <respStmt>
+                     <persName>Spon, Jacob, 1647-1685, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Lyon?] : [publisher not identified]</publisher>
+                     <pubPlace>France Lyon.</pubPlace>
+                     <date>M. DC. LXXIII. [1673]</date>
+                     <date>1673</date>
+                  </imprint>
+                  <extent>35 pages, 1 unnumbered page</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493470662"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493470662">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'origine des estrenes [microform] : discours historique &amp; moral contenu dans une lettre.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985444073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g52q14</idno>
+            <idno type="cico">1800</idno>
+            <idno type="cico">4748</idno>
+            <idno type="dcl">0s8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'origine des estrenes [microform] : discours historique &amp; moral contenu dans une lettre.</title>
+                  <respStmt>
+                     <persName>Spon, Jacob, 1647-1685.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Lyon : Par T.S.D.M.]</publisher>
+                     <date>1673</date>
+                  </imprint>
+                  <extent>35 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/98b9b46e-a322-4672-a3c4-f80c21e05ac2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/98b9b46e-a322-4672-a3c4-f80c21e05ac2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

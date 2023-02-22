@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4730</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4730</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MONTIFALCHII Petri</author>, <title>De cognominibus Deorum opusculum</title>, <pubPlace>Perusiae</pubPlace>, in aedibus <publisher>Hieronymy Francisci Cartularii</publisher>,
+<date>1522</date>, in 4.
+<note>Opuscolo di carte 91 raro e interessantissimo. Il frontespizio è intagliato in legno, e a tergo è il Grifo, stemma
+della città di Perugia.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petri Iacobi Montifalchii De cognominibus deorum opusculum [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Montifalchius, Petrus Jacobus. De hostiis sev victimis antiqvorvm.</authority>
+            <authority>Montifalchius, Petrus Jacobus. De sacris celebritatibvs.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985425163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gd4m29</idno>
+            <idno type="cico">4730</idno>
+            <idno type="dcl">z56</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Petri Iacobi Montifalchii De cognominibus deorum opusculum [microform].</title>
+                  <respStmt>
+                     <persName>Montifalchius, Petrus Jacobus.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Perusie : In aedibus Hieronymi Francisci Chartularii</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>Augusto mense1525</date>
+                     <date>1525</date>
+                  </imprint>
+                  <extent>91 leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3aa4e840-ee1d-46bb-97e4-0cc736affb56/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3aa4e840-ee1d-46bb-97e4-0cc736affb56/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

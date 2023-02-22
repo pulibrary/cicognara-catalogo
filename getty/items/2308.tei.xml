@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2308</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2308</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MAGGI Aimo</author>, <title>Memorie sulla vita di Agostino Bertelli paesista bresciano, operetta postuma</title>,
+    <pubPlace>Brescia</pubPlace> <date>1794</date>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie sulla vita di Agostino Bertelli, paesista bresciano [microform] : operetta postuma / del conte Aimo Maggi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3t7b0b</idno>
+            <idno type="cico">2308</idno>
+            <idno type="dcl">15z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie sulla vita di Agostino Bertelli, paesista bresciano [microform] : operetta postuma / del conte Aimo Maggi.</title>
+                  <respStmt>
+                     <persName>Maggi, Aimo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Brescia : Dalla stamperia Pasini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1794</date>
+                  </imprint>
+                  <extent>xiii, [7], 30 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/eb82215f-2fda-4395-9dc7-42b87a39a352/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eb82215f-2fda-4395-9dc7-42b87a39a352/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1760</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1760</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PINELLI Bartolommeo</author>, <title>Raccolta di cento costumi antichi cavati dai monumenti e incisi
+  all’acqua forte</title>, <pubPlace>Roma</pubPlace>, in fol. oblong., tavole 52.
+  <note>Opera trattata con tutto il gusto pittoresco e l’intelligenza.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta di cento costumi antichi [microform] : ricavati dai monumenti, e dagli autori antichi / desegnati ed incisi all' acquaforte da Bartholomeo Pinelli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/46989d</idno>
+            <idno type="cico">1760</idno>
+            <idno type="dcl">mzj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta di cento costumi antichi [microform] : ricavati dai monumenti, e dagli autori antichi / desegnati ed incisi all' acquaforte da Bartholomeo Pinelli.</title>
+                  <respStmt>
+                     <persName>Pinelli, Bartolomeo, 1781-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Luigi Fabri</publisher>
+                     <date>[181-?]</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>52 leaves</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c5c32e6a-fd82-4ad9-88f4-8946e941de61/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c5c32e6a-fd82-4ad9-88f4-8946e941de61/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

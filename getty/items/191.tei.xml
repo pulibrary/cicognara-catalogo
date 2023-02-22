@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 191</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">191</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>PUCCINI Tommaso</author>, 
+                     <title>Esame critico dell’opera sulla pittura di Daniel Webb, tradotto dall’inglese
+	  e commentato da Francesco Pizzetti.</title> Articolo del <publisher>Giornale</publisher> 
+                     <pubPlace>di Pisa,</pubPlace> 
+                     <date>1807,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esame critico dell'opera sulla pittura di Daniele Webb [microform] / tradotta dall'inglese e commentata da Francesco Pizzetti ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Puccini, Tommaso, 1749-1811.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d66095</idno>
+            <idno type="cico">191</idno>
+            <idno type="dcl">f5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Esame critico dell'opera sulla pittura di Daniele Webb [microform] / tradotta dall'inglese e commentata da Francesco Pizzetti ...</title>
+                  <respStmt>
+                     <persName>Pizzetti, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Pisa? : s.n]</publisher>
+                     <date>[1807]</date>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>66 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2186db64-c2f9-4dc2-ad6a-49b4e5b1f080/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2186db64-c2f9-4dc2-ad6a-49b4e5b1f080/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

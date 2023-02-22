@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3396</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3396</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>Galleria Reale di Firenze illustrata dai sigg. Zannoni, Montalvi, Bargigli e Ciampi</title>, incisa a contorni sotto la
+direzione del sig. Pietro Benvenuti, <pubPlace>Firenze</pubPlace>, in 8.
+<note>Opera che si sta pubblicando. Finora sono 66 fascicoli e si continua.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reale Galleria di Firenze illustrata [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985436453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mn104h</idno>
+            <idno type="URI">http://portal.getty.edu/api/w19n79</idno>
+            <idno type="cico">3396</idno>
+            <idno type="dcl">7sb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Reale Galleria di Firenze illustrata [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Presso Giuseppe Molini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1817-1831</date>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>5 v. in 13</extent>
+                  <extent>68 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0e9f1fab-2796-4b67-a37b-15d43330fc60/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0e9f1fab-2796-4b67-a37b-15d43330fc60/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

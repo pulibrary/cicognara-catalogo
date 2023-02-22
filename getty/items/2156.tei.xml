@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2156</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2156</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DANETIUS Petrus</author>, <title>Dictionarium antiquitatum romanarum et graecarum ad usum Delphini</title>,
+    <pubPlace>Amstelodami</pubPlace> <date>1701</date>, in 4.<note>
+    Opera che ha perduto molto del suo pregio dopo le più recenti produzioni di questo genere e non le rimane che
+    quello di appartenere alla collana delle opere pubblicate ad usum Delphini.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionarium, antiquitatum Romanarum et Graecarum [microform] : in usum serenissimi Delphini et serenissimorum principum Burgundiae, Andium, Biturigum, collegit, digessit, et sermone Gallico reddidit jussu regis Christianissimi / M. Petrus Dantius ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/109g8b</idno>
+            <idno type="cico">2156</idno>
+            <idno type="dcl">504</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionarium, antiquitatum Romanarum et Graecarum [microform] : in usum serenissimi Delphini et serenissimorum principum Burgundiae, Andium, Biturigum, collegit, digessit, et sermone Gallico reddidit jussu regis Christianissimi / M. Petrus Dantius ...</title>
+                  <respStmt>
+                     <persName>Danet, Pierre, approximately 1650-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Apud Stephanum Roger</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1701</date>
+                  </imprint>
+                  <extent>811 p.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3ec025b6-7190-452e-bc20-0e50eb31466a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3ec025b6-7190-452e-bc20-0e50eb31466a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

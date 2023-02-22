@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1680</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1680</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>KIRCHMANNI Jo.</author>, <title>De funeribus</title>. <note>Vedi Rigaltii</note>.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Johan. Kirchmanni Lubecensis De funeribus Romanorum libri quatuor [microform] : cum appendice : accessit &amp; Funus parasiticum Nicolai Rigaltii.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rigault, Nicolas, 1577-1654. Funus parasiticum.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kq4278</idno>
+            <idno type="cico">1680</idno>
+            <idno type="dcl">m57</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Johan. Kirchmanni Lubecensis De funeribus Romanorum libri quatuor [microform] : cum appendice : accessit &amp; Funus parasiticum Nicolai Rigaltii.</title>
+                  <respStmt>
+                     <persName>Kirchmann, Johann, 1575-1643.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Francofurti : Sumptib. Thomae Henr. Hauensteinii, Bibliop. Hannov. &amp; Zellensis :</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <date>1672</date>
+                  </imprint>
+                  <extent>489, 22 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/85fb7e68-b44f-4e2a-8866-d70609e11d01/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/85fb7e68-b44f-4e2a-8866-d70609e11d01/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 307</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">307</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CASSERI Julii</author>,
+                     <title>De vocis auditusque organis historia anatomica. Iconibus aere excussis
+	illustrata,</title> 
+                     <pubPlace>Ferrariae</pubPlace> 
+                     <date>1600,</date> excudebat <publisher>Vittorius Baldinus,</publisher>
+                     <extent> in fol.</extent>
+	                    <note>Questo libro è rimasto nella nostra biblioteca per la precisione ed il gusto con cui sono eseguite le tavole copiose
+	di cui è arricchito.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iulii Casserii Placentini Philosophii atq[ue?] medici Patavii ... De vocis audituso organis historia anatomica [microform] : singulari fide methodo ac industria concinnata : tractatibus duobus explicata, ac variis iconibus aere excusis illustrata.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qp017n</idno>
+            <idno type="cico">307</idno>
+            <idno type="dcl">x1z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iulii Casserii Placentini Philosophii atq[ue?] medici Patavii ... De vocis audituso organis historia anatomica [microform] : singulari fide methodo ac industria concinnata : tractatibus duobus explicata, ac variis iconibus aere excusis illustrata.</title>
+                  <respStmt>
+                     <persName>Casseri, Giulio Cesare, approximately 1552-1616.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Ferrariae : Excudebat Victorius Baldinus, typographus Cameralis</publisher>
+                     <date>1600-1601</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>2 pts.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2fbb2b5a-26c6-4b39-968b-5b5a795fcebd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2fbb2b5a-26c6-4b39-968b-5b5a795fcebd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

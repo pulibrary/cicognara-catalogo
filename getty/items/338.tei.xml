@@ -1,0 +1,69 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 338</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">338</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>MOREAU J. M.</author>, 
+                     <title>Élémens du dessin gravés en 30 planches,</title> 
+                     <pubPlace>Paris,</pubPlace> 
+                     <extent>in fol., M. 85.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elèmens du dessin, gravés en 30 planches.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Moreau, Jean-Michel.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100829263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qw5542</idno>
+            <idno>(OCoLC)707185505</idno>
+            <idno type="cico">338</idno>
+            <idno type="dcl">hw7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elèmens du dessin, gravés en 30 planches.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[S.l.]</publisher>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>[30] Bl.</extent>
+                  <extent>3 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c6dcef6a-eaac-40a7-8b15-44f0313ce485/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c6dcef6a-eaac-40a7-8b15-44f0313ce485/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

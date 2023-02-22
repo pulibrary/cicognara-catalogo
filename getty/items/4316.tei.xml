@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4316</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4316</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FARINA Antonio</author>, <title>Compendio delle cose più curiose di Napoli, e di Pozzuoli</title>, <pubPlace>Napoli</pubPlace> <date>1676</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compendio Delle Cose Piv Cvriose Di Napoli E Di Pozzvoli : con alcune notizie del regno / raccolto da Antonio Farina.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100925133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dn7c7d</idno>
+            <idno>(OCoLC)313317002</idno>
+            <idno type="cico">4316</idno>
+            <idno type="dcl">rp5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Compendio Delle Cose Piv Cvriose Di Napoli E Di Pozzvoli : con alcune notizie del regno / raccolto da Antonio Farina.</title>
+                  <respStmt>
+                     <persName>Farina, Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Napoli</publisher>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>2 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/462807e0-1aa2-437e-8317-c11fb4bc8f07/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/462807e0-1aa2-437e-8317-c11fb4bc8f07/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

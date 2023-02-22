@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 368</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">368</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>VESALII Brucellensis</author>, 
+                     <title>Suorum de humani corporis fabrica librorum epitome, sive Vivae
+	immagines partium corporis humanis aeneis formis expressae,</title> 
+                     <pubPlace>Antuerpiae,</pubPlace> 
+                     <publisher>Plantin,</publisher> 
+                     <date>1579,</date>
+                     <extent> in 4
+	fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vivae imagines partium corporis humani aereis formis expressae [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tz7x4t</idno>
+            <idno type="cico">368</idno>
+            <idno type="dcl">t7v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vivae imagines partium corporis humani aereis formis expressae [microform]</title>
+                  <respStmt>
+                     <persName>Valverde de Amusco, Juan, approximately 1525-approximately 1588.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiae : Ex officina Christophori Plantini</publisher>
+                     <date>1579</date>
+                  </imprint>
+                  <extent>172, [4] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/878c94ac-2ad8-4a4e-a70c-ba2df4ee81e9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/878c94ac-2ad8-4a4e-a70c-ba2df4ee81e9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

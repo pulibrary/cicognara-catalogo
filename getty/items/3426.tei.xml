@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3426</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3426</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>OESTERREICHER Mathias</author>, <title>Déscription des tableaux de la Galérie Royale, et du cabinet de Sans-Souci</title>, a <pubPlace>Poztdam</pubPlace>
+<date>1771</date>, en 8, prima edizione.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des tableaux de la Galerie Royale et du cabinet de Sans-Souci.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Schloss Sanssouci (Potsdam, Germany)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922128260001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/qc415v</idno>
+            <idno>(OCoLC)33092363</idno>
+            <idno type="cico">3426</idno>
+            <idno type="dcl">c5t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des tableaux de la Galerie Royale et du cabinet de Sans-Souci.</title>
+                  <respStmt>
+                     <persName>Oesterreich, Matthias, 1716-1778</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Potsdam : Chez Chretien Frederic Voss</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Schloss Sanssouci</pubPlace>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>176 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d48de2f1-d1da-4470-9791-55b3ad1120d0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d48de2f1-d1da-4470-9791-55b3ad1120d0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des tableaux de la galerie royale et du cabinet de Sans-Souci [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Neues Palais in Sanssouci (Museum : Potsdam, Germany)</authority>
+            <authority>Schloss Sanssouci (Potsdam, Germany)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/198f31</idno>
+            <idno type="cico">3426</idno>
+            <idno type="dcl">c5t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des tableaux de la galerie royale et du cabinet de Sans-Souci [microform].</title>
+                  <respStmt>
+                     <persName>Oesterreich, Matthias, 1716-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Potsdam : Chez Chretien Frederic Voss</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>176 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2e8d0489-2870-4a67-9a24-08761b2e091d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2e8d0489-2870-4a67-9a24-08761b2e091d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

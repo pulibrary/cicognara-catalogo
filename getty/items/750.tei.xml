@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 750</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">750</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ARNALDI Co. Enea</author>, <title>Lo stesso</title>, seconda edizione, <pubPlace>Vicenza</pubPlace> <date>1783</date>, in 4, pic. fig.
+	— <author>BECEGA Tom.</author>, <title>Saggi d’architettura teatrale</title>. Vedi <title>Calderari Ottone</title>.
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Idea di un teatro nelle principali sue parti simile a' teatri antichi all'uso moderno : accomodato con due discorsi ... opera dell' insigne Andrea Palladio / del conte Enea Arnaldi ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926352440001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/q62d8m</idno>
+            <idno>(OCoLC)10667880</idno>
+            <idno type="cico">749</idno>
+            <idno type="dcl">bcz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Idea di un teatro nelle principali sue parti simile a' teatri antichi all'uso moderno : accomodato con due discorsi ... opera dell' insigne Andrea Palladio / del conte Enea Arnaldi ...</title>
+                  <respStmt>
+                     <persName>Arnaldi, Enea, conte, 1716-1794</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vicenza : Appresso Antonio Veronese</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Vicenza (Italy)</pubPlace>
+                     <date>MDCCLXII [1762]</date>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>[i], xxxii, 82, [1] p., VI folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/32ca7cc0-0fa0-4fae-afe4-8a7704136bec"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/32ca7cc0-0fa0-4fae-afe4-8a7704136bec">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3675</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3675</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CIPRIANI Giovanni</author>, <title>Raccolta di 320 vedute sì antiche che moderne della città di Roma, e di alcuni luoghi
+suburbani incise a bulino in 80 rami</title>, <pubPlace>Roma</pubPlace>, in 4 obl.
+<note>Oltre al Cipriani molti altri intagliatori lavorarono in questo elegantissimo volumetto. Esemplare freschissimo.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Galleria delle più insigni statue, busti, bassi-rilievi, ed altro incisa [microform] / da Gio. Batt. Cipriani co'disegni del Sig. Filippo Ferrari.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ferrari, Filippo.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985436873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nj5248</idno>
+            <idno type="cico">3675</idno>
+            <idno type="dcl">433</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Galleria delle più insigni statue, busti, bassi-rilievi, ed altro incisa [microform] / da Gio. Batt. Cipriani co'disegni del Sig. Filippo Ferrari.</title>
+                  <respStmt>
+                     <persName>Cipriani, Giovanni Battista, 1766-1839.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : [s.n.]</publisher>
+                     <date>1821</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1d3eff87-d96d-4bb2-bda3-eef8a0615819/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1d3eff87-d96d-4bb2-bda3-eef8a0615819/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

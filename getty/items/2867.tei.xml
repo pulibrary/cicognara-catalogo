@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2867</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GOLTZII</author>, <title>Greciae ejusque insularum et Asiae minoris numismata</title>, Ludovici Nonii commentario illustrata, <date>1644</date>
+                        <pubPlace>Antuerpiae</pubPlace>, in fol., fig.
+                        <note>Ventotto sono le tavole della Grecia e cinque delle isole dell’Asia</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ludovici Nonni Commentarius in Huberti GoltzI Graeciam, insulas, et Asiam Minorem [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Nonnius, Ludovicus, 1555-1646. Commentarius.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6m2r0p</idno>
+            <idno type="cico">2867</idno>
+            <idno type="dcl">rvp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ludovici Nonni Commentarius in Huberti GoltzI Graeciam, insulas, et Asiam Minorem [microform].</title>
+                  <respStmt>
+                     <persName>Goltzius, Hubert, 1526-1583.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiae : In officina Plantiniana Balthasaris Moreti</publisher>
+                     <date>1644</date>
+                  </imprint>
+                  <extent>326 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0c3d6eb0-4ff7-4a44-8630-ab5ebb4df725/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0c3d6eb0-4ff7-4a44-8630-ab5ebb4df725/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

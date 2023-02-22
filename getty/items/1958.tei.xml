@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1958</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1958</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Simone Gabriele</author>, <title>Le sentenziose imprese et dialogo al Serenissimo Duca di Savoia</title>, in <pubPlace>Lione</pubPlace>,
+    appresso <publisher>Guglielmo Roviglio</publisher>, <date>1560</date>, in 4, fig.
+    <note>Edizione nitida e intagli eleganti in numero di 125 tavole.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo pio et speculativo [microform] : con diuerse sentenze latine &amp; volgari / di M. Gabriel Symeoni fiorentino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985338823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pz2f26</idno>
+            <idno type="cico">1958</idno>
+            <idno type="dcl">tz8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo pio et speculativo [microform] : con diuerse sentenze latine &amp; volgari / di M. Gabriel Symeoni fiorentino.</title>
+                  <respStmt>
+                     <persName>Simeoni, Gabriele, 1509-1575.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>In Lione : Apresso Guglielmo Rouiglio</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1560</date>
+                  </imprint>
+                  <extent>230 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dcfa53bf-1239-4e03-8921-5c77f1f040cd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dcfa53bf-1239-4e03-8921-5c77f1f040cd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

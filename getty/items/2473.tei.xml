@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2473</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2473</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TRICASSO da Cerasari mantuano</author>, <title>Exposizione sopra il Cocle</title>, <pubPlace>Venezia</pubPlace>, per <publisher>Marchio Sessa</publisher>,
+    <date>1531</date>, in 8, fig.
+    <note>Questo è un libro di chiromanzia di Bartolomeo Cocle bolognese dilucidato dal Tricasso mantovano e dedicato a
+    Federico Gonzaga, con qualche tavola in legno fu il testo: stam <pb type="cico" n="415"/> pato minutamente in corsivo. Diviso in
+    tre libri, sono 229 foglietti di stampa. Bello esemplare in vitello dor. V. Coclitis.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Expositione del Tricasso mantuano sopra il Cocle ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9v7d55</idno>
+            <idno type="cico">2473</idno>
+            <idno type="dcl">w56</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Expositione del Tricasso mantuano sopra il Cocle ...</title>
+                  <respStmt>
+                     <persName>Tricasso, Patricio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Impresse in Venetia : Per Marchio Sessa</publisher>
+                     <date>Nel anno 1531</date>
+                     <date>1531</date>
+                  </imprint>
+                  <extent>224 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/942922f7-41be-48ac-9736-7f7ce91ccaf9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/942922f7-41be-48ac-9736-7f7ce91ccaf9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

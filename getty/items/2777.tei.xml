@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2777</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2777</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOETIUS Anselmus De Boot</author>, <title>Gemmarum, et lapidum historia cum commentariis Adriani Tollii, cui accedunt,
+Joan. de Laet de gemmis, et lapidibus libri duo, et Teophrasti liber de lapidibus, graec. et lat. cum brevibus notis</title>,
+<pubPlace>Lugduni Batavorum</pubPlace> <date>1647</date>, in 8, fig.
+<note>Edizione latina la più completa di quest’opera. Le tavole in legno sparse fra il testo dell’opera presentano le
+pietre di varia fatta nello stato loro naturale.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gemmarum et lapidum historia [microform] : quam olim edidit Anselmus Boetius de Boot ... / postea Adrianus Tollius ... recensuit ; figuris melioribus, &amp; commentariis pluribus illustravit, &amp; indice auxit multo locupletiore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Theophrastus.</authority>
+            <authority>Tollius, Adrianus, active 17th century.</authority>
+            <authority>Laet, Joannes de, 1593-1649. De gemmis et lapidibus libri duo.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nk4890</idno>
+            <idno type="cico">2777</idno>
+            <idno type="dcl">snm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gemmarum et lapidum historia [microform] : quam olim edidit Anselmus Boetius de Boot ... / postea Adrianus Tollius ... recensuit ; figuris melioribus, &amp; commentariis pluribus illustravit, &amp; indice auxit multo locupletiore.</title>
+                  <respStmt>
+                     <persName>Boodt, Anselmus de, 1550-1632.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni Batavorum [Leiden] : Ex officina Ioannis Maire</publisher>
+                     <date>1647</date>
+                  </imprint>
+                  <extent>[8], 576, [24], [64], 210, [6] p.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8d2a6b3d-0a1b-485b-976a-31fd326310fe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8d2a6b3d-0a1b-485b-976a-31fd326310fe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

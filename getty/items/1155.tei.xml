@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1155</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1155</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DUPATY</author>, <title>Lettres sur l’Italie en 1785</title>, <pubPlace>Paris</pubPlace> <date>1797</date>, 12 vol. 3.
+    <note>La voglia di far epigrammi si vede doppo apertamente con discapito della verità e frizzando senza motivo e
+    fondamento negli oggetti più gravi.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettres sur l'Italie, en 1785 [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/402b70</idno>
+            <idno type="cico">1155</idno>
+            <idno type="dcl">fg2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettres sur l'Italie, en 1785 [microform].</title>
+                  <respStmt>
+                     <persName>Dupaty, Charles-Marguerite-Jean-Baptiste Mercier, 1746-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Desenne ... ;</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>An V., 1797</date>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e4a08599-5e76-406d-ad2c-4b7dd895cbaf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e4a08599-5e76-406d-ad2c-4b7dd895cbaf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

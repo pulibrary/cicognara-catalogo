@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1338</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1338</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>ORAZIONI recitate nella distribuzione solenne an <pb type="cico" n="229"/> nuale de’ premi nella Veneta
+    Accademia di Belle Arti in Venezia nuovamente instituita dall’ anno 1808 al 1820</title>, in 8.
+    <note>Contiene questa 12 discorsi in materie teoriche di Belle Arti del N. U. Diedo segretario della detta accademia:
+    Un discorso inaugurale delle accademie del C. Cicognara presidente e gli elogi di Tiziano, di Giorgione, di
+    Palladio dello stesso. L’ Elogio del Bellini del D. Aglietti, quello di Tintoretto dell’Ab. Zabeo, quello del
+    Sammicheli del professore architetto Selva, quello di Paolo Cagliari dell’avvocato Biagi. Le lodi di Luigi
+    Cornaro del Sig. Bartolommeo Gamba. L’Elogio del Vivarini del Sig. Neumam Rizzi. L’Elogio del Selva del
+    Sig. Diedo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorsi letti nella I. R. Accademia di belle arti di Venezia ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99701223504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/r54s4z</idno>
+            <idno>(OCoLC)973457892</idno>
+            <idno type="cico">1338</idno>
+            <idno type="dcl">dvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorsi letti nella I. R. Accademia di belle arti di Venezia ...</title>
+                  <respStmt>
+                     <persName>Regia accademia di belle arti di Venezia</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia, Picotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1808-1838]</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>30 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99701223504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99701223504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

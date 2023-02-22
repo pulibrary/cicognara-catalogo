@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1264</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1264</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FRANCESCONI Daniele</author>, <title>Congettura che una lettera creduta di Baldassar Castiglione sia di
+    Raffaello d’Urbino</title>, <pubPlace>Firenze</pubPlace> <date>1799</date>, in 8.
+    <note>Questa lettera è diretta a Papa Leone X.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Congettura che una lettera creduta di Baldessar Castiglione sia di Raffaello d'Urbino [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mx4370</idno>
+            <idno type="cico">1264</idno>
+            <idno type="dcl">z4t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Congettura che una lettera creduta di Baldessar Castiglione sia di Raffaello d'Urbino [microform].</title>
+                  <respStmt>
+                     <persName>Francesconi, Daniele, 1761-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Per il Brazzini</publisher>
+                     <date>1799</date>
+                  </imprint>
+                  <extent>VI, 7-118 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3cb6b4c0-3cd2-466f-97f6-e9733af16160/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3cb6b4c0-3cd2-466f-97f6-e9733af16160/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Congettura che una lettera creduta di Baldessar Castiglione sia di Raffaello d'Urbino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Castiglione, Baldassarre, conte, 1478-1529</authority>
+            <authority>Raphael, 1483-1520</authority>
+            <authority>Leo X, Pope, 1475-1521</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922250220001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xd8985</idno>
+            <idno>(OCoLC)23625166</idno>
+            <idno type="cico">1264</idno>
+            <idno type="dcl">z4t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Congettura che una lettera creduta di Baldessar Castiglione sia di Raffaello d'Urbino.</title>
+                  <respStmt>
+                     <persName>Francesconi, Daniele, 1761-1835</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Per il Brazzini</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1799</date>
+                  </imprint>
+                  <extent>VI, 7-118, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/34da8fc1-e31d-4add-af57-2f0964702017"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/34da8fc1-e31d-4add-af57-2f0964702017">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4525</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4525</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PAILLET</author>, <title>Catalogue des tableaux des trois écoles, desseins, bronzes, marbres etc. du Cabinet de M. le Roy de la
+Faudiguere</title>, <pubPlace>Paris</pubPlace> <date>1786</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de tableaux des trois écoles, dessins [microform] : montés &amp; en feuilles, bronzes, marbres, terres cuittes &amp; autres objets curieux qui composoient le cabinet de feu m. Le Roy de la Faudignere, chevalier de l'Ordre de Mérite ... / par A.J. Paillet ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984938663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6b8z1s</idno>
+            <idno>(OCoLC)182621518</idno>
+            <idno type="cico">4525</idno>
+            <idno type="dcl">2kr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de tableaux des trois écoles, dessins [microform] : montés &amp; en feuilles, bronzes, marbres, terres cuittes &amp; autres objets curieux qui composoient le cabinet de feu m. Le Roy de la Faudignere, chevalier de l'Ordre de Mérite ... / par A.J. Paillet ...</title>
+                  <respStmt>
+                     <persName>Paillet, A. J. (Alexandre Joseph)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez ledit sieur Paillet</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>52 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8a5d561d-c715-43ee-a690-d38752529220/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a5d561d-c715-43ee-a690-d38752529220/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3722</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3722</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FICORONI Francesco</author>, <title>Le vestigie e rarità di Roma antica ricercate, e spiegate. Aggiuntevi le singolarità di Roma
+moderna </title>, libri due, <pubPlace>Roma</pubPlace> <date>1744</date>, in 4 gr., fig.
+<note>Libro ottimo per le indicazioni e con molte tavole in rame collocate fra il testo.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vestigia e raritá di Roma antica [microform] / ricercate, e spiegate da Francesco de' Ficoroni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985420993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xq0q6m</idno>
+            <idno type="cico">3722</idno>
+            <idno type="dcl">731</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vestigia e raritá di Roma antica [microform] / ricercate, e spiegate da Francesco de' Ficoroni ...</title>
+                  <respStmt>
+                     <persName>Ficoroni, Francesco, 1664-1747.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Girolamo Mainardi</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1744</date>
+                  </imprint>
+                  <extent>2 v. (195 ; 77 p.)</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d681db1f-1f29-4b1d-b30e-6ddd48c17b96/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d681db1f-1f29-4b1d-b30e-6ddd48c17b96/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vestigia e raritá di Roma antica</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ficoroni, Francesco de', Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-39348</idno>
+            <idno type="URI">http://portal.getty.edu/api/wz7458</idno>
+            <idno type="cico">3722</idno>
+            <idno type="dcl">731</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vestigia e raritá di Roma antica</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>Rom</pubPlace>
+                     <pubPlace>Rom</pubPlace>
+                     <pubPlace>Europa</pubPlace>
+                     <pubPlace>Italien</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>41.89193 12.51133</pubPlace>
+                     <date>1744</date>
+                     <date>1744</date>
+                  </imprint>
+                  <extent>[8] Bl., 195 S., [4] Bl., 77 S.</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/ficoroni1744/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/ficoroni1744/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

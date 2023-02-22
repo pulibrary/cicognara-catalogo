@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3956</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3956</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BETTI Zaccaria</author>, <title>Descrizione d’un maraviglioso ponte naturale nei monti veronesi</title>, <pubPlace>Verona</pubPlace> <date>1766</date>, in 4, fig.
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione di un meraviglioso ponte naturale nei monti Veronesi [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fs6144</idno>
+            <idno type="cico">3956</idno>
+            <idno type="dcl">z54</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione di un meraviglioso ponte naturale nei monti Veronesi [microform].</title>
+                  <respStmt>
+                     <persName>Betti, Zaccaria, 1732-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Nella stamperia di Marco Moron</publisher>
+                     <pubPlace>Verona (Italy)</pubPlace>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>22 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/40ee5a78-daf0-41b3-a56c-243d8b01b210/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/40ee5a78-daf0-41b3-a56c-243d8b01b210/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1434</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1434</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PONA Francesco</author>, <title>La maschera Jatropolitica, ovvero cervello et cuore, Prencipi Reali, aspiranti
+    alla Monarchia del Microcosmo</title>, gioco serio di Eureta Misoscolo all’Illustrissimo Girolamo
+    Cornaro, <pubPlace>Venezia</pubPlace> <date>1627</date>, in 4, presso <publisher>Marco Ginammi</publisher>.
+    <note>Questa operetta fa stesa da Francesco Pona ed è assai stravagante.</note>
+    MDCXXVIII
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Maschera Iatropolitica, overo Cervello &amp; Cuore Prencipi Rivali, aspiranti alla Monarchia del Microcosmo. Giuoco-serio di Eureta Misoscolo, etc.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c2f8v</idno>
+            <idno>(OCoLC)504479028</idno>
+            <idno type="cico">1434</idno>
+            <idno type="dcl">b8v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Maschera Iatropolitica, overo Cervello &amp; Cuore Prencipi Rivali, aspiranti alla Monarchia del Microcosmo. Giuoco-serio di Eureta Misoscolo, etc.</title>
+                  <respStmt>
+                     <persName>Pona, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Undetermined</textLang>
+                  <imprint>
+                     <publisher>Venetia</publisher>
+                     <date>1627</date>
+                  </imprint>
+                  <extent>1 volume</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/95f618c5-2cd6-4c96-8672-2c3751e91d2c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/95f618c5-2cd6-4c96-8672-2c3751e91d2c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

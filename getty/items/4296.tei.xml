@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4296</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4296</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SANSEVERINI C. Alessandro</author>, <title>Il parmigiano istruito delle notizie della sua patria. Almanacco istorico cronologico</title>
+in 2 vol., I tomo, <pubPlace>Casal Maggiore</pubPlace> <date>1778</date>, in 12.
+<note>Libro utile e comodo che non fu ristampato.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il Parmigiano istruito nelle notizie della sua patria sparse nel presente almanacco istorico-cronologico [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9x2m87</idno>
+            <idno type="cico">4296</idno>
+            <idno type="dcl">vvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il Parmigiano istruito nelle notizie della sua patria sparse nel presente almanacco istorico-cronologico [microform].</title>
+                  <respStmt>
+                     <persName>Sanseverini, Alessandro, conte, 1742-1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Casalmaggiore : Per Giuseppe Braglia</publisher>
+                     <pubPlace>Parma (Italy)</pubPlace>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>2 v. (207; 190 p.)</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/edd9a7a6-2308-4ec6-89c5-09ec35243934/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/edd9a7a6-2308-4ec6-89c5-09ec35243934/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

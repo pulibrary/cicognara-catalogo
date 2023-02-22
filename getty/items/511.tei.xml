@@ -1,0 +1,183 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 511</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">511</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>FRONTINI Sesti Julii</author>, 
+                     <title>De aquaeductibus, Urbis Romae, Commentarius antiquae fidei restitutus,
+	atque explicatus, opera et studio Ioannis Poleni,</title> 
+                     <pubPlace>Patavii</pubPlace> 
+                     <date>1722,</date> 
+                     <extent>in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sex. Iulii Frontini De aquaeductibus urbis Romae commentarius : antiquae fidei restitutus, atque explicatus / opera et studio Ioannis Poleni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Poleni, Giovanni, 1683-1761, editor.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927796200001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/k29160</idno>
+            <idno>(OCoLC)10644878</idno>
+            <idno type="cico">511</idno>
+            <idno type="cico">951</idno>
+            <idno type="dcl">50j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sex. Iulii Frontini De aquaeductibus urbis Romae commentarius : antiquae fidei restitutus, atque explicatus / opera et studio Ioannis Poleni.</title>
+                  <respStmt>
+                     <persName>Frontinus, Sextus Julius.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Apud Ioannem Manfré</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1722</date>
+                  </imprint>
+                  <extent>[8], 32, 296 pages, 20 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/5407b797-b44d-4e6e-800d-0fd0c974d511"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5407b797-b44d-4e6e-800d-0fd0c974d511">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sex. Iulii Frontini De aquaeductibus urbis Romae commentarius</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Frontinus, Sextus Iulius, Author</authority>
+            <authority>Poleni, Giovanni, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-35188</idno>
+            <idno type="URI">http://portal.getty.edu/api/fb9s6s</idno>
+            <idno type="cico">511</idno>
+            <idno type="dcl">50j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sex. Iulii Frontini De aquaeductibus urbis Romae commentarius</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Rom</pubPlace>
+                     <pubPlace>Rom</pubPlace>
+                     <pubPlace>Europa</pubPlace>
+                     <pubPlace>Italien</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>41.89193 12.51133</pubPlace>
+                     <date>1722</date>
+                     <date>1722</date>
+                  </imprint>
+                  <extent>[5] Bl., 32, 296 S.</extent>
+                  <extent>Ill., Kt.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/frontinus1722/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/frontinus1722/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sex. Iulii Frontini De aquaeductibus urbis Romae commentarius [microform] / antiquae fidei restitutus atque explicatus opera et studio Ioannis Poleni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Poleni, Giovanni, 1683-1761.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245243506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cp8s8s</idno>
+            <idno type="URI">http://portal.getty.edu/api/m0570v</idno>
+            <idno type="URI">http://portal.getty.edu/api/g4539z</idno>
+            <idno type="cico">951</idno>
+            <idno type="dcl">50j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sex. Iulii Frontini De aquaeductibus urbis Romae commentarius [microform] / antiquae fidei restitutus atque explicatus opera et studio Ioannis Poleni.</title>
+                  <respStmt>
+                     <persName>Frontinus, Sextus Julius.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Apud Ioannem Manfrè</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1722</date>
+                  </imprint>
+                  <extent>32, 296 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/14248d3c-a91a-4ad1-905f-08df6fa7fefe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/14248d3c-a91a-4ad1-905f-08df6fa7fefe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

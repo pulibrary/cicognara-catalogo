@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4202</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4202</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BIANCHI Giuseppe</author>, <title>Ragguaglio, e rarità della Galleria di Firenze</title>, <pubPlace>Firenze</pubPlace>
+                    <date> 1759</date>, in 8.
+<note>Questo comprende tutti gli oggetti conservati nella Galle <pb type="cico" n="270"/> ria, ma le illustrazioni sono estese con una
+   debolissima critica</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ragguaglio delle antichità e rarità che si conservano nella Galleria Mediceo-Imperiale di Firenze [microform]. Parte I / opera di Giuseppe Bianchi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bx7c8q</idno>
+            <idno type="cico">4202</idno>
+            <idno type="dcl">b31</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ragguaglio delle antichità e rarità che si conservano nella Galleria Mediceo-Imperiale di Firenze [microform]. Parte I / opera di Giuseppe Bianchi ...</title>
+                  <respStmt>
+                     <persName>Bianchi, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella Stamperia imperiale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1759</date>
+                  </imprint>
+                  <extent>XIII, 236, [1] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a11cd053-b259-4316-993e-96abc5e75114/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a11cd053-b259-4316-993e-96abc5e75114/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

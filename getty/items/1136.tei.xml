@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1136</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1136</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BETTINELLI Saverio</author>, <title>Lettere sulle belle arti: pubblicate per le nozze di Barbarigo Pisani</title>,
+    <pubPlace>Venezia</pubPlace> <date>1793</date>, in 4.
+    <note>Sono in questo volume inserite fra il testo alcune incisioni di gemme antiche.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettere su le belle arti [microform] / publicate nelle nozze Barbarigo-Pisani.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h35w5v</idno>
+            <idno type="cico">1136</idno>
+            <idno type="dcl">02z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettere su le belle arti [microform] / publicate nelle nozze Barbarigo-Pisani.</title>
+                  <respStmt>
+                     <persName>Bettinelli, Saverio, 1718-1808.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Nella stamperia di Carlo Palese</publisher>
+                     <date>1793</date>
+                  </imprint>
+                  <extent>192 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/db702d11-539f-4015-8ae9-2d96650ef94b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/db702d11-539f-4015-8ae9-2d96650ef94b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

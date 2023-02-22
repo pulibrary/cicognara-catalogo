@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 58</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">58</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>VOSSÙ Gerardi Joannis</author>, 
+                     <title>De quatuor artibus popularibus; de philologia et scientiis mathematicis,</title>
+	                    <pubPlace>Amsterdam</pubPlace>
+                     <date> 1660,</date>
+                     <extent> in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gerardi Ioannis Vossii De quatuor artibus popularibus, de philologia, et scientiis mathematicis [microform] : cui operi subjungitur chronologia mathematicorum, libri tres.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bs9k80</idno>
+            <idno type="cico">58</idno>
+            <idno type="dcl">fc6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gerardi Ioannis Vossii De quatuor artibus popularibus, de philologia, et scientiis mathematicis [microform] : cui operi subjungitur chronologia mathematicorum, libri tres.</title>
+                  <respStmt>
+                     <persName>Vossius, Gerardus Joannes, 1577-1649.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelaedami : Ex typographeio Ioannis Blaeu</publisher>
+                     <date>1660</date>
+                     <date>1550</date>
+                  </imprint>
+                  <extent>94, 83, 467 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dde60e6a-aa22-4267-8509-5609bde8d679/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dde60e6a-aa22-4267-8509-5609bde8d679/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

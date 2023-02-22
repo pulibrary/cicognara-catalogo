@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 678</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">678</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>TARUFFI Andrea</author>, 
+                     <title>Breve discorso intorno l’architettura <pb type="cico" n="124"/> e il modo per levare il fumo
+	alli cammini,</title> 
+                     <pubPlace>Bologna</pubPlace> 
+                     <date>1724,</date> 
+                     <extent>in 12 fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breve discorso intorno ad alcuni avertimenti concernenti l'architettura e le regole per ben fabbricare [microform] : con altre notizie necessarie da sapersi ed il modo sicuro per levare il fumo alli camini : da fabbricarsi di nuovo, come pure per quelli, che sono già fatti / il tutto raccolto da varij autori da Gio: Andrea Taruffi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Taruffi, Giovanni Andrea.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985162163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8h5m6m</idno>
+            <idno type="cico">678</idno>
+            <idno type="dcl">mc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breve discorso intorno ad alcuni avertimenti concernenti l'architettura e le regole per ben fabbricare [microform] : con altre notizie necessarie da sapersi ed il modo sicuro per levare il fumo alli camini : da fabbricarsi di nuovo, come pure per quelli, che sono già fatti / il tutto raccolto da varij autori da Gio: Andrea Taruffi ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nelle Stampe de' Peri nelle Calzolarie</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1724</date>
+                  </imprint>
+                  <extent>56 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/88624475-549b-4ba3-a8e7-4174af229144/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/88624475-549b-4ba3-a8e7-4174af229144/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

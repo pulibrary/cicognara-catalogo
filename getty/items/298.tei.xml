@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 298</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">298</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BOUCHARDON</author>, 
+                     <title>L’anatomie necessaire pour l’usage du Delfin,</title> 
+                     <pubPlace>Paris</pubPlace>,<publisher> chez Huquier,</publisher> 
+                     <extent>fol. fig.</extent>
+	                    <note>Sono 15 tavole assai bene e chiaramente intagliate compreso il frontispizio e un avviso al lettore in principio, e
+	un indice per le nomenclature anatomiche al fine, intagliate in rame.</note> Vedi GENGA.
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'anatomie necessaire pour l'usage du dessein [microform] / par Edme Bouchardon ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bouchardon, Jacques-Philippe, 1711-1753.</authority>
+            <authority>Huquier, Jacques Gabriel, 1725-1805.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3b1t0d</idno>
+            <idno type="cico">298</idno>
+            <idno type="dcl">h2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'anatomie necessaire pour l'usage du dessein [microform] / par Edme Bouchardon ...</title>
+                  <respStmt>
+                     <persName>Bouchardon, Edme, 1698-1762.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Huquier</publisher>
+                     <date>[1741]</date>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>[3] p., [14] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/efd84f83-14aa-4225-a4fa-03f7536b5a22/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/efd84f83-14aa-4225-a4fa-03f7536b5a22/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

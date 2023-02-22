@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 921</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">921</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GAUTIER</author>, <title>Traité de la construction des chemins, ou il est partie de ceux des Romains et de
+      ceux des modernes etc</title>. Nouvelle édition revue, corrigée, augmentée etc., <pubPlace>Paris</pubPlace> <date>1760</date>, in 8, f.
+      con sei tavola al fine.
+      <note>Questa edizione può dirsi completa, non lo essendo la seguente.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de la construction des chemins, où il est parlé de ceux des Romains &amp; de ceux des Modernes, suivant quón les pratique en France, de leurs figures, de leurs matieres, &amp; le leurs dispositions dans toutes fortes de lieux .. [microform] / par le sieur Gautier ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244733506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d42w25</idno>
+            <idno type="cico">921</idno>
+            <idno type="dcl">4gv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de la construction des chemins, où il est parlé de ceux des Romains &amp; de ceux des Modernes, suivant quón les pratique en France, de leurs figures, de leurs matieres, &amp; le leurs dispositions dans toutes fortes de lieux .. [microform] / par le sieur Gautier ...</title>
+                  <respStmt>
+                     <persName>Gautier, H. (Henri), 1660-1737.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Cailleau</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>[8], 344 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2aa88986-7942-4e3a-a65d-ee31a5aeab6d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2aa88986-7942-4e3a-a65d-ee31a5aeab6d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

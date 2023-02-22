@@ -1,0 +1,67 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1357</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1357</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>SAGGI di Dissertaziorii dell’Accademia Palermi <pb type="cico" n="231"/>tana del buon gusto</title>, vol. I, <pubPlace>Palermo</pubPlace>
+    <date>1755</date>, in 4, fig. M. 32.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggi di dissertazioni dell'Accademia palermitana del buon gusto.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia palermitana del buon gusto.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990021547270203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/05835k</idno>
+            <idno>(OCoLC)23601224</idno>
+            <idno type="cico">1357</idno>
+            <idno type="dcl">p35</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggi di dissertazioni dell'Accademia palermitana del buon gusto.</title>
+                  <imprint>
+                     <publisher>Palermo : Presso l'Accademia</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1755-</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481964625"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481964625">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

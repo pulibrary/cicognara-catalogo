@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 285</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">285</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>QUATREMÈRE DE QUINCI</author>, 
+                     <title>Le Jupiter Olimpien, ou l’art de la sculpture antique, considérée sous
+	un nouveau point de vue,</title> 
+                     <publisher>Paris,</publisher> 
+                     <publisher>chez Didot,</publisher> 
+                     <date>1815, </date>
+                     <extent>in f. figur. Con 31 tavole miniate.</extent>
+	Esemplare in carta velina ove sono in gran copia preziose notizie raccolte con molta critica.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Jupiter olympien, ou, l'art de la sculpture antique [microform] : considéré sous un nouveau point de vue : ouvrage que comprend un essai sur le gout de la sculpture polychorme, l'analyse explicative de la toreutique et l'histoire de la statuaire en or et ivoire chez les Grecs et les Romains ... / par M. Quatremère-de-Quincy ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985278343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hg0x8p</idno>
+            <idno type="cico">285</idno>
+            <idno type="dcl">jfz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le Jupiter olympien, ou, l'art de la sculpture antique [microform] : considéré sous un nouveau point de vue : ouvrage que comprend un essai sur le gout de la sculpture polychorme, l'analyse explicative de la toreutique et l'histoire de la statuaire en or et ivoire chez les Grecs et les Romains ... / par M. Quatremère-de-Quincy ...</title>
+                  <respStmt>
+                     <persName>Quatremère de Quincy, M. (Antoine-Chrysostome), 1755-1849.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez De Bure Frères</publisher>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>xxv, 458 p.</extent>
+                  <extent>19 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9b705de7-4aea-41a3-83d5-badb1916e331/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9b705de7-4aea-41a3-83d5-badb1916e331/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Jupiter olympien ou l'art de la sculpture antique</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Quatremère de Quincy, Antoine Chrysostôme, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-61098</idno>
+            <idno type="URI">http://portal.getty.edu/api/tq4b11</idno>
+            <idno type="cico">285</idno>
+            <idno type="dcl">jfz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le Jupiter olympien ou l'art de la sculpture antique</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <pubPlace>Griechenland &lt;Altertum&gt;</pubPlace>
+                     <date>1815</date>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>XXV, 458 S.</extent>
+                  <extent>XXXI Pl.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/quatremeredequincy1815/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/quatremeredequincy1815/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

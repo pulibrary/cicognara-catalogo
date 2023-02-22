@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3984</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3984</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CAVACCIO
+                    Jacobus patavinus</author>, <title>Historiarum Caenobii
+                    S. Justinae Patavinae</title>. Libri sex, <pubPlace>Patavii</pubPlace> <date>1696</date>, in
+                    4.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Historiarum coenobii D. Justinae patavinae libri sex [microform] : [q]uibus cassinensis congregationis origo, &amp; plurima ad urbem Patavium, ac finitimos attinentia opportunè interseruntur / auctore Jacobo Cavacio ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ns8d3c</idno>
+            <idno type="cico">3984</idno>
+            <idno type="dcl">j2q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Historiarum coenobii D. Justinae patavinae libri sex [microform] : [q]uibus cassinensis congregationis origo, &amp; plurima ad urbem Patavium, ac finitimos attinentia opportunè interseruntur / auctore Jacobo Cavacio ...</title>
+                  <respStmt>
+                     <persName>Cavacci, Giacomo, 1567-1612.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : #x Typographia Seminarii</publisher>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>1696</date>
+                  </imprint>
+                  <extent>306 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cb930707-e47f-4e6a-a3d6-7c9ebf7ad81f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cb930707-e47f-4e6a-a3d6-7c9ebf7ad81f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

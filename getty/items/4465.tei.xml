@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4465</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4465</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REMY</author>, <title>Catalogue des tableaux précieux, miniatures, guaches, du Cabinet de M. Blondel de Gagny</title>, <pubPlace>Paris</pubPlace> <date>1776</date>, in
+12, coi prezzi.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue de tableaux précieux [microform] : miniatures &amp; gouaches, figures, bustes &amp; vases de marbre &amp; de bronze ... &amp; autres objets curieux &amp; rares qui composent le cabinet de feu M. Blondel de Gagny, trésorier-général de la Caisse des amortissements / par Pierre Remy.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Blondel de Gagny, Augustin, 1695-1776.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/799k38</idno>
+            <idno>(OCoLC)211917075</idno>
+            <idno type="cico">4465</idno>
+            <idno type="dcl">bkf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue de tableaux précieux [microform] : miniatures &amp; gouaches, figures, bustes &amp; vases de marbre &amp; de bronze ... &amp; autres objets curieux &amp; rares qui composent le cabinet de feu M. Blondel de Gagny, trésorier-général de la Caisse des amortissements / par Pierre Remy.</title>
+                  <respStmt>
+                     <persName>Remy, Pierre, active 1749-1787.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris] : Le pŕesent catalogue se trouve a Paris chez Musier, pere, ... ;</publisher>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>iv, 228 p.</extent>
+                  <extent>4 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/143a970d-0ef6-4c18-bd90-675571e19a46/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/143a970d-0ef6-4c18-bd90-675571e19a46/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

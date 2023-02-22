@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2381</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2381</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TICOZZI Stefano</author>, <title>Vite de’ pittori Vecelli di Cadore</title>. Libri quattro, <pubPlace>Milano</pubPlace> <date>1817</date>, in 8.
+ <note>   Questo scrittore raccolse il primo e pubblicò interessanti notizie intorno Tiziano. Sarebbe stata a desiderarsi più
+    lentezza del suo operare prima di pubblicarla.
+ </note>   
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite dei pittori Vecelli di Cadore : libri quattro / di Stefano Ticozzi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930253910001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8h2s5f</idno>
+            <idno>(OCoLC)4295736</idno>
+            <idno type="cico">2381</idno>
+            <idno type="dcl">tz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite dei pittori Vecelli di Cadore : libri quattro / di Stefano Ticozzi.</title>
+                  <respStmt>
+                     <persName>Ticozzi, S. (Stefano), 1762-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : A.F. Stella</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>[6], 336 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/dc89b623-c62f-46a2-b162-3c2bbbf2fbe0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dc89b623-c62f-46a2-b162-3c2bbbf2fbe0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite dei pittori Vecelli di Cadore [microform] : libri quattro / di Stefano Ticozzi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1w3n50</idno>
+            <idno type="cico">2381</idno>
+            <idno type="dcl">tz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite dei pittori Vecelli di Cadore [microform] : libri quattro / di Stefano Ticozzi.</title>
+                  <respStmt>
+                     <persName>Ticozzi, S. (Stefano), 1762-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : A. F. Stella</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>336 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ca28900-d6a1-469e-9a3c-8398a4d41b67/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ca28900-d6a1-469e-9a3c-8398a4d41b67/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

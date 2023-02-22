@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3484</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3484</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOCCHI Francesco</author>, <title>Eccellenza della statua di S. Giorgio di Donatello scultore fiorentino, posta nella facciata
+d’Orsan Michele scritta in lingua fiorentina</title>, <pubPlace>Fiorenza</pubPlace>, pel <publisher>Marescotti</publisher>, <date>1584</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eccellenza della statua del San Giorgio di Donatello .. [microform] : posta nella facciata di fuori d'Orsan Michele / scritta da m. Francesco Bocchi in lingua fiorentina ; doue si tratta del costume, della viuacità &amp; della bellezza di detta statua.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh3j1s</idno>
+            <idno type="cico">3484</idno>
+            <idno type="dcl">3sk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Eccellenza della statua del San Giorgio di Donatello .. [microform] : posta nella facciata di fuori d'Orsan Michele / scritta da m. Francesco Bocchi in lingua fiorentina ; doue si tratta del costume, della viuacità &amp; della bellezza di detta statua.</title>
+                  <respStmt>
+                     <persName>Bocchi, Francesco, 1548-1618.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Fiorenza : Apresso Giorgio Marescotti</publisher>
+                     <date>1584</date>
+                  </imprint>
+                  <extent>106, [6] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d93282e5-6d07-4315-88ab-1b7cae68c974/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d93282e5-6d07-4315-88ab-1b7cae68c974/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

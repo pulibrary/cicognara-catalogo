@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3804</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3804</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NICOLAI Joannis</author>,<title> Romanorum triumphus solemnissimus, quo ceremoniae, vestitus, currus, ornamenta, et
+antiquitates illustrantur</title>, <pubPlace>Francofurti</pubPlace> <date>1696</date>, in 12.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romanorum triumphus solennissimus [microform] : quo ceremoniae, vestitus, currus aliaque, quae ad honorem hunc summum requirebantur, ornamenta et antiquitates illustrantur / opera &amp; studio Johannis Nicolai.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985438703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sg3h7r</idno>
+            <idno type="cico">3804</idno>
+            <idno type="dcl">r2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Romanorum triumphus solennissimus [microform] : quo ceremoniae, vestitus, currus aliaque, quae ad honorem hunc summum requirebantur, ornamenta et antiquitates illustrantur / opera &amp; studio Johannis Nicolai.</title>
+                  <respStmt>
+                     <persName>Nicolai, Johann, 1665-1708.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Francofurti ad Moenum : Apud viduam Herm. à Sande</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1696</date>
+                     <date>1691</date>
+                  </imprint>
+                  <extent>[14], 225, [3] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6eda6af9-52c3-4e54-94e9-6fb52c2e6da3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6eda6af9-52c3-4e54-94e9-6fb52c2e6da3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

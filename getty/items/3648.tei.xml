@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3648</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3648</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CANCELLIERI</author>,<title> Le memorie di S. Medico martire</title>, <pubPlace>Roma</pubPlace> <date>1812</date>, in 12.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie Di S. Medico Martire E Cittadino Di Otricoli l. Con Le Notizie De'Medici E Delle Medichesse Illvstri Per Santità. / Raccolte Da Francesco Cancellieri.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100918493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mp1k3n</idno>
+            <idno>(OCoLC)314525058</idno>
+            <idno type="cico">3648</idno>
+            <idno type="dcl">v88</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie Di S. Medico Martire E Cittadino Di Otricoli l. Con Le Notizie De'Medici E Delle Medichesse Illvstri Per Santità. / Raccolte Da Francesco Cancellieri.</title>
+                  <respStmt>
+                     <persName>Cancellieri, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Bourlié</publisher>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>2 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cc66ee05-8198-423b-b495-557e48092a35/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cc66ee05-8198-423b-b495-557e48092a35/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

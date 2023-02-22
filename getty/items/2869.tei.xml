@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2869</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2869</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GORI Anton Francesco</author>, <title>Thesaurus gemmarum antiquarum astriferarum interprete Jo. Bap. Passerio, cura et studio
+                        Ant. Fr. Gori</title>,<pubPlace> Florentiae</pubPlace>
+                    <date> 1750</date>, vol. 3, in fol., fig.
+                        <note>Sono dugento tavole di gemme scelte dalle più insigni biblioteche incise in rame, oltre 60 vignette in cui sono
+intagliate altrettante gemme e le sei tavole dell’Atlante Farnesiano con molti prolegomeni e discussioni e 15
+dissertazioni del Passeri nel terzo volume con molti indici</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thesaurus gemmarum antiquarum astriferarum quae e compluribus dactyliothecis selectae aereis tabulis CC. insculptae observationibus inlustrantur adiectis paregis LX [microform] : Atlante farnesiano prolegomenis. Diatribis III. Dissertationibus XV et indicibus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Passeri, Giovanni Battista, 1694-1780.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b84990</idno>
+            <idno type="URI">http://portal.getty.edu/api/hq0g5p</idno>
+            <idno type="URI">http://portal.getty.edu/api/k85s9c</idno>
+            <idno type="URI">http://portal.getty.edu/api/r60q5p</idno>
+            <idno type="cico">2869</idno>
+            <idno type="dcl">3sg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thesaurus gemmarum antiquarum astriferarum quae e compluribus dactyliothecis selectae aereis tabulis CC. insculptae observationibus inlustrantur adiectis paregis LX [microform] : Atlante farnesiano prolegomenis. Diatribis III. Dissertationibus XV et indicibus.</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : Ex. officina typogr. Albiziniana</publisher>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2c0c2d83-69a9-40f0-850c-74b82814e7ad/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2c0c2d83-69a9-40f0-850c-74b82814e7ad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

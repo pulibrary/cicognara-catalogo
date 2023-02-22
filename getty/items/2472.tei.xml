@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2472</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2472</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TIBERTI Antiochi Doct.</author>, <title>De Cheiromantia lib. III denuo recogniti etc</title>. Eiusdem argomenti
+    incerti auctoris liber hactentis nondum typis excusus per <publisher>Jo. Dryandrum Melicum
+    Marpurgensem</publisher>, <pubPlace>Maguntiae</pubPlace> <date>1541</date>, in 8.
+    <note>Con alcune tavole in legno fra il testo: elegante esemplare colle pagine contornate di linee
+    rosse, dorato.</note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiochi Tiberti doctoris De cheiromantia [microform] : libri III. denuo recogniti, atq[ue] in ordinem digesti : eiusdem argumenti de cheiromantia, incerti cuiusdam authoris liber, hactenus nondum typis excusus / per Ioannem Dryandrum.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dryander, Johann, 1500-1560.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985401823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5h755s</idno>
+            <idno type="cico">2472</idno>
+            <idno type="dcl">z86</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiochi Tiberti doctoris De cheiromantia [microform] : libri III. denuo recogniti, atq[ue] in ordinem digesti : eiusdem argumenti de cheiromantia, incerti cuiusdam authoris liber, hactenus nondum typis excusus / per Ioannem Dryandrum.</title>
+                  <respStmt>
+                     <persName>Tibertus, Antiochus.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Moguntiae : Excusum in aedibus Iuonis Schoeffer</publisher>
+                     <date>Anno 1541</date>
+                     <date>1541</date>
+                  </imprint>
+                  <extent>134, [39] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/55e217c6-d62a-401e-a686-1556047e0c55/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/55e217c6-d62a-401e-a686-1556047e0c55/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

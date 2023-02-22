@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4342</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4342</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>DÉLICES de la Suisse, ou déscription hélvetique des treize Cantons Suisses, et des leurs alliés, édition corrigée, et
+augmentée par diverses auteurs celebres</title>, <pubPlace>Bâsle</pubPlace> <date>1776</date>, in 12, vol. IV, fig.
+<note>Sonovi molte tavole in rame non male eseguite.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Etat et delices de la Suisse, ou, Description helvetique et géographique des XIII. cantons suisses et de leurs alliés [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/049z9d</idno>
+            <idno type="cico">4342</idno>
+            <idno type="dcl">b32</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Etat et delices de la Suisse, ou, Description helvetique et géographique des XIII. cantons suisses et de leurs alliés [microform].</title>
+                  <respStmt>
+                     <persName>Altmann, Johann Georg, 1695-1785.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Basle : Chez Emanuel Tourneisen</publisher>
+                     <pubPlace>Switzerland</pubPlace>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>30 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/de7279bb-1915-4c1b-bdef-25ff52c943fe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/de7279bb-1915-4c1b-bdef-25ff52c943fe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

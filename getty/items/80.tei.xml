@@ -1,0 +1,131 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 80</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">80</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BERTHOLLET</author>, 
+                     <title>Elémens de l’art de la teintùre,</title>
+                     <pubPlace> Paris</pubPlace>
+                     <date> 1804,</date>
+                     <publisher> chez Didot,</publisher>
+                     <extent> 2 vol. in 8 fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Éléments de l'art de la teinture, avec une description du blanchîment par l'acide muriatique oxigéné.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Berthollet, A. B. (Amédée B.), -1811</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923939950001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/g6624m</idno>
+            <idno type="URI">http://portal.getty.edu/api/kw835x</idno>
+            <idno>(OCoLC)1702131</idno>
+            <idno type="cico">80</idno>
+            <idno type="dcl">gzh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Éléments de l'art de la teinture, avec une description du blanchîment par l'acide muriatique oxigéné.</title>
+                  <respStmt>
+                     <persName>Berthollet, Claude-Louis, 1748-1822</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, F. Didot</publisher>
+                     <date>An XIII. (1804.)</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/95811435-f6d9-4005-be90-3ff0dcf633cchttps://media.getty.edu/iiif/manifest/720d213c-4f62-4d30-b493-a2ed91ee8043"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/95811435-f6d9-4005-be90-3ff0dcf633cc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/720d213c-4f62-4d30-b493-a2ed91ee8043">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eléments de l'art de la teinture [microform] : avec une description du blanchîment par l'acide muriatique oxigéné.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Berthollet, A. B. (Amédée B.), -1811.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/702c52</idno>
+            <idno type="cico">80</idno>
+            <idno type="dcl">gzh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Eléments de l'art de la teinture [microform] : avec une description du blanchîment par l'acide muriatique oxigéné.</title>
+                  <respStmt>
+                     <persName>Berthollet, Claude-Louis, 1748-1822.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris, : Chez Firmin Didot</publisher>
+                     <date>an XIII (1804)</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>14 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/776e1456-bd37-4f41-bf4e-8a7e681b87b5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/776e1456-bd37-4f41-bf4e-8a7e681b87b5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

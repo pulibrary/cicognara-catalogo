@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1213</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1213</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TIRABOSCHI Girolamo</author>, <title>Lettera al Sig. Ab. Zaccaria sull’iscrizion sepolcrale di Manfredo Pio
+    Vescovo di Vicenza</title>, <pubPlace>Modena</pubPlace> <date>1785</date>, in 8, M. 71.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera al ch. sig. abate Francescantonio Zaccaria sull' inscrizion sepolcrale di Manfredo Pio, Vescovo di Viceneza [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zaccaria, Francescantonio, 1714-1795.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jq1r5p</idno>
+            <idno type="cico">1213</idno>
+            <idno type="dcl">j58</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera al ch. sig. abate Francescantonio Zaccaria sull' inscrizion sepolcrale di Manfredo Pio, Vescovo di Viceneza [microform].</title>
+                  <respStmt>
+                     <persName>Tiraboschi, Girolamo, 1731-1794.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Modena : s.n]</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>[1785]</date>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>16 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d3a2ce5d-92d6-462f-9395-5a56183df410/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d3a2ce5d-92d6-462f-9395-5a56183df410/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

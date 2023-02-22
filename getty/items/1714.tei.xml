@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1714</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1714</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MEURSII Joannis</author>, <title>Orchestra, sive de saltationibus veterum</title>, liber singularis, <pubPlace>Lugd. Batav.</pubPlace>
+  <date>1618</date>, in 8.
+  <note>Operetta piena di dottrina gr. lat.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioannis Meursi Orchestra, sive, De saltationibus veterum [microform] : liber singularis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4g8051</idno>
+            <idno type="cico">1714</idno>
+            <idno type="dcl">njt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ioannis Meursi Orchestra, sive, De saltationibus veterum [microform] : liber singularis.</title>
+                  <respStmt>
+                     <persName>Meurs, Johannes van, 1579-1639.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni Batauorum : Ex officinâ Godefridi Basson</publisher>
+                     <date>Anno 1618</date>
+                     <date>1618</date>
+                  </imprint>
+                  <extent>[8], 111 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ec03719f-1033-4eb3-9c37-b03971debbf1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ec03719f-1033-4eb3-9c37-b03971debbf1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

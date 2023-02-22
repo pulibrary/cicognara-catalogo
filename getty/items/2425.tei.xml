@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2425</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2425</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BALDO Camillo</author>, <title>In Physiognomica Aristotelis commentarii, Hieronymi Tamburini diligentia
+    et sumptibus nunc primum in lucem editi ad Serenis. <pb type="cico" n="408"/> Princip. Ferdin.Gonxagam,
+    Mantuae et Montisferrati Ducem</title>, <pubPlace>Bononiae</pubPlace> <date>1621</date>, in fol. parv.
+    <note>Non sonovi figure eccetto il frontespizio istoriato intagliato da Coriolano</note>.
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In Physiognomica Aristotelis commentarii à Camillo Baldo .. [microform] : opus multiplici doctrina refertum physiologicis, medicis, viris[ue], politicis aequè vtile iucundum Hieronymi Tamburini diligentia &amp; sumptibus nunc primum in lucem editum.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tamburini, Geronimo.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985345053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ss8t94</idno>
+            <idno type="cico">2425</idno>
+            <idno type="dcl">m89</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>In Physiognomica Aristotelis commentarii à Camillo Baldo .. [microform] : opus multiplici doctrina refertum physiologicis, medicis, viris[ue], politicis aequè vtile iucundum Hieronymi Tamburini diligentia &amp; sumptibus nunc primum in lucem editum.</title>
+                  <respStmt>
+                     <persName>Baldi, Camillo, 1550-1637.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Apud Sebastianum Bononium</publisher>
+                     <date>1621</date>
+                  </imprint>
+                  <extent>562 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/84a4e360-678f-459e-8077-62ab343c1625/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/84a4e360-678f-459e-8077-62ab343c1625/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

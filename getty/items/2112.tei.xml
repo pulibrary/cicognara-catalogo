@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2112</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2112</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Le SUEUR Eustache</author>,<title> La vie. Bruno fondateur de l’ordre des Chartreux, peinte à la Chartreuse
+  de Paris</title>: gravée par François Chauveau, <pubPlace>Paris</pubPlace>, in foglio.
+  <note>Contiene 22 tav. intagliate in rame. Il depauperamento a cui soggiacque la Galleria del Louvre nel 1815 collocò
+  questi 22 quadri a ricuoprire i vani rimasti su quelle pareti.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La vie de St. Bruno, fondateur de l'Orde des Chartreux, peinte au cloistre de la Chartreuse de Paris [microform] / par Eustache Le Sueur ... gravée par François Chavueau ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Sueur, Eustache, 1616-1655.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bp8m1p</idno>
+            <idno type="cico">2112</idno>
+            <idno type="dcl">vz8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La vie de St. Bruno, fondateur de l'Orde des Chartreux, peinte au cloistre de la Chartreuse de Paris [microform] / par Eustache Le Sueur ... gravée par François Chavueau ...</title>
+                  <respStmt>
+                     <persName>Chauveau, François, 1613-1676.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez René Cousinet</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[166-]</date>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>22 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bb187019-6d64-40a0-8132-34ee89277060/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb187019-6d64-40a0-8132-34ee89277060/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

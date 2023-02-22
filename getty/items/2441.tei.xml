@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2441</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2441</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIULIO P. da Turino Capuccino</author>, <title>Trattato sopra la fisonomia dell’uomo</title>, <pubPlace>Turino</pubPlace> <date>1793</date>, in 12.
+    <note>Opera alla quale le precedenti non hanno servito di alcuna sussidio per scegliere il grano dalla zizania.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato sopra la fisonomia dell'uomo [microform] / del P. Giulio da Torino Capuccino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zv6792</idno>
+            <idno type="cico">2441</idno>
+            <idno type="dcl">zvc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato sopra la fisonomia dell'uomo [microform] / del P. Giulio da Torino Capuccino.</title>
+                  <respStmt>
+                     <persName>Giulio, da Torino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Nella Reale Stamperia</publisher>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>LII, 392 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a6d10af2-d435-4493-963f-1b7c415eb117/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a6d10af2-d435-4493-963f-1b7c415eb117/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4372</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4372</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MOSCHINI Giovan Antonio</author>, <title>Guida per l’isola di Murano</title>, <pubPlace>Venezia</pubPlace> <date>1808</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guida per l'Isola di Murano [microform] / descritta da Giannantonio Moschini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985432403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tg1x7k</idno>
+            <idno type="cico">4372</idno>
+            <idno type="dcl">4pq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Guida per l'Isola di Murano [microform] / descritta da Giannantonio Moschini.</title>
+                  <respStmt>
+                     <persName>Moschini, Giannantonio, 1773-1840.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Dalla stamperia Palese</publisher>
+                     <pubPlace>Murano (Italy)</pubPlace>
+                     <pubPlace>San Giorgio Maggiore Island (Italy)</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>130, [10], 36 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3a836c7a-66bf-4b13-acfc-12f09d83df43/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3a836c7a-66bf-4b13-acfc-12f09d83df43/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guida per l'Isola di Murano / descritta da Giannantonio Moschini.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at
+                Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109247310203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/wn4q3q</idno>
+            <idno>(OCoLC)22040242</idno>
+            <idno type="cico">4372</idno>
+            <idno type="dcl">4pq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Guida per l'Isola di Murano / descritta da Giannantonio Moschini.</title>
+                  <respStmt>
+                     <persName>Moschini, Giannantonio, 1773-1840</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>In Venezia : Dalla stamperia Palese</publisher>
+                     <pubPlace>Murano (Italy)</pubPlace>
+                     <pubPlace>San Giorgio Maggiore Island (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>130, [10], 36 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:451270269"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:451270269">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

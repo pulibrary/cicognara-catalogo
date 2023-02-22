@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 689</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">689</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VINCI Giovan Battista</author>, <title>Saggio di architettura civile con alcune cognizioni comuni a tutte le
+	belle arti</title>, <pubPlace>Roma</pubPlace> <date>1795</date>, in 8, M. 87.
+	— <author>VISENTINI Antonio</author>, Vedi <title>Gallacini cui va unito</title>.
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio d'architettura civile, con alcune cognizioni comuni a tutte le belle arti / di Gianbattista Vinci.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9921952023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tq779x</idno>
+            <idno type="cico">689</idno>
+            <idno type="dcl">qbx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio d'architettura civile, con alcune cognizioni comuni a tutte le belle arti / di Gianbattista Vinci.</title>
+                  <respStmt>
+                     <persName>Vinci, Gianbattista.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : A. Fulgoni</publisher>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>xvi, 102 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6a25ea40-35b5-4e66-bb3c-fa6e33c33505/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a25ea40-35b5-4e66-bb3c-fa6e33c33505/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio d'architettura civile [microform] : con alcune cognizioni comuni a tutte le belle arti / di Gianbattista Vinci.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zd8d0r</idno>
+            <idno type="cico">689</idno>
+            <idno type="dcl">wcb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio d'architettura civile [microform] : con alcune cognizioni comuni a tutte le belle arti / di Gianbattista Vinci.</title>
+                  <respStmt>
+                     <persName>Vinci, Gianbattista.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Antonio Fulgoni</publisher>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>XVI, 102 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/def72f87-c1a2-4bc8-9207-52418cebce87/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/def72f87-c1a2-4bc8-9207-52418cebce87/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

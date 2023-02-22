@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 367</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">367</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>VESALII Brucellensis</author>, 
+                     <title>De humani corporis fabrica, libri VII,</title> 
+                     <pubPlace>Venetiis,</pubPlace> 
+                     <publisher>ap. Fr. Senensem,</publisher> 
+                     <date>1568,</date>
+	                    <extent>in f. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreae Vesalii Brvxellensis ... De Hvmani Corporis Fabrica Libri Septem: Cum Indice rerum &amp; uerborum memorabilium locupletißimo</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vesalius, Andreas, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-129406</idno>
+            <idno type="URI">http://portal.getty.edu/api/861s6b</idno>
+            <idno type="cico">367</idno>
+            <idno type="dcl">qjq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Andreae Vesalii Brvxellensis ... De Hvmani Corporis Fabrica Libri Septem: Cum Indice rerum &amp; uerborum memorabilium locupletißimo</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1568</date>
+                     <date>1568</date>
+                  </imprint>
+                  <extent>[6] Bl., 510 S., [23] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vesalius1568/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vesalius1568/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreae Vesalii Bruxellensis invictissimi Caroli V. ... De humani corporis fabrica libri septem [microform] / cum indice rerum &amp; uerborum memorabilium locupletissimo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/442541</idno>
+            <idno type="cico">367</idno>
+            <idno type="dcl">qjq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Andreae Vesalii Bruxellensis invictissimi Caroli V. ... De humani corporis fabrica libri septem [microform] / cum indice rerum &amp; uerborum memorabilium locupletissimo.</title>
+                  <respStmt>
+                     <persName>Vesalius, Andreas, 1514-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Apud Franciscum Franciscium Senesem &amp; Ioannem Criegher Germanum</publisher>
+                     <date>1568</date>
+                  </imprint>
+                  <extent>510, [45] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fd072142-1977-4b5e-92e7-c2a7f79549d3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fd072142-1977-4b5e-92e7-c2a7f79549d3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

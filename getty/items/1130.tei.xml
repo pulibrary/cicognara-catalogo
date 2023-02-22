@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1130</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1130</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VERDIZOTTI</author>, Le stesse cento favole, <pubPlace>Venezia</pubPlace>, presso <publisher>Francesco Ziletti</publisher>, <date>1586</date>, in 4, fig.
+  <note>Dopo il frontespizio figurato seguono tre foglietti cola stessa dedica del precedente, ma diretta al Sig. Lorenzo
+  Bernardo con poche mutazioni: segue l’avviso dello stampatore. E incominciano le cento favole in tutto nello
+  stesso modo che nella prima edizione. Ne apparvero altre edizioni posteriormente che per le tavole troppo logore
+  non hanno alcun pregio.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cento favole morali [microform] : de i piu illustri antichi &amp; moderni autori Greci, &amp; Latini / scielte &amp; trattate in varie maniere di versi volgari da M. Gio. Mario Verdizotti ; nellequali oltra l'orname[n]to di uarie e belle figure ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh9p4k</idno>
+            <idno type="cico">1130</idno>
+            <idno type="dcl">qnp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cento favole morali [microform] : de i piu illustri antichi &amp; moderni autori Greci, &amp; Latini / scielte &amp; trattate in varie maniere di versi volgari da M. Gio. Mario Verdizotti ; nellequali oltra l'orname[n]to di uarie e belle figure ...</title>
+                  <respStmt>
+                     <persName>Verdizotti, Giovanni Mario, 1525-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Franceso Ziletti</publisher>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>301 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/567d601f-cf59-4bcf-beed-fe85592c44a0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/567d601f-cf59-4bcf-beed-fe85592c44a0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

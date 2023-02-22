@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1575</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1575</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BARTOLINI</author> <title>Thomae de Armillis veterum</title>. Accedit Wormii de aureo Cornu Danico,
+    <pubPlace>Amstelodami</pubPlace> <date>1676</date>, in 12, figurato.
+    <note>Questi opuscoli, od operette per meglio dire, sono preziose la maggior parte per lo studio e la diligenza con cui
+    hanno cercato gli studiosi di esaurire le materie e pei monumenti e tavole di cui sono arricchite.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Bartholini De armillis veterum schedion [microform] : accessit Olai Wormii De aureo cornu Danico ad Licetum responsio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartholin, Caspar, 1655-1738.</authority>
+            <authority>Worm, Ole, 1588-1654. De aureo cornu Danico ad Licetum responsio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1d9m6b</idno>
+            <idno type="cico">1575</idno>
+            <idno type="dcl">sft</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Bartholini De armillis veterum schedion [microform] : accessit Olai Wormii De aureo cornu Danico ad Licetum responsio.</title>
+                  <respStmt>
+                     <persName>Bartholin, Thomas, 1616-1680.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Sumptibus JHenrici Wetstenii</publisher>
+                     <pubPlace>Costume</pubPlace>
+                     <pubPlace>Denmark</pubPlace>
+                     <date>1676</date>
+                  </imprint>
+                  <extent>114, [14], 40 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7e57084d-a4b7-416d-86fa-1a6979b3493e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7e57084d-a4b7-416d-86fa-1a6979b3493e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomae Bartholini De armillis vetervm schedion</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartholin, Thomas, Author</authority>
+            <authority>Worm, Ole, Author</authority>
+            <authority>Bartholin, Caspar, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-270673</idno>
+            <idno type="URI">http://portal.getty.edu/api/x86102</idno>
+            <idno type="cico">1575</idno>
+            <idno type="dcl">sft</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Thomae Bartholini De armillis vetervm schedion</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1676</date>
+                     <date>1676</date>
+                  </imprint>
+                  <extent>[8] Bl., 114 S., [7] Bl., 40 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartholin1676/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartholin1676/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

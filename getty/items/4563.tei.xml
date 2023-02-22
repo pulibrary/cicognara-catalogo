@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4563</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4563</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PAILLET et de la Roche</author>, <title>Catalogue d’une riche colléction de tableaux du Cabinet du citoyen Robit</title>, <pubPlace>Paris</pubPlace>
+                    <date> 1801</date>, in
+8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une riche collection de tableaux, dessins, gouaches, miniatures, estampes ... etc., le tout rassemblé avec autant de foût que de dépense par feu Claude Tolozan [microform] / ledit catalogue rédigé par A. Paillet, et H. Delaroche ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Delaroche, Gregoire-Hippolyte, approximately 1750-approximately 1824.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984938693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2h339x</idno>
+            <idno>(OCoLC)78143260</idno>
+            <idno type="cico">4563</idno>
+            <idno type="dcl">f5w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une riche collection de tableaux, dessins, gouaches, miniatures, estampes ... etc., le tout rassemblé avec autant de foût que de dépense par feu Claude Tolozan [microform] / ledit catalogue rédigé par A. Paillet, et H. Delaroche ...</title>
+                  <respStmt>
+                     <persName>Paillet, A. J. (Alexandre Joseph)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez A. Paillet et H. Delaroche</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[1801]</date>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>viii, 132 p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c2130a4c-e22b-4953-aaeb-22029fdecbd2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c2130a4c-e22b-4953-aaeb-22029fdecbd2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

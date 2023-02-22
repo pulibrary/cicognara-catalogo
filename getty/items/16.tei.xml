@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 16</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">16</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BUCHNERO (Andr. Eliæ)</author>, 
+                     <title>De praeservandis artificum et opificum morbis.
+	  Dissertatio inauguralis medica,</title> 
+                     <pubPlace>Halæ Magdeb.</pubPlace> 
+                     <date>1745,</date> 
+                     <extent>M. 45.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertatio inauguralis medica De praeservandis artificum et opificum morbis .. [microform] / submittet Johannes Wilhelmus Tralles ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p7269v</idno>
+            <idno type="cico">11</idno>
+            <idno type="dcl">xbp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertatio inauguralis medica De praeservandis artificum et opificum morbis .. [microform] / submittet Johannes Wilhelmus Tralles ...</title>
+                  <respStmt>
+                     <persName>Tralles, Johann Wilhelm.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Halae Magdeburgicae : Typis Joh. Christiani Hendelii</publisher>
+                     <date>[1745]</date>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>37, [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7b2f57fc-f08a-4e03-8592-89f3bad3fc2b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7b2f57fc-f08a-4e03-8592-89f3bad3fc2b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

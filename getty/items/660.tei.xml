@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 660</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">660</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>SEGUIN</author>, 
+                     <title>Manuel d’architecture, ou principes des operations primitives de cette art,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1786,</date>
+	                    <extent>in 8, fol.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Manuel d'architecture, ou, Principes des opérations primitives de cet art [microform] : où l'on expose des méthodes abrégées, tant pour l'évaluation des surfaces et des solides circulaires que pour le développement des courbes, et pour l'extraction des racines quarrées et cubiques par de nouvelles regles fort simples ... / par M. Seguin.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985159413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7s888r</idno>
+            <idno type="cico">660</idno>
+            <idno type="dcl">4zt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Manuel d'architecture, ou, Principes des opérations primitives de cet art [microform] : où l'on expose des méthodes abrégées, tant pour l'évaluation des surfaces et des solides circulaires que pour le développement des courbes, et pour l'extraction des racines quarrées et cubiques par de nouvelles regles fort simples ... / par M. Seguin.</title>
+                  <respStmt>
+                     <persName>Séguin, Charles.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Didor fils :</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>xvj, 304, [104] p., 10 folded leaves of plates</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8d16c445-1e02-43d8-9c0e-4fa0f027d4fb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8d16c445-1e02-43d8-9c0e-4fa0f027d4fb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

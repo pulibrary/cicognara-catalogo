@@ -1,0 +1,69 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 962</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">962</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TAYLOR</author>, <title>Dessigns for chimney</title>. Pieces with mouldings et bases at large on 24 plates, <pubPlace>London</pubPlace>,
+      in fol. obl.
+      <note>Opera di gusto assai ragionevole con invenzioni semplici, nobili e dedotte da buoni monumenti.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Designs for chimney-pieces [microform] : with mouldings &amp; bases at large : on 24 plates.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ks8r4g</idno>
+            <idno type="cico">962</idno>
+            <idno type="dcl">d02</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Designs for chimney-pieces [microform] : with mouldings &amp; bases at large : on 24 plates.</title>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for I. &amp; J. Taylor</publisher>
+                     <date>[1789?]</date>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>24 leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/72edf783-1d31-4248-bd22-c5066e5e6a49/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/72edf783-1d31-4248-bd22-c5066e5e6a49/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

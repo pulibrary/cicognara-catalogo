@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 182</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">182</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>PILES (de)</author>,
+                     <title> Diverses coversatios sur la peinture,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1677.</date> In fine a questo libro sono unite
+	  Figures d’accademie pour apprendre a dessiner, gravées par Sebastien le Clerc, 1673. Sono 31
+	  tavole.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conversations sur la connoissance de la peinture et sur le jugement qu'on doit faire des tableaux [microform] : où par occasion il est parlé de la vie de Rubens &amp; de quelques-uns de ses plus beaux ouvrages.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/st904k</idno>
+            <idno type="cico">182</idno>
+            <idno type="dcl">12w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conversations sur la connoissance de la peinture et sur le jugement qu'on doit faire des tableaux [microform] : où par occasion il est parlé de la vie de Rubens &amp; de quelques-uns de ses plus beaux ouvrages.</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Nicolas Langlois</publisher>
+                     <date>1677</date>
+                  </imprint>
+                  <extent>[36], 309, [29] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d4f7223b-e2ef-480e-ac19-12fc47a34eac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d4f7223b-e2ef-480e-ac19-12fc47a34eac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Figures d'academie pour apprendre à désiner [microform] / grauées par S.L.C.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fz8c0g</idno>
+            <idno type="cico">182</idno>
+            <idno type="dcl">qz7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Figures d'academie pour apprendre à désiner [microform] / grauées par S.L.C.</title>
+                  <respStmt>
+                     <persName>Le Clerc, Sébastien, 1637-1714.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez N. Langlois</publisher>
+                     <date>1673</date>
+                  </imprint>
+                  <extent>[32] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/022c4021-b4ce-4a4a-8c54-abe3bac402a3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/022c4021-b4ce-4a4a-8c54-abe3bac402a3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

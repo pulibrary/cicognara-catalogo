@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2239</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2239</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CICOGNARA Leopoldo</author>, <title>In morte dell’architetto ferrarese Antonio Foschini</title>, orazione, <pubPlace>Ferrara</pubPlace>
+    <date>1814</date>, in 8, M. 37.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In morte dell'architetto Ferrarese Antonio Foschini [microform] : orazione letta nel giorno III gennajo MDCCCXIV, nella chiesa della certosa annessa al cimiterio comunale di Ferrara.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449243506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f16t38</idno>
+            <idno type="cico">2239</idno>
+            <idno type="dcl">cs1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>In morte dell'architetto Ferrarese Antonio Foschini [microform] : orazione letta nel giorno III gennajo MDCCCXIV, nella chiesa della certosa annessa al cimiterio comunale di Ferrara.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Ferrara] : Gaetano Bresciani</publisher>
+                     <date>[1814]</date>
+                     <date>1814</date>
+                  </imprint>
+                  <extent>33 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/229995a3-174b-476a-85f4-7148de7c28a2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/229995a3-174b-476a-85f4-7148de7c28a2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

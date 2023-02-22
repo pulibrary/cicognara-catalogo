@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3847</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3847</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PRONTI Domenico</author>, <title>Nuova raccolta di cento vedutine antiche della città di Roma e sue vicinanze</title>. <pb type="cico" n="213"/> Nel
+volume primo stanno le 100 indicate, e settanta sono nel volume secondo, <pubPlace>Roma</pubPlace>, in 4.
+<note>Legate in un solo volume, e intagliate con molto gusto a due per pagina.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuova raccolta rappresentante i costumi religiosi civili, e militari degli antichi egiziani, etruschi, greci, e romani: tratti dagli antichi monumenti ; per uso dè professori delle belle arti</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pronti, Domenico, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-151657</idno>
+            <idno type="URI">http://portal.getty.edu/api/h06m8b</idno>
+            <idno type="cico">3847</idno>
+            <idno type="dcl">vrt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nuova raccolta rappresentante i costumi religiosi civili, e militari degli antichi egiziani, etruschi, greci, e romani: tratti dagli antichi monumenti ; per uso dè professori delle belle arti</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1800</date>
+                     <date>[circa 1800]</date>
+                  </imprint>
+                  <extent>XLVIII Bl.</extent>
+                  <extent>nur Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/pronti1800/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/pronti1800/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuova raccolta di 100 vedutine antiche della città di Roma e su vicinanze [microform] / incise a bullino da Domenico Pronti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985423273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ks6h3b</idno>
+            <idno type="cico">3847</idno>
+            <idno type="dcl">vrt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nuova raccolta di 100 vedutine antiche della città di Roma e su vicinanze [microform] / incise a bullino da Domenico Pronti.</title>
+                  <respStmt>
+                     <persName>Pronti, Domenico, 1750-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso il sud.o Incisore</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>[18-?]</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1fe806c5-cbeb-4d5f-8f34-9ea212d84ba3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1fe806c5-cbeb-4d5f-8f34-9ea212d84ba3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

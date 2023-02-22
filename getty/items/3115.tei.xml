@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3115</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3115</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GORI Antonii Francisci</author>, <title>Inscriptiones antiquae in Etruriae urbibus extantes</title>, <pubPlace>Florentiae</pubPlace> <date>1726 a 1747</date>, vol. 3, in fol.,
+fig.
+<note>Contiene il primo volume i monumenti esistenti in Firenze colle annotazioni di Ant. M. Salvini e 62 gemme con
+caratteri incisi, distribuite in 20 tavole. Nel secondo volume sono i monumenti sparsi per le varie città della
+Toscana. Nel terzo sono le iscrizioni antiche greche e romane sparse in Toscana e le opere di scultura insignite
+d’iscrizioni, come urne e sarcofagj ed altri monumenti nel Calidario delle terme pisane con 50 grandi tavole in
+rame.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inscriptiones antiquae in Etruriae urbibus exstantes .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Salvini, Anton Maria, 1653-1729.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/079k7c</idno>
+            <idno type="URI">http://portal.getty.edu/api/zd432n</idno>
+            <idno type="URI">http://portal.getty.edu/api/sk854c</idno>
+            <idno type="cico">3115</idno>
+            <idno type="dcl">xbx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Inscriptiones antiquae in Etruriae urbibus exstantes .. [microform].</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : Typis Iosephi Manni</publisher>
+                     <date>1726-1743</date>
+                     <date>1726</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>28 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ba8b63ec-6617-4efd-bf4e-95325276002c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ba8b63ec-6617-4efd-bf4e-95325276002c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

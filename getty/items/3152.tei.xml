@@ -1,0 +1,66 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3152</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3152</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>VETERA monumenta ad Classem Ravennatem nuper eruta, monachi Classenses ediderunt</title>, <pubPlace>Faventiae</pubPlace> <date>1756</date>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vetera monumenta ad Classem Ravennatem nuper eruta [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/635f2m</idno>
+            <idno type="cico">3152</idno>
+            <idno type="dcl">b2s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vetera monumenta ad Classem Ravennatem nuper eruta [microform].</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Fauentiae : Excudebat Iosephus Antonius Archius</publisher>
+                     <pubPlace>Ravenna (Italy)</pubPlace>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>XXXVI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b2177d2e-b92e-45b8-9ab8-28599b7590e2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b2177d2e-b92e-45b8-9ab8-28599b7590e2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

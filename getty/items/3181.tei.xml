@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3181</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3181</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOETTIGERI Carl August</author>, <title>Les furies d’après les poetes et les artistes anciens</title>, traduit de l’allemand par Winckler,
+<pubPlace>Paris</pubPlace> <date>1802</date>, in 8.
+<note>Dottissimo opuscolo, con quattro tavole, due delle quali colorite.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les furies, d'après les poetes et les artistes anciens [microform] / par M. Boettiger ; traduction de l'Allemand par T.F. Winckler ; avec quatre gravures dont deux enluminées.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Winckler, Théophile Frédéric, 1771-1807.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mb491h</idno>
+            <idno type="cico">3181</idno>
+            <idno type="dcl">bs7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les furies, d'après les poetes et les artistes anciens [microform] / par M. Boettiger ; traduction de l'Allemand par T.F. Winckler ; avec quatre gravures dont deux enluminées.</title>
+                  <respStmt>
+                     <persName>Böttiger, Karl August, 1760-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : A. Delalain</publisher>
+                     <date>An X., 1802</date>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8f13eece-d31a-4ec0-a6d8-faa860de791c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8f13eece-d31a-4ec0-a6d8-faa860de791c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

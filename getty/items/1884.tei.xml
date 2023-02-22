@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1884</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1884</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DOMENICHI M. Lodovico</author>, <title>Ragionamento nel quale si parla d’imprese d’armi et d’amore</title>.
+    Interlocutori M. Pompeo dalla Barba, M. Arnoldo Arlieno e M. Lodovico Domenichi, in
+    <pubPlace>Milano</pubPlace> <date>1559</date>, presso <publisher>Giovan Antonio degli Antonii</publisher>, in 8. Opuscolo elegante.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ragionamento di M. Lodovico Domenichi [microform] : nel quale si parla d'imprese d'armi et d'amore / interlocutori, M. Pompeo dalla barba, M. Arnoldo Arlieno, &amp; M. Lodouico Domenichi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qv9r6n</idno>
+            <idno type="cico">1884</idno>
+            <idno type="dcl">8p4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ragionamento di M. Lodovico Domenichi [microform] : nel quale si parla d'imprese d'armi et d'amore / interlocutori, M. Pompeo dalla barba, M. Arnoldo Arlieno, &amp; M. Lodouico Domenichi.</title>
+                  <respStmt>
+                     <persName>Domenichi, Lodovico, 1515-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Appresso à Giouann' Antonio de gli Antonij</publisher>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>30 numb. leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/71f1f139-ebd1-47a4-9ab9-653308ef7cba/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/71f1f139-ebd1-47a4-9ab9-653308ef7cba/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

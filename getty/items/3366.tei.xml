@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3366</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3366</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>ANTIQUITATIS reliquiae a march. Jacobo Musellio collectae tabulis incisae, et brevibus explicationibus illustratae</title>,
+<pubPlace>Veronae</pubPlace> <date>1756</date>, in fol., fig.
+<note>Sono 183 tavole la più parte intagliate da Domenico Cunnego di ogni sorta di antichità con poche e brevi
+descrizioni che in latino ed in italiano sono esposte in principio, le quali occupano 60 pagine nel volume.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiquitatis reliquiae a Marchione Jacobo Musellio [microform] : collectae tabulis incisae et brevibus explicationibus illustratae.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gg5431</idno>
+            <idno type="cico">3366</idno>
+            <idno type="dcl">zfr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiquitatis reliquiae a Marchione Jacobo Musellio [microform] : collectae tabulis incisae et brevibus explicationibus illustratae.</title>
+                  <respStmt>
+                     <persName>Muselli, Jacopo, marchese, 1697-1768.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Veronae : [Apud A. Carattonium]</publisher>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>60 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d7371092-41ee-45c1-81e7-95f9ce22544e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d7371092-41ee-45c1-81e7-95f9ce22544e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

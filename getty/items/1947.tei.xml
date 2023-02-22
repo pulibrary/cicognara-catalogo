@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1947</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1947</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROSSI Ottavio</author>,<title> Le memorie bresciane: Opera istorica et simbolica</title>, <pubPlace>Brescia</pubPlace>, per <publisher>Bartolom.
+    Fontana</publisher>, <date>1616</date>, in 4, fig.
+    <note>Opera utile per le memorie patrie e per molte nozioni antiquarie con numerose tavole stampate fra il testo e il
+    frontespizio figurato inciso da Cesare Bassano.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le memorie bresciane : opera istorica et simbolica / di Ottavio Rossi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991554363504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/0q9z8z</idno>
+            <idno>(OCoLC)977310101</idno>
+            <idno type="cico">1947</idno>
+            <idno type="dcl">v51</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le memorie bresciane : opera istorica et simbolica / di Ottavio Rossi.</title>
+                  <respStmt>
+                     <persName>Rossi, Ottavio, 1570-1630.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Brescia : Per Bartolomeo Fontana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Brescia (Italy)</pubPlace>
+                     <date>1616</date>
+                  </imprint>
+                  <extent>[16], 340 [i.e. 332], [8] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991554363504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991554363504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

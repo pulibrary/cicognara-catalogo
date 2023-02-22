@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1284</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1284</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZANNONI Francesco</author>, <title>La nuova pittura</title>, opera del Sig. Filippo Gherardi da Lucca sulla volta o
+    tribuna della chiesa di S. Pantaleo scoperta l’anno <date>1690</date> in <pubPlace>Roma</pubPlace>, in 4, M. 62.
+    <note>Unitivi gli Applausi Poetici pubblicati in tal circostanza.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La nuoua pittura [microform] : opera del signor Filippo Gherardi da Lucca su ̀la volta e tribuna della Chiesa di San Pantaleo de chierici, regolari, poueri della Madre di Dio delle Scuole Pie di Roma ; scoperta l'anno M.DC.XC.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985451683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qr5m86</idno>
+            <idno type="cico">1284</idno>
+            <idno type="dcl">400</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La nuoua pittura [microform] : opera del signor Filippo Gherardi da Lucca su ̀la volta e tribuna della Chiesa di San Pantaleo de chierici, regolari, poueri della Madre di Dio delle Scuole Pie di Roma ; scoperta l'anno M.DC.XC.</title>
+                  <respStmt>
+                     <persName>Zannoni, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Domenico Antonio Ercole</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1690]</date>
+                     <date>1690</date>
+                  </imprint>
+                  <extent>30 [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f22da3c8-5d09-4cde-8158-97aad1ca6838/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f22da3c8-5d09-4cde-8158-97aad1ca6838/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

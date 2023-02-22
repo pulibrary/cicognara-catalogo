@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 76</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">76</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>L’ART nouveau de la peinture en fromage, ou en raméquin, inventée pour suivre le louable
+	  projet de trouver graduellement les façons de peindre inferieures à celles qui existent,</title> 
+                     <pubPlace>à
+	  Marolles</pubPlace> 
+                     <date>1755.</date>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'art nouveau de la peinture en fromage, ou en ramequin : inventée pour suivre le louable projet de trouver graduellement des façons de peindre inférieures à celles qui existent.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990068255540203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/684w7d</idno>
+            <idno>(OCoLC)702375031</idno>
+            <idno type="cico">76</idno>
+            <idno type="dcl">snk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'art nouveau de la peinture en fromage, ou en ramequin : inventée pour suivre le louable projet de trouver graduellement des façons de peindre inférieures à celles qui existent.</title>
+                  <respStmt>
+                     <persName>Rouquet, Jean André, 1701-1758, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Marolles [that is, Paris] : [publisher not identified]</publisher>
+                     <date>M.DCC.LV [1755]</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>20 pages, 1 unnumbered page</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481795126"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481795126">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'histoire et le secret de la peinture en cire.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924018830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9g8q2f</idno>
+            <idno>(OCoLC)37682348</idno>
+            <idno type="cico">76</idno>
+            <idno type="dcl">9p0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'histoire et le secret de la peinture en cire.</title>
+                  <respStmt>
+                     <persName>Diderot, Denis, 1713-1784</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris?] : [publisher not identified]</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>[1755]</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>[2], 103, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/9a709b2e-2b1d-44ad-af3b-5e582363c004"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/9a709b2e-2b1d-44ad-af3b-5e582363c004">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

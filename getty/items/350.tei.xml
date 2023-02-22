@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 350</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">350</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>INSTRADAMENTO alla calligrafia in 5 tabelle. Studio elementare per i fanciulli, </title>
+                     <pubPlace>Ven.</pubPlace> 
+                     <date>1819,</date> 
+                     <extent>in 4
+	obl.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istradamento alla calligrafia [microform] : con analoghi esemplari disposti in cinque tabelle intagliate in rame seguito da nuovo metodo pratico de' cosi detti puntini contenuto in diciannove tavole il tutto per brevemente addestrare i fanciulli della prima eta alla formazione di una scrittura semplice ben regoiata e spedita / di Bartolommeno Ponzilacqua ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985287373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0p0352</idno>
+            <idno type="cico">350</idno>
+            <idno type="dcl">kjs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istradamento alla calligrafia [microform] : con analoghi esemplari disposti in cinque tabelle intagliate in rame seguito da nuovo metodo pratico de' cosi detti puntini contenuto in diciannove tavole il tutto per brevemente addestrare i fanciulli della prima eta alla formazione di una scrittura semplice ben regoiata e spedita / di Bartolommeno Ponzilacqua ...</title>
+                  <respStmt>
+                     <persName>Ponzilacqua, Bartolommeo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Giuseppe Molinari, a spese dell'autore</publisher>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>15, [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8a7ee579-122a-47f6-a2e1-616cdbc15d20/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a7ee579-122a-47f6-a2e1-616cdbc15d20/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

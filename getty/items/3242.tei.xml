@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3242</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3242</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HOLSTENII Lucae</author>, <title>Vetus pictura nympheum referens, commentariolo explicata. Accedunt alia quaedam ejusdem
+                        auctoris</title>, <pubPlace>Romae</pubPlace>
+                    <date> 1676</date>, in fol., fig., M. 91.
+<note>Il ritratto dell’autore è nel frontespizio. Segue la gran tavola in rame dell’antica pittura e gli altri opuscoli. In
+   tutto non sono però che 12 pagine</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vetus pictura nymphaeum [microform] : referens commentariolo / explicata a Luca Holstenio ; accedunt alia quaedam eiusdem auctoris.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985458513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d7482h</idno>
+            <idno type="cico">3242</idno>
+            <idno type="dcl">8pc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vetus pictura nymphaeum [microform] : referens commentariolo / explicata a Luca Holstenio ; accedunt alia quaedam eiusdem auctoris.</title>
+                  <respStmt>
+                     <persName>Holstenius, Lucas, 1596-1661.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Barberinis, excudebat Michael Hercules</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1676</date>
+                  </imprint>
+                  <extent>12 p., 1 folded leaf of plates</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1e6bed52-3281-468c-887f-f63b709868c0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1e6bed52-3281-468c-887f-f63b709868c0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vetvs Pictvra Nymphaevm Referens: Commentariolo Explicata</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Holste, Lukas, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-286126</idno>
+            <idno type="URI">http://portal.getty.edu/api/hg5z1g</idno>
+            <idno type="cico">3242</idno>
+            <idno type="dcl">8pc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vetvs Pictvra Nymphaevm Referens: Commentariolo Explicata</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Palazzo Barberini &lt;Rom&gt;</pubPlace>
+                     <pubPlace>Rom</pubPlace>
+                     <date>1676</date>
+                     <date>1676</date>
+                  </imprint>
+                  <extent>12 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/holste1676/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/holste1676/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

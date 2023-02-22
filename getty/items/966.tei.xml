@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 966</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">966</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VESTORI J. B.</author>, <title>Essai sur les ouvrages phisico-mathematiques de Léonard de Vinci, avec des
+      fragmens tirés de ses manuscrits, apportés de l’Italie</title>; lu à <pb type="cico" n="176"/> la première classe de
+      l’Institut national des Sciences et Arts, à <pubPlace>Paris</pubPlace>, chez <publisher>Buprat libraire pour les mathématiques</publisher>,
+      quai des Augustins, an. V, <date>1797</date>, in 4
+      <author>VERANTII Fausti Siceni</author>, <title>Machinas novae</title>. <note>Vedi Cataneo Pietro cui è unito.</note>
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essai sur les ouvrages physico-mathématiques de Léonard de Vinci avec des fragmens tirés de ses manuscrits, apportés de l'Italie [microform] : lu à la première classe de l'Institut national des sciences et arts / par J.-B. Venturi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rb2f9r</idno>
+            <idno type="URI">http://portal.getty.edu/api/tb1066</idno>
+            <idno type="URI">http://portal.getty.edu/api/rj482v</idno>
+            <idno type="cico">966</idno>
+            <idno type="dcl">g62</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essai sur les ouvrages physico-mathématiques de Léonard de Vinci avec des fragmens tirés de ses manuscrits, apportés de l'Italie [microform] : lu à la première classe de l'Institut national des sciences et arts / par J.-B. Venturi ...</title>
+                  <respStmt>
+                     <persName>Venturi, Giovanni Battista, 1746-1822.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Duprat</publisher>
+                     <date>An V. (1797)</date>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>56 p., [1] folded leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/20664328-585d-4cc9-81f7-a3272d754bb5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/20664328-585d-4cc9-81f7-a3272d754bb5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

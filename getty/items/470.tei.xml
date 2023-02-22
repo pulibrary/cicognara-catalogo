@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 470</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">470</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CERATO Domenico Vicentino</author>, 
+                     <title>Nuovo metodo per insegnare li cinque ordini d’architettura
+	civile conforme le regole di Palladio e di Scamozzi ed alcune regole di geometria pratica,</title>
+	                    <pubPlace>Padova</pubPlace> 
+                     <date>1784,</date>
+                     <extent> in 4 vol. 2, legati in uno.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuovo metodo per disegnare li cinque ordini di architettura civile [microform] : conforme le regole di Andrea Palladio e Vincenzo Scamozzi ed alcune figure di geometria pratica ... / inventato, e dato in luce da Don Domenico Cerato ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4m5c7n</idno>
+            <idno type="cico">470</idno>
+            <idno type="dcl">f5b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nuovo metodo per disegnare li cinque ordini di architettura civile [microform] : conforme le regole di Andrea Palladio e Vincenzo Scamozzi ed alcune figure di geometria pratica ... / inventato, e dato in luce da Don Domenico Cerato ...</title>
+                  <respStmt>
+                     <persName>Cerato, Domenico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Per il penada stampatore dello Studio</publisher>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3770ee33-e4c7-4f55-8fd9-02a243f92edf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3770ee33-e4c7-4f55-8fd9-02a243f92edf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

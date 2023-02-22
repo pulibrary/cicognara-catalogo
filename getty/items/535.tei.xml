@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 535</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">535</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>Izzo S. I. Jo. Bapt.</author>, 
+                     <title>Elementa architecturae civilis in usum Collegii Theresiani,</title> 
+                     <pubPlace>Vindobonae</pubPlace>
+	                    <date>1764,</date> 
+                     <extent>in 8, fig. con 30 tavole in rame.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elementa architecturae civilis in usum nobilium collegii regii Theresiani conscripta [microform] / Joan. Bapt. Izzo ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dc5q02</idno>
+            <idno type="cico">535</idno>
+            <idno type="dcl">r7z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elementa architecturae civilis in usum nobilium collegii regii Theresiani conscripta [microform] / Joan. Bapt. Izzo ...</title>
+                  <respStmt>
+                     <persName>Izzo, Johann Baptist, 1721-1793.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Vindobonae : Typis Joannis Thomae Trattner</publisher>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>[16], 296, [15] p., [30] leaves of plates</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/29df78de-c5b6-41c1-bb90-1bce1a8ab995/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/29df78de-c5b6-41c1-bb90-1bce1a8ab995/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elementa architecturae civilis in usum nobilium collegii regii
+                Theresiani / conscripta a Joan. Bapt. Izzo S.J.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109523430203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/m00b80</idno>
+            <idno>(OCoLC)49571515</idno>
+            <idno type="cico">535</idno>
+            <idno type="dcl">r7z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elementa architecturae civilis in usum nobilium collegii regii
+                Theresiani / conscripta a Joan. Bapt. Izzo S.J.</title>
+                  <respStmt>
+                     <persName>Izzo, Johann Baptist, 1721-1793.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Vindobonae : Typis, Joannis Thomae Trattner</publisher>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>[16], 296, [16] p., [30] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:448397786"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:448397786">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

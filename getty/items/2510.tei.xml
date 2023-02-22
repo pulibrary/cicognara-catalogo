@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2510</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2510</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ADLER Christianus</author>, <title>Museum Cuficum Borgianum Velitris illustratum</title>, <pubPlace>Romae</pubPlace> <date>1782</date>, in 4, fig.
+<note>Bella e nitida edizione pei caratteri orientali di cui è ripiena con 12 tavole di accurato intaglio in rame. Esemplare
+di dedica in vit. dorato in carta grande.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Museum Cuficum Borgianum Velitris [microform] / illustravit Iacobus Georgius Christianus Adler ... .</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x79q69</idno>
+            <idno type="cico">2510</idno>
+            <idno type="dcl">tjr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Museum Cuficum Borgianum Velitris [microform] / illustravit Iacobus Georgius Christianus Adler ... .</title>
+                  <respStmt>
+                     <persName>Adler, Jacob Georg Christian, 1756-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Antonium Fulgonium</publisher>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>VI, 172 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0be3488f-474b-4c83-8a31-b64e32f7fb1b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0be3488f-474b-4c83-8a31-b64e32f7fb1b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

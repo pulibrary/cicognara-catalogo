@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2383</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2383</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>UGHI Luigi</author>, <title>Dizionario storico degli uomini illustri ferraresi, (ove è parlato anche degli
+    artisti)</title>, <pubPlace>Ferrara</pubPlace> <date>1814</date>, in 8.
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+                    <note>
+    Due tomi in un sol volume, che non onorano la patria di tanti uomini insigni in ogni ramo di arti e di lettere.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dizionario storico degli uomini illustri ferraresi nella pietà, nelle arti, e nelle scienze colle loro opere, o fatti principali [microform] / ompilato dalle storie, e da manoscritti originali da Luigi Ughi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9z4h2d</idno>
+            <idno type="cico">2383</idno>
+            <idno type="dcl">hk1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dizionario storico degli uomini illustri ferraresi nella pietà, nelle arti, e nelle scienze colle loro opere, o fatti principali [microform] / ompilato dalle storie, e da manoscritti originali da Luigi Ughi ...</title>
+                  <respStmt>
+                     <persName>Ughi, Luigi, 1749-1823.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Ferrara : Per gli eredi di Giuseppe Rinaldi</publisher>
+                     <pubPlace>Ferrara (Italy)</pubPlace>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/beb59f0e-797a-4bca-b61e-d11a74e60b83/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/beb59f0e-797a-4bca-b61e-d11a74e60b83/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 55</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">55</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>TEMPESTI Ab.</author>,
+                     <title> Antiperistasi Pisane sul risorgimento e cultura delle belle arti.</title> Dialoghi, <pubPlace> Pisa</pubPlace>
+	                    <date>1812,</date> 
+                     <extent>4 fig. M. 25 con cinque tavole intagliate in rame,</extent> disegnate dal celebre C. Inghirami.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiperistasi Pisane sul risorgimento e cultura delle belle arti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927803690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pm7d1x</idno>
+            <idno>(OCoLC)16850657</idno>
+            <idno type="cico">55</idno>
+            <idno type="dcl">9gt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiperistasi Pisane sul risorgimento e cultura delle belle arti.</title>
+                  <respStmt>
+                     <persName>Tempesti, Ranieri, 1747-1819.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Presso Sebastiano Nistri</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>100 pages, 5 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d56e0213-b8f8-469c-a2a8-f9ed9cf92aae"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d56e0213-b8f8-469c-a2a8-f9ed9cf92aae">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiperistasi Pisane sul risorgimento e cultura delle belle arti [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Pisan Antiperistases.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ww8q6z</idno>
+            <idno type="cico">55</idno>
+            <idno type="dcl">9gt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiperistasi Pisane sul risorgimento e cultura delle belle arti [microform].</title>
+                  <respStmt>
+                     <persName>Tempesti, Ranieri, 1747-1819.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Sebastiano Nistri</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>100 p., 5 leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/49999989-3abf-4ad4-b507-d8f7c148a73d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49999989-3abf-4ad4-b507-d8f7c148a73d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

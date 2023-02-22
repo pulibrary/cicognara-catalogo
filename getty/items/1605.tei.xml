@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1605</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1605</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BRUNO di Melfi Vincenzo</author>, <title>Teatro degli inventori di tutte le cose</title>, <pubPlace>Napoli</pubPlace>, per <publisher>Tarquinio
+    Longo</publisher>, <date>1603</date>, in fol.
+    <note>Opera in questo genere rara, e curiosa, ove per ordine alfabetico passando in rivista sei mille vocaboli all’incirca
+    riferibili ad ogni umano genere di cose, attribuisce a ciascuna origini ed invenzioni, con un indice in fine dei
+    vocaboli. L’opera e dedicata al Vice Re di Napoli. Dopo il frontespizio sono tre foglietti di poesie varie in lode
+    dell’autore: indi segue un indice degli autori citati in altri due foglietti e a tergo dell’ultimo si trova un avviso ai
+    lettori: comincia il testo e prosegue fino alla pagina 391. L’indice in fine dei vocaboli contiene 20 foglietti.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Teatro de gl'inventori di tutte le cose [microform] / del Vincenzo Bruno di Melfi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hc2n59</idno>
+            <idno type="cico">1605</idno>
+            <idno type="dcl">1cs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Teatro de gl'inventori di tutte le cose [microform] / del Vincenzo Bruno di Melfi ...</title>
+                  <respStmt>
+                     <persName>Bruno, Vincenzo, of Melfi</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Per Tarquinio Longo</publisher>
+                     <date>1603</date>
+                  </imprint>
+                  <extent>291, [60] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/adbbb50c-8f50-4d34-aa82-4458b314be8f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/adbbb50c-8f50-4d34-aa82-4458b314be8f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

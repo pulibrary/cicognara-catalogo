@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1448</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1448</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAERLE Van Kaspar</author>, <title>Ingresso di Maria de’ Medici in Amsterdam</title>. Tradotto dal latino in
+    lingua olandese da Gasparo Van Baerle, <pubPlace>Amsterdam</pubPlace> <date>1639</date>, in fol. fig.
+    <note>Sonovi 16 tavole in gran foglio oltre il ritratto di Maria dei Medici intagliate da buoni maestri nella maniera di
+    Hollard.</note>
+    MDCXLI
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Blyde inkomst der allerdoorluchtighste koninginne, Maria de Medicis, t'Amsterdam [microform] / vertaelt uit het Latijn des hooghgeleerden heeren Kasper van Baerle ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pf2s3x</idno>
+            <idno type="cico">1448</idno>
+            <idno type="dcl">4w0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Blyde inkomst der allerdoorluchtighste koninginne, Maria de Medicis, t'Amsterdam [microform] / vertaelt uit het Latijn des hooghgeleerden heeren Kasper van Baerle ...</title>
+                  <respStmt>
+                     <persName>Baerle, Caspar van, 1584-1648.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Dutch; Flemish</textLang>
+                  <imprint>
+                     <publisher>t'Amsterdam : By Iohan en Cornelis Blaeu</publisher>
+                     <pubPlace>Netherlands</pubPlace>
+                     <date>1639</date>
+                  </imprint>
+                  <extent>[14], 76 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fb5df122-0145-4ced-b37a-9325425b4322/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb5df122-0145-4ced-b37a-9325425b4322/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

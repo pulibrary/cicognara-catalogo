@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2025</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2025</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Effigie naturali dei maggior prencipi et più valorosi capitani di questa età con l’arme loro
+  raccolte et con diligentia poste in luce da Andrea Vaccaro</title>, <pubPlace>Roma</pubPlace> <date>1599</date>, in 4. 32 tavole.
+  <note>In questo volumetto sono riprodotti molti rami di G.B. Franco, oltre diversi che appartengono ad altri
+  intagliatori, come può vedersi non solo dallo stile, ma dalle marche. Libretto ove sta qualche singolare effigie.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Effiggie naturali dei maggior prencipi e piu valorosi capitani di questa eta [microform] ... / per Andrea Vaccaro.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vaccaro, Andrea, 1604-1670.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r80r0z</idno>
+            <idno type="cico">2025</idno>
+            <idno type="dcl">x26</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Effiggie naturali dei maggior prencipi e piu valorosi capitani di questa eta [microform] ... / per Andrea Vaccaro.</title>
+                  <respStmt>
+                     <persName>Franco, Giacomo, 1550-1620.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Andreas Vacchari [?]</publisher>
+                     <date>Anno ... 1599</date>
+                     <date>1599</date>
+                  </imprint>
+                  <extent>[33] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/19ffa750-d7ea-4ec8-bfb6-ff6ec394cc40/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/19ffa750-d7ea-4ec8-bfb6-ff6ec394cc40/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

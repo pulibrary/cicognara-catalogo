@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3155</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3155</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>WAKCHII Jo. Ernesti</author>, <title>Marmor hispaniae antiquum vexationis christianorum Neronianae insigne documentum
+illustratum, et viro celeberrimo Ant. Fr. Gorio consecratum</title>, <pubPlace>Ienae</pubPlace> <date>1750</date>, in 4, M. 59.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marmor Hispaniae antiquum vexationis Christianorum Neronianae insigne documentum .. [microform] /consecratum a Joann. Ernesto Imman. Walchio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985463043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vk3239</idno>
+            <idno type="cico">3155</idno>
+            <idno type="dcl">g5r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marmor Hispaniae antiquum vexationis Christianorum Neronianae insigne documentum .. [microform] /consecratum a Joann. Ernesto Imman. Walchio.</title>
+                  <respStmt>
+                     <persName>Walch, Johann Ernst Immanuel, 1725-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Ienae : Sumtu Christiani Henr. Cuno</publisher>
+                     <pubPlace>Spain</pubPlace>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>CII p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5f1db66b-b292-450e-8c0d-6bfcb8cc3548/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5f1db66b-b292-450e-8c0d-6bfcb8cc3548/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

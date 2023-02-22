@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1110</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1110</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RABELAIS</author>, <title>Oeuvres avec rémarques historiques et critiques de M le Duchat</title>. Nouvelle édition
+      orrnée de figures de Bernard Picard, <pubPlace>Amsterdam</pubPlace> <date>1741</date>, 3 vol., in 4.
+      <note>L’edizione è bella e arrichita delle illustrazioni e dei commenti di tutti i precedenti editori, con memorie intorno
+      alla vita dell’autore, e colla stampa delle sue lettere. Nel primo tomo è il ritratto del poeta. Nei due volumi del
+      poema sono 12 tavole tratte da luoghi del romanzo disegnate da M. da Bourg e intagliate da vari incisori, nessuna
+      da Picard, di cui sono unicamente le vignette qua e là sparse e cose di poco momento: gli esemplari in carta
+      grande hanno un gran pregio.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeuvres [microform] : avec des remarques historiques et critiques de Mr. Le Duchat.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bernard, Jean-Frédéric, 1683?-1744.</authority>
+            <authority>Le Duchat, Jacob, 1658-1735.</authority>
+            <authority>Picart, Bernard, 1673-1733.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z3402r</idno>
+            <idno type="cico">1110</idno>
+            <idno type="dcl">hrr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oeuvres [microform] : avec des remarques historiques et critiques de Mr. Le Duchat.</title>
+                  <respStmt>
+                     <persName>Rabelais, François, approximately 1490-1553?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez Jean Frederic Bernard</publisher>
+                     <date>1741</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>23 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/63ce2e8a-17e3-4c4a-be55-6cf792a79bf8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/63ce2e8a-17e3-4c4a-be55-6cf792a79bf8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

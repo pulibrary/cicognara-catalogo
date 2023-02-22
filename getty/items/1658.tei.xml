@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1658</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1658</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GESSARI Benedetto</author>, <title>Costumi e riti degli antichi Romani esposti per note alle vite di 100
+    uomini illustri da Remolo sino a Carlo VI d’Austria</title>, <pubPlace>Napoli</pubPlace> <date>1760</date>, in 8.
+    <note>Opera ove è qualche nozione, ma scritta indegnamente e senza critici.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opera de' costumi e riti degli antichi romani [microform] : eposti per note alle vite succinte ed azioni piu segnalate di cento uomini illustri comiciando da Romolo sino a Carlo VI. d'Austria : con sei Trattati ed altri cataloghi di erudizione spettanti al maggior lume e notizia della stovia Romana ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gessari, Benedetto.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dx0329</idno>
+            <idno type="cico">1658</idno>
+            <idno type="dcl">7w0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opera de' costumi e riti degli antichi romani [microform] : eposti per note alle vite succinte ed azioni piu segnalate di cento uomini illustri comiciando da Romolo sino a Carlo VI. d'Austria : con sei Trattati ed altri cataloghi di erudizione spettanti al maggior lume e notizia della stovia Romana ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Presso Benedetto Gessari</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>18 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2490939f-f2ed-4f35-9ab5-406756924c1b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2490939f-f2ed-4f35-9ab5-406756924c1b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

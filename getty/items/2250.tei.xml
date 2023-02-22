@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2250</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2250</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CRESPI canonico Luigi</author>, <title>Dissertazione Anti-Critica contro le lezioni del Manni intorno alla
+    credenza che S. Luca Evangelista fosse Pittore</title>, <pubPlace>Faenza</pubPlace> <date>1776</date>, in 4.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione anti-critica [microform] : nella quale si esaminano alcuni argomenti prodotti in due lezioni contro il sentimento di che crede che S. Luca Evangelista fosse pittore ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n16d5s</idno>
+            <idno type="cico">2250</idno>
+            <idno type="dcl">g5p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione anti-critica [microform] : nella quale si esaminano alcuni argomenti prodotti in due lezioni contro il sentimento di che crede che S. Luca Evangelista fosse pittore ...</title>
+                  <respStmt>
+                     <persName>Crespi, Luigi, 1709-1779.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Faenza : Nella stamperia Benedetti</publisher>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>78 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f2058cc8-72fb-4b09-92ff-a741da0c5351/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f2058cc8-72fb-4b09-92ff-a741da0c5351/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

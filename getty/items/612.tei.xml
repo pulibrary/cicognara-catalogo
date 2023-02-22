@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 612</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">612</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>POLENI Joannis</author>, 
+                     <title>Exercitationes vitruvianae primus commentarius criticus de Vitruvii decem
+	librorum editionibus,</title> 
+                     <pubPlace>Patavii</pubPlace> 
+                     <date>1739</date> e <date>1741</date>, <extent>in 4, mag.</extent> Vedi anche: <title>Sexti Julii Frontini
+	commentarmi:</title> 
+                     <pubPlace>Patavii</pubPlace> 
+                     <date>1712,</date> 
+                     <extent>in 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exercitationes Vitrvvianae primae [-tertiae] ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baldi, Bernardino, 1553-1617</authority>
+            <authority>Morgagni, Giambattista, 1682-1771</authority>
+            <authority>Poleni, Giovanni, 1683-1761</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923837440001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sf736h</idno>
+            <idno>(OCoLC)15387852</idno>
+            <idno type="cico">612</idno>
+            <idno type="dcl">jjv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Exercitationes Vitrvvianae primae [-tertiae] ...</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Typis Seminarii, apud Ioannen Manfrè ;</publisher>
+                     <date>1739-1741</date>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>3 volumes in 1 ([4], 360 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/bff14eb2-1929-4b91-b5c5-fe9264917030"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bff14eb2-1929-4b91-b5c5-fe9264917030">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exercitationes Vitrvvianae primae [-tertiae] [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baldi, Bernardino, 1553-1617.</authority>
+            <authority>Morgagni, Giambattista, 1682-1771.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c7z3z</idno>
+            <idno type="cico">612</idno>
+            <idno type="dcl">jjv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Exercitationes Vitrvvianae primae [-tertiae] [microform]</title>
+                  <respStmt>
+                     <persName>Poleni, Giovanni, 1683-1761.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Typis Seminarii, apud Ioannen Manfrè :</publisher>
+                     <date>1739-41</date>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>3 v. (iv, 360 p.)</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bd2ddf3d-bcc0-4046-895d-85661bd11e3c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bd2ddf3d-bcc0-4046-895d-85661bd11e3c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

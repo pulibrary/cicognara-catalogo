@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3983</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3983</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De CAUS Salamone</author>, <title>Hortus
+		    Palatinus a Friderico Rege Boemiae Electore
+		    Palatino Heidelbergae extractus</title>, <pubPlace>Francofurti</pubPlace>, apud
+		    <publisher>Theod. de Brie</publisher>, <date>1620</date>, in fol.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hortus Palatinus a Friderico, rege Boemiae, electore Palatino Heidelbergae exstructus .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gz1t32</idno>
+            <idno type="cico">3983</idno>
+            <idno type="dcl">8wc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Hortus Palatinus a Friderico, rege Boemiae, electore Palatino Heidelbergae exstructus .. [microform].</title>
+                  <respStmt>
+                     <persName>Caus, Salomon de, -1626.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Francofurti : Apud Ioh. Theod. de Bry</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Hortus Palatinus (Heidelberg, Germany)</pubPlace>
+                     <date>1620</date>
+                  </imprint>
+                  <extent>[8] p., 30 leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/55192cc2-8999-4b19-8bf2-90c62fa62a45/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/55192cc2-8999-4b19-8bf2-90c62fa62a45/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hortvs Palatinvs: A Friderico Rege Boemiae Electore Palatino Heidelbergae Exstructus</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Caus, Salomon de, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-15781</idno>
+            <idno type="URI">http://portal.getty.edu/api/p50f2n</idno>
+            <idno type="cico">3983</idno>
+            <idno type="dcl">8wc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Hortvs Palatinvs: A Friderico Rege Boemiae Electore Palatino Heidelbergae Exstructus</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <pubPlace>Heidelberg</pubPlace>
+                     <pubPlace>Hortus PalatinusHeidelberg</pubPlace>
+                     <date>1620</date>
+                     <date>1620</date>
+                  </imprint>
+                  <extent>[4] Bl., 30 Taf.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/caus1620/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/caus1620/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

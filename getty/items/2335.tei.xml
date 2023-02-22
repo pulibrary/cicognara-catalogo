@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2335</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2335</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NICCOLINI Giovan Battista</author>, <title>Elogio di Leon Battista Alberti</title>, <pubPlace>Firenze</pubPlace> <date>1819</date>, in 8, M. 103.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio di Leon Batista Alberti [microform] / composta da Gio. Batista Niccolini ... e letto da esso nel giorno della solenne distribuzione dei premi maggiori, l'anno 1819.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985462533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w75c3m</idno>
+            <idno type="cico">2335</idno>
+            <idno type="dcl">d8g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio di Leon Batista Alberti [microform] / composta da Gio. Batista Niccolini ... e letto da esso nel giorno della solenne distribuzione dei premi maggiori, l'anno 1819.</title>
+                  <respStmt>
+                     <persName>Niccolini, G. B. (Giovanni Battista), 1782-1861.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Presso Niccolò Carli</publisher>
+                     <date>[1819]</date>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>lxxviii p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ff3ba991-7d7d-4262-aebf-1ac23ab5034e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff3ba991-7d7d-4262-aebf-1ac23ab5034e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

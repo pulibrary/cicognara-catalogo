@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3842</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3842</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>POLENI Giovanni</author>, <title>Memorie storiche della gran cupola del tempio Vaticano, e de’ danni, e ristoramenti di essa</title>, libri
+cinque, <pubPlace>Padova</pubPlace>, nella <publisher>stamperia del seminario</publisher>, <date>1748</date>, in fol., fig.
+<note>Quest’opera fu nobilmente stampata ed ornata di 27 figure dimostrative. La dottrina dell’autore in queste materie
+ci risparmia dal far cenno sulla preziosità del lavoro.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie istoriche della gran cupola del tempio vaticano e de' danni de essa, e de' ristoramenti loro [microform] : divise in libri cinque ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tt2t2x</idno>
+            <idno type="cico">3842</idno>
+            <idno type="dcl">zvd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie istoriche della gran cupola del tempio vaticano e de' danni de essa, e de' ristoramenti loro [microform] : divise in libri cinque ...</title>
+                  <respStmt>
+                     <persName>Poleni, Giovanni, 1683-1761.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Nella Stamperia del seminario</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <date>1748</date>
+                  </imprint>
+                  <extent>470 columns</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0b2ec178-347b-490b-8018-5ed9192db5c5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0b2ec178-347b-490b-8018-5ed9192db5c5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

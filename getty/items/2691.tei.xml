@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2691</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2691</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PACIAUDI</author>, <title>Monumenta peloponnesia commentariis explicata</title>, <pubPlace>Romae</pubPlace> <date>1761</date>, 2 vol., in 4, fig., legati in un sol
+volume in carta grande.
+<note>Le numerose tavole di quest’opera eruditissima sono sparse fra il testo ai luoghi in esso voluti.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenta peloponnesia : commentariis explicata / a Paullo M. Paciaudio ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929369150001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rg828x</idno>
+            <idno type="URI">http://portal.getty.edu/api/587g17</idno>
+            <idno>(OCoLC)28265228</idno>
+            <idno type="cico">2691</idno>
+            <idno type="dcl">jrz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenta peloponnesia : commentariis explicata / a Paullo M. Paciaudio ...</title>
+                  <respStmt>
+                     <persName>Paciaudi, Paolo, 1710-1785.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex Typographia Palladis, sumptibus Nicolai et Marci Palearini</publisher>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Peloponnesus (Greece : Peninsula)</pubPlace>
+                     <pubPlace>Greece</pubPlace>
+                     <date>1761</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f6bf99a1-7529-46fb-a83c-9373904aa23ehttps://media.getty.edu/iiif/manifest/a121c67d-25c7-4ae1-a55d-a7ec227b2d1f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f6bf99a1-7529-46fb-a83c-9373904aa23e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a121c67d-25c7-4ae1-a55d-a7ec227b2d1f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

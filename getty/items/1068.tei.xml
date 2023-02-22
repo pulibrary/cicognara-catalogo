@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1068</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1068</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>SAGGIO sopra la Bellezza</title>, <pubPlace>Roma</pubPlace> <date>1763</date>, in 8.
+      <note>Questo saggio fu dedicato al pittore Rafaello Mengs e scritto per di lui eccitamento; è però intitolato con un
+      endecasillabo latino al Cav. Piccolomini.</note>
+      <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+      
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio sopra la bellezza.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bianconi, Giovanni Lodovico, Graf, 1717-1781.</authority>
+            <authority>Bizzarrini Komarek, Francesco.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929663450001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ws8x4w</idno>
+            <idno>(OCoLC)84552988</idno>
+            <idno type="cico">1068</idno>
+            <idno type="dcl">h2k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio sopra la bellezza.</title>
+                  <respStmt>
+                     <persName>Spalletti, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : [F. Bizzarrini Komareck]</publisher>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCLXV [1765]</date>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>93, [3] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/51578502-a22e-4ad3-8711-c2ee0eb40328"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/51578502-a22e-4ad3-8711-c2ee0eb40328">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio sopra la bellezza [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bianconi, Giovanni Lodovico, Graf, 1717-1781.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r78c22</idno>
+            <idno type="cico">1068</idno>
+            <idno type="dcl">h2k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio sopra la bellezza [microform].</title>
+                  <respStmt>
+                     <persName>Spalletti, Giuseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : [s.n.]</publisher>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e882cf95-ab71-4af2-aabe-f376334031e7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e882cf95-ab71-4af2-aabe-f376334031e7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

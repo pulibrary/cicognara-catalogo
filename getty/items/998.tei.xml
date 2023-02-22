@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 998</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">998</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROSINI Giovanni</author>, <title>Le scienze e le arti, Poemetto in ottava rima</title>, <pubPlace>Pisa</pubPlace> <date>1801</date>, in 8, M. 54.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le scienze e le arti [microform] : poemetto.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s36f8w</idno>
+            <idno type="URI">http://portal.getty.edu/api/z43f3m</idno>
+            <idno type="URI">http://portal.getty.edu/api/x91p36</idno>
+            <idno type="cico">998</idno>
+            <idno type="dcl">p8g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le scienze e le arti [microform] : poemetto.</title>
+                  <respStmt>
+                     <persName>Rosini, Giovanni, 1776-1855.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Dalla Tipografia della Società letteraria</publisher>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>18, [2] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e8411d84-057a-4833-a61e-4513c13e7e2d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e8411d84-057a-4833-a61e-4513c13e7e2d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4652</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4652</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FOLLINI Vincenzo</author>, <title>Osservazioni sull’opera intitolata della Costruzione, e del regolamento d’una pubblica e
+universale biblioteca, con la pianta dimostrativa, trattato di Leopoldo della Santa</title>, <pubPlace>Firenze</pubPlace> <date>1817</date>, in 8, M. 96.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni [microform] / di Vincenzio Follini . . . sopra l'opera intitolata Della costruzione e del regolamento di una pubblica universale biblioteca, con la pianta dimostrativa, trattato di Leopoldo Della Santa . . . e sull'articolo riguardante la medesima, inserito nel Giornale di Milano, intitolato Biblioteca italiana n. XX. agosto 1817.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f21x4s</idno>
+            <idno type="cico">4652</idno>
+            <idno type="dcl">333</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni [microform] / di Vincenzio Follini . . . sopra l'opera intitolata Della costruzione e del regolamento di una pubblica universale biblioteca, con la pianta dimostrativa, trattato di Leopoldo Della Santa . . . e sull'articolo riguardante la medesima, inserito nel Giornale di Milano, intitolato Biblioteca italiana n. XX. agosto 1817.</title>
+                  <respStmt>
+                     <persName>Follini, Vincenzio, 1759-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Presso Gaspero Ricci</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>60 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d8bb2266-6c55-466e-8875-456d3ec5b278/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d8bb2266-6c55-466e-8875-456d3ec5b278/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

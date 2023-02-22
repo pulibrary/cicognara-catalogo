@@ -1,0 +1,67 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 361</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">361</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>TORTEBAT</author>,
+                     <title> Abregé d’Anatomie.</title> Vedi de Piles.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studj di pittura gia dissegnati da Giambatista Piazzetta ed ora con l'intaglio di Marco Pitteri [microform] / cpubblicati a spese di Giambattista Albrizzi...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartolozzi, Francesco, 1727-1815.</authority>
+            <authority>Pitteri, Giovanni Marco, 1702-1786.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/td6784</idno>
+            <idno type="cico">345</idno>
+            <idno type="dcl">sg7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Studj di pittura gia dissegnati da Giambatista Piazzetta ed ora con l'intaglio di Marco Pitteri [microform] / cpubblicati a spese di Giambattista Albrizzi...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : [Appresso Teodoro Viero]</publisher>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>[35] leaves, [48] leaves plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f2b578ae-8583-4873-80d4-585ad41e6b20/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f2b578ae-8583-4873-80d4-585ad41e6b20/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

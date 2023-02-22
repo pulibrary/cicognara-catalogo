@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3505</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3505</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FABBRONI Angelo</author>,<title> Dissertazione sulle statue appartenenti alla favola di Niobe</title>, 
+                        <pubPlace>Firenze</pubPlace> <date>1779</date>, in fol. m., fig.
+<note>Con 19 tavole intagliate in rame, non con tanta accuratezza e buon gusto come le incise dal Piroli. Vedi <ref>Piroli</ref>.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione sulle statue appartenenti alla favola di Niobe .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6h0044</idno>
+            <idno type="cico">3505</idno>
+            <idno type="dcl">hsb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione sulle statue appartenenti alla favola di Niobe .. [microform].</title>
+                  <respStmt>
+                     <persName>Fabroni, A. (Angelo), 1732-1803.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di Francesco Moücke</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1779</date>
+                  </imprint>
+                  <extent>IV, [5]-24 p., XVIII leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c1c3a325-4bb8-421b-8cfc-9a61ccdf61a6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c1c3a325-4bb8-421b-8cfc-9a61ccdf61a6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

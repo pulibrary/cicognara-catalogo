@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1056</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1056</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FRANCO Niccolò</author>, <title>Dialogo, dove si ragiona delle bellezze all’Eccell</title>. Marchesana del Vasto
+      con varie lettere al fine del volume, in <pubPlace>Casale di Monferrato</pubPlace>, per <publisher>Giovanni Guidone</publisher>, <date>1542</date>, in 4.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo di M. Nicolo Franco, doue si ragiona delle bellezze. Alla eccellentissima Marchesana del Vasto.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927490470001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zs7p25</idno>
+            <idno>(OCoLC)32000823</idno>
+            <idno type="cico">1056</idno>
+            <idno type="dcl">vjj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo di M. Nicolo Franco, doue si ragiona delle bellezze. Alla eccellentissima Marchesana del Vasto.</title>
+                  <respStmt>
+                     <persName>Franco, Niccoloò, 1515-1570.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Casale di Monferrato : Nele stampe di Gioanantonio Gvidone</publisher>
+                     <date>Del mese d'Aprile. Del. M. DXLII [April, 1542]</date>
+                     <date>1542</date>
+                  </imprint>
+                  <extent>156 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/030acc8c-5c1b-4784-b4e1-37a517371c84"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/030acc8c-5c1b-4784-b4e1-37a517371c84">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo [microform] / di Nicolo Franco ; doue si ragiona dell bellezze ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985299253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/750d7x</idno>
+            <idno type="cico">1056</idno>
+            <idno type="dcl">vjj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo [microform] / di Nicolo Franco ; doue si ragiona dell bellezze ...</title>
+                  <respStmt>
+                     <persName>Franco, Niccolò, 1515-1570.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[In Casale di Monferrato : Nele stampe di Gioanantonio Guidone]</publisher>
+                     <date>[Del mese d'aprile, del 1542]</date>
+                     <date>1542</date>
+                  </imprint>
+                  <extent>[156] p.</extent>
+                  <extent>3 mcrofiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/35596650-544d-41ab-b06b-330803b7b549/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/35596650-544d-41ab-b06b-330803b7b549/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

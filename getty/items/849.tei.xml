@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 849</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">849</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>NICERON Jean François</author>, <title>La perspective curieuse <pb type="cico" n="157"/> ou magie artificielle des effets
+	mérveilleux de l’optique etc.</title>, <pubPlace>Paris</pubPlace> <date>1638</date>, in fol. fig. <note>Con 74 figure rappresentate in rame in ai
+	tavole e un frontespizio figurato.</note>
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La perspective curieuse, ou, Magie artificielle des effets merueilleux [microform]: de l'optique ..., la catoptrique ..., la dioptrique ... / par ... Jean François Nicéron ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985243863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r99n91</idno>
+            <idno type="URI">http://portal.getty.edu/api/dm7s6j</idno>
+            <idno type="URI">http://portal.getty.edu/api/np0b11</idno>
+            <idno type="cico">849</idno>
+            <idno type="dcl">vzj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La perspective curieuse, ou, Magie artificielle des effets merueilleux [microform]: de l'optique ..., la catoptrique ..., la dioptrique ... / par ... Jean François Nicéron ...</title>
+                  <respStmt>
+                     <persName>Nicéron, Jean François, 1613-1646.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre Billaine</publisher>
+                     <date>1638</date>
+                  </imprint>
+                  <extent>[22], 120, [2] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/91a22d2d-024c-4a4f-9c6a-ff47dc86dc77/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/91a22d2d-024c-4a4f-9c6a-ff47dc86dc77/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

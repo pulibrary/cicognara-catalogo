@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2748</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2748</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAFFELLO Jo. Cristophori</author>, <title>Expositio aurei numismatis Heracliani ex musaeo Clementis XI</title>, <pubPlace>Romae</pubPlace> <date>1702</date>, in 8.
+<note>Esemplare in carta grande.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Expositio aurei numismatis Heracliani [microform] : ex Museo Sanctiss. Domini Nostri Clementis XI. Pont. Max. / Abb. Jo. Christophoro Battello, authore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985407033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5x973z</idno>
+            <idno type="cico">2748</idno>
+            <idno type="dcl">f5r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Expositio aurei numismatis Heracliani [microform] : ex Museo Sanctiss. Domini Nostri Clementis XI. Pont. Max. / Abb. Jo. Christophoro Battello, authore.</title>
+                  <respStmt>
+                     <persName>Battelli, Giovanni Cristoforo, 1658-1725.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis, &amp; fusoria, Cajetani Zenobii apud Magnam Curiam Innocentianam</publisher>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>78 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/094587f3-f1df-435e-ba8a-a755b62dd345/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/094587f3-f1df-435e-ba8a-a755b62dd345/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

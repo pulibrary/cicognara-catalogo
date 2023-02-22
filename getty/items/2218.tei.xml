@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2218</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2218</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BORGHINI Rafaello</author>, <title>Il Riposo, seconda edizione</title>, <pubPlace>Firenze</pubPlace> <date>1730</date>, in 4.
+    <note>Edizione riprodotta per cura di Anton M. Biscioni, con note ampliata ec.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il riposo, di Raffaello Borghini [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343653506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/512b7h</idno>
+            <idno type="cico">2218</idno>
+            <idno type="dcl">pzf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il riposo, di Raffaello Borghini [microform].</title>
+                  <respStmt>
+                     <persName>Borghini, Raffaello, active 16th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Per Michele Nestenus e Francesco Moücke</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1730</date>
+                  </imprint>
+                  <extent>xxiv, 558 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6dc3c7a5-fb39-4c13-ab75-9a0d080500af/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6dc3c7a5-fb39-4c13-ab75-9a0d080500af/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

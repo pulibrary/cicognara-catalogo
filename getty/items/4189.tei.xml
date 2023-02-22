@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4189</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4189</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZUCCHINI Andrea</author>, <title>Alcune notizie odeporiche sulla città di Cortona</title>, <pubPlace>Firenze</pubPlace>
+                    <date> 1803</date>, in 8, fig., M. 54.
+                           <note>Con una gran carta topografica</note>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alcune notizie odeporiche sulla città di Cortona, e sue campagne [microform] / di monsig. Andrea Zucchini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/475q2q</idno>
+            <idno type="cico">4189</idno>
+            <idno type="dcl">9ch</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alcune notizie odeporiche sulla città di Cortona, e sue campagne [microform] / di monsig. Andrea Zucchini.</title>
+                  <respStmt>
+                     <persName>Zucchini, Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Presso Guglielmo Piatti</publisher>
+                     <pubPlace>Cortona (Italy)</pubPlace>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>26 p., [1] folded leaf of plates</extent>
+                  <extent>1 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e4b841bb-e518-45a4-8a52-f94c413b7557/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e4b841bb-e518-45a4-8a52-f94c413b7557/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3375</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3375</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CARACCI Annibale</author>, <title>Galleria nel Palazzo Farnese <pb type="cico" n="133"/> in Roma, dipinta da Annibale Caracci, intagliata da
+Carlo Cesio</title>, <pubPlace>Romae</pubPlace>, Francisci Colignon formis, fol., obl. in tav. 30; non compreso il frontespizio e la dedica al
+cardinale Ottoboni. Antiche impressioni senz’anno.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Galeria nel Palazzo Farnese in Roma del sereniss. duca di Parma, etc [microform] : dipinta da Annibale Caracci / intagliata da Carlo Cesio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985417903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h2839n</idno>
+            <idno type="cico">3375</idno>
+            <idno type="dcl">n5d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Galeria nel Palazzo Farnese in Roma del sereniss. duca di Parma, etc [microform] : dipinta da Annibale Caracci / intagliata da Carlo Cesio.</title>
+                  <respStmt>
+                     <persName>Cesi, Carlo, 1626-1686.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome? : s.n]</publisher>
+                     <date>[After 1640]</date>
+                     <date>1640</date>
+                  </imprint>
+                  <extent>[2] p., 30 leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/11683412-2c88-4c92-b90c-f9167534a803/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/11683412-2c88-4c92-b90c-f9167534a803/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

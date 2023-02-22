@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 50</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">50</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>REFLEXIONS d’un patriote sur l’Opera françois et sur l’Opera italien, qui presente le parallele du
+	    goût de deux nations dans les beaux arts,</title>
+                     <pubPlace> à Lausanne</pubPlace> 
+                     <date>1754,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+                <bibl>Aggiuntovi:<title> Essai sur la peinture, la sculpture et l’architecture,</title>
+                     <date> 1751.</date>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essai sur la peinture, la sculpture, l'architecture [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3s9q1q</idno>
+            <idno type="cico">2663</idno>
+            <idno type="cico">50</idno>
+            <idno type="dcl">ck1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essai sur la peinture, la sculpture, l'architecture [microform].</title>
+                  <respStmt>
+                     <persName>Bachaumont, Louis Petit de, 1690-1771.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris : s.n.]</publisher>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>93 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d3aaf026-bd19-439d-ad88-be169ba44147/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d3aaf026-bd19-439d-ad88-be169ba44147/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essai sur la peinture, la sculpture, et l'architecture ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pasquier, Jean Jacques, 1718-1785</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925573580001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1b0p83</idno>
+            <idno>(OCoLC)5236287</idno>
+            <idno type="cico">50</idno>
+            <idno type="cico">2663</idno>
+            <idno type="dcl">8gs</idno>
+            <idno type="dcl">ck1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essai sur la peinture, la sculpture, et l'architecture ...</title>
+                  <respStmt>
+                     <persName>Bachaumont, Louis Petit de, 1690-1771.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris], [publisher not identified]</publisher>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>1 preliminary leaf, 93 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8da32047-c9fb-422c-8db3-f28a04cd913e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8da32047-c9fb-422c-8db3-f28a04cd913e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

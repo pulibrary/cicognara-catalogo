@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 461</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">461</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>CAPRA Alessandro</author> architetto e cittadino cremonese, <title>La nuova architettura famigliare,</title> 
+                     <pubPlace>Bologna</pubPlace>
+	                    <date>1678,</date>
+                     <extent> in 4, fig.</extent>
+	                    <note> Prima edizione con molte tavole intagliate in legno fra il testo.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La nuova architettura famigliare [microform] / di Alessandro Capra ... diuisa in cinque libri correspondenti a' cinque ordini, cioè Toscano, Dorico, Ionico, Corintio, Composito ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bs807p</idno>
+            <idno type="cico">461</idno>
+            <idno type="dcl">4gb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La nuova architettura famigliare [microform] / di Alessandro Capra ... diuisa in cinque libri correspondenti a' cinque ordini, cioè Toscano, Dorico, Ionico, Corintio, Composito ...</title>
+                  <respStmt>
+                     <persName>Capra, Alessandro, active 17th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Giacomo Monti</publisher>
+                     <date>1678</date>
+                  </imprint>
+                  <extent>[8], 366 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/238a0e8c-14b6-44d4-8ede-100e4f95fd82/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/238a0e8c-14b6-44d4-8ede-100e4f95fd82/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 844</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">844</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LESPINASSE</author>, <title>Traité de perspective linéaire à l’usage des artistes</title>, <pubPlace>Paris</pubPlace> <date>1801</date>, in 8, fig.
+	<note>In questo trattato viene scelto e adottato il meglio degli autori che lo hanno preceduto. In 26 tavole è pulitamente
+	intagliata in rame la dimostrazione dei problemi consistenti in 51 figure.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de perspective linéaire, a l'usage des artistes .. [microform] / par L.-N. Lespinasse ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/226p3c</idno>
+            <idno type="cico">844</idno>
+            <idno type="dcl">8gn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de perspective linéaire, a l'usage des artistes .. [microform] / par L.-N. Lespinasse ...</title>
+                  <respStmt>
+                     <persName>Lespinasse, Louis Nicolas de, 1734-1808.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Magimel</publisher>
+                     <date>An IX, 1801</date>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>xiv, [1], 16-230, [1] p., 26 folded leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bdbab52d-9965-4df0-afdb-d5bb70ef083e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bdbab52d-9965-4df0-afdb-d5bb70ef083e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

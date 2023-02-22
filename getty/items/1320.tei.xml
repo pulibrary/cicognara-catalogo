@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1320</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1320</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIORDANI Pietro</author>, <title>Discorso sopra un quadro del Cav. Landi ed uno del Cav. Camuccini</title>, letto
+    in <pubPlace>Bologna</pubPlace> nell’Accademia di Belle Arti l’anno <date>1811</date>, in 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorsi detti nella Reale accademia di belle arti in Bologna [microform] : li XXIV. luglio MDCCCXI per la solenne distribuzione de' premj curlandesi e de' preml delle scuole.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Giordani, Pietro, 1774-1848.</authority>
+            <authority>Prandi, Girolamo, 1750-1831.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>R. Accademia di belle arti di Bologna.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xc1h7r</idno>
+            <idno type="cico">1320</idno>
+            <idno type="dcl">0gm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorsi detti nella Reale accademia di belle arti in Bologna [microform] : li XXIV. luglio MDCCCXI per la solenne distribuzione de' premj curlandesi e de' preml delle scuole.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Tipografia Lucchesini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1811]</date>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>xl, 57 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0bed75f7-704e-4f77-8e50-237353b32a5d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0bed75f7-704e-4f77-8e50-237353b32a5d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

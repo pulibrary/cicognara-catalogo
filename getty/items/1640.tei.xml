@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1640</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1640</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DUTENS Lodovico</author>, <title>Origine des decouvertes attribuées aux modernes</title>, <pubPlace>Paris</pubPlace> <date>1786</date>, vol. 2, in 8.
+    <note>Edizione seconda aumentata considerabilmente. In quest’opera è un’estesa copia di dottrine.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Origine des découvertes attribuées aux modernes [microform] : où l'on démontre que nos plus célebres philosophes ont puisé la plupart de leurs connoissances dans les ouvrages des anciens : &amp; que plusieurs vérités importantes sur la religion ont été connues des sages du paganisme / par M. Dutens ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334093506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dn674q</idno>
+            <idno type="cico">1640</idno>
+            <idno type="dcl">kg1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Origine des découvertes attribuées aux modernes [microform] : où l'on démontre que nos plus célebres philosophes ont puisé la plupart de leurs connoissances dans les ouvrages des anciens : &amp; que plusieurs vérités importantes sur la religion ont été connues des sages du paganisme / par M. Dutens ...</title>
+                  <respStmt>
+                     <persName>Dutens, L. (Louis), 1730-1812.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez la Veuve Duchesne</publisher>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7c6facbc-2595-4671-84ef-d9b9f547da13/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7c6facbc-2595-4671-84ef-d9b9f547da13/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

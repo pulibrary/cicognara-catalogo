@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1806</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1806</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TEMPEST</author>
+                    <title> the Cryel of London, 1711 in fol. p. ossia le arti communi che vanno per Londra,
+  fatte dal naturale, disegnate da Mauron, incise da P. Tempesta, tavole 73: in fine sono
+  aggiunte tre tavole di maschere veneziane intagliate da Callot.</title>
+                     <note>Libro molto raro.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cryes of the city of London [microform] : drawne after the life... = Les cris de la ville di Londres : designez apres la nature = L'arti com[m]uni che uanno [di?] Londra : fatte dal naturale / P. Tempest excudit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/v4189r</idno>
+            <idno type="cico">1806</idno>
+            <idno type="dcl">tfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The cryes of the city of London [microform] : drawne after the life... = Les cris de la ville di Londres : designez apres la nature = L'arti com[m]uni che uanno [di?] Londra : fatte dal naturale / P. Tempest excudit.</title>
+                  <respStmt>
+                     <persName>Tempest, Pierce, 1653-1717.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>London : Printed and sold by Henry Overton</publisher>
+                     <pubPlace>England</pubPlace>
+                     <date>1711</date>
+                  </imprint>
+                  <extent>73, [3] leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/15acd3d5-25f1-4846-a785-1a93db4a0d79/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/15acd3d5-25f1-4846-a785-1a93db4a0d79/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

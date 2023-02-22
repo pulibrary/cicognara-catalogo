@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3030</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3030</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VAILLANT Joannis Foj</author>, <title>La stessa.</title> Editio tertia emendatior et plurimis rarissimis nummis auctior, <pubPlace>Amster.</pubPlace> <date>1696</date>,
+in 4, vol. 2.
+<note>Il frontespizio figurato è di Adriano Schoonebeek e le medaglie fra il testo dell’opera sembrano essere quelle che
+servirono alla precedente edizione. Amendue queste edizioni furono oscurate dagli accrescimenti con cui venne
+pubblicata la prima edizione di Roma.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Numismata imperatorum Romanorum praestantiora a Julio Caesare ad tyrannos usque. Tomus secundus, De aureis et argenteis / per Joannem Vaillant bellovacum, Doct. Med. &amp; Seren. Ducis Cenomanensium Antiquarium.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Schoonebeek, Adriaan, 1657 or 1658-1705 engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990054838920203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/nz532j</idno>
+            <idno>(OCoLC)80826767</idno>
+            <idno type="cico">3030</idno>
+            <idno type="dcl">ckv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Numismata imperatorum Romanorum praestantiora a Julio Caesare ad tyrannos usque. Tomus secundus, De aureis et argenteis / per Joannem Vaillant bellovacum, Doct. Med. &amp; Seren. Ducis Cenomanensium Antiquarium.</title>
+                  <respStmt>
+                     <persName>Foy-Vaillant, Jean, 1632-1706, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodmai : Apud Georgium Gallet</publisher>
+                     <date>M.DC.XCVI [1696]</date>
+                     <date>1696</date>
+                  </imprint>
+                  <extent>6 unnumbered pages, 397 pages, 41 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482168424"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482168424">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

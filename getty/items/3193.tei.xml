@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3193</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3193</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CASSEL Johann Philipp</author>, <title>Observatio philologica inquirens Atlas Mons unde Dyris dictus?</title>, <pubPlace>Magdeburgi</pubPlace> <date>1743</date>, in 4,
+M. 41.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Obersvatio philologica inquirens atlas mons unde dyris dictus? [microform] : solenni orationi valedictoriae, maecenatibus, patronis, et fautoribus, rite ad eam audiendam, invitatis d. Aprilis hora il pomerid habendae / praemiss a Joh. Phil. Cassel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jw8d9x</idno>
+            <idno type="cico">3193</idno>
+            <idno type="dcl">r5j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Obersvatio philologica inquirens atlas mons unde dyris dictus? [microform] : solenni orationi valedictoriae, maecenatibus, patronis, et fautoribus, rite ad eam audiendam, invitatis d. Aprilis hora il pomerid habendae / praemiss a Joh. Phil. Cassel ...</title>
+                  <respStmt>
+                     <persName>Cassel, Johann Philipp, 1707-1783.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Madgeburgi : Litteris Johan Christ. Siegeler</publisher>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5ebd1a4e-c135-4b53-8844-6a64fc82ce2b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5ebd1a4e-c135-4b53-8844-6a64fc82ce2b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2727</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2727</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AGOSTINI</author>, <title>Dialoghi sopra le medaglie, iscrizioni ed altre antichità, tradotti da Ottaviano Sada</title>, <pubPlace>Roma</pubPlace> <date>1698</date>, in fol.,
+fig.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialoghi di D. Antonio Agostini ... sopra le medaglie, iscrizioni e altre antichita [microform] / tradotti da lingua spagnuola in italiana da Dionigi Ottaviano Sada ; e dal medesimo accresciuti con diuerse annotazioni istoriche e nuouamente illustrati con i disegni di molte medaglie.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sada, Dionigi Ottaviano.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tg567c</idno>
+            <idno type="cico">2727</idno>
+            <idno type="dcl">grx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialoghi di D. Antonio Agostini ... sopra le medaglie, iscrizioni e altre antichita [microform] / tradotti da lingua spagnuola in italiana da Dionigi Ottaviano Sada ; e dal medesimo accresciuti con diuerse annotazioni istoriche e nuouamente illustrati con i disegni di molte medaglie.</title>
+                  <respStmt>
+                     <persName>Agustín, Antonio, 1517-1586.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Michel Angelo è Pier Vincenzo Rossi</publisher>
+                     <date>1698</date>
+                  </imprint>
+                  <extent>[20], 318 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f2637e7e-1206-4b66-8669-ac58c3d0de24/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f2637e7e-1206-4b66-8669-ac58c3d0de24/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

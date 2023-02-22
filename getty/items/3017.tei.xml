@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3017</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3017</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>STOSCH Philippe (Bar de)</author>, <title>Lettera sopra una medaglia nuovamente scoperta di Carino imperatore e Magna Urbica
+Augusta sua consorte</title>, <pubPlace>Firenze</pubPlace> <date>1755</date>, in 4, fig., M. 13.
+<note>Le due medaglie sono egregiamente intagliate nel frontespizio.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera sopra una medaglia nuovamente scoperta di carino imperatore e magnia urbica Augusta sua consorte [microform] / scritta dal barone Filippo de Stosch ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985299693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fj7j55</idno>
+            <idno type="cico">1210</idno>
+            <idno type="cico">3017</idno>
+            <idno type="dcl">nvm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera sopra una medaglia nuovamente scoperta di carino imperatore e magnia urbica Augusta sua consorte [microform] / scritta dal barone Filippo de Stosch ...</title>
+                  <respStmt>
+                     <persName>Stosch, Philipp, baron von, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di Gio: Paolo Giovannelli stampatore della Società Colombaria</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>VIII p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/646af5df-2481-4ee7-87d3-cd2263e37434/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/646af5df-2481-4ee7-87d3-cd2263e37434/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

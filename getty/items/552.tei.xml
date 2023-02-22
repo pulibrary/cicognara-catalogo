@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 552</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">552</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>MARCHETTI Giovanni</author>, 
+                     <title>Trattato del compasso di proporzione,</title> 
+                     <pubPlace>Milano</pubPlace> 
+                     <date>1759,</date> ad istruzione del
+	    Collegio de’ nobili di Milano, <extent> in 8. fig. con una gran tavola in fine.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato del compasso di proporzione [microform] / composto da Giovanni Marchelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/926665</idno>
+            <idno type="cico">552</idno>
+            <idno type="dcl">fc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato del compasso di proporzione [microform] / composto da Giovanni Marchelli ...</title>
+                  <respStmt>
+                     <persName>Marchelli, Giovanni, 1713-1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Per Giuseppe Galleazzi</publisher>
+                     <date>1759</date>
+                  </imprint>
+                  <extent>XXII, 352, [16] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/082dad57-a6eb-46cd-bb71-41ec02cfc979/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/082dad57-a6eb-46cd-bb71-41ec02cfc979/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

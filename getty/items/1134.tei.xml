@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1134</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1134</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BELGRADI (Jacobi)</author>, <title>Ad virum eruditiss. Scipionem Maphejum epistolae IV de rebus physicis
+    et antiquis monumentis sub retina recens inventis</title>, <pubPlace>Venetiis</pubPlace> <date>1749</date>, in 8, M. 46.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jacobi Belgradi e Societate Jesu ad virum eruditissimum Marchionem Scipionem Maphejum Epistolae IV [microform] : de rebus physicis, et antiquis monumentis sub Retina recens inventis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mv5803</idno>
+            <idno type="cico">1134</idno>
+            <idno type="dcl">jvn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Jacobi Belgradi e Societate Jesu ad virum eruditissimum Marchionem Scipionem Maphejum Epistolae IV [microform] : de rebus physicis, et antiquis monumentis sub Retina recens inventis.</title>
+                  <respStmt>
+                     <persName>Belgrado, Jacopo, 1704-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Typis Jo. Baptistae Pasquali</publisher>
+                     <pubPlace>Resina (Italy)</pubPlace>
+                     <date>1749</date>
+                  </imprint>
+                  <extent>66 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e26cf7a7-743d-4f23-8c02-f5c9dddc0be4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e26cf7a7-743d-4f23-8c02-f5c9dddc0be4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

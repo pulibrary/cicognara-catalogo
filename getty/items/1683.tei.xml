@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1683</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1683</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LAVATERII Lodovici Tigurini</author>, <title>De spectris, lemuribus et magnis atque insolitis fragoribus,
+    variisque praesagitionibus, quae plerumque obitum hominum, magnas clades, mutationesque
+    imperiorum praecedunt. Liber unus in tres partes distributus. Editio secunda priori multo
+    emendatior,</title> <pubPlace>Lugd. Bat.</pubPlace> <date>1669</date>, in 12.
+    <note>Libretto molto singolare e ripieno di preziose notizie.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De spectris, lemuribus et magnis atque infolitis fragoribus, variisque praesagitionibus, quae plerunque obitum hominum, magnas clades, mutationesque imperiorum praecedunt [microform] : liber unis ... / authore Ludov. Lavatero Tigurino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vf4k32</idno>
+            <idno type="cico">1683</idno>
+            <idno type="dcl">52t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De spectris, lemuribus et magnis atque infolitis fragoribus, variisque praesagitionibus, quae plerunque obitum hominum, magnas clades, mutationesque imperiorum praecedunt [microform] : liber unis ... / authore Ludov. Lavatero Tigurino.</title>
+                  <respStmt>
+                     <persName>Lavater, Ludwig, 1527-1586.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugd. Batavorum : Apud Henr. Verbiest</publisher>
+                     <date>1659</date>
+                  </imprint>
+                  <extent>245, [1] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f403b2fc-cac1-4fa6-bac1-b1b6c882765f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f403b2fc-cac1-4fa6-bac1-b1b6c882765f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

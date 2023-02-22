@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4347</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4347</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LAZARI Andrea</author>, <title>Delle chiese di Urbino, e delle pitture in esse esistenti</title>, <pubPlace>Urbino</pubPlace> <date>1701</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle chiese di Urbino e delle pitture in esse esistenti : compendio storico / abbozzato dall'arciprete D. Andrea Lazzari.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109272350203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/zk7r09</idno>
+            <idno>(OCoLC)26144487</idno>
+            <idno type="cico">4347</idno>
+            <idno type="dcl">1sh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle chiese di Urbino e delle pitture in esse esistenti : compendio storico / abbozzato dall'arciprete D. Andrea Lazzari.</title>
+                  <respStmt>
+                     <persName>Lazzari, Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Urbino : Presso Giovanni Guerrini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Urbino (Italy)</pubPlace>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>viii, 184 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:451241979"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:451241979">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle chiese di Urbino e delle pitture in esse esistenti [microform] : compendio storico / abbozzato dall'arciprete D. Andrea Lazzari.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b09q9g</idno>
+            <idno type="cico">4347</idno>
+            <idno type="dcl">1sh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle chiese di Urbino e delle pitture in esse esistenti [microform] : compendio storico / abbozzato dall'arciprete D. Andrea Lazzari.</title>
+                  <respStmt>
+                     <persName>Lazzari, Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Urbino : Presso Giovanni Guerrini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Urbino (Italy)</pubPlace>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>viii, 184 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cc71478a-33b8-43e8-bad3-a38ccbaa5b5b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cc71478a-33b8-43e8-bad3-a38ccbaa5b5b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

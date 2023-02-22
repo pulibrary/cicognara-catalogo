@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2915</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2915</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MAGNAN Dominici</author>,<title> Brutia numismatica</title>, <pubPlace>Roma</pubPlace> <date>1773</date> 
+                        seu Brutiae hodie Calabriae populorum numismata omnia,
+in fol., fig.
+<note>Sono le stesse tavole delle precedenti, che con qualche illustrazione di più servirono a quest’opera in foglio e a
+fare un merito all’autore presso il cardinale Albani.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bruttia Numismatica Seu Bruttiae, hodiè Calabriae, Populorum Numismata Omnia, In variis per Europam nummophylaciis accuratè descripta, Nec Non Aliqua Alia Ex Jam Editis Deprompta</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Magnan, Dominique, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-80023</idno>
+            <idno type="URI">http://portal.getty.edu/api/sc5v5h</idno>
+            <idno type="cico">2915</idno>
+            <idno type="dcl">604</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bruttia Numismatica Seu Bruttiae, hodiè Calabriae, Populorum Numismata Omnia, In variis per Europam nummophylaciis accuratè descripta, Nec Non Aliqua Alia Ex Jam Editis Deprompta</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1773</date>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>XII S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/magnan1773/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/magnan1773/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bruttia numismatica seu Bruttiae, hodiè Calabriae [microform] : populorum numismata omnia, invariis per Europam nummophylaeiis / accuratè descripta, nec non aliqua alia ex jam editis de promptor à P. Dominico Magnan ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0j1s3x</idno>
+            <idno type="cico">2915</idno>
+            <idno type="dcl">604</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Bruttia numismatica seu Bruttiae, hodiè Calabriae [microform] : populorum numismata omnia, invariis per Europam nummophylaeiis / accuratè descripta, nec non aliqua alia ex jam editis de promptor à P. Dominico Magnan ....</title>
+                  <respStmt>
+                     <persName>Magnan, Dominique, 1731-1796.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Archangelum Casaletti ... et Josephum Monaldini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>XII p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9d7ca158-5553-41ac-a541-34a246c46781/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9d7ca158-5553-41ac-a541-34a246c46781/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

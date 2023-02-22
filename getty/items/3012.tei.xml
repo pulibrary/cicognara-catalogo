@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3012</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3012</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SPON Jacobi</author>, <title>Recherches curieuses d’antiquité contenues en plusieurs dissertations sur les médailles, bas-reliefs,
+statues, mosaiques, inscriptions</title>, <pubPlace>Lion</pubPlace> <date>1683</date>, in 4, fig.
+<note>Sono queste 31 dissertazioni intorno a varj soggetti d’antichità e numismatica, corredate di gran numero di tavole
+collocate ai rispettivi luoghi voluti dal testo e nelle esposizioni vi si incontra molta critica e dottrina.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recherches curieuses d'antiquité: contenues en plusieurs dissertations, sur des médailles, bas-reliefs, statues, mosaïques &amp; inscriptions antiques ...</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Spon, Jacob, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-40172</idno>
+            <idno type="URI">http://portal.getty.edu/api/nz131v</idno>
+            <idno type="cico">3012</idno>
+            <idno type="dcl">5sd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recherches curieuses d'antiquité: contenues en plusieurs dissertations, sur des médailles, bas-reliefs, statues, mosaïques &amp; inscriptions antiques ...</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1683</date>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>538 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/spon1683/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/spon1683/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recherches curieuses d'antiquite [microform] : contenues en plusieurs dissertations, sur des medailles, bas-reliefs, statuës, mosaïques, &amp; inscriptions antiques : enrichies d'un grand nombre de figures en taille douce / par Monsieur Spon ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p28q08</idno>
+            <idno type="cico">3012</idno>
+            <idno type="dcl">5sd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recherches curieuses d'antiquite [microform] : contenues en plusieurs dissertations, sur des medailles, bas-reliefs, statuës, mosaïques, &amp; inscriptions antiques : enrichies d'un grand nombre de figures en taille douce / par Monsieur Spon ...</title>
+                  <respStmt>
+                     <persName>Spon, Jacob, 1647-1685.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Lyon : Chez Thomas Amaulry</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>538 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/78aba2eb-4465-4749-be03-c6f183c0d1e7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/78aba2eb-4465-4749-be03-c6f183c0d1e7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

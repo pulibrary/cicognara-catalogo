@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2607</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2607</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>OLIVIERI Annibale degli Abbati</author>, <title>Spiegazione di alcuni monumenti degli antichi Pelasgi, trasportata dal francese
+con alcune osservazioni sopra i medesimi</title>, <pubPlace>Pesaro</pubPlace> <date>1735</date>, in 4, fig.
+<note>Questo è uno dei più singolari e preziosi opuscoli in materia etrusca.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiegazione di alcuni monumenti degli antichi Pelasgi [microform] / trasportata dal Francese ; con alcune osservazioni sovra i medesimi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Abbati Olivieri-Giordani, Annibale degli, 1708-1789.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zz562c</idno>
+            <idno type="cico">2607</idno>
+            <idno type="dcl">wnq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spiegazione di alcuni monumenti degli antichi Pelasgi [microform] / trasportata dal Francese ; con alcune osservazioni sovra i medesimi.</title>
+                  <respStmt>
+                     <persName>Bourguet, Louis, 1678-1742.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Pesaro : Nella stamperia di Niccolo Gavelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1735</date>
+                  </imprint>
+                  <extent>77 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/032f2821-49cd-49c9-bab1-41ba68a7ea19/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/032f2821-49cd-49c9-bab1-41ba68a7ea19/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

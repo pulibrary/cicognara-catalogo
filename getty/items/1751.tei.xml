@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1751</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1751</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PERSIO Antonio</author>, <title>Del bever caldo costumato dagli antichi Romani</title>, <pubPlace>Venezia</pubPlace> <date>1693</date>, in 8.
+  <note>Operetta dedicata al Papa Clemente VIII.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del bever caldo costumato da gli antichi Romani [microform] : trattato / d'Antonio Persio ; nel quale si pruoua con l'historia, &amp; essempio de gli antichi, &amp; con la ragione, che il bere fatto caldo al fuoco, è di maggior giouamento, &amp; forse anche gusto, che non è il freddo hoggidì vsato ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nq0r2d</idno>
+            <idno type="cico">1751</idno>
+            <idno type="dcl">jrr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del bever caldo costumato da gli antichi Romani [microform] : trattato / d'Antonio Persio ; nel quale si pruoua con l'historia, &amp; essempio de gli antichi, &amp; con la ragione, che il bere fatto caldo al fuoco, è di maggior giouamento, &amp; forse anche gusto, che non è il freddo hoggidì vsato ...</title>
+                  <respStmt>
+                     <persName>Persio, Antonio, 1542-1597.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Presso Gio. Battista Ciotti</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1593</date>
+                  </imprint>
+                  <extent>[8], 86 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/110d8442-1d23-4b86-b670-ee446ab2d008/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/110d8442-1d23-4b86-b670-ee446ab2d008/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

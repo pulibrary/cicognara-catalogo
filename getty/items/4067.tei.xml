@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4067</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4067</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PIGNORIA Lorenzo</author>, <title>L’Antenore</title>, <pubPlace>Padova</pubPlace>, presso <publisher>Paolo Tozzi</publisher>, <date>1625</date>, in 4, M. 63.
+<note>Il frontespizio è figurato; poi segue la dedica ai deputati <pb type="cico" n="250"/> di Padova, indi il sommario degli 8 capitoli.
+L’albero genealogico intagliato in rame, un avviso al lettore ove comincia il numero delle pagine sino alla 49. Vi
+si trovano quattro tavole di monumenti, e due foglietti d’iscrizioni in fine, oltre le pagine numerate: si avverta di
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+non confondere quest’opera coll’altra delle Origini di Padova, escita alla luce nell’anno stesso.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'Antenore [microform] / di Lorenzo Pignoria.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985463283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cf8q4t</idno>
+            <idno type="cico">4067</idno>
+            <idno type="dcl">b5v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'Antenore [microform] / di Lorenzo Pignoria.</title>
+                  <respStmt>
+                     <persName>Pignoria, Lorenzo, 1571-1631.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padoua : Appresso Pietro Paolo Tozzi</publisher>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>49 p</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/65d234ac-b6bb-482a-9e01-afe1167a446a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/65d234ac-b6bb-482a-9e01-afe1167a446a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

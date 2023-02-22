@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2906</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2906</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LEONARDI Camilli</author>,<title> Speculum lapidum et d. Petri Arlensis de Scudalupis sympathia septem metallorum ac septem
+selectorum lapidum ad planetas</title>. Accedit <name>Constantini Albinii Villanovensis</name>, <pubPlace>Hamburgi</pubPlace> <date>1717</date>, in 12.
+<note>Col ritratto di Pietro Arlense in principio. Sono in questo libro riunite tutte le cognizioni e superstizioni
+conosciute in questa materia.</note>
+<pb type="cico" n="68"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Camilli Leonardi Speculum Lapidum,</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Leonardi, Camillo, Author</authority>
+            <authority>Arlensis de Scudalupis, Petrus, Other</authority>
+            <authority>Albinius, Petrus Constantius, Other</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-309013</idno>
+            <idno type="URI">http://portal.getty.edu/api/9k4205</idno>
+            <idno type="cico">2906</idno>
+            <idno type="dcl">dk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Camilli Leonardi Speculum Lapidum,</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1717</date>
+                     <date>1717</date>
+                  </imprint>
+                  <extent>[16] Bl., 390, 84 S., [18] Bl.</extent>
+                  <extent>1 Portr., Titelvignette (Kupferst.)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/leonardi1717/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/leonardi1717/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Camilli Leonardi Speculum lapidum et D. Petri Arlensis de Scudalupis ... Sympathia septem metallorum ac septem selectorum lapidum ad planetas [microform] : accedit Magia astrologica Petri Constantii Albinii ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Albinius, Petrus Constantius, fl. 1610. Magia astrologica.</authority>
+            <authority>Arlensis de Scudalupis, Petrus. Sympathia septem metallorum ac septemselectorum lapidum ad planetas.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zd375s</idno>
+            <idno type="cico">2906</idno>
+            <idno type="dcl">dk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Camilli Leonardi Speculum lapidum et D. Petri Arlensis de Scudalupis ... Sympathia septem metallorum ac septem selectorum lapidum ad planetas [microform] : accedit Magia astrologica Petri Constantii Albinii ...</title>
+                  <respStmt>
+                     <persName>Leonardi, Camillo, active 1502.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Hamburgi : Apud Christianum Liebezeit</publisher>
+                     <date>1717</date>
+                  </imprint>
+                  <extent>390, 84 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5bf9b66b-2601-4ec6-97f3-02ec74ee0b63/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5bf9b66b-2601-4ec6-97f3-02ec74ee0b63/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

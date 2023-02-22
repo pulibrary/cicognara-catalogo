@@ -1,0 +1,115 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1574</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1574</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BARTOLINI Gasp. Thomae fil.</author>, <title>De tibiis veterum</title>, <pubPlace>Amstelodami</pubPlace> <date>1679</date>, in 12, fig.
+    <note>Col ritratto dell’autore e numero di nitidissime tavole ai luoghi voluti nel testo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casp. Bartholini Thom. fil. De tibiis veterum, et earum antiquo usu libri tres [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/773539</idno>
+            <idno type="cico">1574</idno>
+            <idno type="dcl">c8k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Casp. Bartholini Thom. fil. De tibiis veterum, et earum antiquo usu libri tres [microform].</title>
+                  <respStmt>
+                     <persName>Bartholin, Caspar, 1655-1738.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelaedami : Apud JHenr. Wetstenium</publisher>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>415, [5] p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/06cf3975-37aa-49fa-a50b-75d6c405fb6a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/06cf3975-37aa-49fa-a50b-75d6c405fb6a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casp. Bartholini Thom. Fil. De tibiis veterum et earum antiquo usu libri tres</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bartholin, Caspar, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-281414</idno>
+            <idno type="URI">http://portal.getty.edu/api/qs9p3x</idno>
+            <idno type="cico">1574</idno>
+            <idno type="dcl">c8k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Casp. Bartholini Thom. Fil. De tibiis veterum et earum antiquo usu libri tres</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1679</date>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>[12] Bl., 415, [1] S., [2] Bl., [4] Falttaf.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartholin1679/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartholin1679/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

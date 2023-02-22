@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 437</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">437</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BLONDEL François</author>, 
+                     <title>De l’utilité de joindre à l’etude de l’architecture celui des sciences et de
+	arts qui lui sont relatifs,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1771,</date>
+                     <extent> in 8.</extent>
+	                    <note>Quest’opuscolo è estratto dal terzo volume del Corso d’Architettura di questo autore.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'utilité de joindre a l'étude de l'architecture, celle des sciences et des arts qui lui sont relatifs [microform] : extrait du troisieme volume du Cours d'architecture de Jacques-François Blondel.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Blondel, Jacques-François, 1705-1774. Cours d'architecture.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z34k42</idno>
+            <idno type="cico">437</idno>
+            <idno type="dcl">qz8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'utilité de joindre a l'étude de l'architecture, celle des sciences et des arts qui lui sont relatifs [microform] : extrait du troisieme volume du Cours d'architecture de Jacques-François Blondel.</title>
+                  <respStmt>
+                     <persName>Blondel, Jacques-François, 1705-1774.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez la veuve Desaint</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>80 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5c0943bd-2cd3-4587-a39b-43f9d8186e16/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5c0943bd-2cd3-4587-a39b-43f9d8186e16/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

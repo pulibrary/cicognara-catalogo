@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 177</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">177</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>PASSERI Niccola</author> di Faenza, <title>Del metodo di studiare la pittura e delle cagioni di sua decadenza.
+	  Dialoghi,</title> 
+                     <pubPlace>Napoli</pubPlace> 
+                     <date>1795,</date> 
+                     <extent>vol. 2 legati in uno, in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del metodo di studiare la pittura [microform] : e delle cagioni di sua decadenza : dialoghi / di Niccola Passeri ... aggiuntovi un piano di statuti per formare una pubblica accademia di pittura, scultura, ed architettura, ideato dallo stesso autore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985248193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/q7649s</idno>
+            <idno type="cico">177</idno>
+            <idno type="dcl">7cf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del metodo di studiare la pittura [microform] : e delle cagioni di sua decadenza : dialoghi / di Niccola Passeri ... aggiuntovi un piano di statuti per formare una pubblica accademia di pittura, scultura, ed architettura, ideato dallo stesso autore.</title>
+                  <respStmt>
+                     <persName>Passeri, Niccola, 1729-1799.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Per Vincenzo Flauto</publisher>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ff818994-6f90-42bf-97e6-32eee6983f43/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff818994-6f90-42bf-97e6-32eee6983f43/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2392</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2392</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VASARI Giorgio</author>, <title>Vite de’ più eccellenti pittori, scultori, architetti</title>. Colle note e illustrazioni di
+    Giovanni Bottari, <pubPlace>Roma</pubPlace> <date>1769</date>, in 4, vol 3.
+    <note>Questa è la più bella anzi magnifica edizione del Vasari. Esemplare intonso in carta grande. Le copiose note del
+    Bottari illustrano questo biografo utilmente più d’ogni altro commento anche posteriormente eseguito.
+</note>
+                    <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' più eccellenti pittori, scultori e architetti [microform] / scritte da Giorgio Vasari ... corrette da molti errori e illustrate con note ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344613506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bk9x7p</idno>
+            <idno type="cico">2392</idno>
+            <idno type="dcl">7w2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' più eccellenti pittori, scultori e architetti [microform] / scritte da Giorgio Vasari ... corrette da molti errori e illustrate con note ...</title>
+                  <respStmt>
+                     <persName>Vasari, Giorgio, 1511-1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Niccolo e Marco Pagliarini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1759-60</date>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>40 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b94f2457-ca4c-4d26-b368-f40a835c58f6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b94f2457-ca4c-4d26-b368-f40a835c58f6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

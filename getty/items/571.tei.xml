@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 571</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">571</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>MONTANO Giovan Battista</author> milanese, <title>Architettura con diversi ornamenti cavati dall’antico,</title>
+	                    <pubPlace>Roma</pubPlace> 
+                     <date>1684,</date> 
+                     <extent>in fol. fig.,</extent> 
+                     <publisher>presso Giovan Giacomo de’ Rossi.</publisher>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architettura con diversi ornamenti cavati dall'antico [microform] / di Gio. Battista Montani ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Soria, Gio. Batta. (Giovanni Battista), 1581-1651.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/d9381s</idno>
+            <idno type="cico">571</idno>
+            <idno type="dcl">55n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architettura con diversi ornamenti cavati dall'antico [microform] / di Gio. Battista Montani ...</title>
+                  <respStmt>
+                     <persName>Montano, Giovanni Battista, 1545-1621.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[In Roma] : Si stampano e si uendono in Roma da Gio. Iacomo de Rossi</publisher>
+                     <date>1684</date>
+                  </imprint>
+                  <extent>42 numb. leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c65bc2cf-0e45-4aa2-a33b-533848aa2cb0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c65bc2cf-0e45-4aa2-a33b-533848aa2cb0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

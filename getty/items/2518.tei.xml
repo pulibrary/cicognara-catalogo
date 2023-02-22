@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2518</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2518</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BROCCHI Giovan Battista</author>, <title>Ricerche sopra la scultura presso gli egiziani</title>, <pubPlace>Venezia</pubPlace> <date>1792</date>, in 8, fig.
+<note>Sono in fine al vol. 12 tavole in rame. Quest’opera è piuttosto l’estratto di una serie di nozioni e d’autori, che il
+risultato d’alcuna nuova scoperta od ispezione sui luoghi.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricerche sopra la scultura presso gli egiziani [microform] / di Giambatista Brocchi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985409743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/06421g</idno>
+            <idno type="cico">2518</idno>
+            <idno type="dcl">3gf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ricerche sopra la scultura presso gli egiziani [microform] / di Giambatista Brocchi.</title>
+                  <respStmt>
+                     <persName>Brocchi, Giambattista, 1772-1826.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Dalle stampe di Silvestro Gatti</publisher>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>XI, 312 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a39f563d-5dc4-4189-8416-510cdd445281/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a39f563d-5dc4-4189-8416-510cdd445281/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

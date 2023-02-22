@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 318</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">318</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DURERI ALBERTI</author>,
+                     <title> De simetria partium rectis formis humanorum corporum libri</title>, <pubPlace>Norimaberga</pubPlace>
+	                    <date>1528</date>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hjerin[n] sind begriffen vier Bücher von menschlicher Proportion [microform] / durch Albrechten Dürer von Nürenberg erfunden und beschriben, zu nutz allen denen, so zu diser Kunst lieb tragen.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bx433f</idno>
+            <idno type="cico">318</idno>
+            <idno type="dcl">vz3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Hjerin[n] sind begriffen vier Bücher von menschlicher Proportion [microform] / durch Albrechten Dürer von Nürenberg erfunden und beschriben, zu nutz allen denen, so zu diser Kunst lieb tragen.</title>
+                  <respStmt>
+                     <persName>Dürer, Albrecht, 1471-1528.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Nürenberg : Jeronymum Formschneyder</publisher>
+                     <date>1528</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fb46bbf5-ea7d-41a2-9b69-6ac6d2d0b62b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb46bbf5-ea7d-41a2-9b69-6ac6d2d0b62b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

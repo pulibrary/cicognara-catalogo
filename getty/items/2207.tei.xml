@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2207</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2207</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BELLORI</author>, <title>Le vite de’ pittori, scultori, architetti moderni coi loro ritratti al naturale</title>. Seconda
+    edizione accresciuta colla vita e ritratto del Cavaliere Luca Giordano, <pubPlace>Roma</pubPlace> <date>1728</date>, in 4, fig.
+    <note>Le stampe non sono che cattive copie delle belle incisioni che trovansi nella prima edizione.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vite de pittori, scultori, ed architetti moderni [microform] : co'loro ritratti al naturale / scritte da Gio: Pietro Bellori.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0p9h1p</idno>
+            <idno type="cico">2207</idno>
+            <idno type="dcl">360</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vite de pittori, scultori, ed architetti moderni [microform] : co'loro ritratti al naturale / scritte da Gio: Pietro Bellori.</title>
+                  <respStmt>
+                     <persName>Bellori, Giovanni Pietro, 1613-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per il successore al Mascardi, a spese di Francesco Ricciardo, e Giuseppe Buono</publisher>
+                     <date>1728</date>
+                  </imprint>
+                  <extent>16, 224, 125-132, 143-174, 275-394 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bc87321b-3687-4092-85c7-d743f9a5d029/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bc87321b-3687-4092-85c7-d743f9a5d029/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

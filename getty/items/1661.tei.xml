@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1661</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1661</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIRALDI Gregorii Lilii Ferrariensis</author>, <title>De sepulchris et vario sepeliendi ritu libellus</title>, <pubPlace>Basileae</pubPlace>
+    <date>1539</date>, in 8.
+    <note>Raro e prezioso libretto dedicato a Pico della Mirandola. Dopo la dedica è una lettera in guisa di prefazione a
+    Carlo Milthzien tedesco, segue l’indice delle materie e dopo questi 8 primi foglietti il testo dell’opera comincia
+    colla pagina 1 e finisce alla 79.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lilii Gregorii Gyraldi Ferrariensis, De Sepvlchris &amp; uario sepeliendi ritu, libellus</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Giraldi, Giglio Gregorio, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-84045</idno>
+            <idno type="URI">http://portal.getty.edu/api/zb1z0z</idno>
+            <idno type="cico">1661</idno>
+            <idno type="dcl">x23</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lilii Gregorii Gyraldi Ferrariensis, De Sepvlchris &amp; uario sepeliendi ritu, libellus</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1539</date>
+                     <date>1539</date>
+                  </imprint>
+                  <extent>[8] Bl., 79 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/giraldi1539/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/giraldi1539/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lilii Gregorii Gyraldi Ferrariensis, De Sepulchris &amp; uario sepeliendi ritu, libellus .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3b4k9c</idno>
+            <idno type="cico">1661</idno>
+            <idno type="dcl">x23</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lilii Gregorii Gyraldi Ferrariensis, De Sepulchris &amp; uario sepeliendi ritu, libellus .. [microform]</title>
+                  <respStmt>
+                     <persName>Giraldi, Lilio Gregorio, 1479-1552.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : Apud Mich. Ising</publisher>
+                     <date>1539</date>
+                  </imprint>
+                  <extent>[16], 79 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0a798660-49e1-4100-bff0-2a2dc6ce54f3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a798660-49e1-4100-bff0-2a2dc6ce54f3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

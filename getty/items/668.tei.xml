@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 668</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">668</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>SERLIO</author>, 
+                     <title>Libro primo d’architettura ove trattasi dei principi di geometria,</title> 
+                     <pubPlace>Venezia,</pubPlace> 
+                     <publisher>presso
+	Francesco Senese e Zuanne Krugher alemanno,</publisher> 
+                     <date>1566,</date> 
+                     <extent>in 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il settimo libro di Sebastiano Serlio Bolognese [microform] : nel quale si tratta e mettono in disegno molti nobili edificij, tanto publici, come priuart e varij accidenti che possono occorrere nello edificare, come si narra nella seguente pagina.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/974d7m</idno>
+            <idno type="cico">668</idno>
+            <idno type="dcl">zjw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il settimo libro di Sebastiano Serlio Bolognese [microform] : nel quale si tratta e mettono in disegno molti nobili edificij, tanto publici, come priuart e varij accidenti che possono occorrere nello edificare, come si narra nella seguente pagina.</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venegia : Presso gli Heredi di Francesco de' Franceschi</publisher>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>[8], 243 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b61a0b97-0865-44e2-8507-0731112c3ff8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b61a0b97-0865-44e2-8507-0731112c3ff8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

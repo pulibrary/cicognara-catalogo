@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 369</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">369</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>VOLPATO Giovanni</author> e MORGHEN Rafaelle, <title>Principi del disegno, tratti dalle più eccellenti statue
+	antiche, per i giovani, che vogliono incamminarsi nella studio delle belle arti,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1786,</date> 
+                     <extent>in
+	f. M.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principi del disegno tratti dalle piu eccellenti statue antiche : per li Giovani che vogliono incamminarsi nello studio delle belle arti / pubblicati ed incisi da Giovanni Volpato et Raffaelle Morghen.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Volpato, Giovanni, 1735-1803.</authority>
+            <authority>Morghen, Raffaello, 1761-1833.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287598</idno>
+            <idno type="URI">http://portal.getty.edu/api/rg339b</idno>
+            <idno>(OCoLC)1157287598</idno>
+            <idno type="cico">369</idno>
+            <idno type="dcl">d2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Principi del disegno tratti dalle piu eccellenti statue antiche : per li Giovani che vogliono incamminarsi nello studio delle belle arti / pubblicati ed incisi da Giovanni Volpato et Raffaelle Morghen.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Romae : Nella stameria Pagliarni</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>1 online resource (3 unnumbered, v pages, 36 unnumbered leaves of plates)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072002665885"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072002665885">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principi del disegno tratti dalle piu eccellenti statue antiche [microform] : per li Giovani che vogliono incamminarsi nello studio delle belle arti / pubblicati ed incisi da Giovanni Volpato et Raffaelle Morghen.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Morghen, Raffaello, 1761-1833.</authority>
+            <authority>Volpato, Giovanni, 1735-1803.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k1256m</idno>
+            <idno type="cico">369</idno>
+            <idno type="dcl">d2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Principi del disegno tratti dalle piu eccellenti statue antiche [microform] : per li Giovani che vogliono incamminarsi nello studio delle belle arti / pubblicati ed incisi da Giovanni Volpato et Raffaelle Morghen.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Romae : Nella stameria Pagliarni</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>[3], v p., [36] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/010533c4-557c-450a-a586-a2124b010a3a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/010533c4-557c-450a-a586-a2124b010a3a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

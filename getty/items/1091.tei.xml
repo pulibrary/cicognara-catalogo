@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1091</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1091</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FEDINI Giovanni pittore fiorentino</author>, <title>Le due Persilie: Commedia fatta recitare dai Sig.
+      Girolamo e Giulio Rossi de’ Conti di S. Secondo alla presenza delle Gran Principesse di
+      Toscana</title>, <pubPlace>Firenze</pubPlace>, presso <publisher>Giunti</publisher>, <date>1563</date>, in 8, f.
+      <note>A tergo del frontespizio è il ritratto dell’autore: libretto raro, poiché il vogliono i collettori delle commedie
+      antiche e il bramano gli amatori delle arti, anche per l’effigie d’un pittore che non trovasi in altro modo.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le due persilie [microform] : commedia / di Giovanni Fedini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8m8z59</idno>
+            <idno type="cico">1091</idno>
+            <idno type="dcl">004</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le due persilie [microform] : commedia / di Giovanni Fedini ...</title>
+                  <respStmt>
+                     <persName>Fedini, Giovanni.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia de'Giunti</publisher>
+                     <date>1583</date>
+                  </imprint>
+                  <extent>96 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/31fd726d-94f3-4358-b92d-8793e02756aa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/31fd726d-94f3-4358-b92d-8793e02756aa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

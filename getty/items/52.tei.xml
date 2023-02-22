@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 52</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">52</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>SABA da Castiglione monsignore</author>,
+                     <title> Ricordi, ovvero ammaestramenti, ne’ quali con prudenti e
+	  cristiani discorsi si ragiona di tutte le materie onorate, che si ricercano a un vero gentiluomo,</title>
+	                    <pubPlace>Venezia,</pubPlace>
+                     <publisher> per Paolo Gherardo,</publisher> 
+                     <date>1555,</date>
+                     <extent> in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricordi overo ammaestramenti di monsignor Saba da Castiglione cavalier gierosolimitano [microform] : ne quali con prudenti e christiani discorsi si ragiona di tutte le materie honorate, che si ricercano a vn vero gentil'huomo : con la tauola per alphabeto di tutte le cose notabili.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3x9458</idno>
+            <idno type="cico">52</idno>
+            <idno type="dcl">mrm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ricordi overo ammaestramenti di monsignor Saba da Castiglione cavalier gierosolimitano [microform] : ne quali con prudenti e christiani discorsi si ragiona di tutte le materie honorate, che si ricercano a vn vero gentil'huomo : con la tauola per alphabeto di tutte le cose notabili.</title>
+                  <respStmt>
+                     <persName>Castiglione, Sabba da, 1480-1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Per Paulo Gherardo</publisher>
+                     <date>1555</date>
+                  </imprint>
+                  <extent>[8], 135, [1] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ff49c979-fd30-45b2-8802-c979cc5e5be2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff49c979-fd30-45b2-8802-c979cc5e5be2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

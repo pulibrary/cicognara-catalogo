@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1430</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1430</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ARIENTI Ridolfo</author>, <title>Relazione del Torneo a piedi fatto in Ferrara questo carnevale dell’anno
+    1624</title>, data in luce dal Sig. Ridolfo Arienti, <pubPlace>Ferrara</pubPlace>, per <publisher>Francesco Suzzi</publisher>, <date>1624</date>, in 4.
+    MDCXXIV
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione del torneo à piedi fatto in Ferrara questo carneuale dell'anno 1624 : doue si descriue la nobilissima inuenzione del sig. marchese Nicolò Estense Tassoni nel comparire à mantenerlo, con la descrizione de gli altri caualieri combattenti / data in luce, e dedicata al medesimo signor marchese dal sig. Ridolfo Arienti gentilhuomo ferrarese.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Suzzi, Francesco printer.</authority>
+            <authority>Trissino, Leonardo, 1780-1841, former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990085529710203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/053z86</idno>
+            <idno>(OCoLC)612689256</idno>
+            <idno type="cico">1430</idno>
+            <idno type="dcl">jcv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione del torneo à piedi fatto in Ferrara questo carneuale dell'anno 1624 : doue si descriue la nobilissima inuenzione del sig. marchese Nicolò Estense Tassoni nel comparire à mantenerlo, con la descrizione de gli altri caualieri combattenti / data in luce, e dedicata al medesimo signor marchese dal sig. Ridolfo Arienti gentilhuomo ferrarese.</title>
+                  <respStmt>
+                     <persName>Arienti, Ridolfo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Ferrara : Per Francesco Suzzi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Ferrara.</pubPlace>
+                     <date>1624</date>
+                  </imprint>
+                  <extent>71, [15] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493984907"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493984907">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

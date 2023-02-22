@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 399</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">399</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ANTOINE Jean</author>, 
+                     <title>Traité d’architecture, ou propor<pb type="cico" n="72"/> tions des trois ordres grecs sur un
+	modulo de douze parties,</title>
+                     <pubPlace> à Treves</pubPlace> 
+                     <date>1768,</date> en 4, fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité d'architecture, ou, Proportions des trois ordres grecs, sur un module de douze parties [microform] / par Jean Antoine ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985291053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/849q0g</idno>
+            <idno type="cico">399</idno>
+            <idno type="dcl">58k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité d'architecture, ou, Proportions des trois ordres grecs, sur un module de douze parties [microform] / par Jean Antoine ...</title>
+                  <respStmt>
+                     <persName>Antoine, Jean, 18th cent.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Treves : De l'Imprimerie electorale de Son Altesse Sérénissime ;</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>[54], 186 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e727cb28-9d4a-49e7-8fac-fb2a84d26f4b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e727cb28-9d4a-49e7-8fac-fb2a84d26f4b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité d'architecture; ou, Proportions des trois ordres grecs, sur un module de douze parties. Par Jean Antoine ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926325340001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gx0t65</idno>
+            <idno>(OCoLC)8198758</idno>
+            <idno type="cico">399</idno>
+            <idno type="dcl">58k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité d'architecture; ou, Proportions des trois ordres grecs, sur un module de douze parties. Par Jean Antoine ...</title>
+                  <respStmt>
+                     <persName>Antoine, Jean, active 18th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Treves, Impr. de Son Altesse Sérénissime; se vend à Nancy chez N. Gervois; se vend à Metz Chez Marchal</publisher>
+                     <pubPlace>Germany Trier.</pubPlace>
+                     <pubPlace>France Nancy.</pubPlace>
+                     <pubPlace>France Metz.</pubPlace>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>27 preliminary leaves, 186 pages including illustrations, plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/42c23ebc-4979-44e7-bbd8-b8615031d6f3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/42c23ebc-4979-44e7-bbd8-b8615031d6f3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

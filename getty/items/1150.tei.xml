@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1150</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1150</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COCCHI (Antonio)</author>, <title>Lettera critica sopra un manoscritto in cera</title>, <pubPlace>Firenze</pubPlace> <date>1746</date>, in 4, M. 26.
+    <note>Il manoscritto sembra giudicarsi del XIV secolo: ma con tutto ciò non cessa d’essere singolare.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera critica sopra un manoscritto in cera [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9b9r3x</idno>
+            <idno type="cico">1150</idno>
+            <idno type="dcl">qfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera critica sopra un manoscritto in cera [microform].</title>
+                  <respStmt>
+                     <persName>Cocchi, Antonio, 1695-1758.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenez : Nella stamperia all' insegna d'Apollo</publisher>
+                     <date>1746</date>
+                  </imprint>
+                  <extent>84 p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b1b9738c-4be7-4da2-a4c3-f02ae96610c1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b1b9738c-4be7-4da2-a4c3-f02ae96610c1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

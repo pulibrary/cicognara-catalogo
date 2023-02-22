@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3326</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3326</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SALMASII Claudii</author>, <title>De annis Climatericis, et antiqua astrologia, diatribem, Lugd. Bat.</title>, <pubPlace>Elzivir</pubPlace>, <date>1648</date>, in 8.
+<note>Libro di quasi mille pagine assai ben impresso con nitidez <pb type="cico" n="126"/> za di tipi ed ove la materia è trattala con
+immensa dottrina ed erudizione.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cl. Salmasii De Annis Climactericis Et Antiqua Astrologia Diatribae</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Saumaise, Claude, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-322729</idno>
+            <idno type="URI">http://portal.getty.edu/api/p95v5q</idno>
+            <idno type="cico">3326</idno>
+            <idno type="dcl">prs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cl. Salmasii De Annis Climactericis Et Antiqua Astrologia Diatribae</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1648</date>
+                     <date>1648</date>
+                  </imprint>
+                  <extent>[64] Bl., 844 S., [9] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/saumaise1648/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/saumaise1648/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cl. Salmasii De annis climactericis et antiqua astrologia diatribae [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/379608</idno>
+            <idno type="URI">http://portal.getty.edu/api/wx411b</idno>
+            <idno type="cico">3326</idno>
+            <idno type="dcl">prs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cl. Salmasii De annis climactericis et antiqua astrologia diatribae [microform].</title>
+                  <respStmt>
+                     <persName>Salnasius, Claudius, 1588-1653.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lvgd. Batavor. Ex officinâ Elzeviriorum</publisher>
+                     <date>1648</date>
+                  </imprint>
+                  <extent>[128], 844, [18] p.</extent>
+                  <extent>15 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2e58ac11-2d3a-4a3f-b32b-027f7764e7e3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2e58ac11-2d3a-4a3f-b32b-027f7764e7e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

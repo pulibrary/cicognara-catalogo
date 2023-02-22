@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4653</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4653</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FONTANINI Giusto</author>, <title>Della eloquenza italiana, libri tre novellamente ristampati</title>, <pubPlace>Venezia</pubPlace> <date>1737</date>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della eloquenza italiana di Monsignor Giusto Fontanini .. [microform] : libri tre ... nel primo si spiega l'origine e il processo dell'italiana favella : nel secondo si tratta del suo ingrandimento per le opere scritte : nel terzo si dispone una biblioteca ordinata d'autori singolari nelle materie più classiche, illustrata di molte osservazioni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985431993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/m83c2p</idno>
+            <idno type="cico">4653</idno>
+            <idno type="dcl">qvk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della eloquenza italiana di Monsignor Giusto Fontanini .. [microform] : libri tre ... nel primo si spiega l'origine e il processo dell'italiana favella : nel secondo si tratta del suo ingrandimento per le opere scritte : nel terzo si dispone una biblioteca ordinata d'autori singolari nelle materie più classiche, illustrata di molte osservazioni.</title>
+                  <respStmt>
+                     <persName>Fontanini, Giusto, 1666-1736.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Cristoforo Zane</publisher>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>XXXII, 752 p.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/60b0bfa3-a407-4b6a-b635-c22073517532/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/60b0bfa3-a407-4b6a-b635-c22073517532/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

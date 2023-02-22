@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2359</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2359</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RIDOLFI Carlo</author>, <title>Le maraviglie dell’arte; ovvero le vite degli illustri pittori veneti e dello stato,
+    vol. 2 legati in un solo</title>, <pubPlace>Venezia</pubPlace> <date>1648</date>, presso <publisher>Gio. B. Sgava</publisher>, in 4, piccolo.
+    <note>Con frontespizio figurato e i ritratti dei pittori ben disegnati e ben intagliati in rame, esemplare bellissimo di
+    un’opera tenuta in gran pregio potendosi chiamare questo autore il Vasari dei veneziani.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le maraviglie dell'arte, ouero Le vite de gl'illustri pittori veneti, e dello stato [microform] : coue sono raccolte le opere insigni, i costumi, &amp; i ritratti loro ; con la narratione delle historie, delle fauole, e delle moralità da quelli dipinte / descritte dal cavalier Carlo Ridolfi ; con tre tauole copiose de' nomi de' pittori antichi e moderni e delle cose notabili ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fn9q9p</idno>
+            <idno type="cico">2359</idno>
+            <idno type="dcl">vjs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le maraviglie dell'arte, ouero Le vite de gl'illustri pittori veneti, e dello stato [microform] : coue sono raccolte le opere insigni, i costumi, &amp; i ritratti loro ; con la narratione delle historie, delle fauole, e delle moralità da quelli dipinte / descritte dal cavalier Carlo Ridolfi ; con tre tauole copiose de' nomi de' pittori antichi e moderni e delle cose notabili ...</title>
+                  <respStmt>
+                     <persName>Ridolfi, Carlo, 1594-1658.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Presso Gio. Battista Sgaua</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1648</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6abc00d1-2c4a-4c6e-a02a-7e96238fe8ca/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6abc00d1-2c4a-4c6e-a02a-7e96238fe8ca/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

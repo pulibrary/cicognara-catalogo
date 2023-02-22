@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1606</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1606</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BRUYERINO Campegio</author>, <title>De re cibaria libri viginti duo</title>, <pubPlace>Lugduni</pubPlace> <date>1560</date>, in 12.
+    <note>Più di mille cento e cinquanta pagine trattano diffusamente questa materia, biasimandosi dall’autore che i
+    Romani, assai più ristrettamente che i Greci noi fecero, l’abbiano illustrata.</note>
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De re cibaria libri XXII omnium ciborum genera [microform] : omnium gentium moribus, &amp; usu probata complectentes / Io. Bruyerino Campegio Lugdun. authore.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/559k5p</idno>
+            <idno type="cico">1606</idno>
+            <idno type="dcl">7vz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De re cibaria libri XXII omnium ciborum genera [microform] : omnium gentium moribus, &amp; usu probata complectentes / Io. Bruyerino Campegio Lugdun. authore.</title>
+                  <respStmt>
+                     <persName>Bruyerin, Jean Baptiste, active 1530-1560.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni : Apud Sebast. Honoratum</publisher>
+                     <date>1560</date>
+                  </imprint>
+                  <extent>1129 p.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6c3ca0ac-7abe-4129-a1bf-290168096b3b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6c3ca0ac-7abe-4129-a1bf-290168096b3b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

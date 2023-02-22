@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 619</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">619</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>POLIPHILE</author>, 
+                     <title>Le songe, traduction libre de l’italien par G. le Grand,</title> 
+                     <pubPlace>Parme</pubPlace> 
+                     <date>1811,</date> 
+                     <publisher>par Bodoni,</publisher> 
+                     <extent>2
+	vol. en 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Songe de Poliphile [microform] : traduction libre de l'italien / par J. G. Legrand.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Legrand, J. G. (Jacques Guillaume), 1743-1807.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985142753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9k2v7h</idno>
+            <idno type="cico">619</idno>
+            <idno type="dcl">gg0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Songe de Poliphile [microform] : traduction libre de l'italien / par J. G. Legrand.</title>
+                  <respStmt>
+                     <persName>Colonna, Francesco, -1527.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Parme : Bodoni</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5dcfd371-ae78-4fac-a8bf-dca3a30773c1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5dcfd371-ae78-4fac-a8bf-dca3a30773c1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

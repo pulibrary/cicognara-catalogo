@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4014</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4014</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GAMBA Ghiselli C. Paolo</author>, <title>Lettera sopra l’antico edificio di Ravenna detto volgarmente la Rotonda</title>, <pubPlace>Roma</pubPlace> <date>1765</date>,
+in 4, M. 1.
+<note>Questo scrittore ebbe assai più buon senso di tutti quelli che lo precedettero, i quali parlarono di questo edifizio
+con una quantità di falsi supporti contrarj alla critica, e alla ragione; ma egli vendicò la Rotonda dalle favolose
+tradizioni, e scrisse da uomo giusto, e imparziale.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera sopra l'antico edificio di Ravenna detto volgarmente la Rotonda [microform] / del conte Paolo Gamba Ghiselli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/md6048</idno>
+            <idno type="cico">4014</idno>
+            <idno type="dcl">pp0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera sopra l'antico edificio di Ravenna detto volgarmente la Rotonda [microform] / del conte Paolo Gamba Ghiselli ...</title>
+                  <respStmt>
+                     <persName>Gamba Ghiselli, Paolo, conte.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Alla stamparia Ermateniana</publisher>
+                     <pubPlace>Ravenna (Italy)</pubPlace>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>XIV p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/82afcdbd-bf79-4f1d-84ad-87efe9cc2d77/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/82afcdbd-bf79-4f1d-84ad-87efe9cc2d77/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4382</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4382</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TEMANZA Tommaso</author>, <title>Antica pianta dell’inclita città di Venezia delineata circa la metà del XII secolo,
+dissertazione topografica storico-critica</title>, <pubPlace>Venezia</pubPlace> <date>1781</date>, in 4, fig.
+<note>Colla tavola della pianta. Libro pieno di preziose notizie tratte dagli archivj.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antica pianta dell'inclita città di Venezia [microform] / delineata circa la metà del XII. secolo ed ora per la prima volta pubblicata, ed. illustrata / dissertazione topografico-storico-critica di Tommaso Temanza ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985429203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/198b09</idno>
+            <idno type="cico">4382</idno>
+            <idno type="dcl">z8j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antica pianta dell'inclita città di Venezia [microform] / delineata circa la metà del XII. secolo ed ora per la prima volta pubblicata, ed. illustrata / dissertazione topografico-storico-critica di Tommaso Temanza ...</title>
+                  <respStmt>
+                     <persName>Temanza, Tommaso, 1705-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Nella stamperia di Carlo Palese</publisher>
+                     <pubPlace>Venice (Italy)</pubPlace>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>xii, 95 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/148dc400-1511-4652-8326-a6324fe6dc2f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/148dc400-1511-4652-8326-a6324fe6dc2f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

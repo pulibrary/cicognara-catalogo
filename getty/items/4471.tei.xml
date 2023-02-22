@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4471</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4471</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>JOULLAIN</author>, <title>Catalogue d’une belle colléction de tableaux, desseins, estampes, sculptures du Cabinet de M. Bourlat
+de Montredon</title>, <pubPlace>Paris</pubPlace> <date>1778</date>, in 8, coi prezzi.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une belle collection de tableaux, dessins, estampes, sculptures en terre cuite &amp; en bronze, porcelaines, &amp; autres objets de curiosité, provenant du cabinet de feu M. Bourlat de Montredon .. [microform] / par F.C. Joullain ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2r899f</idno>
+            <idno>(OCoLC)212623665</idno>
+            <idno type="cico">4471</idno>
+            <idno type="dcl">w5j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une belle collection de tableaux, dessins, estampes, sculptures en terre cuite &amp; en bronze, porcelaines, &amp; autres objets de curiosité, provenant du cabinet de feu M. Bourlat de Montredon .. [microform] / par F.C. Joullain ...</title>
+                  <respStmt>
+                     <persName>Joullain, J.C.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Joullain</publisher>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>99 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0ef8812c-d3c1-47c0-b2eb-95222b7234a2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0ef8812c-d3c1-47c0-b2eb-95222b7234a2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

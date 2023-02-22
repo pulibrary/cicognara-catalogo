@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1131</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1131</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ALDOVRANDI Carlo fil.</author>, <title>Lettera intorno alla pittura al conte Carlo Verri</title>, <pubPlace>Bologna</pubPlace> <date>1815</date>, M.
+    99.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al signor conte Carlo Verri, cavaliere Gerosolimitano .... in Milano [microform] : lettera / del conte Carlo Filippo Aldrovandi Mariscotti ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Verri, Carlo, conte, 1743-1823.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wc7p1k</idno>
+            <idno type="cico">1131</idno>
+            <idno type="dcl">brx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Al signor conte Carlo Verri, cavaliere Gerosolimitano .... in Milano [microform] : lettera / del conte Carlo Filippo Aldrovandi Mariscotti ...</title>
+                  <respStmt>
+                     <persName>Aldroandi Mariscotti, Carlo Filippo, conte, d. 1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Tipografia Masi e Comp</publisher>
+                     <date>[1815]</date>
+                     <date>1815</date>
+                  </imprint>
+                  <extent>20 p.</extent>
+                  <extent>microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d3a99ae1-be66-4964-98b2-90eb69a93efd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d3a99ae1-be66-4964-98b2-90eb69a93efd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

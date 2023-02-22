@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1072</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1072</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VAENII</author> <title>Ernesti tractatus phisiologicus de pulchritudine juxta ea quae de sponsa in canticis
+      canticorum mystice pronunciantu</title>, <pubPlace>Bruxelles</pubPlace> <date>1662</date>, in 12, fig.
+      <note>Vi sono 20 tavole tra il testo intagliate in rame a contorno con nitidezza.</note>
+      <pb type="cico" n="190"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tractatus physiologicus de pulchritudine : juxta ea quae de sponsa in canticis canticorum mysticè pronunciantur / authore Ernesto Vaenio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929998230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/tp4n2g</idno>
+            <idno>(OCoLC)11541847</idno>
+            <idno type="cico">1072</idno>
+            <idno type="dcl">gzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tractatus physiologicus de pulchritudine : juxta ea quae de sponsa in canticis canticorum mysticè pronunciantur / authore Ernesto Vaenio.</title>
+                  <respStmt>
+                     <persName>Vaenius, Ernestus</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bruxellis : Typis Francisci Foppens</publisher>
+                     <date>1662</date>
+                  </imprint>
+                  <extent>[8], 60, [3] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/5c6de116-6ca7-44fd-98d7-41836fbe1fd7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5c6de116-6ca7-44fd-98d7-41836fbe1fd7">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tractatus physiologicus de pulchritudine [microform] : juxta ea quae de Sponsa in Canticis Canticorum mysticè pronunciantur / Authore Ernesto Vaenio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p3081x</idno>
+            <idno type="cico">1072</idno>
+            <idno type="dcl">gzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tractatus physiologicus de pulchritudine [microform] : juxta ea quae de Sponsa in Canticis Canticorum mysticè pronunciantur / Authore Ernesto Vaenio.</title>
+                  <respStmt>
+                     <persName>Veen, Ernest van.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Bruxellis : Typis Francisci Foppens</publisher>
+                     <date>1662</date>
+                  </imprint>
+                  <extent>[8], 60, [1] p.</extent>
+                  <extent>2 Microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/51b34189-9e32-42cb-aee0-ad184819e932/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/51b34189-9e32-42cb-aee0-ad184819e932/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

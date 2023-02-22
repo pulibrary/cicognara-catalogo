@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 447</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">447</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>De BOUELLES Charles</author>,
+                     <title>Gometrie pratique et nouvellement par luy revenue, augumentée et
+	grandement enrichie,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1551,</date> 
+                     <extent>en 8, fig.</extent>
+	                    <note>Con molte figure in legno dì edifici distribuite fra il testo.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Geometrie practique [microform] / composee par Charles de Bouelles, &amp; nouuellement par luy reueue, augmentee, &amp; grandement enrichie.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3p5w57</idno>
+            <idno type="cico">447</idno>
+            <idno type="dcl">8p0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Geometrie practique [microform] / composee par Charles de Bouelles, &amp; nouuellement par luy reueue, augmentee, &amp; grandement enrichie.</title>
+                  <respStmt>
+                     <persName>Bovillus, Carolus, 1479-1567.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de Regnaud Chaudiere</publisher>
+                     <date>1551</date>
+                  </imprint>
+                  <extent>79 leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/98508a21-30c6-447f-aba7-30b377393466/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/98508a21-30c6-447f-aba7-30b377393466/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'usage de geometrie [microform] / par Jacques Peletier ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ct3861</idno>
+            <idno type="cico">447</idno>
+            <idno type="dcl">001</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'usage de geometrie [microform] / par Jacques Peletier ...</title>
+                  <respStmt>
+                     <persName>Peletier, Jacques, 1517-1582.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Gilles Gourbin</publisher>
+                     <date>1573</date>
+                  </imprint>
+                  <extent>66 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/59ffd38d-01ff-458d-acf2-5189164b5e05/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/59ffd38d-01ff-458d-acf2-5189164b5e05/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

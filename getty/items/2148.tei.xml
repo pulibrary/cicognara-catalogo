@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2148</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2148</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BASAN F.</author>, <title>Dictionnaire des graveurs anciens et modernes deux vol. en un vol.</title>, <pubPlace>Paris</pubPlace> <date>1789</date>, in
+    ottavo fig.
+   <note> Sonovi molte imitazioni e stampe di vario stile situate fra il testo.
+   </note> </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire des graveurs anciens et modernes [microform] : depuis l'origine de la gravure / par F. Basan, graveur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9j9s4g</idno>
+            <idno type="cico">2148</idno>
+            <idno type="dcl">hg7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire des graveurs anciens et modernes [microform] : depuis l'origine de la gravure / par F. Basan, graveur.</title>
+                  <respStmt>
+                     <persName>Basan, François, 1723-1797.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez l'auteur, Rue &amp; Hôtel Serpente. ; Chez Cuchet ... ; Chez Prault</publisher>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8092c2e4-6242-4b2e-9954-1d4ba2d97417/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8092c2e4-6242-4b2e-9954-1d4ba2d97417/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

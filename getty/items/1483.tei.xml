@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1483</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1483</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>RELATION du Voyage de. S. M. Brittannique en Hollande enrichie de planches très curieuses</title>,
+    à <pubPlace>la Haye</pubPlace>, chez <publisher>Laers</publisher>, <date>1691</date>, in f. fig.
+    <note>Questo è uno de più bei libri di ingressi e spettacoli in cui le freschissime e belle stampe vennero intagliate da
+    Rom. de Hooghe. Compreso il bellissimo frontespizio col ritratto di Guglielmo III le tavole sono 15.</note>
+    MDCXCIII
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relation du voyage de Sa Majesté britannique en Hollande, et de la reception qui luy a été faite .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xq897p</idno>
+            <idno type="cico">1483</idno>
+            <idno type="dcl">031</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relation du voyage de Sa Majesté britannique en Hollande, et de la reception qui luy a été faite .. [microform]</title>
+                  <respStmt>
+                     <persName>Bidloo, Govard, 1649-1713.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A La Haye : Chez Arnout Leers</publisher>
+                     <pubPlace>Netherlands</pubPlace>
+                     <pubPlace>Holland</pubPlace>
+                     <date>1692</date>
+                  </imprint>
+                  <extent>108 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/986a2573-dfbd-4a4c-a48d-320935d1e69e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/986a2573-dfbd-4a4c-a48d-320935d1e69e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

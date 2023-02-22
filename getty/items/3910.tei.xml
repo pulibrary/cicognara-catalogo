@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3910</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3910</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VICTORIS P.</author>, <title>De regionibus urbis Romae libellus aureus cum privilegio</title>, impressum <pubPlace>Venetiae</pubPlace>, per <publisher>Joan. de
+Tridino</publisher> alias Tacuino, anno Domini <date>1509</date> die 8 Maii, in 4 p.
+<note>Trovasi questo libretto stampato in fine alla Cronichetta del venerabile Beda stampata come sopra, che lo
+precede. Nell’istesso anno il Rangiaschi (Bibliografia storica dello Stato Pontificio) cita un’edizione di Brescia;
+e vedesi l’opuscoletto nella raccolta Antiquitatum variarum auctores in compagnia degli altri opuscoli apocrifi
+del Fiocchi, di Annio da Viterbo, di Pietro Calabro.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Venerabilis Bedae presbyteri De temporibus, siue, De sex aetatibus huius seculi liber incipit. P. Victoris De regionibus urbis Rome libellus aureus [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Alexander, Petrus Marenus.</authority>
+            <authority>Victor, Publius. De regionibus urbis Romae.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985422673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dj836n</idno>
+            <idno type="cico">3910</idno>
+            <idno type="dcl">prw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Venerabilis Bedae presbyteri De temporibus, siue, De sex aetatibus huius seculi liber incipit. P. Victoris De regionibus urbis Rome libellus aureus [microform].</title>
+                  <respStmt>
+                     <persName>Bede, the Venerable, Saint, 673-735.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Impressum Vene[tiae] : P[er] Ioan. de Tridino alias Tacuino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>anno domini .M.D.IX. die .viii. Mai (May 8, 1509)</date>
+                     <date>1509</date>
+                  </imprint>
+                  <extent>[100] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a85b436a-9a28-4e4a-a414-8f5437f9e51d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a85b436a-9a28-4e4a-a414-8f5437f9e51d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

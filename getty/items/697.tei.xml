@@ -1,0 +1,83 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 697</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">697</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VITRUVIUS Marcus</author>, <title>Iterum et Frontintis a Jucundo revisi repurgatique quintum ex collatione
+	<fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	
+	licuit</title>, <pubPlace>Florentiae</pubPlace>, sumptibus Philippi de Giunta, <date>1513</date>, in 8, fig.
+	<note>Edizione consimile pel testo a quella del 1511. L’interpretazione però è più corretta e distinta. Le figure in legno
+	sono in minor numero e non bene eseguite. Il pregio che distingue il nostro esemplare, consiste nell’essere con
+	autografa correzione emendato il Frontino dal Marchese Poleni, come può vedersi dalle note marginali:
+	Esemplare di cui egli stesso fé dono all’architetto Temenza. Tuttociò si riconosce da un’iscrizione posta in
+	principio.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vitrvvivs itervm et Frontinvs / à Iocvndo revisi repvrgatiqve qvantvm ex collatione licvit.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Giocondo, Giovanni, approximately 1433-1515</authority>
+            <authority>Frontinus, Sextus Julius. De aquis urbis Romae</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926922850001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/371v0g</idno>
+            <idno>(OCoLC)3633976</idno>
+            <idno type="cico">697</idno>
+            <idno type="dcl">094</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vitrvvivs itervm et Frontinvs / à Iocvndo revisi repvrgatiqve qvantvm ex collatione licvit.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Florentiæ : Sumptibus Philippi de Giunta]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1513]</date>
+                     <date>1513</date>
+                  </imprint>
+                  <extent>[4], 187 (i. e. 188), 34 (i. e. 24), [24] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/2dc31c3f-01f3-4b01-8318-a0c7ade537e3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2dc31c3f-01f3-4b01-8318-a0c7ade537e3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

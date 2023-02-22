@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 67</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">67</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ALBERTI Leon Battista</author>, 
+                     <title>Altro esemplare della stessa con note marginali manoscritte.</title>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La pittura / di Leonbattista Alberti ; tradotta per M. Lodovico Domenichi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Domenichi, Lodovico, 1515-1564</authority>
+            <authority>Alberti, Leon Battista, 1404-1472. De pictura. Italian. 1547.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921800470001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xm4j09</idno>
+            <idno>(OCoLC)144603467</idno>
+            <idno type="cico">66</idno>
+            <idno type="cico">67</idno>
+            <idno type="dcl">6gq</idno>
+            <idno type="dcl">m2s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La pittura / di Leonbattista Alberti ; tradotta per M. Lodovico Domenichi.</title>
+                  <respStmt>
+                     <persName>Alberti, Leon Battista, 1404-1472</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Appresso Gabriel Giolito de Ferrari</publisher>
+                     <date>MDXLVII [1547]</date>
+                     <date>1547</date>
+                  </imprint>
+                  <extent>44 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/04508984-c60d-45b2-bec1-bc4d97377a08"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/04508984-c60d-45b2-bec1-bc4d97377a08">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

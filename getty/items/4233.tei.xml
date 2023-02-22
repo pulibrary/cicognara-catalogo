@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4233</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4233</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MARCHIÒ Vincenzo</author>, <title>Il forestiero informato delle cose di Lucca</title>, <pubPlace>Lucca</pubPlace> <date>1721</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il forestiere informato delle cose di Lucca : opera / del reverendo signore Vincenzo Marchiò Lucchese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929945890001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fc3184</idno>
+            <idno>(OCoLC)12685679</idno>
+            <idno type="cico">4233</idno>
+            <idno type="dcl">8gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il forestiere informato delle cose di Lucca : opera / del reverendo signore Vincenzo Marchiò Lucchese.</title>
+                  <respStmt>
+                     <persName>Marchiò, Vincenzo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Lucca : Salvatore e Giandomenico Marescandoli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Lucca (Italy)</pubPlace>
+                     <pubPlace>Italy Lucca.</pubPlace>
+                     <date>1721</date>
+                  </imprint>
+                  <extent>[14], 357 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c73f9bd8-63fe-4f97-b552-1bbd2c91c3d2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c73f9bd8-63fe-4f97-b552-1bbd2c91c3d2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il forestiere informato delle cose di Lucca [microform] : opera / del reverendo Signore Vincenzo Marchio, Lucchese....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bj1x82</idno>
+            <idno type="cico">4233</idno>
+            <idno type="dcl">8gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il forestiere informato delle cose di Lucca [microform] : opera / del reverendo Signore Vincenzo Marchio, Lucchese....</title>
+                  <respStmt>
+                     <persName>Marchio, Vincenzo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Salvatore e Giandomenico Marescandoli</publisher>
+                     <pubPlace>Lucca (Italy)</pubPlace>
+                     <date>1721</date>
+                  </imprint>
+                  <extent>358 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/56e7c86f-c661-4680-96c6-3f2034095f5e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/56e7c86f-c661-4680-96c6-3f2034095f5e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

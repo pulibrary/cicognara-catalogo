@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3004</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3004</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SIRIES Louis</author>, <title>Catalogue des pierres gravées par lui-même</title>, <pubPlace>Florence</pubPlace> <date>1757</date>, in 4, fig.
+<note>Cento sessanta otto pietre incise da questo intagliatore sono descritte e le sei grandi tavole al fine del libro non
+presentano che la varia grandezza e non il disegno dei soggetti descritti.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des pierres gravées [microform] / par Louis Siries ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rz1n79</idno>
+            <idno type="cico">3004</idno>
+            <idno type="dcl">k5d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des pierres gravées [microform] / par Louis Siries ...</title>
+                  <respStmt>
+                     <persName>Siries, Louis.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Florence : Chez André Bonducci</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>48 p., VI folded leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/932ad4f5-bfb4-442d-a293-0ac076061649/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/932ad4f5-bfb4-442d-a293-0ac076061649/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

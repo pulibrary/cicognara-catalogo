@@ -1,0 +1,82 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 416</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">416</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BAROZZIO Giacomo da Vignola</author>, 
+                     <title>Regola delli cinque ordini d’architettura in 32 tavole.</title>
+	                    <note>Ogni ragione fa giudicare questa per la prima edizione forse del 1563, quantunque senza
+	luogo ed anno.</note>
+	                    <note>Rarissimo è l’incontrare esemplari di questa edizione bea conservati come il nostro, per essere stati molto
+	adoperati e consunti dagli studiosi. Appartenne questo alle biblioteche Bianconi poi Bossi. Bellissimo è il ritratto
+	dell’autore nel frontespizio ; nel secondo foglio è il privilegio di Pio IV; nel terzo la dedica al Cardinal Farnese e
+	<fw type="foot"/>
+	                       <pb type="memofonte"/>
+	                       <fw type="head"/>
+	seguono i fogli sino al 32 colle dichiarazioni intagliate in rame sotto le tavole. Vedine un altro esemplare
+	all’articolo Labacco, con cui legato.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regola delli cinqve ordini d'architettvra di M. Iacomo Barozzio da Vignola.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923149590001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/bd578v</idno>
+            <idno>(OCoLC)3590624</idno>
+            <idno type="cico">416</idno>
+            <idno type="cico">538</idno>
+            <idno type="dcl">wcg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regola delli cinqve ordini d'architettvra di M. Iacomo Barozzio da Vignola.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Roma]</publisher>
+                     <pubPlace>Italien</pubPlace>
+                     <date>[1563]</date>
+                     <date>1563</date>
+                  </imprint>
+                  <extent>XXXII, [5] plates (including t.-p.)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/7dbd2868-4e89-41d4-b3f4-026181c951a3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/7dbd2868-4e89-41d4-b3f4-026181c951a3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

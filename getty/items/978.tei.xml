@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 978</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">978</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CHIUSOLE Conte Adamo</author>, <title>Dell’arte pittorica lib. VIII</title>, con aggiunta di componimenti diversi,
+      <pubPlace>Venezia</pubPlace> <date>1768</date>, in 8.
+      <note>Con piccole incisioni ai capi canti.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'arte pittorica libri VIII [microform] : coll'aggiunta di componimenti diversi / del conte Adamo Chiusole ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3w0j7n</idno>
+            <idno type="cico">978</idno>
+            <idno type="dcl">kgp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'arte pittorica libri VIII [microform] : coll'aggiunta di componimenti diversi / del conte Adamo Chiusole ...</title>
+                  <respStmt>
+                     <persName>Chiusole, Adamo, 1729-1787 .</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Caroboli e Pompeati Compagni</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>295, [1] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81a6edce-eb35-4b57-b5df-40353bee6d64/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81a6edce-eb35-4b57-b5df-40353bee6d64/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

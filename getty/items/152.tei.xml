@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 152</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">152</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>LAIRESSE</author>, 
+                     <title>Le grand livre des peintres, ou l’art de la peinture considéré dans toutes ses parties
+	  ec. Au quel on a joint les principes du dessin, du même auteur, traduit de l’hollandois sur la
+	  seconde édition avec 35 planches en taille douce,</title> 
+                     <extent>vol. 2, in 4,</extent> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1787.</date>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le grand livre des peintres [microform] : ou, L'art de la peinture considéré dans toutes ses parties, &amp; démontré par principes; avec des réflexions sur les ouvrages de quelques bons maîtres, &amp; sur les défauts qui s'y trouvent / Par Gérard de Lairesse ; auquel on a joint les Principes du dessin du même auteur ; traduit du hollandois sur la seconde édition ; avec XXXV planches en taille-douce.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jansen, Hendrik, 1741-1812.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dv324r</idno>
+            <idno type="cico">152</idno>
+            <idno type="dcl">52q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le grand livre des peintres [microform] : ou, L'art de la peinture considéré dans toutes ses parties, &amp; démontré par principes; avec des réflexions sur les ouvrages de quelques bons maîtres, &amp; sur les défauts qui s'y trouvent / Par Gérard de Lairesse ; auquel on a joint les Principes du dessin du même auteur ; traduit du hollandois sur la seconde édition ; avec XXXV planches en taille-douce.</title>
+                  <respStmt>
+                     <persName>Lairesse, Gérard de, 1640-1711.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : A l'hôtel de Thou</publisher>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>19 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/daf6777f-87ed-4dd7-b76c-fc708168d0c9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/daf6777f-87ed-4dd7-b76c-fc708168d0c9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

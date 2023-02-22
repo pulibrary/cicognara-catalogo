@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1581</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1581</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BEAUMONT</author>, <title>L’enciclopedie Perruquiere à l’usage de toute sorte de têtes</title>, enrichie de figures,
+    <pubPlace>Paris</pubPlace> <date>1757</date>, in 8.
+    <note>Con 45 tavole all’acquaforte, libretto di qualche rarità.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enciclopédie perruquiere [microform] : ouvrage curieux a l'usage de toutes sortes de têtes ... / par M. Beaumont ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fn9r46</idno>
+            <idno type="cico">1581</idno>
+            <idno type="dcl">fw2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'enciclopédie perruquiere [microform] : ouvrage curieux a l'usage de toutes sortes de têtes ... / par M. Beaumont ...</title>
+                  <respStmt>
+                     <persName>Marchand, Jean-Henri, -approximately 1785.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam et se trouve a Paris : Chez l'Auteur et chez Hochereau</publisher>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>[2], 37, [1] p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f4b91543-c0f4-484f-afcb-0f4400f47159/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f4b91543-c0f4-484f-afcb-0f4400f47159/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

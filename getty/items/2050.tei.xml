@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2050</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2050</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>IMAGINES Sanctorum Francisci et qui ex tribus eius ordinibus relati sunt inter divos cum
+  elogiis</title>, auct. F. Honrico Sedulio, <pubPlace>Antuerpiae</pubPlace>, ap. <publisher>Phil.Gallaeum</publisher>, <date>1602</date>, in 8, fig. M. 95.
+  <note>Sonovi 10 tavole oltre il frontespizio figurato, le quali furono sì largamente intagliate per lo stile del bulino, che
+  superano il merito ordinario delle opere di questo diligente intagliatore.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imagines Sanctorum Francisci et qui ex tribus eius ordinibus relati sunt inters divos [microform] : cum elogiis / auct. F. Henrico Sedulio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f54z05</idno>
+            <idno type="cico">2050</idno>
+            <idno type="dcl">6s6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Imagines Sanctorum Francisci et qui ex tribus eius ordinibus relati sunt inters divos [microform] : cum elogiis / auct. F. Henrico Sedulio.</title>
+                  <respStmt>
+                     <persName>Sedulius, Henricus, approximately 1547-1621.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiae : Apud Philippum Gallaeum</publisher>
+                     <date>1602</date>
+                  </imprint>
+                  <extent>23 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5a47b3b0-ad33-4046-948d-167b6dc1571e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5a47b3b0-ad33-4046-948d-167b6dc1571e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

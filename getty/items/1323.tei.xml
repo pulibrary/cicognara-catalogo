@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1323</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1323</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GUATTANI Giuseppe Antonio</author>, <title>Monumenti antichi inediti, ovvero notizie sulle antichità e
+    belle Arti di Roma</title>, vol. 6, legati in 3.
+    <note>Comincia nell’anno <date>1784</date> e finisce col <date>1789</date>,</note> <pubPlace>Roma</pubPlace>
+                    <note> in 4, fig.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenti antichi inediti ovvero notizie sulla antichità e belle arti di Roma .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gf2k6p</idno>
+            <idno type="cico">1323</idno>
+            <idno type="dcl">s82</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti antichi inediti ovvero notizie sulla antichità e belle arti di Roma .. [microform]</title>
+                  <respStmt>
+                     <persName>Guattani, Giuseppe Antonio, 1748-1830.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Stamperia Pagliarini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1784-1789</date>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>6 v.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/41171289-5408-431b-8414-62633a0a6adc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/41171289-5408-431b-8414-62633a0a6adc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

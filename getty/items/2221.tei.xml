@@ -1,0 +1,116 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2221</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2221</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BUMALDO Jo. Antonius</author>, <title>Minervalia Bonon. civium anademata seu Biblìotheca Bononiensis.</title>
+    Cui accessit brevis catalogus antiquorum pictorum et sculptorum Bonon., <pubPlace>Bononiae</pubPlace> <date>1641</date>, in
+    12.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Minerualia Bonon. ciuium anademata, seu, Bibliotheca Bononiensis [microform] : cui accessit antiquiorum pictorum, &amp; sculptorum Bonon. breuis catalogus / collectore Io. Antonio Bumaldo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sg415n</idno>
+            <idno type="cico">2221</idno>
+            <idno type="dcl">n55</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Minerualia Bonon. ciuium anademata, seu, Bibliotheca Bononiensis [microform] : cui accessit antiquiorum pictorum, &amp; sculptorum Bonon. breuis catalogus / collectore Io. Antonio Bumaldo.</title>
+                  <respStmt>
+                     <persName>Montalbani, Ovidio, 1601-1671.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Typis Haeredis Victorij Benatij</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Bologna (Italy)</pubPlace>
+                     <date>1641</date>
+                  </imprint>
+                  <extent>264 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/30face4a-f558-4dd1-a2f1-eaa07b002dcf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/30face4a-f558-4dd1-a2f1-eaa07b002dcf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Minervalia Bonon. Ciuium Anademata, Sev Bibliotheca Bononiensis</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Montalbani, Ovidio, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-279235</idno>
+            <idno type="URI">http://portal.getty.edu/api/9z171c</idno>
+            <idno type="cico">2221</idno>
+            <idno type="dcl">n55</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Minervalia Bonon. Ciuium Anademata, Sev Bibliotheca Bononiensis</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1641</date>
+                     <date>1641</date>
+                  </imprint>
+                  <extent>264 S.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/montalbani1641/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/montalbani1641/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

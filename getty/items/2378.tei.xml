@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2378</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2378</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>TEMANZA</author>, <title>Vite de’ più celebri architetti e scultori veneziani che fiorirono nel secolo XVI,
+    </title>
+                    <pubPlace>Venezia</pubPlace> <date>1778</date>, in 4, nella stamperia Palese.
+    <note>Eccellente opera e la sola che fin’ora abbia conservate a noi le memorie de’ primi architetti dopo il risorgimento
+    dell’arte, che sono i veneziani, con pace e con rispetto di tutte le altre nazioni.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite dei più celebri architetti, e scultori veneziani che fiorirono nel secolo decimosesto [microform] / scritte da Tommaso Temanza ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hm3j57</idno>
+            <idno type="cico">2378</idno>
+            <idno type="dcl">m2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite dei più celebri architetti, e scultori veneziani che fiorirono nel secolo decimosesto [microform] / scritte da Tommaso Temanza ...</title>
+                  <respStmt>
+                     <persName>Temanza, Tommaso, 1705-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Nella stamperia di C. Palese</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>2 v. in 1 (xiv, 550 p.)</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9fef96c3-e81b-4e33-9dd4-f6bf1d870325/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9fef96c3-e81b-4e33-9dd4-f6bf1d870325/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

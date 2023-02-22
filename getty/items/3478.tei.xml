@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3478</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3478</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> ANTIQUITÉS dans la collection de S. M. le Roi de Prusse à S. Souci divisée en 2 parties, contenant 12 planches
+chaque partie</title>, <pubPlace>Berlin</pubPlace> <date>1769, et 1772</date>, in fol.
+<note>Queste 24 tavole mediocremente disegnate ed incise a Potsdam da L. Kruger all’acqua forte indicano la
+provenienza di alcuno di quei busti, ma rendono una debole idea delle opere.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiquité́s dans la collection de Sa Majesté le roi de Prusse à Sans-Souci [microform] : contenant douze planches d'après les plus beaux bustes, demi-bustes et thermes / dessinées et gravées par L. Krüger ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p2850d</idno>
+            <idno type="cico">3478</idno>
+            <idno type="dcl">kgb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiquité́s dans la collection de Sa Majesté le roi de Prusse à Sans-Souci [microform] : contenant douze planches d'après les plus beaux bustes, demi-bustes et thermes / dessinées et gravées par L. Krüger ...</title>
+                  <respStmt>
+                     <persName>Krüger, L.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Berlin : Imprimée Chez Guillaume Birnstiel</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1769-1772</date>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>2 pts.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4af18aa2-60fb-44dc-98c5-4c90b197c307/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4af18aa2-60fb-44dc-98c5-4c90b197c307/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

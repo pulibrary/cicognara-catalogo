@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 281</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">281</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>GUASCO</author>, <title>De l’usage des statues chez les anciens. Essai historique,</title> 
+                     <pubPlace>à Bruxelles</pubPlace> 
+                     <date>1768</date>,<extent> in 4.</extent>
+	                    <note>Con dodici tavole intagliate in rame: edizione però tanto scorretta che nel nostro esemplare trovansi al fine
+	aggiunti sette foglietti manoscritti impiegati al registro degli errori e correzioni e forse dall’autore medesimo, o
+	per suo ordine, eseguite. Opera commendevole e piena di buona erudizione.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'usage des statues chez les anciens [microform] : essai historique ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984942043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dt4b8n</idno>
+            <idno type="cico">281</idno>
+            <idno type="dcl">cc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'usage des statues chez les anciens [microform] : essai historique ...</title>
+                  <respStmt>
+                     <persName>Guasco, Octavien de, comte de Clavières, 1712-1781.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Bruxelles : J. L. de Boubers</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>xxiij, 504, [1] p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8eee15ef-d20b-42bc-aeb0-de207f3b31a7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8eee15ef-d20b-42bc-aeb0-de207f3b31a7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'usage des statues chez les anciens. Essai historique ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boubers, Jean-Louis de, 1731-1804.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924663790001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nc2448</idno>
+            <idno>(OCoLC)12620509</idno>
+            <idno type="cico">281</idno>
+            <idno type="dcl">cc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De l'usage des statues chez les anciens. Essai historique ...</title>
+                  <respStmt>
+                     <persName>Guasco, Octavien de, Comte de Clavières, 1712-1781, author</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Bruxelles : J.L. de Boubers</publisher>
+                     <pubPlace>Belgium Brussels</pubPlace>
+                     <date>MDCCLXVIII [1768]</date>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>1 preliminary leaf, xxiii, 504 (i.e. 505), [1] pages 1 leaf, XII (i.e. 14) leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/70b9df11-7740-47c8-87e8-cc4fe0e4711c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/70b9df11-7740-47c8-87e8-cc4fe0e4711c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

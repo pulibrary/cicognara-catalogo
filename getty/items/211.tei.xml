@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 211</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">211</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>SOGGETTI per quadri ad uso de’ giovani pittori,</title> 
+                     <pubPlace>Vienna</pubPlace>, <publisher>nella stamperia Alberti,</publisher> 
+                     <date>1798</date>,<extent> in 8.</extent>
+	  L’anonimo di questa scelta fatta dall’Iliade, dall’Eneide e dalla Gerusalemme liberata in 36 soggetti, è il M.
+	  Malaspina.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soggetti per quadri ad uso de'giovani pittori [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9z691g</idno>
+            <idno type="cico">211</idno>
+            <idno type="dcl">x4x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Soggetti per quadri ad uso de'giovani pittori [microform]</title>
+                  <respStmt>
+                     <persName>Malaspina di Sannazaro, Luigi, marchese, 1754-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vienna : Nella Stamperia Alberti</publisher>
+                     <date>1798</date>
+                  </imprint>
+                  <extent>[16], 188 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/61ccdfc2-f4be-4459-a99b-5f6b6d30f704/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/61ccdfc2-f4be-4459-a99b-5f6b6d30f704/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soggetti per quadri ad uso de' giovani pittori.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923759010001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w13p6b</idno>
+            <idno>(OCoLC)40179222</idno>
+            <idno type="cico">211</idno>
+            <idno type="dcl">x4x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Soggetti per quadri ad uso de' giovani pittori.</title>
+                  <respStmt>
+                     <persName>Malaspina di Sannazaro, Luigi, marchese, 1754-1835</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vienna : Nella stamperia Alberti</publisher>
+                     <pubPlace>Austria Vienna.</pubPlace>
+                     <date>MDCCXCVIII [1798]</date>
+                     <date>1798</date>
+                  </imprint>
+                  <extent>[16], 188 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/0ba9ef0c-441e-4923-9483-85a18ef0cff1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0ba9ef0c-441e-4923-9483-85a18ef0cff1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

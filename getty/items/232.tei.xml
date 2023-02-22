@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 232</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">232</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>Da VINCI Lionardo</author>, 
+                     <title>Trattato della pittura nuovamente dato in luce colla vita dell’istesso autore
+	  scritta da Raffaello Dufresne,</title> 
+                     <pubPlace>Parigi</pubPlace>, presso <publisher>Giacomo Langlois</publisher>, <date>1651</date>, <extent>fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato della pittura di Lionardo da Vinci : nuovamente date in luce, colla vita dell'istesso autore / scritta da Rafaelle du Fresne ; si sono giunti i tre libri della pittura, ed il Trattato della statua di Leone Battista Alberti, colla vita del medesimo, e di nuovo ristampato, corretto, ed a maggior perfezione condotto.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sesoni, Francesco, 1705-</authority>
+            <authority>Trichet du Fresne, Raphael, 1611-1661</authority>
+            <authority>Bartoli, Cosimo, 1503-1572</authority>
+            <authority>Poussin, Nicolas, 1594?-1665</authority>
+            <authority>Alberti, Leon Battista, 1404-1472. De pictura</authority>
+            <authority>Alberti, Leon Battista, 1404-1472. De statua.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923839360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6c6v0j</idno>
+            <idno>(OCoLC)82374465</idno>
+            <idno type="cico">233</idno>
+            <idno type="dcl">h5n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato della pittura di Lionardo da Vinci : nuovamente date in luce, colla vita dell'istesso autore / scritta da Rafaelle du Fresne ; si sono giunti i tre libri della pittura, ed il Trattato della statua di Leone Battista Alberti, colla vita del medesimo, e di nuovo ristampato, corretto, ed a maggior perfezione condotto.</title>
+                  <respStmt>
+                     <persName>Leonardo, da Vinci, 1452-1519</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Naples] : In Parigi, appresso Giacomo Langlois, stampatore ordinario del Re Cristianissimo</publisher>
+                     <date>1651 ;</date>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>[16], 115, [10], 55, [1] p., [2] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b9d4b0e4-25db-498e-87dd-699896fe48c9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b9d4b0e4-25db-498e-87dd-699896fe48c9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

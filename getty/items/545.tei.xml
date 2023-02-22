@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 545</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">545</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>LAUGIER</author>, 
+                     <title>Essai sur l’architecture: nouvelle édition avec un dictionnaire des termes et des
+	planches qui en facilitent l’explication,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1733,</date> 
+                     <extent>en 8, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essai sur l'architecture / par le p. Laugier ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Duchesne, Nicolas-Bonaventure, 1711?-1765.</authority>
+            <authority>Fonbonne, Anne, active 18th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928523170001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w37h4w</idno>
+            <idno>(OCoLC)3568046</idno>
+            <idno type="cico">545</idno>
+            <idno type="dcl">m82</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essai sur l'architecture / par le p. Laugier ...</title>
+                  <respStmt>
+                     <persName>Laugier, Marc-Antoine, 1711-1769.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Duchesne, Libraire, rue S. Jacques, au-dessous de la Fontaine S. Benoît, au Temple du Goût</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>MDCCLV [1755]</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>xliv, [4], 316, [4] p. (1st leaf blank), [9] leaves of plates (8 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/2f81ac4f-098a-4687-a78c-b6d2efaaea4f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2f81ac4f-098a-4687-a78c-b6d2efaaea4f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essai sur l'architecture [microform] / par le P. Laugier ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/508j4v</idno>
+            <idno type="cico">545</idno>
+            <idno type="dcl">m82</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essai sur l'architecture [microform] / par le P. Laugier ...</title>
+                  <respStmt>
+                     <persName>Laugier, Marc-Antoine, 1711-1769.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Duchesne</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>xliv, [4], 316, [4] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/534036fd-76c9-40f1-8b66-c0fac14e697c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/534036fd-76c9-40f1-8b66-c0fac14e697c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

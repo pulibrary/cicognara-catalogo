@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3711</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3711</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FABBRICII Georgii Chemnicensis</author>, <title>Romanarum antiquitatum libri duo ex aere, marmoribus, saxis, membranisve
+veteribus collecti ab eodem</title>. Itinerum liber I, <pubPlace>Basilae</pubPlace> typis <publisher>Oporinianis</publisher> <date>1587</date>, in 12.
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+FALDA Giovan Battista, Vedi Ferrerio, e vedi Rossi Giovan Giacomo.
+<pb type="cico" n="190"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Georgii Fabricii chemnicensis Roma [microform] ; Antiquitatum libri duo : ex aere, marmoribus, saxis membranísue ueteribus collecti ab eodem ; Itinerum lib. I. : auctiora omnia, cum rerum &amp; verborum in omnibus hisce memorabilium indicibus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fabricius, Georg, 1516-1571. Antiquitatum libri duo.</authority>
+            <authority>Fabricius, Georg, 1516-1571. Itinerum lib. I.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985421083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4n193k</idno>
+            <idno type="cico">3711</idno>
+            <idno type="dcl">h5j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Georgii Fabricii chemnicensis Roma [microform] ; Antiquitatum libri duo : ex aere, marmoribus, saxis membranísue ueteribus collecti ab eodem ; Itinerum lib. I. : auctiora omnia, cum rerum &amp; verborum in omnibus hisce memorabilium indicibus.</title>
+                  <respStmt>
+                     <persName>Fabricius, Georg, 1516-1571.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Greek, Modern (1453-)</textLang>
+                  <imprint>
+                     <publisher>Basileae : Typis Oporinianis</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1587</date>
+                  </imprint>
+                  <extent>3 pts.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/638167d5-0520-475d-b1c3-34db0ec3e980/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/638167d5-0520-475d-b1c3-34db0ec3e980/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

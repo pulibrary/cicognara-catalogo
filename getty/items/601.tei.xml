@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 601</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">601</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>PATTE</author>, 
+                     <title>Mémoires sur les objets les plus importants de l’architectur,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1769,</date> 
+                     <extent>in 4, gr. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoires sur les objets les plus importans de l'architecture / par M. Patte ... ; ouvrage enrichi de nombre de planches gravées en taille-douce.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rozet, Benoît, 1732?-approximately 1794</authority>
+            <authority>Marvie, Martin, 1713-1813</authority>
+            <authority>Caron, Nicolas, 1719-1768</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925960750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jn7b2g</idno>
+            <idno>(OCoLC)2858382</idno>
+            <idno type="cico">601</idno>
+            <idno type="dcl">zr7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoires sur les objets les plus importans de l'architecture / par M. Patte ... ; ouvrage enrichi de nombre de planches gravées en taille-douce.</title>
+                  <respStmt>
+                     <persName>Patte, Pierre, 1723-1814</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Rozet, libraire, rue Saint Severin, au coin de la rue Zacharie, à la Rose-d'Or</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>M.DCC.LXIX [1769]</date>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>[8], 375, [1] p. (the last blank), XXVII leaves of plates (26 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/32d16493-315f-4108-ad03-60f4a5f9053f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/32d16493-315f-4108-ad03-60f4a5f9053f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoires sur les objets les plus importans de l'architecture [microform] / par m. Patte ... ; ouvrage enrichi de nombre de planches gravées en taille-douce.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985130943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gs7f61</idno>
+            <idno type="cico">601</idno>
+            <idno type="dcl">zr7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoires sur les objets les plus importans de l'architecture [microform] / par m. Patte ... ; ouvrage enrichi de nombre de planches gravées en taille-douce.</title>
+                  <respStmt>
+                     <persName>Patte, Pierre, 1723-1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Rozet</publisher>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>[6], 375 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0af0cb79-d447-4719-accb-d5701ce2492b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0af0cb79-d447-4719-accb-d5701ce2492b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

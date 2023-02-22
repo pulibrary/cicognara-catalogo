@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3742</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3742</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GADDI Giovan Battista</author>, <title>Roma nobilitata nelle sue fabbriche dalla Santità di N. S. Clemente XII.</title>
+— Aggiuntovi<title> il Campidoglio illustrato</title>, <pubPlace>Roma</pubPlace> <date>1736</date>, in 4, M. 5.
+<note>Quest’opera è stampata con qualche eleganza, e il primo libro è distinto in 12 descrizioni, e il secondo in 8 capitoli
+senza tavole.</note>
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma nobilitata nelle sue fabbriche dalla santità di nostro signore Clemente XII [microform] / descritta da Monsignor Giambattista Gaddi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z8186m</idno>
+            <idno type="cico">3742</idno>
+            <idno type="dcl">7w7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma nobilitata nelle sue fabbriche dalla santità di nostro signore Clemente XII [microform] / descritta da Monsignor Giambattista Gaddi ...</title>
+                  <respStmt>
+                     <persName>Gaddi, Giovanni Battista.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Antonio de' Rossi</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1736</date>
+                  </imprint>
+                  <extent>209 p.</extent>
+                  <extent>4 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/625447f1-7cb5-4a1a-91c6-66c0ffb27002/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/625447f1-7cb5-4a1a-91c6-66c0ffb27002/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

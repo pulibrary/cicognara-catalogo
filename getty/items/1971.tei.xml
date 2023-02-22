@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1971</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1971</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VAENIUS Otho</author>, <title>Le théatre moral de la vie humaine representée en plus de cent tableaux divers
+    tirez du poete Horace et expliqués par le sieur de Gombervilie avec la table de Cebès</title>, <pubPlace>Brux.</pubPlace>
+    <date>1662</date>, in fol.
+    <note>Sono cento e tre tavole con lusso di esecuzione, non compresa la tavola di Cebete. In principio è il bellissimo
+    ritratto di Ottone Venio dipinto da Geltrude sua figlia, intagliato da Paolo Pontio: a quest’opera servirono le
+    bellissime tavole dell’Emblemata Horatiana.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le theatre moral de la vie humaine [microform] : representée en plus de cent tableaux divers, tirez du poëte Horace / par le Sieur Otho Venius, et expliquez en autant de discours moraux par le Sieur de Gomberville ; avec la table du philosophe Cebes.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Horace.</authority>
+            <authority>Gomberville, M. Le Roy (Marin Le Roy), sieur de, 1600-1674.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985338533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5h6g4z</idno>
+            <idno type="cico">1971</idno>
+            <idno type="dcl">230</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le theatre moral de la vie humaine [microform] : representée en plus de cent tableaux divers, tirez du poëte Horace / par le Sieur Otho Venius, et expliquez en autant de discours moraux par le Sieur de Gomberville ; avec la table du philosophe Cebes.</title>
+                  <respStmt>
+                     <persName>Veen, Otto van, 1556-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Bruxelles : Chez François Foppens</publisher>
+                     <date>1672</date>
+                  </imprint>
+                  <extent>xj, 211, 16 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/50ad5e25-764c-42c7-a107-2d1fc5150f31/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/50ad5e25-764c-42c7-a107-2d1fc5150f31/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

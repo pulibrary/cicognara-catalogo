@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 842</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">842</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>KIRCHERII Athanasii</author>, <title>Ars magna lucis et umbrae in X libros digesta</title>, <pubPlace>Roma</pubPlace> <date>1646</date>, in fol. fig.
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Athanasii Kircheri ... Ars magna lucis et vmbrae in decem libros digesta [microform] : quibus admirandae lucis et vmbrae in mundo, atque adeò vniuersa natura, vires effectusq[ue] vti noua, ita varia nouorum reconditiorumq[ue] speciminum exhibitione, ad varios mortalium vsus, panduntur.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985240363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bj8v07</idno>
+            <idno type="URI">http://portal.getty.edu/api/gw164p</idno>
+            <idno type="URI">http://portal.getty.edu/api/r9211z</idno>
+            <idno type="cico">842</idno>
+            <idno type="dcl">z8m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Athanasii Kircheri ... Ars magna lucis et vmbrae in decem libros digesta [microform] : quibus admirandae lucis et vmbrae in mundo, atque adeò vniuersa natura, vires effectusq[ue] vti noua, ita varia nouorum reconditiorumq[ue] speciminum exhibitione, ad varios mortalium vsus, panduntur.</title>
+                  <respStmt>
+                     <persName>Kircher, Athanasius, 1602-1680.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Sumptibus Hermanni Scheus ; Ex typographia Ludouici Grignani</publisher>
+                     <date>1646</date>
+                  </imprint>
+                  <extent>[40], 935, [15] p.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/85ff78b3-cf33-4701-b8cc-a556dc3b03bb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/85ff78b3-cf33-4701-b8cc-a556dc3b03bb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

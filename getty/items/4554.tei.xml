@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4554</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4554</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GOTTELF Sidner</author>, <title>Catalogue d’estampes choisies, desseins, médailles, etc. du Cabinet du sieur Jean Casanova</title>,
+                           <date>1797</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une collection d'estampes choisies et bien conservées de toutes les ecoles, livres d'estampes et arts, desseins, et d'une collection très rare de monnoies et medailles en or et en argent [microform] : delaissée par feu Jean Casanova ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lindner, Henri Gotthelf.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mc5506</idno>
+            <idno type="cico">4554</idno>
+            <idno type="dcl">bkg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une collection d'estampes choisies et bien conservées de toutes les ecoles, livres d'estampes et arts, desseins, et d'une collection très rare de monnoies et medailles en or et en argent [microform] : delaissée par feu Jean Casanova ...</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>[1797]</date>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>4 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cee64eb7-2a96-4fe0-8be6-fffa423a9811/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cee64eb7-2a96-4fe0-8be6-fffa423a9811/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

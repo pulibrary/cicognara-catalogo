@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4206</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4206</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CARLIERI Carlo Maria</author>, <title>Lo stesso ristretto</title>, <date>1733</date>, in 12.
+Tutti co<note>loro che vollero restringere e metter le mani nel Bocchi e nel Cinelli per modificarli, non fecero che
+   guastarli</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ristretto delle cose più notabili della città di Firenze [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marmi, Anton Francesco, 1665-1736.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985432103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bk6s05</idno>
+            <idno type="cico">4206</idno>
+            <idno type="dcl">7w8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ristretto delle cose più notabili della città di Firenze [microform].</title>
+                  <respStmt>
+                     <persName>Bruno, Raffaello del.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stampería di Bernardo Paperini, per il Carlieri</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>XXXII, 207 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/59f49848-d4cc-48b8-b040-e4f8d6337d74/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/59f49848-d4cc-48b8-b040-e4f8d6337d74/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

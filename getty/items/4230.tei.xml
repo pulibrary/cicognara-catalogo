@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4230</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4230</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BARJAUD et Landon</author>, <title>Description de Londres et ses édifices</title>, a <pubPlace>Paris</pubPlace> <date>1810</date>, in 8.
+<note>Guida assai ben fatta con belle tavole in rame, e utile, e comoda ai viaggiatori.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de Londres et de ses édifices [microform] : avec un précis historique et des observations sur le caractère de leur architecture, et sur les principaux objects d'art et de curiosité qu'ils renferment / par J.-B. Barjaud, et C.P. Landon ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Landon, C. P. (Charles Paul), 1760-1826.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985426503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6x6c96</idno>
+            <idno type="cico">4230</idno>
+            <idno type="dcl">436</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de Londres et de ses édifices [microform] : avec un précis historique et des observations sur le caractère de leur architecture, et sur les principaux objects d'art et de curiosité qu'ils renferment / par J.-B. Barjaud, et C.P. Landon ...</title>
+                  <respStmt>
+                     <persName>Barjaud, Jean Baptiste Benoît, 1785-1813.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez C.P. Landon</publisher>
+                     <pubPlace>England</pubPlace>
+                     <pubPlace>London (England)</pubPlace>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>viij, 239, 4 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/019aa0d0-4263-47b8-aee5-6b5078b35bfd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/019aa0d0-4263-47b8-aee5-6b5078b35bfd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,84 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 77</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">77</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BARDON Dandré</author>,
+                     <title> Traité de peinture suivi d’un essais sur la sculture, et un catalogue des artistes
+	  les plus fameux de l’Ecole Française,</title> 
+                     <ex>2 vol. in 8, leg. in un solo,</ex> 
+                     <pubPlace>Paris</pubPlace>
+                     <date> 1765.</date>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de peinture, suivi d'un essai sur la sculpture. Pour servir d'introduction à une histoire universelle, relative à ces beaux-arts. Par M. Dandré Bardon ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Desaint, Jean, -1776</authority>
+            <authority>Le Prieur, Pierre-Alexandre, 1722-</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928127950001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ps791x</idno>
+            <idno type="URI">http://portal.getty.edu/api/kq6z9h</idno>
+            <idno>(OCoLC)7013793</idno>
+            <idno type="cico">77</idno>
+            <idno type="dcl">6cc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de peinture, suivi d'un essai sur la sculpture. Pour servir d'introduction à une histoire universelle, relative à ces beaux-arts. Par M. Dandré Bardon ...</title>
+                  <respStmt>
+                     <persName>Dandré-Bardon, Michel François, 1700-1783</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris, chez Desaint</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/558f46d6-5213-4b94-a277-e664aad9cf5dhttps://media.getty.edu/iiif/manifest/d4da1273-0902-42f4-b185-1c4bc1d64fbc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/558f46d6-5213-4b94-a277-e664aad9cf5d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d4da1273-0902-42f4-b185-1c4bc1d64fbc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

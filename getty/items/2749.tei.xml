@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2749</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2749</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAUDOLET de Dairval</author>, <title>Histoire de Ptolomée Auletes; dissertation sur une pierre gravée antique du Cabinet de
+Madame</title>, <pubPlace>Paris</pubPlace> <date>1698</date>, in 12, fig.
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+<note>La pietra apparteneva a M. du Vivier. Nel volume sono molte altre medaglie intagliate a illustrazione
+dell’argomento. E in fine è un fragmento di Porfirio tratto dall’edizione di Eusebio, esposto da Giuseppe
+Scaligero.</note>
+<pb type="cico" n="43"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire de Ptolemée Auletes [microform] : dissertation sur une pierre gravée antique du Cabinet de Madame.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/db1388</idno>
+            <idno type="cico">2749</idno>
+            <idno type="dcl">jvv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire de Ptolemée Auletes [microform] : dissertation sur une pierre gravée antique du Cabinet de Madame.</title>
+                  <respStmt>
+                     <persName>Baudelot de Dairval, Charles-César, 1648-1722.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre Auboüin ... et Charles Clouzier</publisher>
+                     <pubPlace>Egypt</pubPlace>
+                     <date>1698</date>
+                  </imprint>
+                  <extent>xlvj, 464 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/79fbc8a7-6fe8-47b0-abbe-5d51ba034ed3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/79fbc8a7-6fe8-47b0-abbe-5d51ba034ed3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

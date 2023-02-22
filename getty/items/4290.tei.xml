@@ -1,0 +1,116 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4290</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4290</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <title>PARIS, et ses curiosités avec une notice historique, et déscriptive des environs de Paris</title>, nouvelle édition, <pubPlace>Paris</pubPlace>
+<date>1804</date>, in 12, 2 vol.
+<note>Questa è una ristretta, ma comoda guida di Parigi.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paris et ses curiosités [microform] : avec une notice historique et descriptive des environs de Paris.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pw567p</idno>
+            <idno type="cico">4290</idno>
+            <idno type="dcl">6cq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Paris et ses curiosités [microform] : avec une notice historique et descriptive des environs de Paris.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Marchand</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Paris (France)</pubPlace>
+                     <date>An XII--1804</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c4d74f87-6604-4f74-a029-33f99fce339a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c4d74f87-6604-4f74-a029-33f99fce339a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paris et ses curiosités : avec une notice historique et descriptive des environs de Paris.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990034493580203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/pc7g5c</idno>
+            <idno>(OCoLC)26011281</idno>
+            <idno type="cico">4290</idno>
+            <idno type="dcl">6cq/vol01</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Paris et ses curiosités : avec une notice historique et descriptive des environs de Paris.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Marchand, libraire</publisher>
+                     <pubPlace>Paris (France)</pubPlace>
+                     <pubPlace>France</pubPlace>
+                     <date>An XII. - 1804</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481724929"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481724929">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

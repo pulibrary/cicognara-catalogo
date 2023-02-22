@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3262</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3262</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MANUTII Aldi</author>, <title>De falsa antiquorum religione deque Larario, commentatio historica habita in florentissima
+                        Academia Pisana atque ex schedis MSS. nunc primum in lucem edita</title>, <pubPlace>Romae</pubPlace>
+                    <date> 1773</date>, in 8, M. 44.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aldi Manutii Paulli filii Aldi nepotis De falsa antiquorum religione deque larario [microform] : commentatio historica / habita in Florentissima academia Pisana ; atque ex Schedis mss. nunc primum in lucem edita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ww9h85</idno>
+            <idno type="cico">3262</idno>
+            <idno type="cico">4720</idno>
+            <idno type="dcl">48r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aldi Manutii Paulli filii Aldi nepotis De falsa antiquorum religione deque larario [microform] : commentatio historica / habita in Florentissima academia Pisana ; atque ex Schedis mss. nunc primum in lucem edita.</title>
+                  <respStmt>
+                     <persName>Manuzio, Aldo, 1449 or 1450-1515.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Rome? : s.n]</publisher>
+                     <date>[1773]</date>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>p. 157-272.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/67b992ae-eb26-4c83-b34c-5419e43286ae/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/67b992ae-eb26-4c83-b34c-5419e43286ae/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

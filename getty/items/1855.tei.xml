@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1855</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1855</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De BOOT Anselmi</author>, <title>Symbola varia diversorum Principum, Archiducum, Ducum, Comitum et
+    Marchionum totius Italiae</title>, <pubPlace>Arnhemiae</pubPlace> <date>1686</date>, in 12.
+    <note>Con più di 200 tavole intagliate diligentemente.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Symbola Varia diversorum Principum, Archiducum, Ducum, Comitum &amp; Marchionum Totius Italiae</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Boodt, Anselmus de, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-281423</idno>
+            <idno type="URI">http://portal.getty.edu/api/t9905g</idno>
+            <idno type="cico">1855</idno>
+            <idno type="dcl">rzd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Symbola Varia diversorum Principum, Archiducum, Ducum, Comitum &amp; Marchionum Totius Italiae</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1686</date>
+                     <date>1686</date>
+                  </imprint>
+                  <extent>[2] Bl., 487 S.</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/boodt1686/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/boodt1686/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Symbola varia diversorum Principum, Archiducum, Ducum, Comitum en Marchionum totius Italiae [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/012w61</idno>
+            <idno type="cico">1855</idno>
+            <idno type="dcl">rzd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Symbola varia diversorum Principum, Archiducum, Ducum, Comitum en Marchionum totius Italiae [microform].</title>
+                  <respStmt>
+                     <persName>Boodt, Anselmus de, 1550-1632.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Arnhemiae : Apud viduam Joh. Frid. Hagen</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1686</date>
+                  </imprint>
+                  <extent>487 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9e875beb-3467-4f46-a9ee-5256ce3f85d9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9e875beb-3467-4f46-a9ee-5256ce3f85d9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

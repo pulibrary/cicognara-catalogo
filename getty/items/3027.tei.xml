@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3027</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3027</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>URSINI Fulvii</author>, <title>Familiae romanae, quae reperiuntur in antiquis numismatibus ab urbe condita ad tempora Divi
+Augusti ex Bibliotheca Fulvii Ursini, adjunctis familiis XXX ex libro Antonii Augustini</title>, in fol., <pubPlace>Romae</pubPlace> <date>1577</date>,
+impensis <publisher>Francisci Tramezzini</publisher>, figurato.
+<note>Prima edizione e singolare pel modo con cui vennero intagliate le medaglie all’acqua forte senza alcun garbo. Il
+frontespizio è figurato e l’edizione è accurata quanto al testo. Le tavole sono collocate ai rispettivi luoghi
+nell’andamento dell’opera.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Familiae Romanae quae reperiuntur in antiquis numismatibus ab vrbe condita ad tempora Diui Augusti ex bibliotheca [microform] / Fulvi Vrsini: adiunctis familiis XXX ex libro Antoni Augustini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agustín, Antonio, 1517-1586. Ex libro de familiis Romanorum.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3k605g</idno>
+            <idno type="cico">3027</idno>
+            <idno type="dcl">5pd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Familiae Romanae quae reperiuntur in antiquis numismatibus ab vrbe condita ad tempora Diui Augusti ex bibliotheca [microform] / Fulvi Vrsini: adiunctis familiis XXX ex libro Antoni Augustini ...</title>
+                  <respStmt>
+                     <persName>Orsini, Fulvio, 1529-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Impensis haeredum Francisci Tramezini :</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1577</date>
+                  </imprint>
+                  <extent>[8], 403, [12] p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d596ec95-2d9c-4a5f-aa30-883842ceb287/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d596ec95-2d9c-4a5f-aa30-883842ceb287/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

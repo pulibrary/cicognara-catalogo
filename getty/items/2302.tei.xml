@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2302</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2302</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LÉPICIÉ</author>, <title>Catalogue raisonné des tableaux du Roy avec un Abregé de la vie des peintres fait
+    par ordre de S. M.</title>, vol. 2 rel. in 1, <pubPlace>Paris</pubPlace>, de <publisher>l’imprimérie Royale</publisher>, <date>1762</date>, in 4.
+    <note>Magnifica edizione col ritratto del Rre intagliato da Cochin ed impresso sopra la dedica.</note>
+<fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+    
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonné des tableaux du roy [microform] : avec un abrégé de la vie des peintres, fait par ordre de Sa Majeste / par M. Lépicié.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1n8r85</idno>
+            <idno type="cico">2302</idno>
+            <idno type="dcl">gnw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonné des tableaux du roy [microform] : avec un abrégé de la vie des peintres, fait par ordre de Sa Majeste / par M. Lépicié.</title>
+                  <respStmt>
+                     <persName>Lépicié, François Bernard, 1698-1755.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'Imprimerie royale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1752-1754</date>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>2 v. in 1</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ab97cb8b-e164-4e93-a5be-95db5cf34855/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ab97cb8b-e164-4e93-a5be-95db5cf34855/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

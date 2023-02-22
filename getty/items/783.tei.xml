@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 783</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">783</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>WYATT Beniamin</author>, <title>Observations on the design for the Theatre Royal Drury Lane as executed
+	in the year 1812</title>, <pubPlace>London</pubPlace> <date>1813</date>, in 4 fig.
+	<note>Opera stampata con ricchezza di tipi e con 18 tavole intagliate in rame accuratamente.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations on the design for the Theatre Royal, Drury Lane, as executed in the year 1812 [microform] : accompanied by plans, elevation, &amp; sections, of the same / By Benjamin Wyatt.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985210183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b79s05</idno>
+            <idno type="cico">783</idno>
+            <idno type="dcl">gs4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Observations on the design for the Theatre Royal, Drury Lane, as executed in the year 1812 [microform] : accompanied by plans, elevation, &amp; sections, of the same / By Benjamin Wyatt.</title>
+                  <respStmt>
+                     <persName>Wyatt, Benjamin Dean, 1775-1855.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for J. Taylor</publisher>
+                     <pubPlace>London (England)</pubPlace>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>xii, 77 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b8cf15d8-4b7c-4ccf-b093-b89a444778f6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b8cf15d8-4b7c-4ccf-b093-b89a444778f6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

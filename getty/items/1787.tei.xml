@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1787</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1787</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROUTH P. Bernard</author>, <title>Recerches sur la manière d’innumer des anciens à l’occasion des
+  tombeaux des Civaux eu Poitou</title>, <pubPlace>Poitiers</pubPlace> <date>1738</date>, in 12.
+  <note>Le note critiche manoscritte di M. Villoison cui appartenne questo esemplare indicano l’autore di quest’opera
+  accennato colle sole iniziali in forma anonima sul frontespizio.</note>
+  
+  <pb type="cico" n="307"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recherches sur la maniere d'inhumer des anciens a l'occasion des tombeaux de Civaux en Poitou [microform] / par le R. Pere B. R. Prêtre de la compagnie de Jesus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n74v3x</idno>
+            <idno type="cico">1787</idno>
+            <idno type="dcl">401</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recherches sur la maniere d'inhumer des anciens a l'occasion des tombeaux de Civaux en Poitou [microform] / par le R. Pere B. R. Prêtre de la compagnie de Jesus.</title>
+                  <respStmt>
+                     <persName>Routh, Bernard, 1695-1768.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Poitiers : Chez Jacques Faulcon</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1738</date>
+                  </imprint>
+                  <extent>xxjv, [2], 183, [5] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a34934a4-4d6d-45e4-8400-db8095cc575d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a34934a4-4d6d-45e4-8400-db8095cc575d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

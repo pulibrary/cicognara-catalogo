@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1189</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1189</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MINERVINO D. Ciro Saverio</author>, <title>Origine corso del fiume Meandro in occasione di un luogo di
+    Plinio</title>. Lettera al Conte della Torre Rezzonico, <pubPlace>Napoli</pubPlace> <date>1768</date>, in 8, fig., M. 61.
+    <note>Con una medaglia nel frontespizio e una gran carta topografica.</note>
+    
+    <pb type="cico" n="211"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Origine e corso del fiume Meandro [microform] : in occasione di un luogo di Plinio : lettera al signor conte Anton Gioseffo della Torre Rezzonico / di Ciro Saverio Minervino.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Della Torre Rezzonico, Gioseffo Anton, 1709-1785.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450753506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b1552p</idno>
+            <idno type="cico">1189</idno>
+            <idno type="dcl">tvc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Origine e corso del fiume Meandro [microform] : in occasione di un luogo di Plinio : lettera al signor conte Anton Gioseffo della Torre Rezzonico / di Ciro Saverio Minervino.</title>
+                  <respStmt>
+                     <persName>Minervino, Ciro Saverio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Napoli : Nella stamperia Simoniana</publisher>
+                     <pubPlace>Büyük Menderes River (Turkey)</pubPlace>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>115 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/609c7cf2-ab1c-4ad5-ab30-99874c1d9e5d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/609c7cf2-ab1c-4ad5-ab30-99874c1d9e5d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

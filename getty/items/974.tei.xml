@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 974</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">974</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ANSALDI Innocenzo</author>, <title>L’arte della pittura, traduzione in versi toscani del poema latino di Carlo
+      Alfonso Du Fresnoy</title>, <pubPlace>Lucca</pubPlace> <date>1813</date>, in 8, col testo a fronte, M. 46.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'arte della pittura : poema latino / di Carlo Alfonso Du-Fresnoy ; tradotto in versi toscani da Innocenzio Ansaldi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ansaldi, Innocenzo, 1734-1816.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924277870001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w6474</idno>
+            <idno>(OCoLC)77199657</idno>
+            <idno type="cico">974</idno>
+            <idno type="dcl">23c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arte della pittura : poema latino / di Carlo Alfonso Du-Fresnoy ; tradotto in versi toscani da Innocenzio Ansaldi.</title>
+                  <respStmt>
+                     <persName>Dufresnoy, Charles-Alphonse, 1611-1668.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Lucca : Dalla tipografia Francesco Bertini</publisher>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>xii, 62 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/21593ee5-9da5-4b27-9447-19e3873849c4"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/21593ee5-9da5-4b27-9447-19e3873849c4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

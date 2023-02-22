@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 899</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">899</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CLOCHARD</author>, <title>Mémoires explicatives des objets contenus dans la premiere et seconde
+      distribution du terrain du Château de Trompette pour les jardins et proménades publiliques de
+      Bordeaux</title>, in 4, figurato.
+      <note>Questo libro fu stampato nell’anno VIII della R. Francese con tutto il lusso il più elegante e con tre tavole in gran
+      foglio ove sono disegnati e intagliati i vari progetti di abbellimenti e monumenti per quella città; esemplare di
+      dedica.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoires explicatifs des objets contenus dans la première et seconde distribution générale du terrain du Château-Trompette [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cs8b6t</idno>
+            <idno type="URI">http://portal.getty.edu/api/5d1403</idno>
+            <idno type="URI">http://portal.getty.edu/api/3k727w</idno>
+            <idno type="cico">899</idno>
+            <idno type="dcl">6pf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoires explicatifs des objets contenus dans la première et seconde distribution générale du terrain du Château-Trompette [microform]</title>
+                  <respStmt>
+                     <persName>Clochar, Pierre, b. 1774.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris : Impr. d'Étienne Charles]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[1799?]</date>
+                     <date>1799</date>
+                  </imprint>
+                  <extent>[2], 40, [1] p., [3] folded leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e757f5a4-b13c-470c-8bfe-3df599ebc00a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e757f5a4-b13c-470c-8bfe-3df599ebc00a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

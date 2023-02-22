@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4571</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4571</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REGNAULT</author>, <title>Catalogue raisonné du Cabinet de M. Charles Leoffroy de St. Yves</title>, <pubPlace>Paris</pubPlace>
+                    <date> 1805</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonné du cabinet de feu Mr. Charles Léoffroy de Saint-Yves [microform] / par F.L. Regnault.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qn954g</idno>
+            <idno type="cico">4571</idno>
+            <idno type="dcl">kgm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonné du cabinet de feu Mr. Charles Léoffroy de Saint-Yves [microform] / par F.L. Regnault.</title>
+                  <respStmt>
+                     <persName>Regnault-Delalande, François Léandre, 1762-1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : F.L. Regnault :</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>xiv, 336 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1353edd5-25af-4152-9696-203f55e01b27/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1353edd5-25af-4152-9696-203f55e01b27/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

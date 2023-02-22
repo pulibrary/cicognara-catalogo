@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4416</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4416</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REMY</author>, <title>Catalogue raisonné des tableaux, desseins, estampes du Cabinet du Comte de Vence</title>, <pubPlace>Paris</pubPlace> <date>1760</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonné des tableaux, desseins, originaux et estampes, de feu M. le comte de Vence [microform] / par P. Remy.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c634s</idno>
+            <idno>(OCoLC)212132909</idno>
+            <idno type="cico">4416</idno>
+            <idno type="dcl">wvk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonné des tableaux, desseins, originaux et estampes, de feu M. le comte de Vence [microform] / par P. Remy.</title>
+                  <respStmt>
+                     <persName>Remy, Pierre, active 1749-1787.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris? : s.n]</publisher>
+                     <date>[1760]</date>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>xliv p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/974ab462-3330-4e0e-a2bc-e4a0c8099e63/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/974ab462-3330-4e0e-a2bc-e4a0c8099e63/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

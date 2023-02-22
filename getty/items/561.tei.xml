@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 561</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">561</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>MARQUEZ D. Pietro Gias.</author>, 
+                     <title>Esercitazioni architettoniche sopra gli spettacoli degli antichi con
+	un’appendice sul bello in generale,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1808,</date> 
+                     <extent>in 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esercitazioni architettoniche sopra gli spettacoli degli antichi : con appendice sul bello in generale ... / da Pietro Marquez messicano.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923828070001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sh4x8b</idno>
+            <idno>(OCoLC)11083271</idno>
+            <idno type="cico">561</idno>
+            <idno type="dcl">f8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Esercitazioni architettoniche sopra gli spettacoli degli antichi : con appendice sul bello in generale ... / da Pietro Marquez messicano.</title>
+                  <respStmt>
+                     <persName>Marquez, Pedro, 1741-1820.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso il Salomoni</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>vii, [1], 152 pages, III [i.e. 4] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/349537ec-8f7d-4414-b0f5-af27ea5844f2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/349537ec-8f7d-4414-b0f5-af27ea5844f2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esercitazioni architettoniche sopra gli spettacoli degli antichi : con appendice sul bello in generale .. [microform] / da Pietro Marquez ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5d8b37</idno>
+            <idno type="cico">561</idno>
+            <idno type="dcl">f8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Esercitazioni architettoniche sopra gli spettacoli degli antichi : con appendice sul bello in generale .. [microform] / da Pietro Marquez ...</title>
+                  <respStmt>
+                     <persName>Marquez, Pietro, 1741-1820.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso il Salomoni</publisher>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Rome.</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>vii, [1], 152 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/47ef6c64-a2c2-499d-8500-2bf611606af2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/47ef6c64-a2c2-499d-8500-2bf611606af2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

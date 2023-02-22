@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2562</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2562</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CASTILIONI Bonaventurae</author>, <title>Gallorum Insubrum antiquae sedes</title>, <pubPlace>Mediolani</pubPlace> VII idib. April. <date>1541</date>, in 4 parv.
+<note>Raro e prezioso libretto ove una serie di iscrizioni antiche fu per la prima volta prodotta per illustrare
+quest’antica abitazione dell’Insubria. Lo stampatore è un Giovanni Antonio Castiglioni.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gallorum insubrum antiquae sedes.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Casteliono, Giovanni Antonio, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926037020001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6k981p</idno>
+            <idno>(OCoLC)21604927</idno>
+            <idno type="cico">2562</idno>
+            <idno type="dcl">c01</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gallorum insubrum antiquae sedes.</title>
+                  <respStmt>
+                     <persName>Castiglione, Bonaventura, 1487-1555.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Mediolani : Ioannes Antonius Castillioneus Mediolani excudebat</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Lombardy (Italy)</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>VII idib. April. MDXXXXI [1541 April 7]</date>
+                     <date>1541</date>
+                  </imprint>
+                  <extent>133 [i.e. 123], [5] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/841b29f8-8f8a-45ec-90ab-7f3a81ab8dbd"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/841b29f8-8f8a-45ec-90ab-7f3a81ab8dbd">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gallorum insubrum antiquae sedes [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985405213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6f9z1x</idno>
+            <idno type="cico">2562</idno>
+            <idno type="dcl">c01</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gallorum insubrum antiquae sedes [microform].</title>
+                  <respStmt>
+                     <persName>Castiglione, Bonaventura, 1487-1555.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Mediolani : [Ioannes Antonius Castillioneus Mediolani excudebat]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1541</date>
+                  </imprint>
+                  <extent>133 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/808c77aa-5edb-4950-ac91-90d31202e002/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/808c77aa-5edb-4950-ac91-90d31202e002/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

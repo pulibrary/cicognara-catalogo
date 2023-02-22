@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2338</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2338</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>POLOMINO D. Antonio</author>, <title>El Museo Pictorico y escala optica theorica e practica de la pintura</title>,
+    vol. 2, in fol. fig, <pubPlace>Madrid</pubPlace> dall’anno <date>1716 al 1724</date>.
+    <note>Sono in questi volumi istoriati i frontespizi e vi stanno 17 tavole di proporzioni e notizie elementari
+    d’architettura e prospettiva. Non può ritenerli per vera ogni cosa asserita da questo scrittore, che per difetto di
+    critica asserì in parola di altri troppe falsità. Nondimeno è il libro pieno di cognizioni, e il più celebrato fra’
+    biografi spagnuoli.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El museo pictorico, y escala optica .. [microform] / D. Antonio Palomino de Castro y Velasco.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7j1x87</idno>
+            <idno type="cico">2338</idno>
+            <idno type="dcl">9p6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>El museo pictorico, y escala optica .. [microform] / D. Antonio Palomino de Castro y Velasco.</title>
+                  <respStmt>
+                     <persName>Palomino de Castro y Velasco, Antonio, 1655-1726.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>Madrid : Por Lucas Antonio de Bedmar</publisher>
+                     <pubPlace>Spain</pubPlace>
+                     <date>1715-1723</date>
+                     <date>1715</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0abcb80c-e351-4d32-94da-470eb54464ea/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0abcb80c-e351-4d32-94da-470eb54464ea/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

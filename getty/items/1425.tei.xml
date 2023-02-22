@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1425</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1425</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DESCRIZIONE della battaglia del Ponte fra Abido e Sesto nell’Hellesponto</title>, festa rappresentata
+    in Arno in <pubPlace>Firenze</pubPlace> li 25 Luglio <date>1618</date>, in 8.
+    <note>Sono due foglietti di stampa.</note>
+    MDCXVIII
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della battaglia del ponte fra Abido e Sesto nell'Hellesponto [microform] : festa rappresenta in Arno, il dì 25. di luglio 1618.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p0405v</idno>
+            <idno type="cico">1425</idno>
+            <idno type="dcl">pc4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della battaglia del ponte fra Abido e Sesto nell'Hellesponto [microform] : festa rappresenta in Arno, il dì 25. di luglio 1618.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella sta[m]peria di Zanobi Pignoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Dardanelles Strait (Turkey)</pubPlace>
+                     <date>1618</date>
+                  </imprint>
+                  <extent>[8] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3437a3e2-7862-47dc-bd2b-cd0f16751339/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3437a3e2-7862-47dc-bd2b-cd0f16751339/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

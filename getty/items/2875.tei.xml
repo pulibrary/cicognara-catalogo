@@ -1,0 +1,118 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2875</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2875</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HAGER Giuseppe</author>, <title>Illustrazione d’un zodiaco orientale del Gabinetto delle Medaglie di S. Maestà a Parigi,
+scoperto recentemente presso le sponde del Tigri in vicinanza dell’antica Babilonia. Monumento, che serve ad
+illustrare la storia dell’astronomia ed altri punti interessanti dell’antichità</title>,<pubPlace> Milano</pubPlace>
+                    <date> 1811</date>, in fol. m., M. 85.
+                        <note>Con quattro tavole, edizione splendida in carta massima velina</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Illustrazione d'uno zodiaco orientale del cabinetto delle medaglie di Sua Maestà a Parigi, scoperto recentemente presso le sponde del Tigri in vicinanza dell'antica Babilonia: Monumento che serve ad illustrare la storia dell'astronomia ed altri punti interessanti di antichità</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hager, Joseph, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-68676</idno>
+            <idno type="URI">http://portal.getty.edu/api/br7m1g</idno>
+            <idno type="cico">2875</idno>
+            <idno type="dcl">2pd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Illustrazione d'uno zodiaco orientale del cabinetto delle medaglie di Sua Maestà a Parigi, scoperto recentemente presso le sponde del Tigri in vicinanza dell'antica Babilonia: Monumento che serve ad illustrare la storia dell'astronomia ed altri punti interessanti di antichità</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1811</date>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>[4] Bl., 63 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/hager1811/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/hager1811/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Illustrazione d'uno zodiaco orientale del Cabinetto delle medaglie di sua maestà à Parigi [microform] : scoperto recentemente presso le sponde del Tigri, in vicinanza dell'antica Babilonia : monumento che serve ad illustra la storia dell'astronomia ed altri punti intersente di antichità.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nn6z83</idno>
+            <idno type="cico">2875</idno>
+            <idno type="dcl">2pd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Illustrazione d'uno zodiaco orientale del Cabinetto delle medaglie di sua maestà à Parigi [microform] : scoperto recentemente presso le sponde del Tigri, in vicinanza dell'antica Babilonia : monumento che serve ad illustra la storia dell'astronomia ed altri punti intersente di antichità.</title>
+                  <respStmt>
+                     <persName>Hager, Giuseppe, 1757-1819.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla stamperia e fonderia di Gio. Giuseppe Destefanis</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>63 p.</extent>
+                  <extent>4 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dfaa5264-59d4-4d2f-95d3-f168f3bd5812/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dfaa5264-59d4-4d2f-95d3-f168f3bd5812/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 813</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">813</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BAROZZI</author>, <title>La prospettiva pratica delineata in tavole a norma della seconda regola del
+	medesimo</title>, <pubPlace>Bologna</pubPlace> <date>1744</date>, in 4, gr. fig.
+	<note>Col frontespizio figurato e 66 tavole in rame, edizione di comodo per la gioventù.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La prospettiva pratica [microform] : delineata in tavole a norma della seconda regola / di Giacomo Barozzi da Vignola.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985226803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6f1k65</idno>
+            <idno type="cico">813</idno>
+            <idno type="dcl">kzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La prospettiva pratica [microform] : delineata in tavole a norma della seconda regola / di Giacomo Barozzi da Vignola.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[In Bologna : Nella Stamperìa di Lelio dalla Volpe]</publisher>
+                     <date>[1744]</date>
+                     <date>1744</date>
+                  </imprint>
+                  <extent>138, [1] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c1f39544-bb0a-4c22-a292-9e3e6d69991e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c1f39544-bb0a-4c22-a292-9e3e6d69991e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La prospettiva pratica : delineata in tavole a norma della seconda regola / di Giacomo Barozzi da Vignola.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Quadri, Gio. Lodovico, -1748.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922072960001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/mf7453</idno>
+            <idno>(OCoLC)15341880</idno>
+            <idno type="cico">813</idno>
+            <idno type="dcl">kzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La prospettiva pratica : delineata in tavole a norma della seconda regola / di Giacomo Barozzi da Vignola.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperìa di Lelio dalla Volpe</publisher>
+                     <date>1744</date>
+                  </imprint>
+                  <extent>138, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e69694a9-0844-411c-902b-015131f51d3a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e69694a9-0844-411c-902b-015131f51d3a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

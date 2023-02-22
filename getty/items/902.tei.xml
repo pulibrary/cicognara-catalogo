@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 902</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">902</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COSSETTI Domenico</author>, <title>Egualità, nuovo meccanismo idrostatico, applicabile a far agire
+      qualunque sorta di mulini, e per macinìo e per fabbriche</title>, <pubPlace>Parma</pubPlace> <date>1798</date>, in 4, gr. fig. Italiano
+      Francese.
+      <note>Opuscolo elegantemente stampato con una tavola ec.</note>
+      
+      <pb type="cico" n="168"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Egulaità [microform] : nuouo meccanismo idrostatico applicabile a far agire qualunque sorta di mulini e per macinio e per fabbriche = Égalité : nouueau mécanisme hydrostatique applicable au jeu de toute sorte de moulins et pour moudre et pour fabriques.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4c8k38</idno>
+            <idno type="cico">902</idno>
+            <idno type="dcl">r25</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Egulaità [microform] : nuouo meccanismo idrostatico applicabile a far agire qualunque sorta di mulini e per macinio e per fabbriche = Égalité : nouueau mécanisme hydrostatique applicable au jeu de toute sorte de moulins et pour moudre et pour fabriques.</title>
+                  <respStmt>
+                     <persName>Cossetti, Domenico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Parma : Dalla stamperia Reale]</publisher>
+                     <date>[1798]</date>
+                     <date>1798</date>
+                  </imprint>
+                  <extent>[13], 12 p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c9cf9f0a-cc2c-43d6-80a5-5b345fa33c3f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c9cf9f0a-cc2c-43d6-80a5-5b345fa33c3f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

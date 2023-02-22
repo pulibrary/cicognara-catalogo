@@ -1,0 +1,81 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1961</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1961</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>TRESOR (le petit) des artistes et des amateurs des arts ou guide dans le choix de sujets
+    allégoriques ou emblématiques etc. ouvrage orné de plus de 400 fig.</title>, <pubPlace>Paris</pubPlace> an. VIII de la Rep.
+    Fr., 3 vol. in 8. rel. in uno.
+    <note>Opera di mediocre esecuzione, servibile per gli studi elementari.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le petit trésor des artistes et des amateurs des arts, ou, Le guide sûr et infaillible des peintres, sculpteurs, dessinatuers, graveurs, architectes, décorateurs, etc. : dans le choix des sujets allégoriques ou emblématiques qu'ils ont à employer dans leurs compositions ... : orné de plus de 400 fig., gravées en taille-douce.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287597</idno>
+            <idno type="URI">http://portal.getty.edu/api/zh3n09</idno>
+            <idno type="URI">http://portal.getty.edu/api/1d282z</idno>
+            <idno type="URI">http://portal.getty.edu/api/fw985m</idno>
+            <idno>(OCoLC)1157287597</idno>
+            <idno type="cico">1961</idno>
+            <idno type="dcl">szf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le petit trésor des artistes et des amateurs des arts, ou, Le guide sûr et infaillible des peintres, sculpteurs, dessinatuers, graveurs, architectes, décorateurs, etc. : dans le choix des sujets allégoriques ou emblématiques qu'ils ont à employer dans leurs compositions ... : orné de plus de 400 fig., gravées en taille-douce.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Huet [et] Marcilly</publisher>
+                     <date>[1800]</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>1 online resource (3 volumes)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072000751265https://imagesdigitalcollections.frick.org/compare/barcode/31072000752511https://imagesdigitalcollections.frick.org/compare/barcode/31072000752529"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072000751265">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072000752511">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072000752529">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

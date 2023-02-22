@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2225</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2225</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CANALI Luigi</author>, <title>Elogio funebre del Sig. Baldassare Orsini, direttore dell Accademia di Belle
+    Arti in Perugia</title>, <pubPlace>Perugia</pubPlace> <date>1811</date>, in 8, M. 88.
+    <pb type="cico" n="382"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio funebre del Signor Baldassarre Orsini, direttore dell'Accademia delle belle arti di Perugia recitato nella chiesa di S. Teresa il di delle sue solenni essequie XV. decembre MDCCCX [microform] / Luigi Canali ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6v5856</idno>
+            <idno type="cico">2225</idno>
+            <idno type="dcl">602</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio funebre del Signor Baldassarre Orsini, direttore dell'Accademia delle belle arti di Perugia recitato nella chiesa di S. Teresa il di delle sue solenni essequie XV. decembre MDCCCX [microform] / Luigi Canali ...</title>
+                  <respStmt>
+                     <persName>Canali, Luigi, 1912-1945.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Francesco Baduel</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>59, [16] p., [1] folded leaf of plates</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8b3f68c6-b54c-4bf1-888d-9ccf85747dd8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8b3f68c6-b54c-4bf1-888d-9ccf85747dd8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

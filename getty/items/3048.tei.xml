@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3048</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3048</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VERMIGLIOLI Giambattista</author>, <title>Della zecca e delle monete perugine, memorie e monumenti inediti, raccolti e
+pubblicati</title>, <pubPlace>Perugia</pubPlace> <date>1816</date>, in 4, fig.
+<note>Con due grandi tavole in rame di medaglie e monete.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della zecca e delle monete perugine : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990054799450203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/8k152j</idno>
+            <idno>(OCoLC)21378543</idno>
+            <idno type="cico">3048</idno>
+            <idno type="dcl">9gj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della zecca e delle monete perugine : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
+                  <respStmt>
+                     <persName>Vermiglioli, Giovanni Battista, 1769-1848, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Dalla Tipografia di Francesco Baduel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>MDCCCXVI [1816]</date>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>xi, 171, 74 pages, 3 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481957085"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481957085">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della zecca e delle monete perugine [microform] : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sw376k</idno>
+            <idno type="cico">3048</idno>
+            <idno type="dcl">9gj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della zecca e delle monete perugine [microform] : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
+                  <respStmt>
+                     <persName>Vermiglioli, Giovanni Battista, 1769-1848.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Dalla tipografia di Francesco Baduel</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>xi, 171, 74 p., iii leaves of plates</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ab757627-5f92-4e07-942e-a4977edf4f6c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ab757627-5f92-4e07-942e-a4977edf4f6c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2057</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2057</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>KLEINKRII Salomonis</author>, <title>Vera et accurata delineatio omnium Templomm, et Coenobiorurn,
+  quae tam in Caesarea Urbe, ac sede Vienna</title>; Austriae quam in suburbiis eius reperiuntur, a
+  Johan. Andrea Pfeffel excusa et edita, <pubPlace>Augustae Vindelicorum</pubPlace> <date>1724 1725</date>. Partes duae in uno
+  vol. in fol. oblong.
+  <note>Sono queste 71 tavole intagliale con diligenza, il cui breve testo dedicatorie che le accompagna è compreso in
+  questo numero. I due frontespizi delle due parti sono di finito e bell’intaglio di Sperling e di Heüman.</note>
+  <pb type="cico" n="354"/>
+  
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vera et accurata delineatio omnium templorum et coenobiorum quae tam in in caesarea urbe ac sede Vienna, Austriae, quam in circumjacentibus suburbijs ejus reperiuntur .. [microform] / per Salomonem Kleiner = Wahrhaffte und genaue Abbildung aller Kirchen und Clöster, welche sowohl in der Keysaerl. Residenz-staat Wien, als auch in denen umliegenden Vorstätten sich befinden ... / bey Solomon Kleiner ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z09090</idno>
+            <idno type="cico">2057</idno>
+            <idno type="dcl">zrh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vera et accurata delineatio omnium templorum et coenobiorum quae tam in in caesarea urbe ac sede Vienna, Austriae, quam in circumjacentibus suburbijs ejus reperiuntur .. [microform] / per Salomonem Kleiner = Wahrhaffte und genaue Abbildung aller Kirchen und Clöster, welche sowohl in der Keysaerl. Residenz-staat Wien, als auch in denen umliegenden Vorstätten sich befinden ... / bey Solomon Kleiner ...</title>
+                  <respStmt>
+                     <persName>Kleiner, Salomon, 1700-1761.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Augustae Vindelicorum : Iohanne Andrea Pfeffel</publisher>
+                     <pubPlace>Austria</pubPlace>
+                     <pubPlace>Vienna (Austria)</pubPlace>
+                     <date>1724-37</date>
+                     <date>1724</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5a51a160-4a61-4f4f-b57c-58b1e82f8013/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5a51a160-4a61-4f4f-b57c-58b1e82f8013/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3036</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3036</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VAILLANT Joannis Foj</author>, <title>Arsacidarum imperium, sive regum Parthorum historia ad fidem numismatum
+accomodata. Item Achaemenidarum imperium, sive ejusdem auctoris historia regum Ponti, Bosphori, et
+Bithyniae, ad fidem numismatum accomodata</title>; ex editione et cum praefatione Caroli de Valois de la Marre,
+<pubPlace>Parisiis</pubPlace> <date>1725</date>, 2 vol., in 4, fig.
+<note>Le tavole sono stampate fra il testo dell’opera.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arsacidarum imperium, sive regum Parthorum historia [microform] : ad fidem numismatum accommodata / par J. Foy Vaillant.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Valois, Charles de, 1671-1747.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985411263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9t0z6r</idno>
+            <idno type="cico">3036</idno>
+            <idno type="dcl">234</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Arsacidarum imperium, sive regum Parthorum historia [microform] : ad fidem numismatum accommodata / par J. Foy Vaillant.</title>
+                  <respStmt>
+                     <persName>Foy-Vaillant, Jean, 1632-1706.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Sumptibus Caroli Moette</publisher>
+                     <pubPlace>Armenia</pubPlace>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/22453d78-efe4-4e34-bc72-d3e4c757d11f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/22453d78-efe4-4e34-bc72-d3e4c757d11f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

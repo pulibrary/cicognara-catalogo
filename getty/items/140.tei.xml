@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 140</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">140</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>HACKERT Filippo</author>, 
+                     <title>Lettera sull’uso della vernice nella pittura,</title> 
+                     <pubPlace>Perugia</pubPlace> 
+                     <date>1788,</date> 
+                     <extent>in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera a sua eccellenza il Sig. Cavaliere Hamilton : inviato estrardinario e ministro plenip : di S.M. Britannica : alla corte delle due Sicilie : Cavaliere dell'insigne ordine del bagno &amp;c. &amp;c. : di Filippo Hackert : sull'uso della vernice nella pittura.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hamilton, William, Sir, 1730-1803 addressee.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990050300610203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/6b2w1h</idno>
+            <idno>(OCoLC)78036918</idno>
+            <idno type="cico">140</idno>
+            <idno type="dcl">jvh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera a sua eccellenza il Sig. Cavaliere Hamilton : inviato estrardinario e ministro plenip : di S.M. Britannica : alla corte delle due Sicilie : Cavaliere dell'insigne ordine del bagno &amp;c. &amp;c. : di Filippo Hackert : sull'uso della vernice nella pittura.</title>
+                  <respStmt>
+                     <persName>Hackert, Philipp, 1737-1807, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Nella stamperìa Badueliana</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>23 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481794506"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481794506">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera a sua eccellenza il Sig. Cavaliere Hamilton .. [microform] / di Filippo Hackert : sull'uso della vernice nella pittura.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tx998q</idno>
+            <idno type="cico">140</idno>
+            <idno type="dcl">jvh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera a sua eccellenza il Sig. Cavaliere Hamilton .. [microform] / di Filippo Hackert : sull'uso della vernice nella pittura.</title>
+                  <respStmt>
+                     <persName>Hackert, Philipp, 1737-1807.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Parugia : Nella stamperìa Badueliana</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>23 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d285f168-10d1-4320-9b64-d32b2be20139/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d285f168-10d1-4320-9b64-d32b2be20139/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

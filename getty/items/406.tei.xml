@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 406</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">406</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>d’AVILER Augustin Charles</author>, 
+                     <title>Cours d’architecture qui comprende des ordres de Vignole avec
+	des commentaires, les figures et les descriptions des ses plus beaux bâtimens: et de ceux de
+	Michel Ange. <pb type="cico" n="73"/>Nouvelle edition avec les remarques de Mariette,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1766,</date>
+                     <extent> en 4, fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cours d'architecture qui comprend les Ordres de Vignole [microform] : avec des commentaires, les figures &amp; les descriptions de ses plus beaux bâtimens, et ceux de Michel-Ange : des instructions et des préceptes, &amp; plusieurs nouveaux desseins concernant la distribution &amp; la décoration, la matiere &amp; la construction des édifices, la maçonnerie, la charpenterie, la couverture, la serrurerie, la menuiserie, le jardinage, &amp; généralement tout ce qui regarde l'art de batir / par C.A. d'Aviler.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Michelangelo Buonarroti, 1475-1564.</authority>
+            <authority>Vignola, 1507-1573.</authority>
+            <authority>Mariette, Pierre-Jean, 1694-1774.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/09699s</idno>
+            <idno type="cico">406</idno>
+            <idno type="dcl">xnd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cours d'architecture qui comprend les Ordres de Vignole [microform] : avec des commentaires, les figures &amp; les descriptions de ses plus beaux bâtimens, et ceux de Michel-Ange : des instructions et des préceptes, &amp; plusieurs nouveaux desseins concernant la distribution &amp; la décoration, la matiere &amp; la construction des édifices, la maçonnerie, la charpenterie, la couverture, la serrurerie, la menuiserie, le jardinage, &amp; généralement tout ce qui regarde l'art de batir / par C.A. d'Aviler.</title>
+                  <respStmt>
+                     <persName>Aviler, Augustin-Charles d', 1653-1701.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez C. A. Jombert</publisher>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>xxxviij, [10], 408, [40] p.</extent>
+                  <extent>11microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/83e749b4-84c5-4566-af06-2a7c61e91695/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/83e749b4-84c5-4566-af06-2a7c61e91695/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

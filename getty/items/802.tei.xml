@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 802</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">802</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ACCOLTI Pietro, gentiluomo fiorentino</author>, <title>Lo inganno degli occhi, prospettiva pratica, trattato in
+	acconcio della pittura</title>, <pubPlace>Firenze</pubPlace> <date>1625</date>, in fol. fig.
+	<note>Opera divisa in tre parti, colle tavole intagliate in legno fra il testo e celebrata per l’ampiezza delle nozioni non
+	tanto lineari del disegno prospettico, quanto del trattato dell’ombre e dei lumi. Il tutto esposto con bei modi del
+	dire.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lo inganno de gl'occhi [microform] / prospettiua pratica di Pietro Accolti ... trattato in acconcio della pittura.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wz5p7q</idno>
+            <idno type="cico">802</idno>
+            <idno type="dcl">rzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lo inganno de gl'occhi [microform] / prospettiua pratica di Pietro Accolti ... trattato in acconcio della pittura.</title>
+                  <respStmt>
+                     <persName>Accolti, Pietro.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso Pietro Cecconcelli</publisher>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>[12], 152 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cabe2a5f-887f-4288-8622-5541273e6b8a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cabe2a5f-887f-4288-8622-5541273e6b8a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lo inganno de gl'occhi : prospettiva pratica / di Pietro Accolti, gentilhuomo fiorentino e della Toscana accademia del disegno ; trattato in acconcio della pittvra.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929943750001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7k5364</idno>
+            <idno>(OCoLC)3128793</idno>
+            <idno type="cico">802</idno>
+            <idno type="dcl">rzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lo inganno de gl'occhi : prospettiva pratica / di Pietro Accolti, gentilhuomo fiorentino e della Toscana accademia del disegno ; trattato in acconcio della pittvra.</title>
+                  <respStmt>
+                     <persName>Accolti, Pietro</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso Pietro Cecconcelli</publisher>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>[12], 152, [4] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/2d245745-28f4-466b-8502-c709eff7a334"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2d245745-28f4-466b-8502-c709eff7a334">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,68 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4173</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4173</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Della PITTURA della libreria del monastero di S. Michel in Bosco di Bologna</author>, <pubPlace>Bologna</pubPlace> <date>1681</date>, in 8, M. 51.
+                           <note>Fu questa libreria dipinta da Domenico M. Canuti.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della pittura della libraria nel Monastero di S. Michel in Bosco di Bologna de' PP. Olivetani [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4j8195</idno>
+            <idno type="cico">4173</idno>
+            <idno type="dcl">j8f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della pittura della libraria nel Monastero di S. Michel in Bosco di Bologna de' PP. Olivetani [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per il Monolessi, stamp. Camerali</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>13, [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c0e96bdf-abe3-4fbc-95dd-b26d2bcfadbb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c0e96bdf-abe3-4fbc-95dd-b26d2bcfadbb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

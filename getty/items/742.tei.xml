@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 742</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">742</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>M. VITRUVIO Pollio</author>, <title>Dizionario universale d’architettura e dizionario vitruviano</title>,
+	accuratamente ordinati da Baldassare Orsini, tomi 2, legati in uno, <pubPlace>Perugia</pubPlace> <date>1801</date>, in 8, fig.
+	<note>Ventitré tavole ineleganti intagliate in rame trovatisi nel <pb type="cico" n="139"/> Vitruvio. L’edizione non è pregievole. L’Orsini
+	avea molte cognizioni, una critica poco flessibile e nessun gusto. I due dizionari poi sono ben compilati e
+	possono essere utili alti studiosi dell’arte.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dizionario universale d'architettura e dizionario Vitruviano accuramente ordinati [microform] / da Baldassare Orsini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985195023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x9858q</idno>
+            <idno type="cico">742</idno>
+            <idno type="dcl">7w9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dizionario universale d'architettura e dizionario Vitruviano accuramente ordinati [microform] / da Baldassare Orsini ...</title>
+                  <respStmt>
+                     <persName>Orsini, Baldassarre, 1732-1810.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Dai Trochi di Carlo Baduel, e figli</publisher>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1a18797d-6c27-41a0-972d-af05cc5690a7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1a18797d-6c27-41a0-972d-af05cc5690a7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 938</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">938</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MAIROSI da Ponte Giovanni</author>, <title>Ricerche sopra alcune argille e sopra una terra vulcanica della
+      provincia bergamasca</title>, <pubPlace>Bergamo</pubPlace> <date>1791</date>, in 8, M. 63.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricerche sopra alcune argille e sopra una terra vulcanica della Provincia Bergamasca [microform] / di Gio. Maironi da Ponte.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gx622j</idno>
+            <idno type="cico">938</idno>
+            <idno type="dcl">scf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ricerche sopra alcune argille e sopra una terra vulcanica della Provincia Bergamasca [microform] / di Gio. Maironi da Ponte.</title>
+                  <respStmt>
+                     <persName>Maironi da Ponte, Gio. (Giovanni), 1748-1833.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bergamo : Dalla stamperia Locatelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1791</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e5484442-ccb1-4968-b682-52ca97261f91/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e5484442-ccb1-4968-b682-52ca97261f91/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

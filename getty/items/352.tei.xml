@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 352</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">352</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DE RUBEIS Giovan Battista</author>,
+                     <title> Dei ritratti, ossia trattato per cogliere le fisionomie,</title> 
+                     <pubPlace>Parigi</pubPlace> 
+                     <date>1809,</date> 
+                     <extent>in
+	4 gr. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Des portraits, ou, Traité pour saisir la physionomie [microform] / par Jean-Baptiste de' Rubejs ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985289233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dh4j6n</idno>
+            <idno type="cico">352</idno>
+            <idno type="dcl">7p1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Des portraits, ou, Traité pour saisir la physionomie [microform] / par Jean-Baptiste de' Rubejs ...</title>
+                  <respStmt>
+                     <persName>Rubeis, Giovanni Battista de, 1750-1810.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Paris : A. Bertrand</publisher>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>vii, 140 p., [9] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d638eabc-c23f-428b-bfcd-67182a57a35a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d638eabc-c23f-428b-bfcd-67182a57a35a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

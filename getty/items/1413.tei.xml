@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1413</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1413</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GIRARDI Giul.</author>, <title>Esequie di Arrigo IV cristianissimo re di Francia e Navarra celebrate in
+    Firenze dal Serenissimo D. Cosimo II, Gran Duca di Toscana</title> descritte da Giuliano Girardi,
+    <pubPlace>Firenze</pubPlace> <date>1610</date>, per <publisher>Bartolomnieo Sermartelli</publisher>, in fol. fig.
+    <note>Le 36 tavole in rame rappresentano altrettanti fatti storici allusivi a Enrico IV. con la marca A. R.</note>
+    MDCXI
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Esequie d'Arrigo Quarto Christianissimo Re di Francia e di Navarra [microform] : celebrate in Firenze dal Serenissimo Don Cosimo II, Grauduca di Toscana / descritte da Giuliano Giraldi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302793506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/53965q</idno>
+            <idno type="cico">1413</idno>
+            <idno type="dcl">7k6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Esequie d'Arrigo Quarto Christianissimo Re di Francia e di Navarra [microform] : celebrate in Firenze dal Serenissimo Don Cosimo II, Grauduca di Toscana / descritte da Giuliano Giraldi.</title>
+                  <respStmt>
+                     <persName>Giraldi, Giuliano.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella Stamperia di Bartolommeo Sermartelli e fratelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1610</date>
+                  </imprint>
+                  <extent>51 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9a45a58d-f79c-45ec-aa32-42d5c753641d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9a45a58d-f79c-45ec-aa32-42d5c753641d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

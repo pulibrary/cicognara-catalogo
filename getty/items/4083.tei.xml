@@ -1,0 +1,119 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4083</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4083</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROSEMBERG (de) Mad. la Contesse</author>, <title>Alticchiero illustrato</title>, <pubPlace>Padova</pubPlace> <date>1787</date>, in 4, fig.
+<note>Opera eseguita con diligenza e con gusto da una coltissima dama. Questo era luogo di delizia d’uno de’ più
+amabili e colti patrizi veneziani il signor Angelo Querini, ornato con tutta l’Attica venustà, e dopo la di lui morte
+andò negletto, e i monumenti dispersi, precorrendo il destino della Repubblica.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alticchiero</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rosenberg-Orsini, Justine von, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-273672</idno>
+            <idno type="URI">http://portal.getty.edu/api/3x1v5r</idno>
+            <idno type="cico">4083</idno>
+            <idno type="dcl">xvq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alticchiero</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1787</date>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>80 S., 29 Taf.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/rosenberg_orsini1787/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/rosenberg_orsini1787/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alticchiero [microform] / par Made. J.W.C.D.R.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Benincasa, Bartolommeo, 1745-approximately 1825.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985432053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dz0c41</idno>
+            <idno type="cico">4083</idno>
+            <idno type="dcl">xvq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Alticchiero [microform] / par Made. J.W.C.D.R.</title>
+                  <respStmt>
+                     <persName>Rosenberg-Orsini, Justine, Gräfin, 1732-1791.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Padoue : [s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>80 p., XXIX leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/306202e2-cc86-47eb-bad0-27c4cec10d87/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/306202e2-cc86-47eb-bad0-27c4cec10d87/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

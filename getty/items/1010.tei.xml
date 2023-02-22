@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1010</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1010</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BONARROTI Michelangelo (Il Vecchio)</author>, <title>Rime con una lezione di Benedetto Varchi e due di
+      Mario Guiducci sopra di esse</title>, <pubPlace>Firenze</pubPlace> <date>1726</date>, in 8, edizione seconda.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rime [microform] / di Michelagnolo Buonarroti, il vecchio ; con una lezione di Benedetto Varchi e due di Mario Guiducci sopra di esse.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Guiducci, Mario, 1584-1646.</authority>
+            <authority>Varchi, Benedetto, 1503-1565.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nq893m</idno>
+            <idno type="cico">1010</idno>
+            <idno type="dcl">22w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rime [microform] / di Michelagnolo Buonarroti, il vecchio ; con una lezione di Benedetto Varchi e due di Mario Guiducci sopra di esse.</title>
+                  <respStmt>
+                     <persName>Michelangelo Buonarroti, 1475-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Appresso Domenico Maria Manni</publisher>
+                     <date>1726</date>
+                  </imprint>
+                  <extent>xxx, 192 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1dba85c5-d697-46d0-b06f-43138253922c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1dba85c5-d697-46d0-b06f-43138253922c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

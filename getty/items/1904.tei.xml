@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1904</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1904</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>HADRIANI Junii Med. Embl.</title>, <pubPlace>Ant.</pubPlace> <date>1565</date>, in 8.
+    <note>La prima parte di questi emblemi in 58 tavole contiene bellissime incisioni in legno, la quale è seguita da una
+    seconda contenente gli enigmi. Le spiegazioni sono legate separatamente dalle tavole.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hadriani Iunii medici emblemata eiusdem aenigmatum libellus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Garrick, David, 1717-1779, former owner.</authority>
+            <authority>Steenberghen, Jean-Baptiste van, 1678, former owner.</authority>
+            <authority>Reepmaker, Jacob former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923563263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6p1071</idno>
+            <idno type="URI">http://portal.getty.edu/api/wc4958</idno>
+            <idno>(OCoLC)24604141</idno>
+            <idno type="cico">1904</idno>
+            <idno type="dcl">4gd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Hadriani Iunii medici emblemata eiusdem aenigmatum libellus.</title>
+                  <respStmt>
+                     <persName>Junius, Hadrianus, 1511-1575.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiae, Ex Officina Christophori Plantini</publisher>
+                     <date>1565</date>
+                  </imprint>
+                  <extent>149, [17] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e7092fd9-300f-4f32-87ae-2281fbfd0c1e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e7092fd9-300f-4f32-87ae-2281fbfd0c1e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

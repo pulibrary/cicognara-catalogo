@@ -1,0 +1,87 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3893</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3893</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>UGGERI Angelo architetto milanese</author>, <title>Journées pittoresque des édifices de Rome ancienne avec les édifices de la
+décadence, les trois ordres d’après les monuments de Rome antique, les détails des materiaux des anciens pour la
+construction de leurs bâtiments, un supplément aux journées pittoresques, et la journée pittoresque de Tivoli</title>,
+<pubPlace>Roma</pubPlace> <date>dal 1800 al 1814</date>, il tutto rilegato in quattro volumi.
+<note>In questi volumi, ove le numerose tavole sono eseguite con mediocre gusto, e le illustrazioni un po’ confuse vi si
+sarebbe bramato un ordine migliore, e una più scrupolosa diligenza. Non manca però d’esservi qualche cosa di
+buono.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Journées pittoresques des edifices de Rome ancienne / par l'Abbé Architecte Ange Uggeri Milanois.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100855333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wm7g9v</idno>
+            <idno type="URI">http://portal.getty.edu/api/ns2734</idno>
+            <idno type="URI">http://portal.getty.edu/api/fj8f5m</idno>
+            <idno type="URI">http://portal.getty.edu/api/t8054j</idno>
+            <idno type="URI">http://portal.getty.edu/api/md3r0n</idno>
+            <idno>(OCoLC)170970295</idno>
+            <idno type="cico">3893</idno>
+            <idno type="dcl">x2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Journées pittoresques des edifices de Rome ancienne / par l'Abbé Architecte Ange Uggeri Milanois.</title>
+                  <respStmt>
+                     <persName>Uggeri, Angelo, Abate, 1754-1837.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : [Nella stamperia Pagliarini]</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1800-</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>volumes</extent>
+                  <extent>32 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4dc1d94a-3b12-4e0d-9583-4b72298a0e11/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4dc1d94a-3b12-4e0d-9583-4b72298a0e11/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

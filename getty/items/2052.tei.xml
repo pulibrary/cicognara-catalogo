@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2052</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2052</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>INSIGNIUM aliquot virorum icones</title>, <pubPlace>Lugduni</pubPlace>, apud <publisher>Tornesium</publisher>, <date>1559</date>, in 12, fig.
+  <note>Questa è una collezione di ritratti incisi in legno a guisa di medaglioni a capriccio, ma con molto spirito. Vi sono
+  aggiunti brevi cenni storici relativi a ciascheduno. Il libretto elegante è intitolato a G. Tuffano dallo stesso
+  Giovanni Tornesio e gli uomini illustri di cui si parla e si presentano le medaglie, sono 145.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Insignivm aliqvot virorvm icones.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924148940001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gh037d</idno>
+            <idno>(OCoLC)8731215</idno>
+            <idno type="cico">2052</idno>
+            <idno type="dcl">mg3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Insignivm aliqvot virorvm icones.</title>
+                  <respStmt>
+                     <persName>Tournes, Jean de, 1539-1615.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni : Apvd Ioan. Tornaesium</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Greece.</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>[16], 236, [4] pages (the last 4 blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/58e0797e-9bb9-4f18-845a-c7d7bf3bdb6d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/58e0797e-9bb9-4f18-845a-c7d7bf3bdb6d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Insignium aliquot virorum icones [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985341133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vz2071</idno>
+            <idno type="cico">2052</idno>
+            <idno type="dcl">mg3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Insignium aliquot virorum icones [microform].</title>
+                  <respStmt>
+                     <persName>Tournes, Jean de, 1504-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lugduni : Apud Ioan. Tornaesium</publisher>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>236 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/66dd1aaa-fe1b-4496-8278-93ad75e67a9c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/66dd1aaa-fe1b-4496-8278-93ad75e67a9c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

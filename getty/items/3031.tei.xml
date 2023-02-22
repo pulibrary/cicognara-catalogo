@@ -1,0 +1,83 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3031</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3031</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VAILLANT Joannis Foj</author>, <title>Numismata imperatorum romanorum praestan <pb type="cico" n="89"/> iora a Julio Cesare ad postumum</title>
+usque. Editio prima romana plurimis nummis aucta, cui accessit appendix a postumo ad Costantinum magnum,
+Romae 1743, in 4, fig., vol. 3.
+Giovan Francesco Baldini imprese di aumentare, correggere, ampliare quest’opera e la riprodusse in maniera da
+riescire utilissima e stabilire meglio d’ogni altra edizione precedente la fama al suo autore. Le tavole sono tutte
+inserte fra il testo, ma è da biasimarsi la sordidezza degli editori, che si servirono in parte delle antiche tavole, le
+quali sebbene logorate e ritoccate, sono meno cattive pertanto delle nuove che vi furono aggiunte. L’opera è
+copiosissima.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Numismata imperatorum romanorum praestantiora a Julio Caesare ad Postumum usque / per Joannem Vaillant ... ; cui accessit appendix a Postumo ad Constantinum Magnum.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/df053c</idno>
+            <idno type="URI">http://portal.getty.edu/api/b23m59</idno>
+            <idno type="URI">http://portal.getty.edu/api/5d7r75</idno>
+            <idno type="URI">http://portal.getty.edu/api/r33957</idno>
+            <idno>(OCoLC)82500955</idno>
+            <idno type="cico">3031</idno>
+            <idno type="dcl">jkf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Numismata imperatorum romanorum praestantiora a Julio Caesare ad Postumum usque / per Joannem Vaillant ... ; cui accessit appendix a Postumo ad Constantinum Magnum.</title>
+                  <respStmt>
+                     <persName>Foy-Vaillant, Jean, 1632-1706.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Sumptibus Caroli Barbielli, &amp; Venantii Monaldini sociorum ... typis Jo. Baptistae Bernabò, &amp; Josephi Lazzarini</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>3 volumes</extent>
+                  <extent>19 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/403d7aed-399f-4743-b7c6-f89e23699de9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/403d7aed-399f-4743-b7c6-f89e23699de9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

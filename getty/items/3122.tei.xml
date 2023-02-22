@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3122</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3122</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LUPULI Michaelis Archangeli</author>, <title>In mutilam veterem Corphiniensem inscriptionem, commentarius</title>, <pubPlace>Neapoli</pubPlace> <date>1786</date>,
+in 8, fig.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mich. Archangeli Lupuli In mutilam veterem Corfiniensem inscriptionem [microform] : commentarius.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6r839g</idno>
+            <idno type="cico">3122</idno>
+            <idno type="dcl">gk5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mich. Archangeli Lupuli In mutilam veterem Corfiniensem inscriptionem [microform] : commentarius.</title>
+                  <respStmt>
+                     <persName>Lupoli, Michele Arcangelo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Neapoli : Ex Typographia Raumundiana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Corfinio (Italy)</pubPlace>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>VIII, 235, [1] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c6e77343-fa95-49e2-a35b-40f788658296/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c6e77343-fa95-49e2-a35b-40f788658296/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3998</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3998</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DESCRIPTION des bas-reliefs anciens trouvez depuis peu dans l’eglise cathédrale de Paris</title>, a <pubPlace>Paris</pubPlace> <date>1711</date>, in 4, fig.
+<note>Da una nota a mano nella prima carta viene attribuita quest’opera a M. Baudelot. Non abbiamo altro argomento
+per riconoscere con certezza quest’anonimo erudito.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des Bas-Reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Musée de Cluny.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990046657410203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/326b3f</idno>
+            <idno>(OCoLC)27257436</idno>
+            <idno type="cico">3998</idno>
+            <idno type="dcl">s2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des Bas-Reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris.</title>
+                  <respStmt>
+                     <persName>Baudelot de Dairval, Charles-César, 1648-1722, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre Cot, imprimeur-libraire ordinaire de l'Académie royale des inscriptions &amp; médailles</publisher>
+                     <date>M.DCC.XI [1711]</date>
+                     <date>1711</date>
+                  </imprint>
+                  <extent>39 pages, 2 unnumbered pages, 1 unnumbered folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481794176"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481794176">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des bas-reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Musée de Cluny.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985423143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zg0z4n</idno>
+            <idno type="cico">3998</idno>
+            <idno type="dcl">s2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des bas-reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris [microform].</title>
+                  <respStmt>
+                     <persName>Baudelot de Dairval, Charles-César, 1648-1722.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre Cot</publisher>
+                     <date>1711</date>
+                  </imprint>
+                  <extent>39 p., [1] leaf of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fac1566a-a691-447c-b1a6-0bb85f0615a3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fac1566a-a691-447c-b1a6-0bb85f0615a3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

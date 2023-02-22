@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2337</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2337</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ORSINI Baldassare</author>, <title>Vita, elogio e memorie dell’egregio Pittore Pietro Perugino</title>, <pubPlace>Perugia</pubPlace> <date>1804</date>,
+    in 8.
+    <note>Col ritratto in fronte.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita, elogio e memorie dell' egregio pittore Pietro Perugino e degli scolari di esso [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985399943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6g2971</idno>
+            <idno type="cico">2337</idno>
+            <idno type="dcl">38t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita, elogio e memorie dell' egregio pittore Pietro Perugino e degli scolari di esso [microform].</title>
+                  <respStmt>
+                     <persName>Orsini, Baldassarre, 1732-1810.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Stamperia Badueliana</publisher>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>327 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fc12970d-8500-422b-b31e-dde93d85d58e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc12970d-8500-422b-b31e-dde93d85d58e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita, elogio e memorie dell' egregio pittore Pietro Perugino e degli scolari di esso.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924303170001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh5g68</idno>
+            <idno>(OCoLC)23517512</idno>
+            <idno type="cico">2337</idno>
+            <idno type="dcl">38t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita, elogio e memorie dell' egregio pittore Pietro Perugino e degli scolari di esso.</title>
+                  <respStmt>
+                     <persName>Orsini, Baldassarre, 1732-1810.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Nella Stamperia Badueliana</publisher>
+                     <pubPlace>Italy Perugia.</pubPlace>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>6 preliminary leaves, 327 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/af284ce0-0fd4-47f7-bdb4-6a10acc4f243"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/af284ce0-0fd4-47f7-bdb4-6a10acc4f243">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

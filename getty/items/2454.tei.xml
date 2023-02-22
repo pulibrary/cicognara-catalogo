@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2454</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2454</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PORTAE J. Bapt. Neapolitani</author>, <title>De humana physiognomia libri quatuor ad Aloysium
+    Cardinalem Estensem</title>, <pubPlace>Vici Acquensi</pubPlace>, apud <publisher>Joseph. Cacchium</publisher>, <date>1586</date>, in fol. fig.
+    <note>Prima edizione e pregiata che ha il merito della freschezza delle stampe col ritratto dell’autore e quello del
+    Cardinale d’Este e 85 tavole fra il testo dell’opera.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De hum. physiognomonia [microform] : Io. Baptistae Portae, Neapolitani, De humana physiognomonia libri IIII.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985402593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gq7k9d</idno>
+            <idno type="cico">2454</idno>
+            <idno type="dcl">szj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De hum. physiognomonia [microform] : Io. Baptistae Portae, Neapolitani, De humana physiognomonia libri IIII.</title>
+                  <respStmt>
+                     <persName>Porta, Giambattista della, approximately 1535-1615.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Vici Aequensis : Apud Iosephum Cacchium</publisher>
+                     <date>1586</date>
+                  </imprint>
+                  <extent>[4], 265 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3205d670-ae44-4ad1-9952-c18b1ebbb951/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3205d670-ae44-4ad1-9952-c18b1ebbb951/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

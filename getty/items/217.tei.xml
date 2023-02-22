@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 217</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">217</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>TILLEMANO Paul Henr.</author>, 
+                     <title>De eo quod iustum est circa nuditatem,</title> 
+                     <pubPlace>Jenae</pubPlace> 
+                     <date>1692</date>,<extent> in 4, M 45.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Q.B.V.S.S.T permissu inclytae Facultatis Juridicae almae Salanae De eo quod justum est circa nuditatem [microform] : praeside Paulo Henr. Tilemanno ... disputabit publicè in auditorio Jure Consultorum ad d. Maji [1692] / autor &amp; respondens Otto Christian Coch ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Coch, Otto Christian.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/qm923x</idno>
+            <idno type="cico">217</idno>
+            <idno type="dcl">pnr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Q.B.V.S.S.T permissu inclytae Facultatis Juridicae almae Salanae De eo quod justum est circa nuditatem [microform] : praeside Paulo Henr. Tilemanno ... disputabit publicè in auditorio Jure Consultorum ad d. Maji [1692] / autor &amp; respondens Otto Christian Coch ...</title>
+                  <respStmt>
+                     <persName>Tilemann, Paul Heinrich, b. 1656.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Jenae : GeorgI Heinrici Mülleri</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>[1692]</date>
+                     <date>1692</date>
+                  </imprint>
+                  <extent>100 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ebbf2f99-ddc3-4940-afe6-e1ac6c508a5a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ebbf2f99-ddc3-4940-afe6-e1ac6c508a5a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

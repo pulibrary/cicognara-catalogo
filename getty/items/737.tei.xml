@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 737</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">737</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>L’ARCHITETTURA Generale di Vitruvio</title>. Ridotta in compendio dal Sig. Perrault, tradotta dal
+	francese, <pubPlace>Venezia</pubPlace>, <publisher>Zatta</publisher>, <date>1794</date>, in 8, fig.
+	<note>Questa è una ristampa dell’altra edizione pubblicata dall’Albrizzi nel 1747.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'architettura generale di Vitruvio [microform] / ridotta in compendio dal Sig. Perrault ... ed arricchita di tavole in rame ; opera tradotta dal francese, ed incontrata in questa edizione col testo dell'autore, e col commento di Monsig. Barbaro ; alla quale in oltre si è aggiunto la tavola e le regole del piedestallo.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barbaro, Daniel, 1514-1570.</authority>
+            <authority>Perrault, Claude, 1613-1688.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985191383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ts0k0r</idno>
+            <idno type="cico">737</idno>
+            <idno type="dcl">f8p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'architettura generale di Vitruvio [microform] / ridotta in compendio dal Sig. Perrault ... ed arricchita di tavole in rame ; opera tradotta dal francese, ed incontrata in questa edizione col testo dell'autore, e col commento di Monsig. Barbaro ; alla quale in oltre si è aggiunto la tavola e le regole del piedestallo.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Presso Antonio Zatta</publisher>
+                     <date>1794</date>
+                  </imprint>
+                  <extent>v-xxiv, 151 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cfd6669f-a94e-4171-9f8c-70972a9561da/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cfd6669f-a94e-4171-9f8c-70972a9561da/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

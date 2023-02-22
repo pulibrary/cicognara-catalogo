@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2397</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2397</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VECELLIO Tiziano pittore</author>, <title>Breve compendio della vita del famoso Tiziano Vecellio di Cadore
+    cavaliere e pittore con l’arbore della sua vera consanguineità</title>. All’Eccellenza Illustrissima di
+    M. di Arundell Surrey, <pubPlace>Venezia</pubPlace>, presso <publisher>Santo Grillo e fratelli</publisher>, <date>1622</date>, in 4, p.
+                     <note> Col ritratto in fronte intagliato da Odoardo Fialetti. <pb type="cico" n="404"/>
+   </note> 
+   <bibl> — Aggiuntovi; <title>Titiani Pictoris celeberrimi</title>, Danae, <pubPlace>Parisiis</pubPlace>, apud <publisher>Clodovoeum Cottard</publisher>,<date>1633</date>.
+    <note>Questo e un poemetto latino preceduto da altri componimenti di Eustazio, di Erasmo e di altri scrittori. Amendue
+    questi opuscoli sono rarissimi. Vedasi anche questa vita medesima originale in Miscellanei 88.
+    </note>
+   </bibl> </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titiani pictoris celeberrimi Danae [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fb9c0j</idno>
+            <idno type="cico">2397</idno>
+            <idno type="dcl">znf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Titiani pictoris celeberrimi Danae [microform].</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Clodouaeum Cottard</publisher>
+                     <date>1633</date>
+                  </imprint>
+                  <extent>[12], 26 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7732ed28-ce05-4c01-abb2-2eb9795f752f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7732ed28-ce05-4c01-abb2-2eb9795f752f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

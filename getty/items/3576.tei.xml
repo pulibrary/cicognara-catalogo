@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3576</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3576</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AMATI Pasquale</author>, <title>Dissertazione prima sopra alcune lettere del dott. Bianchi di Rimini, e sopra la moderna
+inscrizione Savignanese, e il Rubicone degli antichi</title>, <pubPlace>Faenza</pubPlace> <date>1761</date>, in 4, M. 58.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione seconda dell'abate Pasquale Amati ... sopra alcune lettere del Signor Dottor Bianchi di Rimini e sopra il rubicone degli antichi [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985454203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3t8b4f</idno>
+            <idno type="cico">3576</idno>
+            <idno type="dcl">wrk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione seconda dell'abate Pasquale Amati ... sopra alcune lettere del Signor Dottor Bianchi di Rimini e sopra il rubicone degli antichi [microform].</title>
+                  <respStmt>
+                     <persName>Amati, Pasquale, 1726-1796.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Faenza : Presso l'archi Impressor Camerale, e del Sant' Ufizio</publisher>
+                     <pubPlace>Savignano sul Rublicone (Italy)</pubPlace>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>216 p., [2] folded leaves of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c7d233ed-5673-4f71-a365-374d164031ba/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c7d233ed-5673-4f71-a365-374d164031ba/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

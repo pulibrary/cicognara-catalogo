@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 574</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">574</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>Le MUET</author>, 
+                     <title>Maniere de bien bâtir pour toute sorte de personnes,</title> 
+                     <pubPlace>Paris,</pubPlace> 
+                     <publisher>chez l’Anglois,</publisher> 
+                     <date>1647.</date> On
+	y a reuni les augmentàtions des nouveaux bâtimens faits en France par le même, Paris 1647,
+	<extent>in fol. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maniere de bastir pour toutes sortes de personnes [microform] / par Pierre Le Muet ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jj1799</idno>
+            <idno type="cico">574</idno>
+            <idno type="dcl">mc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Maniere de bastir pour toutes sortes de personnes [microform] / par Pierre Le Muet ...</title>
+                  <respStmt>
+                     <persName>Le Muet, Pierre, 1591-1669.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Francois Langlois</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1647</date>
+                  </imprint>
+                  <extent>113 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6eb4ffb2-3741-4608-a1a7-63d098abd857/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6eb4ffb2-3741-4608-a1a7-63d098abd857/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Augmentations de nouueaux bastimens faits en France [microform] / par les ordres &amp; desseins du sieur le Muet.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985121103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/960t8g</idno>
+            <idno type="cico">574</idno>
+            <idno type="dcl">d5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Augmentations de nouueaux bastimens faits en France [microform] / par les ordres &amp; desseins du sieur le Muet.</title>
+                  <respStmt>
+                     <persName>Le Muet, Pierre, 1591-1669.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez la vefue François Langlois, dit Chartres</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1647</date>
+                  </imprint>
+                  <extent>[1], 31 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/80a9b388-d50f-4079-8944-dac61bcb97d0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/80a9b388-d50f-4079-8944-dac61bcb97d0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

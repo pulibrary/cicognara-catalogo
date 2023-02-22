@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 423</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">423</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BASSI Martino</author>, 
+                     <title>Dispareri in materia d’architettura e prospettiva con pareri di eccellenti e
+	famosi architetti, che li risolvono,</title> 
+                     <pubPlace>Brescia</pubPlace> 
+                     <date>1572,</date> 
+                     <extent>in 4 pic. fig.</extent>
+	                    <note>Prima edizione con 12 tavole intagliate in rame.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dispareri in materia d'architettvra, et perspettiva : con pareri di eccellenti, et famosi architetti, che li risoluono / di Martino Bassi, milanese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>N., Alfonso.</authority>
+            <authority>Vasari, Giorgio, 1511-1574</authority>
+            <authority>Palladio, Andrea, 1508-1580</authority>
+            <authority>Vignola, 1507-1573.</authority>
+            <authority>Bertano, Giovanni Battista, 1516-1576.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927423170001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7b165z</idno>
+            <idno>(OCoLC)3287804</idno>
+            <idno type="cico">423</idno>
+            <idno type="dcl">vv7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dispareri in materia d'architettvra, et perspettiva : con pareri di eccellenti, et famosi architetti, che li risoluono / di Martino Bassi, milanese.</title>
+                  <respStmt>
+                     <persName>Bassi, Martino, 1542-1591.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bressa : Per Francesco, &amp; Pie. Marchetti fratelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1572</date>
+                  </imprint>
+                  <extent>53, [3] p. (the last 2 blank), 5, VI-XII leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/1e30641e-cfa2-4fa0-9044-28c9656fa98b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1e30641e-cfa2-4fa0-9044-28c9656fa98b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 322</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">322</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>EUSTACHII Bartholomei</author>,
+                     <title> Tabulae anatomicae editae a Jo. Maria Lancisio,</title> 
+                     <pubPlace>Venetiis</pubPlace> 
+                     <date>1769,</date> 
+                     <extent>in fol.</extent>
+	                    <note>Le pessime tavole di quest’opera non sono da osservarsi, ma si è fatto conto delle dichiarazioni che possono
+	illustrare dottamente e profondamente le altre opere anatomiche per uso del disegno.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tabulae anatomicae clarissimi viri Bartholomaei Eustachii .. [microform] / praefatione, notisque illustravit ... Joh. Maria Lancisius ... accedunt epistolae Joannis Baptistae Morgagni atque aliorum praestantissimorum authorum ; praeterea vitae compendium ... Bartholomaei Eustachii ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lancisi, Giovanni Maria, 1654-1720.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5c687p</idno>
+            <idno type="cico">322</idno>
+            <idno type="dcl">jnr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tabulae anatomicae clarissimi viri Bartholomaei Eustachii .. [microform] / praefatione, notisque illustravit ... Joh. Maria Lancisius ... accedunt epistolae Joannis Baptistae Morgagni atque aliorum praestantissimorum authorum ; praeterea vitae compendium ... Bartholomaei Eustachii ...</title>
+                  <respStmt>
+                     <persName>Eustachi, Bartolomeo, -1574.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Typis Bartholomaei Locatelli</publisher>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>xvi, 34 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/09120f9f-162c-475e-b4d9-f53162b4636e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/09120f9f-162c-475e-b4d9-f53162b4636e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

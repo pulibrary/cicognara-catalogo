@@ -1,0 +1,67 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3001</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3001</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SESTINI Domenico</author>, <title>Degli stateri antichi illustrati colle medaglie</title>, <pubPlace>Firenze</pubPlace> <date>1817</date>, in 4, fig., M. 106.
+<note>Copiosissima è la serie di questi stateri antichi nel Gabinetto di Monaco ove se ne trovano 113 in oro e appunto
+questa è la serie che l’autore ha illustrato ed esposta in 9 tavole in rame.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione degli stateri antichi illustrati con le medaglie</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sestini, Domenico, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-52853</idno>
+            <idno type="URI">http://portal.getty.edu/api/c04z5k</idno>
+            <idno type="cico">3001</idno>
+            <idno type="dcl">bsd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione degli stateri antichi illustrati con le medaglie</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>Anatolien</pubPlace>
+                     <date>1817</date>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>118 S., 9 Taf.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/sestini1817/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/sestini1817/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

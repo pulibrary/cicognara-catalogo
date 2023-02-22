@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 488</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">488</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DESGODETS</author>, 
+                     <title>Les loix des bâtiments suivant le contarne de Paris. Avec les notes de M. Goupy:
+	nouvelle édition augmentée de la conference des contùmes sur chaque article,</title> 
+                     <pubPlace>Paris </pubPlace>
+                     <date>1768,</date>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les loix des bâtimens suivant la coutume de Paris [microform] : traitant de ce qui concerne les servitudes réelles, les rapports des jurés-experts, les réparation locatives, douairieres, usufruitieres, bénéficiales, &amp;c. / enseignées par M. Desgodets ... ; avec les notes de M. Goupy ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Goupy (Architect)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8q0w4s</idno>
+            <idno type="cico">488</idno>
+            <idno type="dcl">7p3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les loix des bâtimens suivant la coutume de Paris [microform] : traitant de ce qui concerne les servitudes réelles, les rapports des jurés-experts, les réparation locatives, douairieres, usufruitieres, bénéficiales, &amp;c. / enseignées par M. Desgodets ... ; avec les notes de M. Goupy ...</title>
+                  <respStmt>
+                     <persName>Desgodets, Antoine Babuty, 1653-1728.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Barrois</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1768</date>
+                     <date>1748</date>
+                  </imprint>
+                  <extent>xxxij, 700, [2] p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/24b9804f-18ec-4f35-908f-0319da08c95e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/24b9804f-18ec-4f35-908f-0319da08c95e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

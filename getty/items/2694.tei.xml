@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2694</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2694</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PANCRAZJ Giuseppe Maria</author>, <title>Antichità siciliane spiegate colle notizie generali di questo Regno</title>, <pubPlace>Napoli</pubPlace> <date>1751</date>, in
+fol., fig., 2 vol.
+<note>Nel primo volume sono 16 tavole e 29 nel secondo, non comprese le vignette e frontespizi, il tutto disegnato
+male e peggio intagliato: l’opera non ostante è da riguardarsi come un deposito di cognizioni e memorie.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antichità siciliane spiegate [microform] : colle notizie generali di questo regno : la storia particolare di quelle città, delle quali si riportano, ed illustrano gli antichi monumenti : trattandosi di esse città separatamente / opera del ... Giuseppe Maria Pancrazj ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w04h9b</idno>
+            <idno type="cico">2694</idno>
+            <idno type="dcl">jvt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antichità siciliane spiegate [microform] : colle notizie generali di questo regno : la storia particolare di quelle città, delle quali si riportano, ed illustrano gli antichi monumenti : trattandosi di esse città separatamente / opera del ... Giuseppe Maria Pancrazj ...</title>
+                  <respStmt>
+                     <persName>Pancrazi, Giuseppe Maria, 1704-1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Nella stamperia di Alessio Pellecchia</publisher>
+                     <pubPlace>Agrigento (Italy)</pubPlace>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <date>1751-52</date>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>4 pts. in 2 v.</extent>
+                  <extent>24 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/60085b93-a311-4bac-a7b4-88a864ca48ef/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/60085b93-a311-4bac-a7b4-88a864ca48ef/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

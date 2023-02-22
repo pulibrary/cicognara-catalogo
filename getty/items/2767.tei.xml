@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2767</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2767</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BELLORII</author>,<title> Notae in numismata tum Ephesia tum aliarum urbium apibus insignita</title>, <pubPlace>Romae</pubPlace> <date>1658</date>, in 4, fig., M. 10.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Io: Petri Bellorii Notae in numismata tum Ephesia, tum aliarum urbium, apibus insignita [Microforma].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Holstenius, Lucas, 1596-1661. Francisco cardinali Barberino ... felicitatem.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100915173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gv683s</idno>
+            <idno>(OCoLC)954948883</idno>
+            <idno type="cico">2767</idno>
+            <idno type="dcl">930</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Io: Petri Bellorii Notae in numismata tum Ephesia, tum aliarum urbium, apibus insignita [Microforma].</title>
+                  <respStmt>
+                     <persName>Bellori, Giovanni Pietro, 1613-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Varesii</publisher>
+                     <date>1658</date>
+                  </imprint>
+                  <extent>28 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1647ba36-c495-46d5-9565-6813335d8d0f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1647ba36-c495-46d5-9565-6813335d8d0f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2549</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2549</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De TORRES Antonio</author>, <title>Letteratura de’ Numidi</title>, <pubPlace>Venezia</pubPlace> <date>1789</date>, in 4, M. 78.
+<note>Memoria assai dotta e interessante.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letteratura dei Numidi [microform] : memoria / dell'Ab. Antonio de Torres ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/47290v</idno>
+            <idno type="cico">2549</idno>
+            <idno type="dcl">431</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Letteratura dei Numidi [microform] : memoria / dell'Ab. Antonio de Torres ...</title>
+                  <respStmt>
+                     <persName>Torres, Antonio de, 1744-approximately 1805.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Appreso Domenico Fracasso</publisher>
+                     <pubPlace>Numidia</pubPlace>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>CIV p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e15afe66-e04b-4ab9-ac7a-31b296cf75d9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e15afe66-e04b-4ab9-ac7a-31b296cf75d9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

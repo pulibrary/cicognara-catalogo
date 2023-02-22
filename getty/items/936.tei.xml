@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 936</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">936</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LAPI Giovan Girolamo</author>, <title>Del selce romano, Ragionamento mineralogico</title>, <pubPlace>Roma</pubPlace> <date>1784</date>, in 4, M.
+      15.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del selce romano [microform] : ragionamento mineralogico ... / da Giovanni Girolamo Lapi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/064w43</idno>
+            <idno type="URI">http://portal.getty.edu/api/8x4x5v</idno>
+            <idno type="URI">http://portal.getty.edu/api/rq7d03</idno>
+            <idno type="cico">936</idno>
+            <idno type="dcl">791</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del selce romano [microform] : ragionamento mineralogico ... / da Giovanni Girolamo Lapi.</title>
+                  <respStmt>
+                     <persName>Lapi, Giovanni Girolamo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia Salomoni</publisher>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>29, [1] p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/361ed28c-a718-43a7-b344-85048c1e2b1f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/361ed28c-a718-43a7-b344-85048c1e2b1f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

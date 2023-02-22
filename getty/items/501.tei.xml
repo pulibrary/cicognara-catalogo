@@ -1,0 +1,127 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 501</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">501</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>FEA (Carlo)</author>, 
+                     <title>Progetto per una nuova edizione dell’architettura di Vitruvio,</title> 
+                     <pubPlace>Roma</pubPlace> 
+                     <date>1788,</date>
+                     <extent> in 8.</extent>
+                     <!--Example of tagging printing details?-->
+	Aggiuntovi il manifesto d’associazione per la Storia delle Arti del Disegno di Winkelmann
+	fatta in Roma 1782, in 8, M. 62 e 31.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Manifesto di associazione [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pm7v5z</idno>
+            <idno type="cico">501</idno>
+            <idno type="dcl">vv6</idno>
+            <idno type="dcl">0w6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Manifesto di associazione [microform].</title>
+                  <respStmt>
+                     <persName>Fèa, Carlo, 1753-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Dalla stamperia Pagliarini</publisher>
+                     <date>1782</date>
+                  </imprint>
+                  <extent>4 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a95250e5-e1c3-4919-8a52-55bc0db8e4ea/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a95250e5-e1c3-4919-8a52-55bc0db8e4ea/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Progetto per una nuova edizione dell' architettura di Vitruvio [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446623506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z07t3t</idno>
+            <idno type="cico">501</idno>
+            <idno type="dcl">pp6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Progetto per una nuova edizione dell' architettura di Vitruvio [microform].</title>
+                  <respStmt>
+                     <persName>Fèa, Carlo, 1753-1836.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : Nella stamperia Pagliarini]</publisher>
+                     <date>[1788]</date>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>23 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/71979fbf-af1c-449a-8ede-c17977dc24eb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/71979fbf-af1c-449a-8ede-c17977dc24eb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

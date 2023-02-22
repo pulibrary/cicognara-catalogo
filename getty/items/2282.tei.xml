@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2282</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2282</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GUALDO Galeazzo Priorato</author>, <title>Vita del Cavaliere Pietro Liberi pittore padovano, riprodotta dal
+    Conte Lunardo Trissino</title>, <pubPlace>Vicenza</pubPlace> <date>1818</date>, in 8, M. 103.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita del cavaliere Pietro Liberi, pittore padovano [microform] / scritta lui vivente dal conte Galeazzo Gualdo Priorato, Vicentino, l'anno MDCLXIV.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985457423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vh8z13</idno>
+            <idno type="cico">2282</idno>
+            <idno type="dcl">vbt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita del cavaliere Pietro Liberi, pittore padovano [microform] / scritta lui vivente dal conte Galeazzo Gualdo Priorato, Vicentino, l'anno MDCLXIV.</title>
+                  <respStmt>
+                     <persName>Gualdo Priorato, Galeazzo, conte, 1606-1678.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vicenza : Tipografia Paroni</publisher>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>x, 28 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fd6a247f-443e-46de-8e7d-6d30455487a4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fd6a247f-443e-46de-8e7d-6d30455487a4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

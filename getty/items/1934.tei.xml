@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1934</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1934</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PHILOTHEI</author>, <title>Symbola Christiana quibus idea hominis christiani exprimitur</title>, <pubPlace>Francf.</pubPlace> <date>1677</date>, in
+    fol. fig.
+    <note>Sono questi cento emblemi di mediocre intaglio. <bibl>Aggiuntovi: <title>Zodiacus Illustrium Ecclesiae Siderum figur.</title>,
+    <pubPlace>Pragae</pubPlace> <date>1776</date> ec.</bibl>
+                    </note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zodiacus illustrium ecclesiae siderum seu virtutes infulatae clarissimorum duodecim orbis Christiania antistitum .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/132s97</idno>
+            <idno type="cico">1934</idno>
+            <idno type="dcl">nnw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Zodiacus illustrium ecclesiae siderum seu virtutes infulatae clarissimorum duodecim orbis Christiania antistitum .. [microform].</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Pragae : Typis Universitatis Carolo-Ferdinandeae</publisher>
+                     <date>1676</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ba423674-529b-43f2-ae58-293c4e45318c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ba423674-529b-43f2-ae58-293c4e45318c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

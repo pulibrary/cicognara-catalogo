@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1832</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1832</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ACCADEMICI Gelati di Bologna</author>, <title>Rime, presso gli eredi Rossi</title>, <pubPlace>Bologna</pubPlace>
+                    <date> 1597</date>, in 16.
+                     <note>Con 14 emblemi elegantemente intagliati.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rime de gli Academici Gelati di Bologna [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia dei Gelati (Bologna, Italy)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985339053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hg018m</idno>
+            <idno type="cico">1832</idno>
+            <idno type="dcl">r2c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Rime de gli Academici Gelati di Bologna [microform].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Bologna : La Accademia]</publisher>
+                     <date>[1597]</date>
+                     <date>1597</date>
+                  </imprint>
+                  <extent>186 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/caf5270a-6af8-416a-82a4-54fa4517370e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/caf5270a-6af8-416a-82a4-54fa4517370e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

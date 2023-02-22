@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4608</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4608</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GRISONE Federico gentiluomo napoletano</author>, Gli ordini di cavalcare, Roma 1550, in 4, fig.
+Dedicato al cardinal Ippolito d’Este. Opera divisa in quattro libri, e assai ben ordinata, a cui aggiugnesi in fine un
+numero di 50 tavole intagliate in legno per i morsi de’ cavalli, di bella esecuzione.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gli Ordini di cavalcare [microform] / di Federigo Grisone ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985429673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/315v95</idno>
+            <idno type="cico">4608</idno>
+            <idno type="dcl">10d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gli Ordini di cavalcare [microform] / di Federigo Grisone ...</title>
+                  <respStmt>
+                     <persName>Grisone, Federico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Appresso Giouan Paulo Suganappo</publisher>
+                     <date>Nell'anno del Signore 1550</date>
+                     <date>1550</date>
+                  </imprint>
+                  <extent>CXXIIII leaves</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/493d5dc9-f41f-449f-89d1-f4e2632cb260/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/493d5dc9-f41f-449f-89d1-f4e2632cb260/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1522</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1522</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>POMPA funebris Mediolanensis Francisci I Augusti</title>, in <pubPlace>Milano</pubPlace> <date>1766</date>, in fol. fig.
+    <note>Tre tavole di medaglie, una del catafalco e il frontespizio formano gli ornamenti dell’edizione.</note>
+    MDCCLXVI
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pompa funebris M[e]d[iolanen]sis Franc. I Aug.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agudi, Pasquale Maria, 1727-1790, contributor.</authority>
+            <authority>Manzoni, Giovanni Battista, designer.</authority>
+            <authority>Croce, Francesco, 1696-1773, designer.</authority>
+            <authority>Riccardi, Carlo, active 1766, designer.</authority>
+            <authority>Mercoli, Giacomo, 1745-1825, engraver.</authority>
+            <authority>Marelli, Giuseppe, active 18th century, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927079180001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/bt4s4t</idno>
+            <idno>(OCoLC)77185771</idno>
+            <idno type="cico">1522</idno>
+            <idno type="dcl">45v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pompa funebris M[e]d[iolanen]sis Franc. I Aug.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Nella stamperia di Guiseppe Marelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Milan.</pubPlace>
+                     <date>MDCCLXVI [1766]</date>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>LVI pages, [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8c889a66-b699-4798-80ab-29b35fc510f9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8c889a66-b699-4798-80ab-29b35fc510f9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pompa Funebris M[e]d[iolanen]sis Franc. I Aug [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Agudi, Pasquale Maria. Nelle solenni esequie dell' Augustissimo Imperator de' Romani Francesco Primo.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4j4p8j</idno>
+            <idno type="cico">1522</idno>
+            <idno type="dcl">45v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pompa Funebris M[e]d[iolanen]sis Franc. I Aug [microform].</title>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[In Milano : Nella Stamperia di Guiseppe Marelli]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1766]</date>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>LVI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c01fc25c-5b3d-4b5b-a33b-3ee7a8f57550/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c01fc25c-5b3d-4b5b-a33b-3ee7a8f57550/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

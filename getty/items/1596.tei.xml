@@ -1,0 +1,120 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1596</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1596</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BONANNI Filippo</author>, <title>Gabinetto armonico pieno d’istrumenti sonori imitati</title>, spiegati ed intagliati,
+    <pubPlace>Roma</pubPlace> <date>1728</date>, in 4, fig.
+    <note>Con 148 tavole in rame, non compreso il frontespizio di mediocre intaglio.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gabinetto armonico pieno d'instromenti sonori / indicati, spiegati, e di nuovo corretti ed accresciuti dal padre Filippo Bonanni.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990057682060203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/4n3v43</idno>
+            <idno>(OCoLC)181947654</idno>
+            <idno type="cico">1596</idno>
+            <idno type="dcl">zrf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gabinetto armonico pieno d'instromenti sonori / indicati, spiegati, e di nuovo corretti ed accresciuti dal padre Filippo Bonanni.</title>
+                  <respStmt>
+                     <persName>Buonanni, Filippo, 1638-1725, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Giorgio Placho</publisher>
+                     <date>MDCCXXIII [1723]</date>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>177 pages, CXLVIII leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494931158"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494931158">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gabinetto armonico pieno d'instromenti ti sonori, indicati, spiegati, e di nuovo corretti ed accresciuti [microform] / dal Filippo Bonanni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dh5m6k</idno>
+            <idno type="cico">1596</idno>
+            <idno type="dcl">zrf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gabinetto armonico pieno d'instromenti ti sonori, indicati, spiegati, e di nuovo corretti ed accresciuti [microform] / dal Filippo Bonanni ...</title>
+                  <respStmt>
+                     <persName>Buonanni, Filippo, 1638-1725.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Giorgio Placho</publisher>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>170 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4e1dd4a7-ecae-4672-aba9-0624f7f781d1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4e1dd4a7-ecae-4672-aba9-0624f7f781d1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 893</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">893</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CAREGA Michele</author>, <title>Memoria sopra i parafulmini</title>, <pubPlace>Roma</pubPlace> <date>1808</date>, in 4.
+      <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+      <note>Utilissima a leggersi da tutti i costruttori di edifici.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoria [microform] / di Michele Carrega sopra i parafulmini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298433506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jz583j</idno>
+            <idno type="cico">893</idno>
+            <idno type="dcl">b36</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoria [microform] / di Michele Carrega sopra i parafulmini.</title>
+                  <respStmt>
+                     <persName>Carrega, Michele.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso Il Salomoni</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>[4], 57, [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0dd9766d-28dd-4dd7-ae0c-62aedce1a05d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0dd9766d-28dd-4dd7-ae0c-62aedce1a05d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

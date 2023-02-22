@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2823</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2823</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DRIUZZO Francesco</author>, <title>Le gemme. Versi per le nozze Tiepolo-Nani tolti dalle antiche pietre incise di quel Museo</title>,
+<pubPlace>Venezia</pubPlace> <date>1812</date>, in 4, fig., M. 25.
+<note>Sono 30 i monumenti illustrati in questo volume, intagliati in altrettante tavole disperse senza ordine in tutta
+l’operetta.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le gemme per le nozze Tiepolo-Nani.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Nani, Lucrezia Tiepolo.</authority>
+            <authority>Nani, Antonio Maria Gasparo.</authority>
+            <authority>De Pian, Giovanni, 1764-1800, engraver.</authority>
+            <authority>Bartolozzi, Francesco, 1727-1815, engraver.</authority>
+            <authority>Moro, Pietro, illustrator.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923723300001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vc8663</idno>
+            <idno>(OCoLC)40767379</idno>
+            <idno type="cico">2823</idno>
+            <idno type="dcl">r85</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le gemme per le nozze Tiepolo-Nani.</title>
+                  <respStmt>
+                     <persName>Driuzzo, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Nella Tipografia Pinelli</publisher>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>[16], 134, [3] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/fc815013-203c-45b9-895b-931ffba6fd96"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fc815013-203c-45b9-895b-931ffba6fd96">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Gemme per le nozze Tiepolo-Nani [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985459333506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1b075g</idno>
+            <idno type="cico">2823</idno>
+            <idno type="dcl">r85</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le Gemme per le nozze Tiepolo-Nani [microform].</title>
+                  <respStmt>
+                     <persName>Driuzzo, Francesco, d. 1848.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Nella Tipografia Pinelli</publisher>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>134 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9089faa8-180a-41d3-9b6c-ad871d70d97c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9089faa8-180a-41d3-9b6c-ad871d70d97c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

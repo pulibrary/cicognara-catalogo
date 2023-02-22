@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 948</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">948</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PERRAULT</author>, <title>Recueil de plusieurs machines de nouvelle invention</title>, <pubPlace>Paris</pubPlace>, chez <publisher>Coignard</publisher>, <date>1700</date>,
+      en 4, f.
+      <note>Con undici tavole intagliate in rame. Edizione accurata non tanto pei tipi, che per le incisioni.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de plusieurs machines, de nouvelle invention [microform] / ouvrage posthume de M. Perrault ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245143506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/579n8q</idno>
+            <idno type="cico">948</idno>
+            <idno type="dcl">168</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de plusieurs machines, de nouvelle invention [microform] / ouvrage posthume de M. Perrault ...</title>
+                  <respStmt>
+                     <persName>Perrault, Claude, 1613-1688.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jean Baptiste Coignard</publisher>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>[12], 44 p., XI folded leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3bd8c855-2b26-4b60-9e52-98d39b3bfb85/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3bd8c855-2b26-4b60-9e52-98d39b3bfb85/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,114 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4415</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4415</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CATALOGUE des tableaux du Cabinet de M. Crozat</title>, <pubPlace>Paris</pubPlace> <date>1755</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des tableaux du cabinet de M. Crozat, baron de Thiers.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Debure, Guillaume, 1734-1820</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926393210001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w50t6n</idno>
+            <idno>(OCoLC)192110833</idno>
+            <idno type="cico">4415</idno>
+            <idno type="dcl">ps0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des tableaux du cabinet de M. Crozat, baron de Thiers.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez De Bure l'aîné, quai des Augustins, du côté du pont S. Michel, à S. Paul</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>MDCCLV [1755]</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>96 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8a19f00a-2a57-4169-935c-7682ea0ba9d4"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8a19f00a-2a57-4169-935c-7682ea0ba9d4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des tableaux du cabinet de M. Crozat, baron de Thiers [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1g4q5k</idno>
+            <idno>(OCoLC)196946551</idno>
+            <idno type="cico">4415</idno>
+            <idno type="dcl">ps0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des tableaux du cabinet de M. Crozat, baron de Thiers [microform]</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez De Bure l'Aîné</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>96 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f9f60614-98b8-4ecb-bb6c-9cc110ff1aec/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f9f60614-98b8-4ecb-bb6c-9cc110ff1aec/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

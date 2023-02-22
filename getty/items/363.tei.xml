@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 363</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">363</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>VALESIO Giovanni</author>, 
+                     <title>I primi elementi del disegno intagliati in 20 tav. in 4 pic. per traverso,
+	pubblicati in Bologna, dedicati al Cardinale Spinola, legato di Ferrara.</title>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I primi elementi del disegno [microform] : in gratia de i principianti nell'arte della pittura / fatti da Giouanni Valesio ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8d3r89</idno>
+            <idno type="cico">363</idno>
+            <idno type="dcl">k29</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I primi elementi del disegno [microform] : in gratia de i principianti nell'arte della pittura / fatti da Giouanni Valesio ...</title>
+                  <respStmt>
+                     <persName>Valesio, Giovanni Luigi, approximately 1583-approximately 1650.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[between 1600 and 1650]</date>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>20 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ce0c5c06-d8d4-4edb-9df6-24df4061611b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ce0c5c06-d8d4-4edb-9df6-24df4061611b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

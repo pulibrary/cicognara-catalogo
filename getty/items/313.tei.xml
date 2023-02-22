@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 313</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">313</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>COLOMBINA Gasparo padovano</author>, 
+                     <title>Il bomprò vi faccia per sani ed ammalati,</title> 
+                     <pubPlace>Padova,</pubPlace> per <publisher>Pietro
+	Paolo Tozzi,</publisher> 
+                     <date>1621,</date>
+                     <extent> in 8 fig.</extent>
+	                    <note>Questo libretto contiene l’uso di molti semplici per guarigioni di malattie con la figura di tutte le piante intagliate
+	in legno fra il testo. Non appartiene per la sua materia a questa collezione, ma è un’opera curiosa ed estesa
+	dall’autore di cui abbiamo il precedente Trattato elementare del disegno che tiene luogo fra’ libri rarissimi.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il bomprovifaccia, per sani, &amp; amalati [microform] / di Gasparo Colombina Padovano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2t884d</idno>
+            <idno type="cico">313</idno>
+            <idno type="dcl">djz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il bomprovifaccia, per sani, &amp; amalati [microform] / di Gasparo Colombina Padovano.</title>
+                  <respStmt>
+                     <persName>Colombina, Gaspare, -1650.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padoua : Pietro Paolo Tozzi</publisher>
+                     <date>1621</date>
+                  </imprint>
+                  <extent>[32], 335 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/de90d275-523b-4d3c-9ecb-19c06ae8a396/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/de90d275-523b-4d3c-9ecb-19c06ae8a396/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

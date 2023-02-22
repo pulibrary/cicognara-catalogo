@@ -1,0 +1,67 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4216</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4216</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MORENI Domenico</author>, <title>Descrizione delle tre sontuose Cappelle Medicee nella Basilica di S. Lorenzo</title>, <pubPlace>Firenze</pubPlace> <date>1813</date>,
+in 8.
+<note>Libro assai ben fatto, giudizioso, pieno di critica, e di buone notizie.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle tre sontuose cappelle Medicee situate nell' imp. Basilica di S. Lorenzo descrizione istorico-critica</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Moreni, Domenico, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-210686</idno>
+            <idno type="URI">http://portal.getty.edu/api/ws663j</idno>
+            <idno type="cico">4216</idno>
+            <idno type="dcl">8wf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle tre sontuose cappelle Medicee situate nell' imp. Basilica di S. Lorenzo descrizione istorico-critica</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>San Lorenzo &lt;Florenz&gt;</pubPlace>
+                     <date>1813</date>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>XVI, 386 S.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/moreni1813/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/moreni1813/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

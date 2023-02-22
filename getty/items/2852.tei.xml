@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2852</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2852</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GAETANI Cesare della Torre</author>, <title>Piombi antichi mercantili. Dissertazione, che serve di appendice ai piombi antichi
+                        del Ficoroni</title>,<date> 1775</date>, in 8, fig., M. 60.
+                        <note>Con due grandi tavole intagliate in rame</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Piombi antichi mercantili [microform] : dissertazione accademica recitata alla prefenza di Monsignor Francesco Testa ... nel MDCCLV / da Cesare Gaetani e Gaetani Conte della Torre siracusano ; che servir potrebbe di Appendice ai Piombi antichi del Sig. Abate Francesco de Ficoroni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ficoroni, Francesco, 1664-1747. Piombi antichi.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985462593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3f0j3s</idno>
+            <idno type="cico">2852</idno>
+            <idno type="dcl">w83</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Piombi antichi mercantili [microform] : dissertazione accademica recitata alla prefenza di Monsignor Francesco Testa ... nel MDCCLV / da Cesare Gaetani e Gaetani Conte della Torre siracusano ; che servir potrebbe di Appendice ai Piombi antichi del Sig. Abate Francesco de Ficoroni.</title>
+                  <respStmt>
+                     <persName>Gaetani, Cesare, Conte della Torre, active 18th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1775]</date>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>67, [2] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a46df14d-da26-4e44-bd81-565cbbc6cbf2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a46df14d-da26-4e44-bd81-565cbbc6cbf2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

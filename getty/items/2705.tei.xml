@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2705</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2705</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ROY (Le)</author>, <title>Les ruines des plus beaux monumens de la Grece, ouvrage divisée en deux parties</title>, <pubPlace>Paris</pubPlace> <date>1758</date>, in fol.
+mass.
+<note>Quest’opera rimase in grande opinione finché non giunse agli occhi del pubblico quella di Stuard eseguita con
+più scrupolosa esattezza. La prima parte in cui si considerano questi monumenti dal lato storico è arricchita di 27
+bellissime tavole pittoresche rappresentanti le vedute intagliate da le Bas. La seconda parte ove si esaminano i
+monumenti dal lato architettonico contiene 32 tavole intagliate da Patte. Esemplare magnifico ril. in vit.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les ruines des plus beaux monuments de la Grèce : ouvrage divisé en deux parties, où l'on considère ... ces monuments du côté de l'histoire et ... du côté de l'architecture / par M. LeRoy ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100947263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cw5q43</idno>
+            <idno>(OCoLC)313334962</idno>
+            <idno type="cico">2705</idno>
+            <idno type="dcl">g2z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les ruines des plus beaux monuments de la Grèce : ouvrage divisé en deux parties, où l'on considère ... ces monuments du côté de l'histoire et ... du côté de l'architecture / par M. LeRoy ...</title>
+                  <respStmt>
+                     <persName>LeRoy, David.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Guerin &amp; Delatour [u.a.]</publisher>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>9 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5baeacd9-6249-4c16-af77-8ea0ea7bc65c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5baeacd9-6249-4c16-af77-8ea0ea7bc65c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les ruines des plus beaux monuments de la Grèce</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Roy, David, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16415</idno>
+            <idno type="URI">http://portal.getty.edu/api/5h4g4c</idno>
+            <idno type="cico">2705</idno>
+            <idno type="dcl">g2z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les ruines des plus beaux monuments de la Grèce</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <pubPlace>Griechenland &lt;Altertum&gt;</pubPlace>
+                     <pubPlace>Europa</pubPlace>
+                     <pubPlace>Griechenland</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>39 22</pubPlace>
+                     <date>1758</date>
+                     <date>1758</date>
+                  </imprint>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/leroy1758/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/leroy1758/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

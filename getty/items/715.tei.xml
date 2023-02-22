@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 715</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">715</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VITRUVE</author>, <title>Epitome, ou extrait abregé de dix livres d’architecture de M. Vitruve Pollion par
+	Jean Gardet Bourbonnois et Dominique Bertin Parisien</title>, <pubPlace>Paris</pubPlace> <date>1565</date>, en 4 pet. fig.
+	<note>Edizione noti diversa da quella, del 1559 se non pel frontespizio. L’estratto si fonda sulla versione di Jean
+	Martin, le figure sono infelici assai e il meglio consiste nelle annotazioni ai tre primi libri che vengono dopo
+	l’epitome, estese da Gardet, nelle quali riempie il vuoto dell’altro collaboratore.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epitome ou extrait abrege des dix liures d'architecture [microform] / de Marc Vitruue Pollion ; enrichi des figures &amp; pourtraits pour l'intelligence du liure par Ian Gardet ... et Dominique Bertin ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bertin, Dominique, active 1552-1565.</authority>
+            <authority>Gardet, Jan, active 1556-1559.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/670183</idno>
+            <idno type="cico">715</idno>
+            <idno type="dcl">wzk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Epitome ou extrait abrege des dix liures d'architecture [microform] / de Marc Vitruue Pollion ; enrichi des figures &amp; pourtraits pour l'intelligence du liure par Ian Gardet ... et Dominique Bertin ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Gabriel Buon</publisher>
+                     <date>1565</date>
+                  </imprint>
+                  <extent>[8], 262 [i.e. 272], 85 [i.e. 82], [2] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8a801468-e4f4-4728-9dd4-fbb50f516d9b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a801468-e4f4-4728-9dd4-fbb50f516d9b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

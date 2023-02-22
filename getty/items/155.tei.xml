@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 155</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">155</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>LAMOTTE Charles</author>,
+                     <title> An essay upon poetry and painting with relation to the sacred and profane
+	  hi <pb type="cico" n="25"/> story with an appendix concerning obscenity in writing and painting,</title> 
+                     <pubPlace>Londra</pubPlace> 
+                     <date>1731,</date>
+	                    <extent> in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay upon poetry and painting [microform] : with relation to the sacred and profane history ; with an appendix concerning obscenity in writing and painting / by Charles Lamotte ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985248163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/02090n</idno>
+            <idno type="cico">155</idno>
+            <idno type="dcl">0kg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>An essay upon poetry and painting [microform] : with relation to the sacred and profane history ; with an appendix concerning obscenity in writing and painting / by Charles Lamotte ...</title>
+                  <respStmt>
+                     <persName>Lamotte, Charles.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for F. Fayram and T. Hatchett</publisher>
+                     <date>1731</date>
+                  </imprint>
+                  <extent>vi, 202 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/40a5a209-6c43-40df-8b0d-807ce07894d9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/40a5a209-6c43-40df-8b0d-807ce07894d9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 178</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">178</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>PELLEGRINO Fulvio mantovano</author>, 
+                     <title>Significato dei colori e dei mazzoli, Venezia 1618, appresso
+	  Comia Gallina, in 8; aggiuntovi il Trattato dei colori nelle arme e nelle livree e nelle divise, di
+	  Sicillo araldo del re Alfonso di Aragona,</title> 
+                     <pubPlace>Venezia</pubPlace> 
+                     <date>1606</date>, presso <publisher>lucio Spineda,</publisher>
+                     <extent> in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato d i colori nelle arme, nelle livree, et nelle divise [microform] / di Sicillo araldo del rè Alfonso d'Aragona.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Carampello, Bartolomeo.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/477h34</idno>
+            <idno type="cico">178</idno>
+            <idno type="dcl">3zw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato d i colori nelle arme, nelle livree, et nelle divise [microform] / di Sicillo araldo del rè Alfonso d'Aragona.</title>
+                  <respStmt>
+                     <persName>Sicile, herald to Alfonso V, king of Aragon, 15th cent.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Lucio Spineda</publisher>
+                     <date>1606</date>
+                  </imprint>
+                  <extent>31 numbered leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7701b818-dae5-40b4-b018-656d3ca2df37/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7701b818-dae5-40b4-b018-656d3ca2df37/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato de i colori nelle arme, nelle livree, et nelle divise / di Sicillo, araldo del rè Alfonso d'Aragona.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924098490001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pk6757</idno>
+            <idno>(OCoLC)81939540</idno>
+            <idno type="cico">178</idno>
+            <idno type="dcl">3zw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato de i colori nelle arme, nelle livree, et nelle divise / di Sicillo, araldo del rè Alfonso d'Aragona.</title>
+                  <respStmt>
+                     <persName>Sicille, active 15th century</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Lucio Spineda</publisher>
+                     <date>1606</date>
+                  </imprint>
+                  <extent>31, [1] leaves (the last blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/658b31e5-1773-44a0-8d4a-bee9c62e4cec"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/658b31e5-1773-44a0-8d4a-bee9c62e4cec">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

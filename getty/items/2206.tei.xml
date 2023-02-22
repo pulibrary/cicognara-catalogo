@@ -1,0 +1,123 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2206</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2206</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BELLORI Gio. Pietro</author>, <title>Le vite de’ pittori, sculto <pb type="cico" n="380"/>ri e architetti moderni</title>. Edizione
+    dedicata al gran Colbert, <pubPlace>Roma</pubPlace> <date>1672</date>, in 4, fig.
+    <note>Le stampe di questo esemplare sono di prima freschezza e ad ogni ritratto dei dodici artisti illustrali trovasi
+    annessa una stampa allegorica.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vite de' pittori, scultori et architetti moderni [microform] / scritte da Gio. Pietro Bellori ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/269x4k</idno>
+            <idno type="cico">2206</idno>
+            <idno type="dcl">jg4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vite de' pittori, scultori et architetti moderni [microform] / scritte da Gio. Pietro Bellori ...</title>
+                  <respStmt>
+                     <persName>Bellori, Giovanni Pietro, 1613-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per il succes, al Mascardi</publisher>
+                     <date>1672</date>
+                  </imprint>
+                  <extent>462 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/52355a12-e2e1-48c4-bc2a-72150f39e640/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/52355a12-e2e1-48c4-bc2a-72150f39e640/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vite de' pittori, scvltori et architetti moderni, scritte da Gio: Pietro Bellori, parte prima ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Clouet, Albert, 1636-1679.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923566440001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/3z6t8s</idno>
+            <idno>(OCoLC)2291702</idno>
+            <idno type="cico">2206</idno>
+            <idno type="dcl">jg4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vite de' pittori, scvltori et architetti moderni, scritte da Gio: Pietro Bellori, parte prima ...</title>
+                  <respStmt>
+                     <persName>Bellori, Giovanni Pietro, 1613-1696</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma, Per il success. al Mascardi</publisher>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1672</date>
+                  </imprint>
+                  <extent>6 preliminary leaves, 3-462 (i.e. 460) pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/deb9cf64-0df3-478d-aed0-7473e3c1365f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/deb9cf64-0df3-478d-aed0-7473e3c1365f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

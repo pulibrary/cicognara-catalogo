@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1805</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1805</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>STUCKII Guillelmi</author>, <title>Antiquitatum convivalium libri tres,</title>
+                    <pubPlace> Tiguri</pubPlace>
+                    <date> 1582</date>, in fol.
+  <note>Grand’opera in cui raccogliesi tutto ciò che in questa materia si è saputo e citato da tutti gli autori, prendendo la
+  cosa sotto ogni aspetto d’erudizione. Questi si estende oltre le 800 pagine in un carattere minuto e corsivo. Nel
+  <fw type="foot"/>
+                  <pb type="memofonte"/>
+                  <fw type="head"/>
+     1695 fu ristampata con altra opera del medesimo autore.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiquitatum convivialium libri III [microform] : in quibus Hebraeorum, Graecorum, Romanorum aliarumque nationum antiqua conviviorum genera ... / auctore Io. Guilielmo Stuckio ; index eorum quae capitibus singulis ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fj8297</idno>
+            <idno type="cico">1805</idno>
+            <idno type="dcl">5gj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiquitatum convivialium libri III [microform] : in quibus Hebraeorum, Graecorum, Romanorum aliarumque nationum antiqua conviviorum genera ... / auctore Io. Guilielmo Stuckio ; index eorum quae capitibus singulis ...</title>
+                  <respStmt>
+                     <persName>Stucki, Johann Wilhelm, -1607.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Tiguri : Excudebat Christophorus Froschoverus</publisher>
+                     <date>Anno 1582</date>
+                     <date>1582</date>
+                  </imprint>
+                  <extent>[24], 397, [28] p.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/71f7da00-8729-42cc-b976-be44c8876e2a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/71f7da00-8729-42cc-b976-be44c8876e2a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

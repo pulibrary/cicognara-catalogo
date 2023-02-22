@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 339</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">339</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>MORO Jacopo</author>, 
+                     <title>Anatomia ridotta ad uso de’ pittori e scultori,</title> 
+                     <pubPlace>Vinegia</pubPlace> 
+                     <date>1679,</date> 
+                     <extent>in fol. figur.</extent>
+	Aggiuntavi una breve istruzione per dipingere a fresco.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anotomia ridotta all' vso de' pittori e scultori [microform] / dal Giacopo Moro ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/g89k3h</idno>
+            <idno type="cico">339</idno>
+            <idno type="dcl">c89</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Anotomia ridotta all' vso de' pittori e scultori [microform] / dal Giacopo Moro ...</title>
+                  <respStmt>
+                     <persName>Moro, Giacopo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Presso Gio. Francesco Valuasense</publisher>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>23, 25, [10] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4d3cf10e-307e-48ed-956c-f27bd617e9ad/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4d3cf10e-307e-48ed-956c-f27bd617e9ad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

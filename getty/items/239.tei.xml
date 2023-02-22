@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 239</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">239</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>VOLPATO</author>, <title>Altro esemplare di questo rarissimo libretto con due teste intagliate in legno al fine,
+	  dimostrative di tutte le rughe della pelle del volto, che non sono nel sopra descritto esemplare.</title>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il vagante corriero [microform] : à curiosi, che si dilettano di pittura et a giovani studiosi annuntio fortunato ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p82m0j</idno>
+            <idno type="cico">239</idno>
+            <idno type="dcl">tbr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il vagante corriero [microform] : à curiosi, che si dilettano di pittura et a giovani studiosi annuntio fortunato ...</title>
+                  <respStmt>
+                     <persName>Volpato, Giovanni Battista, 1633-1706.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Vicenza : Per Giouanni Berno]</publisher>
+                     <date>[1685]</date>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8154e634-7deb-42dc-9cc7-b265d1df7938/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8154e634-7deb-42dc-9cc7-b265d1df7938/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

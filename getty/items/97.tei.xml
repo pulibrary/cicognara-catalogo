@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 97</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">97</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CANEPARII Petri Marire</author>,
+                     <title> De atramentis cuiuscumque generis,</title>
+                     <pubPlace> Roterdami</pubPlace>
+                     <date> 1718,</date> 
+                     <extent>in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petri Mariae Caneparii De atramentis cujuscunque generis [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1t6h81</idno>
+            <idno type="cico">97</idno>
+            <idno type="dcl">7zq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Petri Mariae Caneparii De atramentis cujuscunque generis [microform]</title>
+                  <respStmt>
+                     <persName>Canepari, Pietro Maria.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Roterodami : Sumptibus Casparis Fritsch</publisher>
+                     <date>1718</date>
+                  </imprint>
+                  <extent>XVI, 502 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/209ee3a8-38f5-43e5-aa1b-6a6f7c80d823/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/209ee3a8-38f5-43e5-aa1b-6a6f7c80d823/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petri Mariae Caneparii De atramentis cujuscunque generis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fritsch, Caspar.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921775550001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/mw025p</idno>
+            <idno>(OCoLC)36496743</idno>
+            <idno type="cico">97</idno>
+            <idno type="dcl">7zq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Petri Mariae Caneparii De atramentis cujuscunque generis.</title>
+                  <respStmt>
+                     <persName>Canepari, Pietro Maria.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Roterodami : Sumptibus Casparis Fritsch</publisher>
+                     <pubPlace>Netherlands Rotterdam.</pubPlace>
+                     <date>1718</date>
+                  </imprint>
+                  <extent>XVI, 502, [2] p., [2] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e2407aab-b99b-4c25-9e72-15d31e0dd341"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e2407aab-b99b-4c25-9e72-15d31e0dd341">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

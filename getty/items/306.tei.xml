@@ -1,0 +1,122 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 306</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">306</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CARRADORI Francesco</author>,
+                     <title> Istruzione elementare per gli studiosi della scultura,</title> 
+                     <pubPlace>Firen.</pubPlace> 
+                     <date>1802,</date>
+                     <extent> in 4,
+                        figura <pb type="cico" n="53"/>to. Con 17 tavole</extent> oltre il frontespizio figurato.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istruzione elementare per gli studiosi della scultura / di Francesco Carradori, professore di dett'arte nella R. Scuola di Firenze.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lasinio, Carlo, 1759-1838</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924278480001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/cf5b3m</idno>
+            <idno>(OCoLC)11405451</idno>
+            <idno type="cico">306</idno>
+            <idno type="dcl">k84</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istruzione elementare per gli studiosi della scultura / di Francesco Carradori, professore di dett'arte nella R. Scuola di Firenze.</title>
+                  <respStmt>
+                     <persName>Carradori, Francesco, 1747-1825</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : [s.n.]</publisher>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>[4], xxxvii, [17] pages, 13 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/64d3b614-27ec-4151-ae87-b935a59518c5"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/64d3b614-27ec-4151-ae87-b935a59518c5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istruzione elementare per gli studiosi della scultura [microform] / di Francesco Carradori ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n1242h</idno>
+            <idno type="cico">306</idno>
+            <idno type="dcl">k84</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istruzione elementare per gli studiosi della scultura [microform] / di Francesco Carradori ...</title>
+                  <respStmt>
+                     <persName>Carradori, Francesco, 1747-1825.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Pisa : Società Letteraria]</publisher>
+                     <date>[1802]</date>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>xxxvii p., [13] p. of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e2383abb-fe6f-4725-9b2a-990143b148a3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e2383abb-fe6f-4725-9b2a-990143b148a3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4700</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4700</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>DRUMOND</author>, <title>Oedipus judaicus etc.</title>, <pubPlace>London</pubPlace> <date>1811</date>, in 8, con sedici tavole intagliate in contorni.
+<note>Opera singolarissima, che versa sul culto primitivo degli antichi popoli, piena di curiose dottrine, poco
+conosciuta, e che non trovasi in commercio.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Oedipus Judaicus [microform] / by the right honorable Sir W. Drummond.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985439123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b2862h</idno>
+            <idno type="cico">4700</idno>
+            <idno type="dcl">wfx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The Oedipus Judaicus [microform] / by the right honorable Sir W. Drummond.</title>
+                  <respStmt>
+                     <persName>Drummond, William, Sir, 1770?-1828.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by A.J. Valpy</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>lxxxii, 384 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/66f19414-13b4-4fa6-b6c6-01bf9e53a819/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/66f19414-13b4-4fa6-b6c6-01bf9e53a819/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

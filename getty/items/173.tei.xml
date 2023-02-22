@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 173</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">173</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title>OBSÉRVATIONS historiques et critiques sur les erreurs des peintres, sculpteurs et dessinateurs
+	  dans la répresentation des sujets tirés de l’histoire sainte</title>, <pubPlace>Paris</pubPlace> 
+                     <date>1771,</date>
+                     <extent> 2 vol. in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations historiques et critiques sur les erreurs des peintres, sculpteurs &amp; dessinateurs dans la représentation des sujets tirés de l'histoire sainte [microform] : Ou, les peintures sacrées considérées relativement aux dogmes, aux faits &amp; au costume, avec tous les éclaircissements nécessaires pour les rendre exactes, &amp; les augmenter d'un grand nombre de sujets qui n'ont jamais été traités.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hv2c0p</idno>
+            <idno type="cico">173</idno>
+            <idno type="dcl">5p5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Observations historiques et critiques sur les erreurs des peintres, sculpteurs &amp; dessinateurs dans la représentation des sujets tirés de l'histoire sainte [microform] : Ou, les peintures sacrées considérées relativement aux dogmes, aux faits &amp; au costume, avec tous les éclaircissements nécessaires pour les rendre exactes, &amp; les augmenter d'un grand nombre de sujets qui n'ont jamais été traités.</title>
+                  <respStmt>
+                     <persName>Molé, Guillaume-François-Roger, 1742-1790?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Debure, Pere</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a16e7a0e-394c-48a4-be99-dd8fbe414da2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a16e7a0e-394c-48a4-be99-dd8fbe414da2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 395</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">395</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>ALDRICH Henry</author>, 
+                     <title>The elements of civil architecture according to Vitruvuis and other ancients
+	and the most approved practice of modern authores especially Palladio,</title> 
+                     <pubPlace>Oxford</pubPlace> 
+                     <date>1789,</date>
+                     <extent> in 4.</extent>
+	Translated by Phil. Smyth., etc.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Elements Of Civil Architecture: According To Vitruvius And Other Ancients, And The Most Approved Practice Of Modern Authors, Especially Palladio</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aldrich, Henry, Author</authority>
+            <authority>Smyth, Philip, Translator</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-265321</idno>
+            <idno type="URI">http://portal.getty.edu/api/xz6397</idno>
+            <idno type="cico">395</idno>
+            <idno type="dcl">wzn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The Elements Of Civil Architecture: According To Vitruvius And Other Ancients, And The Most Approved Practice Of Modern Authors, Especially Palladio</title>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <date>1789</date>
+                     <date>1789</date>
+                  </imprint>
+                  <extent>[7] Bl., LXVI, 66 S., [1] Bl., 54 S.</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/aldrich1789/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/aldrich1789/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

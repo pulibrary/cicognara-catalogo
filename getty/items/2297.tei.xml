@@ -1,0 +1,69 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2297</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2297</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>LE giustissime lagrime della pittura e della poesia pubblicate negli apparati funebri di Pavia
+    per i funerali di Luigi Scaramuccia perugino</title>, <pubPlace>Milano</pubPlace> <date>1681</date>, in 8.
+    <note>Libretto raro a trovarsi.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le giustissime lagrime della poesia e della pitura publicate ne sontuosissimi apparati funebri alzati dalla sempre memore &amp; immortal pietà de primi virtuosi della gran citta di Pauia [microform] : nella chiesa di S. Gioseppe l'anno 1680 adi 27. nouembre ne funerali del ... Luigi Scaramuccia, Perugino ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ss5w3s</idno>
+            <idno type="cico">1475</idno>
+            <idno type="dcl">frx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le giustissime lagrime della poesia e della pitura publicate ne sontuosissimi apparati funebri alzati dalla sempre memore &amp; immortal pietà de primi virtuosi della gran citta di Pauia [microform] : nella chiesa di S. Gioseppe l'anno 1680 adi 27. nouembre ne funerali del ... Luigi Scaramuccia, Perugino ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Per Il Ramelsati</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>61 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fe2d478b-38c3-4b27-9c1f-1af72e499b02/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fe2d478b-38c3-4b27-9c1f-1af72e499b02/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

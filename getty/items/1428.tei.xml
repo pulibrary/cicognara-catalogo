@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1428</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1428</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LAVANA Jo. B.</author>, <title>Viage de la Catholica Real Magestad del rei D. Filipe III al reino del
+    Portugal, I relacion del selene recebimiento etc. par. Jo. Bat. Lavata su Coronista Mayor</title>,
+    <pubPlace>Madrid</pubPlace> <date>1622</date> in <pb type="cico" n="244"/> fol. fig. in fine par <publisher>Tornas Junti impressor del Rey</publisher>, en <pubPlace>Madrid</pubPlace> <date>1621</date>.
+    <note>Sono in questo volume 15 tavole intagliate con accoratezza da Giovanni Schorquens.</note>
+    MDCXXIII
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Viage de la catholica real mage stad del Rei D. Filipe. III. N.S. al reino de Portugal [microform] : i relacion del solene recebimiento que en el se le hiz. Su Magestad / la mando escriuir por Ioan Baptista Lauaña su coronista mayor.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/px3x5s</idno>
+            <idno type="cico">1428</idno>
+            <idno type="dcl">nc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Viage de la catholica real mage stad del Rei D. Filipe. III. N.S. al reino de Portugal [microform] : i relacion del solene recebimiento que en el se le hiz. Su Magestad / la mando escriuir por Ioan Baptista Lauaña su coronista mayor.</title>
+                  <respStmt>
+                     <persName>Lavanha, João Baptista, 1555-1624.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>Madrid : Por Thomas Iunti impressor del rei N.S</publisher>
+                     <pubPlace>Portugal</pubPlace>
+                     <date>1622</date>
+                  </imprint>
+                  <extent>76 leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c79823b7-5e7f-4440-9fda-dbaca6387b8d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c79823b7-5e7f-4440-9fda-dbaca6387b8d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

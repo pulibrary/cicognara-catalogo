@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1936</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1936</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PIROLI Tommaso</author>, <title>Raccolta di dodici Virtù personificate</title>, dipinte coi disegni di Raffaello
+    d’Urbino nella sala detta di Giulio Romano al Vaticano, incise all’acqua forte da Tommaso
+    Piroli, <pubPlace>Roma</pubPlace>, presso <publisher>il suddetto a strada Gregoriana</publisher>, tav. XII etc., in fol.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta di dodici virtù personificate [microform] : dispinte co' disegni di Rafaello d'Urbino nella sala detta di Giulio Romano al Vaticano / incise ... da Tommaso Piroli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985422573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6t263r</idno>
+            <idno type="cico">3435</idno>
+            <idno type="dcl">wnt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta di dodici virtù personificate [microform] : dispinte co' disegni di Rafaello d'Urbino nella sala detta di Giulio Romano al Vaticano / incise ... da Tommaso Piroli.</title>
+                  <respStmt>
+                     <persName>Piroli, Tommaso, approximately 1752-1824.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : [s.n</publisher>
+                     <date>[18-?]</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>XII leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4c76333c-57da-4cfd-9198-32ec2982a6cb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4c76333c-57da-4cfd-9198-32ec2982a6cb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

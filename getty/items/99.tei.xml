@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 99</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">99</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>CASANOVA G.</author>,
+                     <title> Discorso sopra gli antichi e varii monumenti loro per uso degli alunni
+	  dell’Elettoral <pb type="cico" n="16"/> Accademia delle belle arti di Dresda,</title> 
+                     <pubPlace>Lipsia</pubPlace>
+                     <date> 1770,</date>
+                     <extent> in 4.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso sopra gl'antichi e varj monumenti loro per uso degl'alunni dell'elettoral elettoral'Accademia delle bell'arti di Dresda [microform] / di G. Casanova ..</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fm9q95</idno>
+            <idno type="cico">99</idno>
+            <idno type="dcl">v4x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso sopra gl'antichi e varj monumenti loro per uso degl'alunni dell'elettoral elettoral'Accademia delle bell'arti di Dresda [microform] / di G. Casanova ..</title>
+                  <respStmt>
+                     <persName>Casanova, Giovanni Battista, 1728 or 1730-1795.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lipsia : Alle spese della Vedova Dyck</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>LXX p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8e1a863f-f7b6-48e5-bfda-4cff9d0ac6dc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8e1a863f-f7b6-48e5-bfda-4cff9d0ac6dc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

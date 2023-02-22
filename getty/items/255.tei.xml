@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 255</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">255</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BOSSE Abr.</author>, 
+                     <title>La stessa, Parigi 1758. Augmentée de l’impression qui imite les tableaux, de la
+	  gravure en manière de crayon et de celle qui imite le levis, enrichie de vignettes et de 21 pl.
+	  En taille douce,</title> 
+                     <extent>in 8.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De la maniere de graver a l'eau forte et au burin et de la gravure en maniere noire [microform] : avec la façon de construire les presses modernes, &amp; d'imprimer en taille-douce / par Abraham Bosse ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985269403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gh662d</idno>
+            <idno type="cico">255</idno>
+            <idno type="dcl">vz4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De la maniere de graver a l'eau forte et au burin et de la gravure en maniere noire [microform] : avec la façon de construire les presses modernes, &amp; d'imprimer en taille-douce / par Abraham Bosse ...</title>
+                  <respStmt>
+                     <persName>Bosse, Abraham, 1602-1676.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Charles-Antoine Jombert</publisher>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>xxxii, 205 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b82b459b-3efc-493d-afa2-99cc1374111f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b82b459b-3efc-493d-afa2-99cc1374111f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

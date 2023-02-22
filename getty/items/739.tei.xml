@@ -1,0 +1,170 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 739</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">739</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>M. VITRUVIO Pollio</author>, <title>De architectura lib. X illustrati et esplicati ab Augusto Rode</title>: addito
+	Lexicon Vitruvianum gallice, italice, anglice, <pubPlace>Berolini</pubPlace> <date>1800</date>, in 4.
+	<fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	
+	              </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marci Vitruvii Pollionis De architectura libri decem : ope codicis Guelferbytani, editionis principis, ceterorumque subsidiorum recensuit, et glossario in quo vocabula artis propria Germ. Ital. Gall. et Angl. / explicantur, illustravit Augustus Rode Dessaviensis.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rode, August, 1751-1837</authority>
+            <authority>Rode, August, 1751-1837. Formae ad explicandos M. Vitruvii Pollionis decem libros De architectura.</authority>
+            <authority>Mylius, August.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924107840001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/k86k1h</idno>
+            <idno>(OCoLC)80779478</idno>
+            <idno type="cico">739</idno>
+            <idno type="dcl">438</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marci Vitruvii Pollionis De architectura libri decem : ope codicis Guelferbytani, editionis principis, ceterorumque subsidiorum recensuit, et glossario in quo vocabula artis propria Germ. Ital. Gall. et Angl. / explicantur, illustravit Augustus Rode Dessaviensis.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Berolini [Berlin, Germany] : Sumptibus Augusti Mylii</publisher>
+                     <pubPlace>Germany Berlin.</pubPlace>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>[4], XX, [2], 264, 80 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/32ca058e-fa3f-4aab-ad61-004aafc4010b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/32ca058e-fa3f-4aab-ad61-004aafc4010b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marci Vitruvii Pollionis De architectura libri decem</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vitruvius, Author</authority>
+            <authority>Rode, August, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-36464</idno>
+            <idno type="URI">http://portal.getty.edu/api/xq596d</idno>
+            <idno type="cico">739</idno>
+            <idno type="dcl">438</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marci Vitruvii Pollionis De architectura libri decem</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1800</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>XX, 264, 80 S.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1800/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1800/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marci Vitruvii Pollionis De Architectura libri decem [microform] : ope codicis Guelferbytani, editionis principis, ceterorumque subsidiorum recensuit, et glossario in quo vocabula artis propria Germ. Ital. Gall. et Angl. / explicantur, illustravit Augustus Rode ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Rode, August, 1751-1837.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985192863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x79h7w</idno>
+            <idno type="cico">739</idno>
+            <idno type="dcl">438</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Marci Vitruvii Pollionis De Architectura libri decem [microform] : ope codicis Guelferbytani, editionis principis, ceterorumque subsidiorum recensuit, et glossario in quo vocabula artis propria Germ. Ital. Gall. et Angl. / explicantur, illustravit Augustus Rode ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Berolini : Sumptibus Augusti Mylii</publisher>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>xx, 264, 80, [2] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f4253f28-96ac-4423-8544-d356356e8684/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f4253f28-96ac-4423-8544-d356356e8684/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

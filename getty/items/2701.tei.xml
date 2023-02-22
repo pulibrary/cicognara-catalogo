@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2701</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2701</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PIRANESI Francois</author>, <title>Differentes vues, et quelques <pb type="cico" n="35"/> restes de trois grands édifices, qui subsistent encore dans
+le milieu de l’ancienne ville de Pestum, autrement Possidonia, qui est située dans la Lucanie</title> in fol. atlant.
+<note>Con 17 tavole grandissime di superbo intaglio pittoresco.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Différentes vues de quelques restes de trois grands édifices : qui subsistent encore dans le milieu de l'ancienne ville de Pesto autrement Posidonia qui est située dans la Lucanie.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Piranesi, Francesco, 1756-1810, engraver.</authority>
+            <authority>Tessier, Jean-Joseph, active 1790-1801, binder.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928610580001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/q62k1p</idno>
+            <idno>(OCoLC)1031384666</idno>
+            <idno type="cico">2701</idno>
+            <idno type="cico">2707</idno>
+            <idno type="dcl">0w7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Différentes vues de quelques restes de trois grands édifices : qui subsistent encore dans le milieu de l'ancienne ville de Pesto autrement Posidonia qui est située dans la Lucanie.</title>
+                  <respStmt>
+                     <persName>Piranesi, Giovanni Battista, 1720-1778</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris] : [Calcographie Piranesi]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Paestum (Extinct city)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>[1800-1807] (</date>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>XX plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a3488bd3-0ba2-49d1-931e-3568d2c3262f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a3488bd3-0ba2-49d1-931e-3568d2c3262f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

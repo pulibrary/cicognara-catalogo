@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3816</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3816</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PANVINII Onophrii</author>, <title>De praecipuis urbis Romae Basilicis quas septem ecclesias, vulgo vocant, liber</title>, <pubPlace>Romae</pubPlace>, apud
+haeredes<publisher> Antonii Bladii</publisher>, <date>1570</date>, in 8.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Onuphrii Panuinii veronensis fratis eremitae Augustiniani De praecipuis vrbis Romae sanctioribusq[ue], basilicis, quas septem ecclesias uulgo uocant, liber [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985438353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kz9099</idno>
+            <idno type="cico">3816</idno>
+            <idno type="dcl">z27</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Onuphrii Panuinii veronensis fratis eremitae Augustiniani De praecipuis vrbis Romae sanctioribusq[ue], basilicis, quas septem ecclesias uulgo uocant, liber [microform].</title>
+                  <respStmt>
+                     <persName>Panvinio, Onofrio, 1529-1568.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud haeredes Antonii Bladii</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1570</date>
+                  </imprint>
+                  <extent>[8], 271 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9c8b50e2-6348-45b7-8939-6a8427ec8bd4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9c8b50e2-6348-45b7-8939-6a8427ec8bd4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

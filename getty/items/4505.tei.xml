@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4505</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4505</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BASAN</author>, <title>Catalogue des tableaux, desseins etc. du Cabinet de M. Wille</title>, <pubPlace>Paris</pubPlace> <date>1784</date>, in 8, coi prezzi.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des tableaux, dessins, &amp;c. &amp;c. qui composent le cabinet de M.W [microform] : contenant un choix des meilleures maîtres italiens, flamands, allemands et françois / par Fr. Basa.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939563506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nx6n5g</idno>
+            <idno>(OCoLC)212409508</idno>
+            <idno type="cico">4505</idno>
+            <idno type="dcl">w2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des tableaux, dessins, &amp;c. &amp;c. qui composent le cabinet de M.W [microform] : contenant un choix des meilleures maîtres italiens, flamands, allemands et françois / par Fr. Basa.</title>
+                  <respStmt>
+                     <persName>Basan, François, 1723-1797.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez le sieur Basan</publisher>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>43 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f0f87f13-7093-431e-a847-f49b5f021cc9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f0f87f13-7093-431e-a847-f49b5f021cc9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

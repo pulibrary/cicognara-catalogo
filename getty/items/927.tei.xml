@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 927</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">927</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HIRE (de la)</author>, <title>Traité de mecanique, où on explique toul ce qui est necessaire dans la pratique
+      des arts</title>, <pubPlace>Paris</pubPlace> <date>1695</date>, in 12, fig.
+      <note>Questo è il miglior trattato, che per lungo corso di anni siasi avuto in queste materie e che anche dopo il
+      progresso delle sciente conserva moltissimo credito. Tutte le figure in legno sono prodotte fra il testo.</note>
+      
+      <pb type="cico" n="171"/>
+               </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de mecanique, ou, L'on explique tout ce qui est nécessaire dans la pratique des arts, &amp; les propriétés des corps pesants lesquelles ont un plus grand usage dans la physique [microform]/ par M. de La Hire.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985244833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3m342d</idno>
+            <idno type="URI">http://portal.getty.edu/api/086h0p</idno>
+            <idno type="URI">http://portal.getty.edu/api/t3811k</idno>
+            <idno type="cico">927</idno>
+            <idno type="dcl">tgd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de mecanique, ou, L'on explique tout ce qui est nécessaire dans la pratique des arts, &amp; les propriétés des corps pesants lesquelles ont un plus grand usage dans la physique [microform]/ par M. de La Hire.</title>
+                  <respStmt>
+                     <persName>La Hire, Philippe de, 1640-1718.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'Imprimerie royale, et se vend chez Jean Anisson</publisher>
+                     <date>1695</date>
+                  </imprint>
+                  <extent>[12], 492 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/383c721b-81b1-4014-8ee9-fdf23008d717/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/383c721b-81b1-4014-8ee9-fdf23008d717/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

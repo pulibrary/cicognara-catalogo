@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2778</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2778</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOHMERI Justi Christoph.</author>, <title>Programmata III Auspicalia docendi in Academia Julia, de providentia Augustorum,
+de Principe Oratore, de Divinitate Scripturae Sacrae</title>, <pubPlace>Helmstadii</pubPlace> <date>1717</date>, in 4, M. 57.
+<note>Con una tavola di medaglioni illustranti il primo programma.</note>
+<pb type="cico" n="48"/>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iusti Christophori Böhmer Programmata III auspicalia [microform] : docendi in academia iulia muneribus ordinariis quodam praemissa nunc iunctim et auctius edita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sb3z20</idno>
+            <idno type="cico">2778</idno>
+            <idno type="dcl">rc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iusti Christophori Böhmer Programmata III auspicalia [microform] : docendi in academia iulia muneribus ordinariis quodam praemissa nunc iunctim et auctius edita.</title>
+                  <respStmt>
+                     <persName>Böhmer, Justus Christoph.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Helmstadii : Typis Herman. Daniel. Hammii Acad. typogr</publisher>
+                     <date>1717</date>
+                  </imprint>
+                  <extent>56 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4c10e19b-22bc-4afb-85f8-1c377e3261ad/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4c10e19b-22bc-4afb-85f8-1c377e3261ad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

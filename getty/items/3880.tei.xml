@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3880</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3880</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SCHONVISNERII Stephani</author>, <title>De ruderibus Laconici Caldariique romani, et nonnullis aliis monumentis, in solo
+Budensi repertis</title>. Liber unicus, <pubPlace>Budae</pubPlace> <date>1768</date>, in fol., fig.
+<note>Con tre tavole in rame. Libro interessante, per i confronti colle dottrine vitruviane.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De ruderibus laconici caldariique romani et nonnullis aliis monumenits in solo Budensi [microform] : partim hoc primum anno .DCC.LXXVII. repertis partim nondum vvlgatis ... / auctore Stephan Schönvisner ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985424823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2s2391</idno>
+            <idno type="cico">3880</idno>
+            <idno type="dcl">hw2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De ruderibus laconici caldariique romani et nonnullis aliis monumenits in solo Budensi [microform] : partim hoc primum anno .DCC.LXXVII. repertis partim nondum vvlgatis ... / auctore Stephan Schönvisner ...</title>
+                  <respStmt>
+                     <persName>Schönwiesner, Stephan, 1738-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Budae : Typis Regiae Universitatis</publisher>
+                     <pubPlace>Hungary</pubPlace>
+                     <pubPlace>Buda (Pécs, Hungary)</pubPlace>
+                     <date>Anno ut Supra [1768]</date>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>235 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7fb66a84-c40d-4522-b073-5df981118ff2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7fb66a84-c40d-4522-b073-5df981118ff2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

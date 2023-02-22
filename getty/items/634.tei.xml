@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 634</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">634</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>RONDELEX Jean</author>, 
+                     <title>Traité théorique et pratique de l’art de bâtir,vol. 4,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1708,</date> 
+                     <extent>in 4, grande
+	figurato.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité théorique et pratique de l'art de bâtir [microform] / par J. Rondelet.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zr5x66</idno>
+            <idno type="cico">634</idno>
+            <idno type="dcl">gg1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité théorique et pratique de l'art de bâtir [microform] / par J. Rondelet.</title>
+                  <respStmt>
+                     <persName>Rondelet, Jean Baptiste, 1734-1829.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez l'auteur, en clos du Pantheon</publisher>
+                     <date>1803-1814</date>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>35 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ed7166ce-60bd-4a08-aba7-e8e0855760b8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ed7166ce-60bd-4a08-aba7-e8e0855760b8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

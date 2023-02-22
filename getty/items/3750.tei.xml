@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3750</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3750</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GORIO Francisci</author>, <title>Monumentum sive columbarium libertorum, et servorum Liviae Augustae et caesarum</title>, Romae
+detectae in via Appia, an. 1726, <pubPlace>Florentiae</pubPlace> <date>1727</date>, fig., in fol.
+<note>Con 20 tavole in fine, e una in principio coi medaglioni di Livia.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumentum sive columbarium libertorum et servorum Liviae Augustae et Caesarum [microform] : Romae detectum in Via Appia, anno MDCCXXVI / ab Antonio Francisco Gorio ... Descriptum &amp; XX. aere incisis tabulis illustratum; adjectis notis ... Antonii Mariae Salvinii.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dempster, Thomas, 1579?-1625.</authority>
+            <authority>Salvini, Anton Maria, 1653-1729.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985437263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/089j55</idno>
+            <idno type="cico">3750</idno>
+            <idno type="dcl">138</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumentum sive columbarium libertorum et servorum Liviae Augustae et Caesarum [microform] : Romae detectum in Via Appia, anno MDCCXXVI / ab Antonio Francisco Gorio ... Descriptum &amp; XX. aere incisis tabulis illustratum; adjectis notis ... Antonii Mariae Salvinii.</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : Typis Regiae Celsitudinis, apud Tartinium &amp; Franchium</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Etruria</pubPlace>
+                     <date>1727</date>
+                  </imprint>
+                  <extent>xxxvi, 254, [2] p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/697fceca-3465-434b-9b37-34e6316335aa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/697fceca-3465-434b-9b37-34e6316335aa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1906</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1906</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HOLLANDER P. I.</author>,<title> Le spectacle de la vie humaine ou leçons de sagesse</title>, exprimées en 103
+    tableau en taille douce, dont les sujets son tirés d’Horace par l’ingenieux Othon Vaenius.
+    Expliqués par Jo. le Clerc, à <pubPlace>la Haye</pubPlace> <date>1735</date>, in 4, fig.
+    <note>In quattro lingue, latino, tedesco, francese e olandese.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schouwtoneel des menschelyken Leevens [microform] : of Lessen der Wysheid / uytgedruckt in 103 fraaye konstplaaten, welker zinspeelingen uyt Horatius verzaamelt zyn, door den geestryken Otto Vaenius ; verzelt niet alleenlyk door de voornaamste grondregelen der zeedekunde in fransche, hollandsche, latynsche et hooguytsche-Gedigten ... vermeerderd ... door wylen den geleerden en weereldberoemden heer Joan Le Clerc.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>LeClerc, Johann.</authority>
+            <authority>Zesen, Philipp von, 1619-1689.</authority>
+            <authority>Horace. Selections. Polyglot. 1755.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337553506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ct4p88</idno>
+            <idno type="cico">1906</idno>
+            <idno type="dcl">88r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Schouwtoneel des menschelyken Leevens [microform] : of Lessen der Wysheid / uytgedruckt in 103 fraaye konstplaaten, welker zinspeelingen uyt Horatius verzaamelt zyn, door den geestryken Otto Vaenius ; verzelt niet alleenlyk door de voornaamste grondregelen der zeedekunde in fransche, hollandsche, latynsche et hooguytsche-Gedigten ... vermeerderd ... door wylen den geleerden en weereldberoemden heer Joan Le Clerc.</title>
+                  <respStmt>
+                     <persName>Veen, Otto van, 1556-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Dutch; Flemish</textLang>
+                  <textLang>French</textLang>
+                  <textLang>German</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In's Gravenhage : by Joannes van Duren</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>420, 100 p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/521d16df-40d6-42f1-bebe-1ef666bd7d64/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/521d16df-40d6-42f1-bebe-1ef666bd7d64/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 81</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">81</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>DE BEUNIE T. B.</author>,
+                     <title> Memoire sur la teinture en noir: traduite du flamand,</title> 
+                     <pubPlace>Rotterdam</pubPlace>
+                     <date> 1777,</date>
+                     <extent> in 8, M. 63.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoire sur la teinture en noir, qui a remporté le prix de la Société litteraire de Bruxelles en MDCCLXXI [microform] / par Mr. J. B. de Beunie ... ; traduit du Flamand.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Société littéraire (Belgium)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hn8836</idno>
+            <idno type="cico">81</idno>
+            <idno type="dcl">s5p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoire sur la teinture en noir, qui a remporté le prix de la Société litteraire de Bruxelles en MDCCLXXI [microform] / par Mr. J. B. de Beunie ... ; traduit du Flamand.</title>
+                  <respStmt>
+                     <persName>Beunie, Joannes Baptista de, 1718-1793.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Rotterdam : Chez J. Bronkhorst</publisher>
+                     <pubPlace>Belgium.</pubPlace>
+                     <date>1777</date>
+                  </imprint>
+                  <extent>44 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cf37ca56-70aa-46dd-a802-95786535a611/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cf37ca56-70aa-46dd-a802-95786535a611/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

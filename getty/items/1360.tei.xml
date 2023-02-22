@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1360</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1360</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SANI Paolo Antonio</author>, <title>Orazione per la prima solenne funzione del premio alle Belle Arti
+    nell’Accademia Clementina di Bologna</title>, l’anno <date>1727</date>, in 4.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Per la prima solenne funzione del premio alle tre arti pittura, scultura, architettura nell' Academia Clementina del disegno celebratasi in Bologna li 23. giugno 1727 nella Sala dell'Instituto delle scienze [microform] : orazione / del padre maestro Paol-Antonio Sani ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia clementina.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/523n0t</idno>
+            <idno type="cico">1360</idno>
+            <idno type="dcl">jjw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Per la prima solenne funzione del premio alle tre arti pittura, scultura, architettura nell' Academia Clementina del disegno celebratasi in Bologna li 23. giugno 1727 nella Sala dell'Instituto delle scienze [microform] : orazione / del padre maestro Paol-Antonio Sani ...</title>
+                  <respStmt>
+                     <persName>Sani, Paolo Antonio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperia Bolognese di S. Tommaso D'Aquino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1727]</date>
+                     <date>1727</date>
+                  </imprint>
+                  <extent>43, [1] p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2d7e6fd2-1bb5-4ff4-9301-5dcaea1e3ba5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2d7e6fd2-1bb5-4ff4-9301-5dcaea1e3ba5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

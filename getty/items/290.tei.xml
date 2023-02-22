@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 290</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">290</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <title> L’ARTE di scrivere tratta dal dizionario d’arti e mestieri dell’Enciclopedia metodica,</title>
+                     <pubPlace> Padova</pubPlace>
+	                    <date>1796</date>, <extent>in 4, grande.</extent>
+                     <note>	Il testo è di pag. 56, oltre 15 tavole di calligrafia.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'Arte di scrivere [microform] : tratta dal Dizionario d'arti e mestieri dell' Enciclopedia metodica.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943243506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/m65d7d</idno>
+            <idno type="cico">290</idno>
+            <idno type="dcl">jfx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'Arte di scrivere [microform] : tratta dal Dizionario d'arti e mestieri dell' Enciclopedia metodica.</title>
+                  <respStmt>
+                     <persName>Paillasson, Charles, fl. 1760.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Nella Stamperia del Seminario, appresso Niccolò Bettinelli</publisher>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>[2], 56 p., 15 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cb8821dd-285e-4b2d-bba6-0dab980e3103/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cb8821dd-285e-4b2d-bba6-0dab980e3103/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'arte di scrivere : tratta dal Dizionario d'arti e mestieri dell' Enciclopedia metodica.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bettinelli, Niccolò.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927551530001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0z4953</idno>
+            <idno>(OCoLC)41890236</idno>
+            <idno type="cico">290</idno>
+            <idno type="dcl">jfx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arte di scrivere : tratta dal Dizionario d'arti e mestieri dell' Enciclopedia metodica.</title>
+                  <respStmt>
+                     <persName>Paillasson, Charles.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : Nella stamperia del Seminario, appresso Niccolò Bettinelli</publisher>
+                     <pubPlace>Italy Padua.</pubPlace>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>[2], 56 p., XV leaves of plates (13 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/95c6be76-c065-4427-991a-eda60b5ba3fc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/95c6be76-c065-4427-991a-eda60b5ba3fc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

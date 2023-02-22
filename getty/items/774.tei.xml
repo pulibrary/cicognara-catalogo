@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 774</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">774</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>QUARENGHI Jacques</author>, <title>Théatre de l’Hermitage de S. M. l’Imperatrice de toutes les Russies</title>,
+	<pubPlace>Petersbourg</pubPlace> <date>1787</date>, in fol. max.
+	<note>Il volume è composto da 7 tavole, un foglio di illustrazione, la dedica all’imperatrice e il frontespizio.
+	L’invenzione di questo sommo architetto è tratta dall’antico e dal moderno componendo una terza specie
+	aggradevole e conveniente.</note>
+	<fw type="foot"/>
+	                 <pb type="memofonte"/>
+	                 <fw type="head"/>
+	
+	              </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Théatre de l'Hermitage de Sa Majesté l'Imperatrice de toutes les Russies [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985207303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r07k0s</idno>
+            <idno type="cico">774</idno>
+            <idno type="dcl">738</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Théatre de l'Hermitage de Sa Majesté l'Imperatrice de toutes les Russies [microform]</title>
+                  <respStmt>
+                     <persName>Quarenghi, Giacomo, 1744-1817.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>St. Petersbourg : De la Imprimerie de l'Academie des Sciences</publisher>
+                     <pubPlace>Russia (Federation)</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>[6] p., [7] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/910bdf22-1184-49c7-91ec-0b8a64e95dac/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/910bdf22-1184-49c7-91ec-0b8a64e95dac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

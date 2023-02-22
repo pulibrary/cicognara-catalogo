@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1885</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1885</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DREXELIUS zodiacus christianus</title>, <pubPlace>London</pubPlace> <date>1647</date>, in 16.
+    <note>Con 12 emblemi figurati intagliati in rame.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians zodiake, or, Twelve signes of predestination unto life everlasting [microform] / written in Lattin by Ieremie Drexelius. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vh0x6x</idno>
+            <idno type="cico">1885</idno>
+            <idno type="dcl">nvq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The Christians zodiake, or, Twelve signes of predestination unto life everlasting [microform] / written in Lattin by Ieremie Drexelius. [microform].</title>
+                  <respStmt>
+                     <persName>Drexel, Jeremias, 1581-1638.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for Samuel Browne</publisher>
+                     <date>Anno Dom. 1647</date>
+                     <date>1647</date>
+                  </imprint>
+                  <extent>253 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fcf864f0-433d-4154-900c-64f594420a1d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fcf864f0-433d-4154-900c-64f594420a1d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

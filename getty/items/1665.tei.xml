@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1665</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1665</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GRIMALDI Domenico</author>, <title>Memoria sull’economia olearia antica e moderna e sull’ antico frantoio
+    da olio trovato negli scavamenti di Scafala</title>, <pubPlace>Napoli</pubPlace> <date>1783</date>, in 4, fig. M. 27.
+    <note>Con tre tavole intagliate in rame. Opuscolo interessantissimo.
+    </note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoria sulla economia olearia antica e moderna e sull'antico frantojo da olio trovato negli scavamenti di Stabia [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455663506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xn4v8g</idno>
+            <idno type="cico">1665</idno>
+            <idno type="dcl">kg2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoria sulla economia olearia antica e moderna e sull'antico frantojo da olio trovato negli scavamenti di Stabia [microform].</title>
+                  <respStmt>
+                     <persName>Grimaldi, Domenico, 1735-1805.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Nella stamperia Reale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>71 p., 3 leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/511d7b8d-52a9-4341-9b20-c0052c750bba/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/511d7b8d-52a9-4341-9b20-c0052c750bba/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

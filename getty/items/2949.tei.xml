@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2949</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2949</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>&gt;NUMMI aliquot ad veterem Galliam pertinentes ex museo Antonii Savorniani</title>, 
+                        <pubPlace>Venetiis</pubPlace> <date>1763</date>, in 8, fig., M. 63.
+<note>Le medaglie intagliate in rame sono riportate fra il testo.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nummi aliquot ad veterem Galliam pertinentes [microform] : ex museo ... Antonii Savorniani.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985462743506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4h7q9d</idno>
+            <idno type="cico">2949</idno>
+            <idno type="dcl">98q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nummi aliquot ad veterem Galliam pertinentes [microform] : ex museo ... Antonii Savorniani.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : [s.n.,]</publisher>
+                     <pubPlace>Gaul.</pubPlace>
+                     <date>1863</date>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>12 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b235daa5-e5e7-4dff-a897-b7a5e233285a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b235daa5-e5e7-4dff-a897-b7a5e233285a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

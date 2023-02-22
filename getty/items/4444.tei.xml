@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4444</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4444</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>REMY</author>, <title>Catalogue raisonné des tableaux, figures, et bustes etc. du Cabinet de M. de la Live de Joully</title>, <pubPlace>Paris</pubPlace> 1769,
+in 12, coi prezzi.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue raisonné des tableaux, de differentes écoles [microform] : des figures &amp; bustes de marbre; des figures, groupes &amp; bas reliefs de terre cuite; des morceaux en ivoire; des desseins &amp; estampes; des meubles précieux; des coquilles univalves &amp; bivalves; &amp; d'autres objets qui composent le cabinet de M. de la Live de Jully ... / par Pierre Remy.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939713506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/262n3z</idno>
+            <idno>(OCoLC)212739776</idno>
+            <idno type="cico">4444</idno>
+            <idno type="dcl">8pm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue raisonné des tableaux, de differentes écoles [microform] : des figures &amp; bustes de marbre; des figures, groupes &amp; bas reliefs de terre cuite; des morceaux en ivoire; des desseins &amp; estampes; des meubles précieux; des coquilles univalves &amp; bivalves; &amp; d'autres objets qui composent le cabinet de M. de la Live de Jully ... / par Pierre Remy.</title>
+                  <respStmt>
+                     <persName>Remy, Pierre, active 1749-1787.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Vente</publisher>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>113 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4cf055c8-3cde-4bcf-a7b6-0dfef4a0eab7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4cf055c8-3cde-4bcf-a7b6-0dfef4a0eab7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

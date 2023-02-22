@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 838</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">838</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HAMELLII Pascasii</author>, <title>Perspectiva tribus libris succinctis dentro correda et figuris illustrata</title>,
+	<pubPlace>Lutetiae</pubPlace>, apud <publisher>Aegidium Gourbinum</publisher>, <date>1556</date>, in 4.
+	<note>L’obiettiva della luce e delle rifrazioni è matematicamente trattata in 43 foglietti di stampa con bei caratteri
+	corsivi e la figure in legno fra il testo. Questa non è però se non una ristampa esattissima (mutata una
+	dedicatoria) della Perspectiva Communis di Giovanni Pisano vescovo ec. Vedi Cantuariensis.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Perspectiua tribus libris succinctis denuo [microform] / correcta et figuris illustrata per Pascasium Hamellium ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hamellius, Paschasius, d. 1565.</authority>
+            <authority>Hartmann, Georg, 1489-1564.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985238313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cs9v90</idno>
+            <idno type="cico">838</idno>
+            <idno type="dcl">7d5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Perspectiua tribus libris succinctis denuo [microform] / correcta et figuris illustrata per Pascasium Hamellium ...</title>
+                  <respStmt>
+                     <persName>Peckham, John, -1292.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lutetiae : Apud Aegidium Gourbinum</publisher>
+                     <date>1556</date>
+                  </imprint>
+                  <extent>[4], 43, [1] leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f480d9d2-25d5-4418-968a-18205b792d4f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f480d9d2-25d5-4418-968a-18205b792d4f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,126 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 417</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">417</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>BAROZZIO Giacomo da Vignola, <title>Regola delli cinque ordini d’architettura,</title> 
+                     <pubPlace>Siena</pubPlace> 
+                     <date>1635,</date> 
+                     <publisher>presso
+	Pietro Marchetti.</publisher>
+	                    <note>Dopo il frontespizio segue la dedica al Sig. Volunio Bandinelli: e si compie la pagina colla dichiarazione del
+	Vignola: è rimpiazzato il terzo foglio dei privilegi con una tavola di più dell’edizione originale, ove sono le
+	colonne dei cinque ordini riunite; cosi si procede sino alla tav. 32 e seguono poi le porte tratte dalle opere del
+	Buonarroti, che fanno arrivare il numero delle tavole di quest’edizione sino alle 45.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regola delli cinque ordini d'architettura / di Iacomo Barozzio di Vignola.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Michelangelo Buonarroti, 1475-1564. Porte d'architettura.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925416410001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/rn3g9r</idno>
+            <idno>(OCoLC)54334576</idno>
+            <idno type="cico">417</idno>
+            <idno type="dcl">hcg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regola delli cinque ordini d'architettura / di Iacomo Barozzio di Vignola.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Siena : Pietro Marchetti for. in Siena</publisher>
+                     <date>[after 1635]</date>
+                     <date>1635</date>
+                  </imprint>
+                  <extent>45 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4857ec6d-2ce2-47b7-9926-5a724e402fe4"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4857ec6d-2ce2-47b7-9926-5a724e402fe4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regola delli cinque ordini d'architettura [microform]/ di M. Jacomo Barozzio da Vignola.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985294343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2c222v</idno>
+            <idno type="cico">417</idno>
+            <idno type="dcl">rrg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regola delli cinque ordini d'architettura [microform]/ di M. Jacomo Barozzio da Vignola.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Giovanni Orlandi</publisher>
+                     <date>A. 1602</date>
+                     <date>1602</date>
+                  </imprint>
+                  <extent>[44] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/56ec9e96-54d5-4734-a6f1-6bd0f293613a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/56ec9e96-54d5-4734-a6f1-6bd0f293613a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

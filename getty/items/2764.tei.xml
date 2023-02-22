@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2764</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2764</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>BELLOPHORON in corniola D. Ab. a Turre quam Socrates sculpsit ab Ant. Jos. Barbazza delineatus</title>, <date>1746</date> <pubPlace>Romae</pubPlace>,
+gran fog., M. 84, un solo foglio.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Bellophon in Corniola [microform] / d. ab. a Ture quam Sotrates sculpsit ab Ant. Jos. Barbazza delineatus].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985464123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vv8t27</idno>
+            <idno type="cico">2764</idno>
+            <idno type="dcl">hvx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Bellophon in Corniola [microform] / d. ab. a Ture quam Sotrates sculpsit ab Ant. Jos. Barbazza delineatus].</title>
+                  <respStmt>
+                     <persName>Barbazza Antonio Giuseppe, b. 1720?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Veneunt Romae : Apud autorem</publisher>
+                     <date>[1746]</date>
+                     <date>1746</date>
+                  </imprint>
+                  <extent>1 art print</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0dda8fa7-388f-495a-a695-058fb2145dd7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0dda8fa7-388f-495a-a695-058fb2145dd7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

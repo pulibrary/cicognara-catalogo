@@ -1,0 +1,77 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2011</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2011</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CHAMBERLAINE John</author>, <title>Imitations of original drawings by Hans Holbein in the collection of his
+  majesty for the portraits of illustriours persons of the court of Henry VIII</title>, <pubPlace>London</pubPlace> <date>1812</date>, in 4,
+  gr.
+  <note>Sono qui rappresentati 61 ritratti non inferiormente a quelli che in più gran forma aveva poco prima pubblicati
+  Bartolozzi e imitasi col colore il carattere dei disegni originali mirabilmente. Opera assai ricca e bella: con
+  superior eleganza legata in mar. ter.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imitations of original drawings by Hans Holbein in the collection of His Majesty, for the portraits of illustrious persons of the court of Henry VIII [microform] : with biographical tracts / published by John Chamberlayne ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>George IV, King of Great Britain, 1762-1830.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1c8473</idno>
+            <idno type="cico">2011</idno>
+            <idno type="dcl">qc0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Imitations of original drawings by Hans Holbein in the collection of His Majesty, for the portraits of illustrious persons of the court of Henry VIII [microform] : with biographical tracts / published by John Chamberlayne ...</title>
+                  <respStmt>
+                     <persName>Chamberlaine, John, 1745-1812.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by Willaim Bulmer and Co</publisher>
+                     <pubPlace>Great Britain</pubPlace>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>[156] leaves</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9256d11d-81d8-4308-9757-cc2d4c33cb04/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9256d11d-81d8-4308-9757-cc2d4c33cb04/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

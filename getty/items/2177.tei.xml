@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2177</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2177</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SAVERIES</author>, <title>Dictionnaire universel de matematique et de physique ou l’on traite des progrès
+    des sciences et des arts</title>, 2 vol., <date>1750</date> <pubPlace>Paris</pubPlace>, en quarto figurato.
+    <note>Opera che si estende a tutti i generi d’architettura con 51 tav. in rame.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire universel de mathématique et de physique [microform] : où l'on traite de l'origine, du progrès de ces deux sciences &amp; des arts qui en dépendent, &amp; ses diverses révolutions qui leur sont arrivées jusqu'à notre tems ; avec l'exposition de leurs principes, &amp; l'analyse des sentimens des plus célèbres auteurs sur chaque matiere / par monsieur Saverien ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3h6041</idno>
+            <idno type="cico">2177</idno>
+            <idno type="dcl">rnp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire universel de mathématique et de physique [microform] : où l'on traite de l'origine, du progrès de ces deux sciences &amp; des arts qui en dépendent, &amp; ses diverses révolutions qui leur sont arrivées jusqu'à notre tems ; avec l'exposition de leurs principes, &amp; l'analyse des sentimens des plus célèbres auteurs sur chaque matiere / par monsieur Saverien ...</title>
+                  <respStmt>
+                     <persName>Savérien, Alexandre, 1720-1805.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jacques Rollin ... :</publisher>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>18 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/69dc4fc2-1cd5-44f5-97aa-843b837e6c7e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/69dc4fc2-1cd5-44f5-97aa-843b837e6c7e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

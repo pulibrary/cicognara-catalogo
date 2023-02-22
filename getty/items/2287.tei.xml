@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2287</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2287</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HOLLARD Venceslaus</author>, <title>A description of the ingenious delineator, and engraver with some
+    account of his lite</title>, <pubPlace>London</pubPlace> <date>1745</date>, in 4.
+    <note>Col ritratto di Hollard nel frontespizio ed alcune vignette col prospetto di Londra e quello di Praga, patria di
+    questo valente intagliatore. Abbiamo posto tra i biografi questo libro poiché contiene tutte le notizie le più
+    singolari di un tant’’uomo.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the works of the ingenious delineator and engraver Wenceslaus Hollar [microform] : disposed into classes of different sorts : with some account of his life.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pc177h</idno>
+            <idno type="cico">2287</idno>
+            <idno type="dcl">qjz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A description of the works of the ingenious delineator and engraver Wenceslaus Hollar [microform] : disposed into classes of different sorts : with some account of his life.</title>
+                  <respStmt>
+                     <persName>Vertue, George, 1684-1756.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>[London] : Printed in London for the editor G.V</publisher>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>vi, [2], 136 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a1be323d-8bb7-4352-85d1-9987cdb3ac45/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a1be323d-8bb7-4352-85d1-9987cdb3ac45/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

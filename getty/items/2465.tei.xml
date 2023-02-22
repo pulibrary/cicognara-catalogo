@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2465</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2465</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De RUBEIS Dominici</author>, <title>Tabulae physiognomicae</title>, <pubPlace>Venetiis</pubPlace> <date>1639</date>, in 8.
+    <note>Dedicato al Cardinale di Richelieu. Operetta fatta con chiarezza, che all’uso cui venne destinata serve con
+    rapidità.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Domeinici de Rubeis civis veneti Tabulae physiognomicae [microform] : in quibus claro ordine, summaq[ue] facilitate tùm antiquorum, tùm recentiorum physiognomorum axiomata vigent ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sv080r</idno>
+            <idno type="cico">2465</idno>
+            <idno type="dcl">h2s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Domeinici de Rubeis civis veneti Tabulae physiognomicae [microform] : in quibus claro ordine, summaq[ue] facilitate tùm antiquorum, tùm recentiorum physiognomorum axiomata vigent ...</title>
+                  <respStmt>
+                     <persName>Rossi, Domenico de', active 17th century-18th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Apud Gasparem Corradicium</publisher>
+                     <date>1639</date>
+                  </imprint>
+                  <extent>144 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fc8c6b18-70c0-4f2c-9ce4-e697c3a07f25/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc8c6b18-70c0-4f2c-9ce4-e697c3a07f25/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

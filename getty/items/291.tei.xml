@@ -1,0 +1,117 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 291</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">291</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>AUDRAN Girard</author>, 
+                     <title>Les proportions du corps humain mesurées sur les plus belles figures de
+	l’antiquité,</title> 
+                     <pubPlace>Paris</pubPlace>,<publisher> chez Girard Audran graveur</publisher>, <date>1683</date>,<extent> in fol. fig. Tav. 30 con 4 carte di testo.</extent>
+	                    <note>Quest’opera è molto raccomandabile e potrebbe meritare un’impressione nuova, poiché nulla fu fatto di meglio
+	finora in questo genere.</note>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les proportions du corps humain [microform] : mesurées sur les plus belles figures de l'antiquité.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985275483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zn095j</idno>
+            <idno type="cico">291</idno>
+            <idno type="dcl">v21</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les proportions du corps humain [microform] : mesurées sur les plus belles figures de l'antiquité.</title>
+                  <respStmt>
+                     <persName>Audran, Gérard, 1640-1703.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Girard Audran</publisher>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>[6] p., [30] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/14650418-6284-43ac-8a41-abef927891f8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/14650418-6284-43ac-8a41-abef927891f8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les Proportions Du Corps Humain: Mesurées sur les plus belles Figures de l'Antiquité</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Audran, Gérard, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-60111</idno>
+            <idno type="URI">http://portal.getty.edu/api/c80k6s</idno>
+            <idno type="cico">291</idno>
+            <idno type="dcl">v21</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les Proportions Du Corps Humain: Mesurées sur les plus belles Figures de l'Antiquité</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1683</date>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>[4], 29 Bl.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/audran1683/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/audran1683/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

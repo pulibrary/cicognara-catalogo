@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1206</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1206</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>De’ ROSSI (Giovanni Gherardo)</author>, <title>Lettera al Barone di Schubart in cui si descrive il noto
+    quadro di Caomuccini della Presentazione al Tempio</title>: in 4, <pubPlace>Roma</pubPlace>, M. 25.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera del cav. Gio. Gherardo de Rossi a sua eccellenza il signor Baron de Schubart [microform] : in cui si descrive il noto quadro del cav. Vincenzo Camuccini il quale rappresenta l'incontro della S. Vergine con Simeone ; allorchè portò al Tempio di Divino Figlio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985459163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4j0b7s</idno>
+            <idno type="cico">1206</idno>
+            <idno type="dcl">pc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera del cav. Gio. Gherardo de Rossi a sua eccellenza il signor Baron de Schubart [microform] : in cui si descrive il noto quadro del cav. Vincenzo Camuccini il quale rappresenta l'incontro della S. Vergine con Simeone ; allorchè portò al Tempio di Divino Figlio.</title>
+                  <respStmt>
+                     <persName>De Rossi, Giovanni Gherardo, 1754-1827.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[18--]</date>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>VIII p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/58bf3a38-ace3-4186-9847-483c6d26d61f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/58bf3a38-ace3-4186-9847-483c6d26d61f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

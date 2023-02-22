@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1564</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1564</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>AURIA D. Vincenzo palermitano</author>,<title> La Sicilia Inventrice, ovvero le invenzioni lodevoli nate in
+    Sicilia</title>, <pubPlace>Palermo</pubPlace> <date>1704</date>, in 4.
+  <note>  Quasi tutto il volume è formato dalle aggiunte, poiché il testo dell’Auria non comprende che 70 pagine: con i
+    divertimenti geniali, le osservazioni, le aggiunte di Antonio Mongitore e l’indice delle materie arriva oltre alle
+    300 pagine: opera poco accreditata.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Sicilia inventrice, o vero, Le invenzioni lodevoli nate in Sicilia [microform] / opera del Vincenzo Auria ... con li divertimenti geniali, osservazioni, e giunte all'istessa di d. Antonino Mongitore ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vg4p81</idno>
+            <idno type="cico">1564</idno>
+            <idno type="dcl">t28</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Sicilia inventrice, o vero, Le invenzioni lodevoli nate in Sicilia [microform] / opera del Vincenzo Auria ... con li divertimenti geniali, osservazioni, e giunte all'istessa di d. Antonino Mongitore ...</title>
+                  <respStmt>
+                     <persName>Auria, Vincenzo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Palermo : Per Felice Marino</publisher>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <date>1704</date>
+                  </imprint>
+                  <extent>303 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7ed7432f-05fc-4536-b34b-347fa01c4521/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7ed7432f-05fc-4536-b34b-347fa01c4521/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

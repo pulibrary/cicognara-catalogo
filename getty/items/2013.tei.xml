@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2013</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2013</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LE CLERC Sébastien</author>, <title>Oeuvres choisies contenantes 239 estampes dessinées et gravées par cet
+  celebre artiste</title>, <pubPlace>Paris</pubPlace> <date>1784</date>, in 4.
+  <note>Questo non è che un saggio delle immense opere pubblicate da questo intagliatore composto di diverse puntate,
+  ripubblicate molto dopo la sua morte, le quali sebbene non siano punto fresche, nullameno danno qualche idea
+  del suo fare.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeuvres choisies de Sébastien Le Clerc, chevalier romain, dessinateur et graveur du Cabinet du Roi [microform] : contenant 239 estampes, dessinées &amp; gravées par ce célèbre artiste, représentant des costumes, des fables, des paysages, &amp; autres objets intéressants ; ouvrage utile aux artistes &amp; aux élèves des beaux-arts.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tx6j2q</idno>
+            <idno type="cico">2013</idno>
+            <idno type="dcl">kg4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oeuvres choisies de Sébastien Le Clerc, chevalier romain, dessinateur et graveur du Cabinet du Roi [microform] : contenant 239 estampes, dessinées &amp; gravées par ce célèbre artiste, représentant des costumes, des fables, des paysages, &amp; autres objets intéressants ; ouvrage utile aux artistes &amp; aux élèves des beaux-arts.</title>
+                  <respStmt>
+                     <persName>Le Clerc, Sébastien, 1637-1714.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris: Chez Lamy</publisher>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>49 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a7709c66-931d-49ff-af2e-237065851650/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a7709c66-931d-49ff-af2e-237065851650/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

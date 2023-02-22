@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3370</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3370</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BENINCASA Bartolomeo</author>, <title>Descrizione della raccolta di stampe del conte Jacopo Durazzo, esposta in una
+dissertazione sull’arte dell’intaglio a stampa, Parma, nella stamperia Reale</title>, <date>1784</date>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della raccolta di stampe di S. E. il sig. conte Jacopo Durazzo [microform] : esposta in una dissertazione sull'arte dell'intaglio a stampa.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985417973506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/j25c5c</idno>
+            <idno type="cico">3370</idno>
+            <idno type="dcl">trp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della raccolta di stampe di S. E. il sig. conte Jacopo Durazzo [microform] : esposta in una dissertazione sull'arte dell'intaglio a stampa.</title>
+                  <respStmt>
+                     <persName>Benincasa, Bartolommeo, 1745-approximately 1825.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Dalla Reale Stamperia</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>54 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2e5eb708-a5ce-4277-b956-9cc0b087edd5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2e5eb708-a5ce-4277-b956-9cc0b087edd5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

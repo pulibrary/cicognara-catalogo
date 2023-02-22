@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3132</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3132</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MINGARELLI Ferdinandi</author>, <title>Epistola de Interocriensi Trajani et romana Antonini inscriptione</title>, <pubPlace>Romae</pubPlace> <date>1758</date>, in 4, M. 27.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ferdinandi Mingarelli S. Th. L. Camaldulensis Epistola de Interocriensi Traiani et romana Antonini inscriptione [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1n3n0t</idno>
+            <idno type="cico">3132</idno>
+            <idno type="dcl">bgp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ferdinandi Mingarelli S. Th. L. Camaldulensis Epistola de Interocriensi Traiani et romana Antonini inscriptione [microform].</title>
+                  <respStmt>
+                     <persName>Mingarelli, Ferdinando, 1724-1777.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Jo. Generosi Salomoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>12 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bbd54403-9eed-4cea-ba3d-e1138acef43a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bbd54403-9eed-4cea-ba3d-e1138acef43a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

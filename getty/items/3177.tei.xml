@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3177</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3177</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BINI Pietro di Lorenzo</author>, <title>Memoria del Calcio Fiorentino tratte da diverse scritture</title>, <pubPlace>Firenze</pubPlace> <date>1688</date>, in 4.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie del calcio fiorentino [microform] / tratte da diverse scritture ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tj815b</idno>
+            <idno type="cico">3177</idno>
+            <idno type="dcl">czv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie del calcio fiorentino [microform] / tratte da diverse scritture ....</title>
+                  <respStmt>
+                     <persName>Bardi, Giovanni de', conte di Vernio, 1534-1612.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia di S. A. S. alla Condotta</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>118 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9cc791d8-9a22-43a2-9cb2-630f6881c823/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9cc791d8-9a22-43a2-9cb2-630f6881c823/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie del calcio fiorentino : tratte da diverse scritture e dedicate all' Altezze Serenissime di Ferdinando principe di Toscana e Violante Beatrice di Baviera.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bini, Pietro di Lorenzo</authority>
+            <authority>Nacci, Francesco, 17th cent.</authority>
+            <authority>Cecchini, Alessandro, 17th cent.</authority>
+            <authority>Matini, Piero, active 1684-1700</authority>
+            <authority>Stamperia di S.A.S. alla Condotta.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927483120001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t16r8s</idno>
+            <idno>(OCoLC)79317922</idno>
+            <idno type="cico">1570</idno>
+            <idno type="cico">3177</idno>
+            <idno type="dcl">czv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie del calcio fiorentino : tratte da diverse scritture e dedicate all' Altezze Serenissime di Ferdinando principe di Toscana e Violante Beatrice di Baviera.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella Stamperia di S.A.S. alla Condotta</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1688</date>
+                  </imprint>
+                  <extent>[12], 118 p., [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/de5ec6eb-7f94-451d-80c9-26415bfdec98"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/de5ec6eb-7f94-451d-80c9-26415bfdec98">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

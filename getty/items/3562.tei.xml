@@ -1,0 +1,124 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3562</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3562</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VISCONTI Ennio Quirino</author>,<title> Monumenti Gabinj della villa Pinciana descritti</title>, 
+                        <pubPlace>Roma</pubPlace> <date>1797</date>, in 8.
+<note>Opera divisa in tre parti con 57 tavole. I preliminari formano la parte prima, le statue formano la seconda e le
+iscrizioni la terza.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenti gabini della Villa Pinciana, descritti da Ennio Quirino Visconti.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990039931840203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/074850</idno>
+            <idno>(OCoLC)7577803</idno>
+            <idno type="cico">3562</idno>
+            <idno type="dcl">m5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti gabini della Villa Pinciana, descritti da Ennio Quirino Visconti.</title>
+                  <respStmt>
+                     <persName>Visconti, Ennio Quirino, 1751-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Roma, Presso A. Fulgoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Gabii (Extinct city)</pubPlace>
+                     <pubPlace>Italien.</pubPlace>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>235 pages, [64] leaves of plates (10 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:451238919"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:451238919">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenti gabini della Villa Pinciana [microform] / descritti da Ennio Quirino Visconti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7n6s3h</idno>
+            <idno type="cico">3562</idno>
+            <idno type="dcl">m5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti gabini della Villa Pinciana [microform] / descritti da Ennio Quirino Visconti.</title>
+                  <respStmt>
+                     <persName>Visconti, Ennio Quirino, 1751-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Antonio Fulgoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Gabii (Extinct city)</pubPlace>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>235 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c547026d-e5df-4e6f-9d41-f40561bcdf9b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c547026d-e5df-4e6f-9d41-f40561bcdf9b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

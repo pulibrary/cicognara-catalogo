@@ -1,0 +1,115 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3467</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3467</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VISCONTI Giovan Battista</author> ed <editor>Ennio Quirino</editor>, <title>Il Museo Pio Clementino descritto</title>, <pubPlace>Roma</pubPlace> <date>1782</date>, vol. 8, in fol. atl.,fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il Mvseo Chiaramonti aggivnto al Pio-Clementino</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-35908</idno>
+            <idno type="URI">http://portal.getty.edu/api/hj596w</idno>
+            <idno type="cico">3467</idno>
+            <idno type="dcl">vrr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il Mvseo Chiaramonti aggivnto al Pio-Clementino</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <date>1808</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>VII, 114 S.</extent>
+                  <extent>XLIV, A Taf.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/visconti1808bd1/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/visconti1808bd1/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il Museo Chiaramonti aggiunto al Pio-Clementino da N. S. Pio VII P. M [microform] / con l'esplicazione de' Sigg. Filippo Aurelio Visconti e Giuseppe Antonio Guattani.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Guattani, Giuseppe Antonio, 1748-1830.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Museo Chiaramonti.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9r7d37</idno>
+            <idno type="cico">3467</idno>
+            <idno type="dcl">vrr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il Museo Chiaramonti aggiunto al Pio-Clementino da N. S. Pio VII P. M [microform] / con l'esplicazione de' Sigg. Filippo Aurelio Visconti e Giuseppe Antonio Guattani.</title>
+                  <respStmt>
+                     <persName>Visconti, Filippo Aurelio, d. 1831.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Pubblicato da Antonio D'Este e Gaspare Capparoné :</publisher>
+                     <date>1808-</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7cc0e444-109b-4cc4-b7b5-48e817c98dc9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7cc0e444-109b-4cc4-b7b5-48e817c98dc9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

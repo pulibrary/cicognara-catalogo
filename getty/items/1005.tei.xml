@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1005</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1005</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>WATELET</author>, <title>L’arte della pittura, traduzione dello stesso poema di Nemilio Caremicio</title>,
+      <pubPlace>Genova</pubPlace> <date>1765</date>, in 8.
+      — Vedi anche <author>Gozzi</author>.
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'arte della pittura [microform] : poema / con alcune riflessioni che servono di note del sig.r di VVatellet ... tradotto in italiano da Nemillo Caramicio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985299963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z84j2j</idno>
+            <idno type="cico">1005</idno>
+            <idno type="dcl">t7w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arte della pittura [microform] : poema / con alcune riflessioni che servono di note del sig.r di VVatellet ... tradotto in italiano da Nemillo Caramicio.</title>
+                  <respStmt>
+                     <persName>Watelet, Claude-Henri, 1718-1786.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Genova : Dalle Stampe di Paolo e Adamo Scionico</publisher>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>138, [1] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/75f2af6a-632c-487c-9456-ad17b0953e68/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/75f2af6a-632c-487c-9456-ad17b0953e68/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

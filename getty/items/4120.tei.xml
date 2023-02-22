@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4120</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4120</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>VUES et parties de Lovisbourg à S. A. le Duc Regent de Wurtemberg</title>, <publisher>Augustae Vindelicorum</publisher> sine anno, in fol.,
+		     <fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veues et parties principales de Louis-Bourg .. [microform] = Prospect und Theile des Fürstl. Hauses und Gartens Ludwigs-burg ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Wolf, Jeremias, 1663?-1724.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440633506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s59q1w</idno>
+            <idno type="cico">4120</idno>
+            <idno type="dcl">7kh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veues et parties principales de Louis-Bourg .. [microform] = Prospect und Theile des Fürstl. Hauses und Gartens Ludwigs-burg ...</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Augsburg : Jeremias Wolff]</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <date>[1712?]</date>
+                     <date>1712</date>
+                  </imprint>
+                  <extent>[12] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/78dd5729-5a4f-45b9-80f9-89ae42059483/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/78dd5729-5a4f-45b9-80f9-89ae42059483/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 901</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">901</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>COMOLLI J. B.</author>, <title>Projet d’une fontaine publique</title>, <pubPlace>Parme</pubPlace> <date>1808</date>, in fol. fig.
+      <note>Questo libro magnificamente stampato nella Bodoniana fu dedicato alla principessa Elisa Bonaparte. Le tavole
+      sono 15 e l’autore in luogo del ritratto del mecenate o dell’eroe celebrato nella sua invenzione, pose il proprio
+      ritratto modestamente di contro al frontespizio.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Projet d'une fontaine publique / par J.B. Comolli ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Comolli, Giovan Battista, 1775-1830. Progetto d'una fontana pubblica.</authority>
+            <authority>Bodoni, Giambattista, 1740-1813.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925833400001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pz6q3c</idno>
+            <idno>(OCoLC)38301472</idno>
+            <idno type="cico">901</idno>
+            <idno type="dcl">z58</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Projet d'une fontaine publique / par J.B. Comolli ...</title>
+                  <respStmt>
+                     <persName>Comolli, Giovan Battista, 1775-1830.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>À Parme : Imprimé par Bodoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCCVIII [1808]</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>[4], IX, [5], 9, [1] p., [18] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d74af1d2-4209-4b30-9891-e0ebb79e3015"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d74af1d2-4209-4b30-9891-e0ebb79e3015">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

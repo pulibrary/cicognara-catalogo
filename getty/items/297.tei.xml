@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 297</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">297</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>BOTTMAN</author>, 
+                     <title>Cours d’anatomie à l’usage des artistes,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1788</date>, <extent>in 12.</extent>
+	                    <note>Operetta che senza le dimostrazioni delle tavole riesce troppo astratta e può adoperarsi applicandola ad altre
+	opere.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cours d'anatomie, a l'usage des artistes [microform] / par M. Bottman ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8k6n2v</idno>
+            <idno type="cico">297</idno>
+            <idno type="dcl">z7q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cours d'anatomie, a l'usage des artistes [microform] / par M. Bottman ...</title>
+                  <respStmt>
+                     <persName>Bottman, Antoine.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez l'Auteur [etc.]</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>vi, 192, x, [4] p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e807ee9f-d30d-4587-bf1a-32cfe10cdf03/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e807ee9f-d30d-4587-bf1a-32cfe10cdf03/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

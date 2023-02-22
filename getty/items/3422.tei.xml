@@ -1,0 +1,115 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3422</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3422</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> NOTIZIA (Breve) degli arazzi posseduti dall’eccellentissima casa Dolfino in Venezia</title>, <pubPlace>Verona</pubPlace> <date>1776</date>, italiano e
+francese, in 4, M. 11.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breve notizia degli arazzi posseduti dalla eccellentissima Casa Delfino in Venezia = Succinte description des tapisseries appartenantes a la tres illustre Maison Delfino a Venise.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baratti, Antonio, 1724-1787, engraver.</authority>
+            <authority>Carattoni, Agostino.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929924150001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/206k51</idno>
+            <idno>(OCoLC)80501038</idno>
+            <idno type="cico">3422</idno>
+            <idno type="dcl">98t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breve notizia degli arazzi posseduti dalla eccellentissima Casa Delfino in Venezia = Succinte description des tapisseries appartenantes a la tres illustre Maison Delfino a Venise.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Impresso in Verona : Per gli eredi di Agostino Carattoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>MDCCLXXVI [1776]</date>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>XIII, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/3dbb716a-92ea-4f14-a579-24bc94df9d7c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/3dbb716a-92ea-4f14-a579-24bc94df9d7c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breve Notizia degli Arazzi posseduti dalla eccellentissima Casa Delfino in Venezia [microform] = Succinte description des tapisseries appartenantes a la tres illustre maison Delfino a Venise.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pf3r94</idno>
+            <idno type="cico">3422</idno>
+            <idno type="dcl">98t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breve Notizia degli Arazzi posseduti dalla eccellentissima Casa Delfino in Venezia [microform] = Succinte description des tapisseries appartenantes a la tres illustre maison Delfino a Venise.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Verona : [s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/eaec0fe8-87d9-42fa-984a-a98c483d05be/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eaec0fe8-87d9-42fa-984a-a98c483d05be/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

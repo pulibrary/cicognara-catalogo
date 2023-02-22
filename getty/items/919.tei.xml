@@ -1,0 +1,78 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 919</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">919</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>GANDOLFI Bartolommeo</author>, <title>Memoria sulla maniera di costruire camini, stufe, cucine, fornacette
+      ec.</title>, <pubPlace>Roma</pubPlace> <date>1807</date>, in 8, fig. M. 31.
+      <note>Con sei tavole in rame.</note>
+      
+      </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoria sulla maniera di costruire cammini, stufe, cucine, fornacelle, ec [microform] : col massimo resparmio de' combustibili e senza ombra di fumo ... / dal P. Bartolommeo Gandolfi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cr9z40</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c8d51</idno>
+            <idno type="URI">http://portal.getty.edu/api/bc107s</idno>
+            <idno type="URI">http://portal.getty.edu/api/g02927</idno>
+            <idno type="URI">http://portal.getty.edu/api/5n8336</idno>
+            <idno type="URI">http://portal.getty.edu/api/sd1675</idno>
+            <idno type="cico">919</idno>
+            <idno type="dcl">qp4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoria sulla maniera di costruire cammini, stufe, cucine, fornacelle, ec [microform] : col massimo resparmio de' combustibili e senza ombra di fumo ... / dal P. Bartolommeo Gandolfi ...</title>
+                  <respStmt>
+                     <persName>Gandolfi, Bartolommeo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : V. Poggioli</publisher>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>80 p., VI leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bc4644ce-83ef-4be1-b328-9e7f4e252b05/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bc4644ce-83ef-4be1-b328-9e7f4e252b05/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 4474</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">4474</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>VENTE considerable d’une belle colléction de tableaux</title>, <pubPlace>Paris</pubPlace>, chez <publisher>Basan</publisher>, <date>1778</date>, in 8.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vente considérable d'une belle collection de tableaux des plus grands maîtres, italiens, flamands, hollandois &amp; françois, dont plusieurs ont été dans différents cabinets célebres, &amp; de plusieurs figures en bronze &amp; marbre .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dufresne.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k8013s</idno>
+            <idno>(OCoLC)213069705</idno>
+            <idno type="cico">4474</idno>
+            <idno type="dcl">bsc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vente considérable d'une belle collection de tableaux des plus grands maîtres, italiens, flamands, hollandois &amp; françois, dont plusieurs ont été dans différents cabinets célebres, &amp; de plusieurs figures en bronze &amp; marbre .. [microform].</title>
+                  <respStmt>
+                     <persName>Basan, François, 1723-1797.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez le sieur Basan ... et Me Dufresne</publisher>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>27 p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1859323f-3e02-42bc-a45b-6d0fdfe0288d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1859323f-3e02-42bc-a45b-6d0fdfe0288d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

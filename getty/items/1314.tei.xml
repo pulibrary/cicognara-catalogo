@@ -1,0 +1,174 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1314</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1314</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>FELIBIEN</author>, <title>Conferences de l’Académie Royale de Peinture et Sculpture pendant l’année 1667</title>,
+    <pubPlace>Paris</pubPlace> <date>1669</date>, in 4.
+    <note>L’autore ebbe ordine di pubblicare le conferenze private che teneva il rispettabile consesso degli artisti, i quali
+    nel primo sabato d’ogni mese venivano uniti e presieduti dal magnanimo Colbert.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conferences de l'Academie royale de peinture et de sculpture, pendant l'année 1667.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Félibien, André, sieur des Avaux et de Javercy, 1619-1695</authority>
+            <authority>Léonard, Frédéric, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927237090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/kt9n12</idno>
+            <idno>(OCoLC)47190245</idno>
+            <idno type="cico">1314</idno>
+            <idno type="dcl">9vx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conferences de l'Academie royale de peinture et de sculpture, pendant l'année 1667.</title>
+                  <respStmt>
+                     <persName>Académie royale de peinture et de sculpture (France)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Frederic Leonard</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>M. DC. LXIX. [1669]</date>
+                     <date>1669</date>
+                  </imprint>
+                  <extent>[44], 144 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4a0368b9-7713-44c9-84db-8a3a58a69b05"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4a0368b9-7713-44c9-84db-8a3a58a69b05">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conferences de l'Academie royale de peinture et de sculpture [microform] : pendant l'année 1667.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Académie royale de peinture et de sculpture (France)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1d911p</idno>
+            <idno type="cico">1314</idno>
+            <idno type="dcl">9vx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conferences de l'Academie royale de peinture et de sculpture [microform] : pendant l'année 1667.</title>
+                  <respStmt>
+                     <persName>Félibien, André, sieur des Avaux et de Javercy, 1619-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Frederic Leonard</publisher>
+                     <date>1669</date>
+                  </imprint>
+                  <extent>144 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3907d120-e5d4-4e22-be50-f5539427d8c0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3907d120-e5d4-4e22-be50-f5539427d8c0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conférences de l'Académie royale de peinture et de sculpture pendant l'année 1667.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Félibien, André, sieur des Avaux et de Javercy, 1619-1695.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_993031953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bh831x</idno>
+            <idno>(OCoLC)47190245</idno>
+            <idno type="cico">1314</idno>
+            <idno type="dcl">9vx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Conférences de l'Académie royale de peinture et de sculpture pendant l'année 1667.</title>
+                  <respStmt>
+                     <persName>Académie royale de peinture et de sculpture (France)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : F. Leonard</publisher>
+                     <date>1669</date>
+                     <date>1667</date>
+                  </imprint>
+                  <extent>144 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/95001bd7-fb12-4e7f-97ad-7966b0338544/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/95001bd7-fb12-4e7f-97ad-7966b0338544/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

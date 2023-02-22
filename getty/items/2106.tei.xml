@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2106</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2106</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SCHEUCHZERII Joan. Jacobi</author>, <title>Physica sacra iconibus aeneis illustrata procurante et sumptus
+  suppeditante Joan. Andrea Pfeffel</title>, vol. 4, <pubPlace>Auguste Vindelicorum</pubPlace> <date>1731 ad 1735</date>, in fol. fig.
+  <note>Opera nel suo genere classica e laboriosissima. Questa è la prima edizione stampata contemporanea alla tedesca,
+  colla sola varietà della versione del testo. Contiene infatti nei 4 vol. 750 tavole in rame freschissime e
+  l’esemplare è in vit. dorato.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Physica sacra [microform] / Johannis Jacobi Scheuchzeri ... iconibus Aeneis illustrata procurante &amp; sumtus suppeditante Johanne Andrea Pfeffel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pfeffel, Johann Andreas, 1674-1748.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w72s8m</idno>
+            <idno type="cico">2106</idno>
+            <idno type="dcl">sfz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Physica sacra [microform] / Johannis Jacobi Scheuchzeri ... iconibus Aeneis illustrata procurante &amp; sumtus suppeditante Johanne Andrea Pfeffel ...</title>
+                  <respStmt>
+                     <persName>Scheuchzer, Johann Jakob, 1672-1733.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Augustae Vindelicorum &amp; Ulmae : [s.n.]</publisher>
+                     <date>1731-1735</date>
+                     <date>1731</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>44 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bdd823e7-3751-434f-8663-07755a94639b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bdd823e7-3751-434f-8663-07755a94639b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

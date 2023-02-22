@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1816</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1816</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VREEDMA Johs Uriese</author>, <title>Panoplia seu armamentarium ac ornamenta cum artium ac opificiorum
+  tum etiam exuviarum Martialium, quae spolia quoque ab aliis appellari consuevere, excusa a
+  Gerard de Jode</title>, <date>anno 1577</date>, in f. Constat tab. 18.
+  <note>Queste tavole tutte di trofei militari sono assai ben intagliate e l’ultimo di doppia grandezza a tutto foglio
+     presenta un bellissimo gruppo di grandi pezzi d’artiglieria. Libro piuttosto raro.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Panoplia seu armamentarium ac ornamenta cum articum ac opificiorum tum etiam exuuiarum martialium qua spolia quoque alijs appellari consueuere [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jode, Gerard de, approximately 1516 or 1517-1591.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985401603506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nj1w3h</idno>
+            <idno type="cico">1816</idno>
+            <idno type="dcl">75r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Panoplia seu armamentarium ac ornamenta cum articum ac opificiorum tum etiam exuuiarum martialium qua spolia quoque alijs appellari consueuere [microform].</title>
+                  <respStmt>
+                     <persName>Vredeman de Vries, Hans, 1527-approximately 1604.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l.] : Gerar de Iode, excudebat</publisher>
+                     <date>1577</date>
+                  </imprint>
+                  <extent>[18] leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d72fdfd6-8f78-4fc6-96d3-32f7d7ffde86/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d72fdfd6-8f78-4fc6-96d3-32f7d7ffde86/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

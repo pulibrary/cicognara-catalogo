@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2700</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2700</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>PEREZ BAYER Francisco</author>, <title>De la lengua de los Fenices para illustracion de un lugar de Sallustio</title>, <pubPlace>Madrid</pubPlace> <date>1772</date>, in
+fol., fig., M. 82.
+<note>Questo forma anche parte della celebre edizione di Sallustio dalla pagina 337 al 338 della quale ne furono tirati a
+parte pochi esemplari.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del alfabeto y lengua de los Fenices y de sus colonias [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Sallust, 86-34 B.C. Conjuracion de Catilina y La guerra de Jugurta.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985460313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zj4f9r</idno>
+            <idno type="cico">2700</idno>
+            <idno type="cico">2754</idno>
+            <idno type="dcl">s2g</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del alfabeto y lengua de los Fenices y de sus colonias [microform].</title>
+                  <respStmt>
+                     <persName>Pérez Bayer, Francisco, 1711-1794.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>En Madrid : Por Joachin Ibarra</publisher>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>p. 338-378</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/34443e7c-9a77-4e7c-823f-11e62cbc3a57/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34443e7c-9a77-4e7c-823f-11e62cbc3a57/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

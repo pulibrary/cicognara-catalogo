@@ -1,0 +1,71 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1179</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1179</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>LETTRES À un jeune artiste peintre pensionnaire dans l’Accademie Royale</title>, à <pubPlace>Rome</pubPlace>, par M.
+    C., en 8.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettres à un jeune artiste peintre, pensionnaire à l'Académie royale de France à Rome [microform] / par M.C.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0z444z</idno>
+            <idno type="cico">1179</idno>
+            <idno type="dcl">0gk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettres à un jeune artiste peintre, pensionnaire à l'Académie royale de France à Rome [microform] / par M.C.</title>
+                  <respStmt>
+                     <persName>Cochin, Charles Nicolas, 1715-1790.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris : s.n]</publisher>
+                     <date>[between 1750 and 1799]</date>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>80 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5c59d7e0-574f-4222-bfc9-1d23ebe6ee1c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5c59d7e0-574f-4222-bfc9-1d23ebe6ee1c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

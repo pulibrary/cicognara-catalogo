@@ -1,0 +1,81 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2160</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2160</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>DICTIONNAIRE historique et portatif, ou histoire abrégé de tous les hommes, qui se sont fait un
+    nom par les talens, vertus etc. </title>, <pubPlace>Amsterdam</pubPlace> <date>1769</date> a<date> 1773</date>, vol. 5, in 8, avec le supplément.
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouveau dictionnaire historique portatif [microform] : ou, Histoire abregée de tous les hommes qui se sont fait un nom par des talens, des vertus, des forfaits, des errerus &amp;c. ... / par une Société de gens de lettres.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985343033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tw2h5j</idno>
+            <idno type="URI">http://portal.getty.edu/api/0z8g4v</idno>
+            <idno type="URI">http://portal.getty.edu/api/hr7112</idno>
+            <idno type="URI">http://portal.getty.edu/api/nw3q1w</idno>
+            <idno type="URI">http://portal.getty.edu/api/ns8g7s</idno>
+            <idno type="URI">http://portal.getty.edu/api/2p5m8g</idno>
+            <idno type="URI">http://portal.getty.edu/api/335r63</idno>
+            <idno type="URI">http://portal.getty.edu/api/78826v</idno>
+            <idno type="URI">http://portal.getty.edu/api/n43f59</idno>
+            <idno type="URI">http://portal.getty.edu/api/j31f90</idno>
+            <idno type="URI">http://portal.getty.edu/api/86361x</idno>
+            <idno type="cico">2160</idno>
+            <idno type="dcl">w81</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouveau dictionnaire historique portatif [microform] : ou, Histoire abregée de tous les hommes qui se sont fait un nom par des talens, des vertus, des forfaits, des errerus &amp;c. ... / par une Société de gens de lettres.</title>
+                  <respStmt>
+                     <persName>Chaudon, L. M. (Louis Mayeul), 1737-1817.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chez Marc-Michel Rey</publisher>
+                     <date>1769-1773</date>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+                  <extent>51 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9ad69786-cd90-4a02-b0e3-c3dbd1ae9536/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9ad69786-cd90-4a02-b0e3-c3dbd1ae9536/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

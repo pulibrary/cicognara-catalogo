@@ -1,0 +1,125 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3470</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3470</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ZANETTI Anton Maria</author>, <title>Varie pitture a fresco dei principali pittori veneziani</title>, ora per la prima volta colle stampe
+pubblicate, <pubPlace>Venezia</pubPlace> <date>1760</date>.
+<note>Queste sono 24 tav. e 6 carte di notizie intorno alla presente raccolta.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Varie pitture a fresco de'principali maestri veneziani : ora la prima volta con le stampe pubblicate.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923857440001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/505m45</idno>
+            <idno type="URI">http://portal.getty.edu/api/2b4629</idno>
+            <idno>(OCoLC)2159749</idno>
+            <idno>(OCoLC)02159749</idno>
+            <idno type="cico">3470</idno>
+            <idno type="dcl">mnv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Varie pitture a fresco de'principali maestri veneziani : ora la prima volta con le stampe pubblicate.</title>
+                  <respStmt>
+                     <persName>Zanetti, Antonio Maria, 1706-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>[1], xii p., 24 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/230799a6-af8b-46d1-bfcd-4b8d20ad4f05"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/230799a6-af8b-46d1-bfcd-4b8d20ad4f05">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Varie pitture a fresco de'principali maestri veneziani [microform] : ora la prima volta con le stampe pubblicate.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/414n4p</idno>
+            <idno type="URI">http://portal.getty.edu/api/x3528n</idno>
+            <idno type="cico">3470</idno>
+            <idno type="dcl">mnv</idno>
+            <idno type="dcl">z2f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Varie pitture a fresco de'principali maestri veneziani [microform] : ora la prima volta con le stampe pubblicate.</title>
+                  <respStmt>
+                     <persName>Zanetti, Antonio Maria, 1706-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : [s.n.]</publisher>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>XII p., [ca. 24] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/32a6bbc8-0023-4be2-993a-758a6c22f219/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/32a6bbc8-0023-4be2-993a-758a6c22f219/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

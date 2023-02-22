@@ -1,0 +1,121 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2354</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2354</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>RATTI Carlo Giuseppe</author>, <title>Notizie storiche sincere intorno la vita ed opere di Antonio Allegri da
+    Correggio</title>, <pubPlace>Finale</pubPlace> <date>1781</date>, in 8.
+    <note>Col ritratto in principio. Le 188 pagine di questo libro lasciano desiderio di più ampie notizie intorno sì celebre
+    artista.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie storiche sincere intorno la vita e le opere del celebre pittore Antonio Allegri da Correggio [microform] / scritte da Carlo Giuseppe Ratti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985400893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/z6456n</idno>
+            <idno type="cico">2354</idno>
+            <idno type="dcl">5p9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie storiche sincere intorno la vita e le opere del celebre pittore Antonio Allegri da Correggio [microform] / scritte da Carlo Giuseppe Ratti.</title>
+                  <respStmt>
+                     <persName>Ratti, Carlo Giuseppe, 1737-1795.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Finale : Nella Stamperia di Giacomo de' Rossi</publisher>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>189 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6cd942eb-85d5-4082-9459-06bb7bc9ef11/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6cd942eb-85d5-4082-9459-06bb7bc9ef11/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie storiche sincere intorno la vita e le opere del celebre pittore Antonio Allegri da Correggio / scritte da Carlo Giuseppe Ratti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927868840001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t35556</idno>
+            <idno>(OCoLC)37969802</idno>
+            <idno type="cico">2354</idno>
+            <idno type="dcl">5p9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie storiche sincere intorno la vita e le opere del celebre pittore Antonio Allegri da Correggio / scritte da Carlo Giuseppe Ratti.</title>
+                  <respStmt>
+                     <persName>Ratti, Carlo Giuseppe, 1737-1795.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Finale : Stamperia di G. de'Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>15, 189 pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d23c1fe3-bbf7-4856-b3e9-b8d67c12bfc8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d23c1fe3-bbf7-4856-b3e9-b8d67c12bfc8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 3241</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">3241</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>HEEREN</author>, <title>Commentatio in opus caelatum antiquum Musei Pii Clementini</title>, <pubPlace>Romae</pubPlace>
+                    <date> 1786</date>, in 8.
+<note>Dotta memoria stampata con eleganza e intitolata al dottissimo cardinale Garampi con la tavola del monumento
+<fw type="foot"/>
+                     <pb type="memofonte"/>
+                     <fw type="head"/>
+   al fine. Esemplare in carta distinta</note>.
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commentatio in opus caelatum antiquum Musei Pio-Clementini [microform] / auctore Arnoldo Heeren ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985415443506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ks0j2f</idno>
+            <idno type="cico">3241</idno>
+            <idno type="dcl">7s9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Commentatio in opus caelatum antiquum Musei Pio-Clementini [microform] / auctore Arnoldo Heeren ...</title>
+                  <respStmt>
+                     <persName>Heeren, A. H. L. (Arnold Hermann Ludwig), 1760-1842.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Apud Antonium Fulgonium</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>35 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8d5da9fa-ed0f-47b8-84fe-a8a89b819082/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8d5da9fa-ed0f-47b8-84fe-a8a89b819082/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

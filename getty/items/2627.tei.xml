@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2627</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2627</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SARTII Mauri monachi camaldulensis</author>, <title>Epistola ad V. C. Joan. Garatonum. De antiqua Picentum civitate Cupra
+Montana (Ripa Transona)</title>, <pubPlace>Pisauri</pubPlace> <date>1748</date>, in 8.
+<note>Opuscoletto interessante per alcuni estratti di cronache.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De antiqua Picentum civitate Cupra Montana [microform] / Mauri Sartii ... epistola ad v.c. Johannem Felicem Garatonum in Romana Curia advocatum ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/35154f</idno>
+            <idno type="cico">2627</idno>
+            <idno type="dcl">qc4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De antiqua Picentum civitate Cupra Montana [microform] / Mauri Sartii ... epistola ad v.c. Johannem Felicem Garatonum in Romana Curia advocatum ...</title>
+                  <respStmt>
+                     <persName>Sarti, Mauro, 1709-1766.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Pisauri : E typographia Nicolai Gavelli</publisher>
+                     <pubPlace>Cupramontana (Italy)</pubPlace>
+                     <date>1748</date>
+                  </imprint>
+                  <extent>108 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f85c10b5-61b6-408a-b800-6174d349fb61/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f85c10b5-61b6-408a-b800-6174d349fb61/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

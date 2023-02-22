@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2066</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2066</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>MONCORMET Balt.</author>, <title>Serie di 217 ritratti dei più illustri personaggi delle famiglie regnanti e
+  altri soggetti ragguardevoli</title>: in un volume in 4.
+  <note>Le opere di questo intagliature non sono sempre condotte con grazia ed ha fatto lavorare i suoi allievi per la
+  speculazione libraria piuttosto che farsi un nome nell’arte.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>217 portraits of important persons / B. Moncornet excudit.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100847773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mh312w</idno>
+            <idno>(OCoLC)313897675</idno>
+            <idno type="cico">2066</idno>
+            <idno type="dcl">kk4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>217 portraits of important persons / B. Moncornet excudit.</title>
+                  <respStmt>
+                     <persName>Moncornet, Baltazar, 1600-1668.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>[S.l.]</publisher>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>6 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8c44cc44-8efa-49ff-b740-4ad291f7c276/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8c44cc44-8efa-49ff-b740-4ad291f7c276/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

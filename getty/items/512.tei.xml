@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 512</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">512</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>GALILEI Galileo</author>, 
+                     <title>Le operazioni del compasso geometrico e Militare. Dedicato al Seren.
+	Principe di Toscana D. Cosano de’ Medici,</title> 
+                     <pubPlace>Padova</pubPlace> 
+                     <date>1606,</date> 
+                     <extent>in fog. p. fig.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le operazioni del compasso geometrico et militare [microform] / di Galileo Galilei ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945073506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f03r95</idno>
+            <idno type="cico">512</idno>
+            <idno type="dcl">002</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le operazioni del compasso geometrico et militare [microform] / di Galileo Galilei ...</title>
+                  <respStmt>
+                     <persName>Galilei, Galileo, 1564-1642.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : In casa dell'Autore, per Pietro Marinelli</publisher>
+                     <date>1606</date>
+                  </imprint>
+                  <extent>34 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/eaffb7da-6acd-4efc-85f8-42ef14299c91/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eaffb7da-6acd-4efc-85f8-42ef14299c91/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

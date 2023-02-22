@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 669</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">669</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>SERLIO</author>, 
+                     <title>Estraordinario libro di architettura, nel quale si dimostrano trenta opere di opera
+	rustica e venti di opera dilicata con la scrittura d’avanti che narra il tutto,</title> 
+                     <pubPlace>Venezia,</pubPlace> 
+                     <publisher>pei fratelli
+	Sessa,</publisher> 
+                     <date>1537,</date> in fol. fig.</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extraordina rio libro di architettura [microform] / di Sebastiano Serlio ... ; nel quale dimonstrano trenta porte di opera rustica mista ; con diversi ordini et venti di opera dilicata di diverse specie con la scrittura davanti che narra il tutto.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ck0s8t</idno>
+            <idno type="cico">669</idno>
+            <idno type="dcl">538</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Extraordina rio libro di architettura [microform] / di Sebastiano Serlio ... ; nel quale dimonstrano trenta porte di opera rustica mista ; con diversi ordini et venti di opera dilicata di diverse specie con la scrittura davanti che narra il tutto.</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso Giouambattista &amp; Marchio Sessa fratelli</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>[12] p., [50] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99b05db8-48fa-456b-b341-33ec6a4fa0c0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99b05db8-48fa-456b-b341-33ec6a4fa0c0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

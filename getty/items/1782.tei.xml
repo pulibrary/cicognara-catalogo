@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1782</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1782</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Le ROI</author>, <title>La Marine des anciens peuples, expliquée avec des figures répresentantes les
+  vaisseaux de guerre des ces peuples</title>, <pubPlace>Paris</pubPlace> <date>1777</date>, in 8, fig.
+  <note>Con sei tavole dimostrative intagliate in rame.</note>
+  
+  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La marine des anciens peuples [microform] : expliquée et considérée par rapport aux lumieres qu'on en peut tirer pour perfectionner la marine moderne : avec des figures représentant les vaisseaux de guerre de ces peuples / par M. Le Roy ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b72s8v</idno>
+            <idno type="cico">1782</idno>
+            <idno type="dcl">1pd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La marine des anciens peuples [microform] : expliquée et considérée par rapport aux lumieres qu'on en peut tirer pour perfectionner la marine moderne : avec des figures représentant les vaisseaux de guerre de ces peuples / par M. Le Roy ...</title>
+                  <respStmt>
+                     <persName>Le Roy, David, 1724?-1803.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Nyon âlné ... [et] Stoupe</publisher>
+                     <pubPlace>Carthage (Extinct city)</pubPlace>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1777</date>
+                  </imprint>
+                  <extent>XXXV, [1], 224 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/dd3e3731-af9b-4f06-a030-7330c308938a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dd3e3731-af9b-4f06-a030-7330c308938a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

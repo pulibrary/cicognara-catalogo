@@ -1,0 +1,70 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1291</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1291</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>ANTIALMANACCO per l’Almanacco Pittorico di Cremona dell’anno 1774 colle osservazioni
+    sulle pitture di Cremona di Corinzio Vermagi</title>, <pubPlace>Brescia</pubPlace> <date>1774</date>, in 8.
+    <note>Diatribe e controversie fra artisti.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antialmanacco per l'Almanacco pittorico di Cremona dell'anno 1774 [microform] : con le Osservazioni sulle pitture di Cremona / di Coringio Vermagi ; ed una lettera apologetica dell'Antialmanacco.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aglio, Giuseppe, 1717-1809.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh4659</idno>
+            <idno type="cico">1291</idno>
+            <idno type="dcl">rvf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antialmanacco per l'Almanacco pittorico di Cremona dell'anno 1774 [microform] : con le Osservazioni sulle pitture di Cremona / di Coringio Vermagi ; ed una lettera apologetica dell'Antialmanacco.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Brescia : Per i figliuoli del qu: Giuseppe Pasini</publisher>
+                     <date>1774</date>
+                  </imprint>
+                  <extent>79 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/78bb87f3-6690-4646-8130-b59bbc7b78cd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/78bb87f3-6690-4646-8130-b59bbc7b78cd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

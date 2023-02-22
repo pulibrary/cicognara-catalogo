@@ -1,0 +1,76 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1432</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1432</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>SARACINELLI Ferdinando</author>, <title>La liberazione di Ruggiero dall’Isola di Alcina</title>, balletto
+    rappresentato in musica al Serenissimo Ladislao Sigismondo Principe di Polonia e di Svezia
+    nella Villa Imperiale della Gran Duchessa di Toscana, del Sig. Ferdinando Saracinelli Balì di
+    Volterra, <pubPlace>Firenze</pubPlace>, per <publisher>Pietro Cecconcelli</publisher> <date>1625</date>, in 4. Alle Stelle Medicee.
+    <note>Componimento drammatico con frontespizio intagliato.</note>
+    MDCXXVII
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La liberazione di Ruggiero [microform] : dall'isola d'Alcina : baletto ... / del sig. Ferdinando Saracinelli...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Caccini, Francesca, 1587-approximately 1640.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985303253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k48w4b</idno>
+            <idno type="cico">1432</idno>
+            <idno type="dcl">tnk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La liberazione di Ruggiero [microform] : dall'isola d'Alcina : baletto ... / del sig. Ferdinando Saracinelli...</title>
+                  <respStmt>
+                     <persName>Saracinelli, Ferdinando, -1640.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Firenze?] : Per Pietro Cecconcelli</publisher>
+                     <date>1625</date>
+                  </imprint>
+                  <extent>36 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/48909201-bf52-46ab-b658-c9b94fd567e1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/48909201-bf52-46ab-b658-c9b94fd567e1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

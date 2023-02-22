@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2300</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2300</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>LAZZARI D. Andrea arciprete</author>, <title>MEMORIE d’alcuni più celebri pittori d’Urbino dal medesimo
+    arrichite con opportuni aneddoti, ed annotazioni non più stampate in addietro</title>, <date>1800</date>, in 4. gr.
+    <note>Non contiene questo volume che le memorie di Rafaello <pb type="cico" n="391"/> Sanzio, di Girolamo Bartolommeo della Genga
+    e di Federico Barocci; le quali vennero stampate separatamente e riunite.</note>
+    
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie d'alcuni piu' celebri pittori di Urbino [microform] / raccolte, scritte, e pubblicate dall'Archiprete D. Andrea Lazzari.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344373506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ss630t</idno>
+            <idno type="cico">2300</idno>
+            <idno type="dcl">z4z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie d'alcuni piu' celebri pittori di Urbino [microform] / raccolte, scritte, e pubblicate dall'Archiprete D. Andrea Lazzari.</title>
+                  <respStmt>
+                     <persName>Lazzari, Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Urbino : Presso Giovanni Guerrini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>4 pts. in 1 (43, 32, 35, 40 p.)</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e56e3194-c623-41dd-905e-666005863582/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e56e3194-c623-41dd-905e-666005863582/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

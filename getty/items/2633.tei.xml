@@ -1,0 +1,72 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 2633</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">2633</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>VERMIGLIOLI</author>, <title>Patera etrusca inedita esposta in un ragionamento accademico</title>, <pubPlace>Perugia</pubPlace> <date>1811</date>, in 4, fig., M. 7.
+<note>Con una tavola in rame.</note>
+</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Patera etrusca inedita [microform] : eposta in un ragionamento accademico / da Gio: Battista Vermiglioli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985459833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/x3863k</idno>
+            <idno type="cico">2633</idno>
+            <idno type="dcl">cs3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Patera etrusca inedita [microform] : eposta in un ragionamento accademico / da Gio: Battista Vermiglioli ...</title>
+                  <respStmt>
+                     <persName>Vermiglioli, Giovanni Battista, 1769-1848.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Nella stamperia di Francesco Baduel</publisher>
+                     <pubPlace>Etruria</pubPlace>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>XXXIX p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/761c4b5b-6078-4e20-81d7-ea5414cd7a55/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/761c4b5b-6078-4e20-81d7-ea5414cd7a55/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

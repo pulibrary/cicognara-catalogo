@@ -1,0 +1,74 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 824</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">824</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>CANTUARIENSIS Archiepiscopi Joannis</author>, <title>Perspectiva</title>, communis per L. Gauricum
+	Neapoletanum emendata, <pubPlace>Venetiis</pubPlace>, per <publisher>Joan. Baptistam Sessam</publisher>, <date>1504</date>, in fol. fig.
+	<note>Fu il libro intitolato dal Gaurico al patrizio veneto Paulo. Le figure in legno sono impresse sui margini: e il libro
+	non ti alta che dell’obiettiva e delle riflessioni dei raggi secondo i principi dell’ottica di quell’età.</note>
+	
+	</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jo. Archiepiscopi Cantuariensis Perspectiua communis [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985230693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pr3369</idno>
+            <idno type="cico">824</idno>
+            <idno type="dcl">5cd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Jo. Archiepiscopi Cantuariensis Perspectiua communis [microform]</title>
+                  <respStmt>
+                     <persName>Peckham, John, -1292.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Impressum hoc opus Venetiis : per Il. Baptistam Sessam]</publisher>
+                     <date>[1504]</date>
+                     <date>1504</date>
+                  </imprint>
+                  <extent>10 leaves</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/16b23d0a-aeaa-4b67-a26c-c35f909819e7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/16b23d0a-aeaa-4b67-a26c-c35f909819e7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

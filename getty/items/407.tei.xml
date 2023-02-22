@@ -1,0 +1,79 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 407</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">407</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> 
+                     <author>d’AVILER</author>,
+                     <title> Dictionnaire d’architecture civile, et idraulique et des arts, qui en dependent,
+	ouvrage servant de suite au cours d’architecture du même auteur,</title> 
+                     <pubPlace>Paris</pubPlace> 
+                     <date>1755,</date> 
+                     <extent>en 4.</extent>
+	                    <fw type="foot"/>
+	                    <pb type="memofonte"/>
+	                    <fw type="head"/>
+	                    <note>Con frontispizio di Bouchardon al primo vol. e più di cento tavole in rame. La miglior opera che in questa
+	materia escisse in Francia in quel tempo.</note>
+	                 </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire d'architecture civile et hydraulique, et des arts qui en dépendent [microform] : comme la maçonnerie, la charpenterie, la menuiserie, la serrurerie, le jardinage, &amp;c., la construction des ponts &amp; chaussées, des ecluses, &amp; de tous les ouvrages hydrauliques : ouvrage servant de suite au Cours d'architecture du même auteur / par Augustine-Charles d'Aviler.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0d401s</idno>
+            <idno type="cico">407</idno>
+            <idno type="dcl">pvc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dictionnaire d'architecture civile et hydraulique, et des arts qui en dépendent [microform] : comme la maçonnerie, la charpenterie, la menuiserie, la serrurerie, le jardinage, &amp;c., la construction des ponts &amp; chaussées, des ecluses, &amp; de tous les ouvrages hydrauliques : ouvrage servant de suite au Cours d'architecture du même auteur / par Augustine-Charles d'Aviler.</title>
+                  <respStmt>
+                     <persName>Aviler, Augustin-Charles d', 1653-1701.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Charles-Antoine Jombert</publisher>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>xiv, 366, [1] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8465dccb-ea75-4a88-910c-8b793be8ac60/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8465dccb-ea75-4a88-910c-8b793be8ac60/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

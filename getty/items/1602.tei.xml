@@ -1,0 +1,73 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 1602</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">1602</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>BOVICELLI Giuliano</author>, <title>Istoria delle perrucche in cui si fa vedere la loro usanza, forma, abuso,
+    irregolarità</title>, <pubPlace>Milano</pubPlace> <date>1724</date>, in 12, 2 vol. in uno.
+    <note>Quest’opera è piuttosto diretta contro l’abuso delle perrucche degli ecclesiastici che ad
+    oggetto di illustrare la materia colla buona critica.</note>
+    </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istoria delle perucche [microform] : in cui si fa vedere la loro origine, la usanza, la forma, l'abuso, e l'irregolarità di quelle degli ecclesiastici / pubblicata ... da Giuliano Bouicelli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bovicelli, Giuliano.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985304833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ff2g5h</idno>
+            <idno type="cico">1602</idno>
+            <idno type="dcl">r56</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istoria delle perucche [microform] : in cui si fa vedere la loro origine, la usanza, la forma, l'abuso, e l'irregolarità di quelle degli ecclesiastici / pubblicata ... da Giuliano Bouicelli ...</title>
+                  <respStmt>
+                     <persName>Thiers, Jean-Baptiste, 1636-1703.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Si vendono dalli Fratelli Vigoni e Giuseppe Cairoli</publisher>
+                     <date>1724</date>
+                  </imprint>
+                  <extent>2 pts. in 1 (236 ; 272 p.)</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/22a7cc6e-b6c4-4a78-a566-57700a60bf7b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/22a7cc6e-b6c4-4a78-a566-57700a60bf7b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>

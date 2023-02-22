@@ -1,0 +1,75 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogo Cicognara Number 334</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Digital Cicognara Library</orgName>
+                    <ref>https://cicognara.org</ref>
+                </publisher>
+                <idno type="cico">334</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                     <author>MARTINEZ Chrysostome</author>, 
+                     <title>Nouvelle exposition de deux grandes planches gravées et dessinées
+	d’après nature representant des figures très singulieres de proportion et d’anatomie, </title>
+                     <pubPlace>Paris</pubPlace>
+	                    <date>1780,</date> 
+                     <extent>in 12.</extent>
+                  </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouvelle exposition de deux grandes planches gravées et dessinées d'après nature [microform] / par Chrysostome Martinez ... représentant des figures très-singulieres de proportions &amp; d'anatomie ... avec un Eloge historique de l'aueurs, suivi de deux discours, qui expliquent les deux estampes tirées sur ces deux planches.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985447213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6j1k67</idno>
+            <idno type="cico">334</idno>
+            <idno type="dcl">jp3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouvelle exposition de deux grandes planches gravées et dessinées d'après nature [microform] / par Chrysostome Martinez ... représentant des figures très-singulieres de proportions &amp; d'anatomie ... avec un Eloge historique de l'aueurs, suivi de deux discours, qui expliquent les deux estampes tirées sur ces deux planches.</title>
+                  <respStmt>
+                     <persName>Martinez, Chrysostome, ca. 1650-ca. 1691.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris] : Réimprimée, par ordre de l'Académie Royale de Peinture ...chez la Veuve Hérissant</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>40 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1209864e-a78c-47e3-ab35-6be16403dfec/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1209864e-a78c-47e3-ab35-6be16403dfec/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+</teiCorpus>
