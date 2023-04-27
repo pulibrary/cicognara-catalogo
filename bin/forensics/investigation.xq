@@ -26,7 +26,7 @@ let $ciconums := for $i in $items return xs:string($i/@n)
 let $getty_cicos := for $idno in collection("/db/apps/cicognara/data/getty_tei")//tei:idno[@type='cico']
 return xs:string($idno)
 
-
+    
 (:
  : Select the Catalogo items whose cico number is not
  : in the list of Getty cico numbers.
