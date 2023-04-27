@@ -6,7 +6,7 @@ require "set"
 require "csv"
 require "logger"
 
-basedir = "#{File.dirname(__FILE__)}/.."
+basedir = "#{File.dirname(__FILE__)}/../.."
 
 logger = Logger.new(STDOUT)
 
