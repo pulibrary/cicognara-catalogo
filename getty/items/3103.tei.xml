@@ -28,48 +28,6 @@ illustrata</title>, dissertatio, <pubPlace>Mantuae</pubPlace> <date>1773</date>,
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De C. Plinii Caecilii Secundi Novocomensis Testamentaria Inscriptione Mediolanensibus Adserta Et Illustrata Dissertatio</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-522505</idno>
-            <idno type="URI">http://portal.getty.edu/api/xt5v2h</idno>
-            <idno type="cico">3103</idno>
-            <idno type="dcl">6w6</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De C. Plinii Caecilii Secundi Novocomensis Testamentaria Inscriptione Mediolanensibus Adserta Et Illustrata Dissertatio</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <date>1773</date>
-                     <date>1773</date>
-                  </imprint>
-                  <extent>106 S., 1 Faltbl.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/boari1773/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/boari1773/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>De C. Plinii Caecilii Secundi nouocomensis testamentaria inscriptione mediolanensibus adserta et illustrata [microform] : dissertatio / auctore Cn. Octavo Boari ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -108,6 +66,14 @@ illustrata</title>, dissertatio, <pubPlace>Mantuae</pubPlace> <date>1773</date>,
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pliny, the Younger</term>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/80a63cfe-3ee7-4121-b79f-2b1ae40cd440/manifest">

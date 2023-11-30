@@ -27,53 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Trattato della pittura : fondato nell'auttorità di molti eccellenti in questa professione / fatto à commune beneficio de' virtuosi da fra d. Francesco Bisagno, caualiere di Malta.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927002700001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/p27f8q</idno>
-            <idno>(OCoLC)34445751</idno>
-            <idno type="cico">84</idno>
-            <idno type="dcl">x20</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Trattato della pittura : fondato nell'auttorità di molti eccellenti in questa professione / fatto à commune beneficio de' virtuosi da fra d. Francesco Bisagno, caualiere di Malta.</title>
-                  <respStmt>
-                     <persName>Bisagno, Francesco Domenico.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venetia : Per li Giunti</publisher>
-                     <date>1642</date>
-                  </imprint>
-                  <extent>16 unnumbered pages, 233 pages, 1 unnumbered page</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/52557be5-7e1c-4f79-b462-90746db0ee61"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/52557be5-7e1c-4f79-b462-90746db0ee61">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Trattato della pittura [microform] : fondato nell'auttorità di molti eccellenti in questa professione / fatto à commune beneficio de' virtuosi da fra d. Francesco Bisagno ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +64,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/72f6294b-1f60-4946-90cb-c4f6d85a28c9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato della pittura : fondato nell'auttorità di molti eccellenti in questa professione / fatto à commune beneficio de' virtuosi da fra d. Francesco Bisagno, caualiere di Malta.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927002700001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/p27f8q</idno>
+            <idno>(OCoLC)34445751</idno>
+            <idno type="cico">84</idno>
+            <idno type="dcl">x20</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato della pittura : fondato nell'auttorità di molti eccellenti in questa professione / fatto à commune beneficio de' virtuosi da fra d. Francesco Bisagno, caualiere di Malta.</title>
+                  <respStmt>
+                     <persName>Bisagno, Francesco Domenico.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per li Giunti</publisher>
+                     <date>1642</date>
+                  </imprint>
+                  <extent>16 unnumbered pages, 233 pages, 1 unnumbered page</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/52557be5-7e1c-4f79-b462-90746db0ee61"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>ND1130 .B57 1642</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/52557be5-7e1c-4f79-b462-90746db0ee61">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -22,50 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Descrizione della statua di un pugilatore eseguita in Roma dal celebre scultore sig. Antonio Canova : con una lettera del medesimo che accompagna il gesso di essa statua, da lui spedito in dono a questa Veneta accademia di belle arti.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990049995050203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/3b9c9r</idno>
-            <idno>(OCoLC)229829831</idno>
-            <idno type="cico">3500</idno>
-            <idno type="dcl">05z</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Descrizione della statua di un pugilatore eseguita in Roma dal celebre scultore sig. Antonio Canova : con una lettera del medesimo che accompagna il gesso di essa statua, da lui spedito in dono a questa Veneta accademia di belle arti.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venezia : Nella Stamperia della Veneta società letteraria e tipografica</publisher>
-                     <date>[1802]</date>
-                     <date>1802</date>
-                  </imprint>
-                  <extent>6 unnumbered pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481964599"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481964599">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Descrizione della statua di un pugilatore eseguita in Roma dal celebre scultore sig. Antonio Canova [microform] : con una lettera del medesimo che accompagna il gesso di essa statua, da lui spedito in dono a questa Veneta accademia di belle arti.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -101,9 +57,68 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3f0efe91-3e10-481f-8458-86bf1bd712eb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della statua di un pugilatore eseguita in Roma dal celebre scultore sig. Antonio Canova : con una lettera del medesimo che accompagna il gesso di essa statua, da lui spedito in dono a questa Veneta accademia di belle arti.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990049995050203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/3b9c9r</idno>
+            <idno>(OCoLC)229829831</idno>
+            <idno type="cico">3500</idno>
+            <idno type="dcl">05z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della statua di un pugilatore eseguita in Roma dal celebre scultore sig. Antonio Canova : con una lettera del medesimo che accompagna il gesso di essa statua, da lui spedito in dono a questa Veneta accademia di belle arti.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Nella Stamperia della Veneta società letteraria e tipografica</publisher>
+                     <date>[1802]</date>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>6 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481964599"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822.</term>
+               <term>Canova, Antonio, 1757-1822</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481964599">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

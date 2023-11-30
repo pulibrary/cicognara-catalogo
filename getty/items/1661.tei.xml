@@ -27,50 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lilii Gregorii Gyraldi Ferrariensis, De Sepvlchris &amp; uario sepeliendi ritu, libellus</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Giraldi, Giglio Gregorio, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-84045</idno>
-            <idno type="URI">http://portal.getty.edu/api/zb1z0z</idno>
-            <idno type="cico">1661</idno>
-            <idno type="dcl">x23</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Lilii Gregorii Gyraldi Ferrariensis, De Sepvlchris &amp; uario sepeliendi ritu, libellus</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1539</date>
-                     <date>1539</date>
-                  </imprint>
-                  <extent>[8] Bl., 79 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/giraldi1539/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/giraldi1539/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Lilii Gregorii Gyraldi Ferrariensis, De Sepulchris &amp; uario sepeliendi ritu, libellus .. [microform]</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -108,6 +64,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Burial -- Early works to 1800.</term>
+               <term>Funeral rites and ceremonies -- Early works to 1800.</term>
+               <term>Sepulchral monuments -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a798660-49e1-4100-bff0-2a2dc6ce54f3/manifest">

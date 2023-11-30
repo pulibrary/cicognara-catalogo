@@ -24,57 +24,6 @@ in the British Museum</title>, <pubPlace>Cambridge</pubPlace> <date>1805</date>,
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The tomb of Alexander [microform] : a dissertation on the sarcophagus brought from Alexandria and now in the British museum / by Edward Daniel Clarke.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>British Museum. Department of Egyptian and Assyrian Antiquities.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985412503506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/5w7d81</idno>
-            <idno type="cico">3206</idno>
-            <idno type="dcl">0d8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>The tomb of Alexander [microform] : a dissertation on the sarcophagus brought from Alexandria and now in the British museum / by Edward Daniel Clarke.</title>
-                  <respStmt>
-                     <persName>Clarke, Edward Daniel, 1769-1822.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <publisher>Cambridge : Printed by R. Watts at the University press for J. Mawman ... and sold by Payne</publisher>
-                     <pubPlace>Egypt</pubPlace>
-                     <date>1805</date>
-                  </imprint>
-                  <extent>161 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/46b2dd95-fd41-4b86-af9e-b022652609cb/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/46b2dd95-fd41-4b86-af9e-b022652609cb/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>The tomb of Alexander; a dissertation on the sarcophagus brought from Alexandria and now in the British museum, by Edward Daniel Clarke ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,9 +64,83 @@ in the British Museum</title>, <pubPlace>Cambridge</pubPlace> <date>1805</date>,
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alexander, the Great, 356 B.C.-323 B.C.</term>
+               <term>Tombs -- Egypt -- Alexandria.</term>
+               <term>Sarcophagi.</term>
+               <term>Alexander, the Great, 356 B.C.-323 B.C.</term>
+               <term>Sarcophagi.</term>
+               <term>Tombs.</term>
+               <term>Egypt -- Alexandria.</term>
+               <term>NB1810 .C6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fa197eac-967d-4bba-bd63-712ce86e55ff">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tomb of Alexander [microform] : a dissertation on the sarcophagus brought from Alexandria and now in the British museum / by Edward Daniel Clarke.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>British Museum. Department of Egyptian and Assyrian Antiquities.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5w7d81</idno>
+            <idno type="cico">3206</idno>
+            <idno type="dcl">0d8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The tomb of Alexander [microform] : a dissertation on the sarcophagus brought from Alexandria and now in the British museum / by Edward Daniel Clarke.</title>
+                  <respStmt>
+                     <persName>Clarke, Edward Daniel, 1769-1822.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Cambridge : Printed by R. Watts at the University press for J. Mawman ... and sold by Payne</publisher>
+                     <pubPlace>Egypt</pubPlace>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>161 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/46b2dd95-fd41-4b86-af9e-b022652609cb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alexander, the Great, 356 B.C.-323 B.C. -- Tomb.</term>
+               <term>Sarcophagi.</term>
+               <term>Tombs -- Egypt -- Alexandria.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/46b2dd95-fd41-4b86-af9e-b022652609cb/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

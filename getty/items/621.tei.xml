@@ -25,54 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Les ouvrages d'architecture [microform] / ordonnez par Pierre Post .. . dans les quels on voit les representations de plusieurs edifices considerables en plans &amp; elevations ; avec leurs descriptions.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985296763506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/847v2d</idno>
-            <idno type="cico">621</idno>
-            <idno type="dcl">wng</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Les ouvrages d'architecture [microform] / ordonnez par Pierre Post .. . dans les quels on voit les representations de plusieurs edifices considerables en plans &amp; elevations ; avec leurs descriptions.</title>
-                  <respStmt>
-                     <persName>Post, Pieter, 1608-1669.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Leide : Chez Pierre Vander Aa</publisher>
-                     <date>1715</date>
-                  </imprint>
-                  <extent>1 v. (various pagings)</extent>
-                  <extent>12 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/467bf7b3-0ee9-40f2-9ba0-34363d1a4923/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/467bf7b3-0ee9-40f2-9ba0-34363d1a4923/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Les ouvrages d'architecture : dans les quels on voit les représentations de plusieurs édifices considérables en plans &amp; élévations, avec leurs descriptions / ordonnez par Pieter Post.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -111,9 +63,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Post, Pieter, 1608-1669</term>
+               <term>Architecture -- Netherlands -- Designs and plans.</term>
+               <term>Fireplaces -- Designs and plans.</term>
+               <term>Post, Pieter, 1608-1669</term>
+               <term>Architecture.</term>
+               <term>Netherlands.</term>
+               <term>NA1153.P8 A3f</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2928be5a-318a-41b2-b100-70396926dc8a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les ouvrages d'architecture [microform] / ordonnez par Pierre Post .. . dans les quels on voit les representations de plusieurs edifices considerables en plans &amp; elevations ; avec leurs descriptions.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/847v2d</idno>
+            <idno type="cico">621</idno>
+            <idno type="dcl">wng</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les ouvrages d'architecture [microform] / ordonnez par Pierre Post .. . dans les quels on voit les representations de plusieurs edifices considerables en plans &amp; elevations ; avec leurs descriptions.</title>
+                  <respStmt>
+                     <persName>Post, Pieter, 1608-1669.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Leide : Chez Pierre Vander Aa</publisher>
+                     <date>1715</date>
+                  </imprint>
+                  <extent>1 v. (various pagings)</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/467bf7b3-0ee9-40f2-9ba0-34363d1a4923/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/467bf7b3-0ee9-40f2-9ba0-34363d1a4923/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

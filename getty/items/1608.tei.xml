@@ -25,55 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Antonii Bynaei De Calceis Hebraeorum Libri Duo: Curis Secundis Recogniti, Et Aucti</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bynaeus, Anthony, Author</authority>
-            <authority>Hogenberg, Franz, Illustrator</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280739</idno>
-            <idno type="URI">http://portal.getty.edu/api/jt824s</idno>
-            <idno type="cico">1608</idno>
-            <idno type="dcl">28v</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Antonii Bynaei De Calceis Hebraeorum Libri Duo: Curis Secundis Recogniti, Et Aucti</title>
-                  <textLang>Latin</textLang>
-                  <textLang>Hebrew</textLang>
-                  <textLang>Greek, Ancient (to 1453)</textLang>
-                  <textLang>Dutch; Flemish</textLang>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <date>1715</date>
-                     <date>1715</date>
-                  </imprint>
-                  <extent>[9] Bl., 267 S., [18] Bl., 24 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bynaeus1715/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bynaeus1715/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Antonii Bynaei De calceis Hebraeorum libri duo [microform] : curis secundis recogniti, et aucti : accedit ejusdem Somnium, tertio recusum.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,6 +62,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible -- Antiquities.</term>
+               <term>Shoes -- History -- Early works to 1800.</term>
+               <term>Sleep -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/61896863-be19-47bf-bd8d-90fe7198624b/manifest">

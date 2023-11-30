@@ -26,56 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Anecdotes des beaux-arts [microform] : contenant tout ce que la peinture, la sculpture, la gravure, l'architecture, la littérature, la musique, &amp;c. &amp; la vie des artistes / offrent de plus curieux &amp; de plus piquant, chez tous les peuples du monde, depuis l'origine de ces différens arts, jusqu'à nos jours ... Avec des notes historiques &amp; critiques, &amp; des tables raisonnées, où l'on apprécie en peu de mots les artistes &amp; les auteures dont on a rapporté des anecdotes / par M.***.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246813506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/c1333n</idno>
-            <idno type="cico">4</idno>
-            <idno type="dcl">592</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Anecdotes des beaux-arts [microform] : contenant tout ce que la peinture, la sculpture, la gravure, l'architecture, la littérature, la musique, &amp;c. &amp; la vie des artistes / offrent de plus curieux &amp; de plus piquant, chez tous les peuples du monde, depuis l'origine de ces différens arts, jusqu'à nos jours ... Avec des notes historiques &amp; critiques, &amp; des tables raisonnées, où l'on apprécie en peu de mots les artistes &amp; les auteures dont on a rapporté des anecdotes / par M.***.</title>
-                  <respStmt>
-                     <persName>Nougaret, P. J. B. (Pierre Jean Baptiste), 1742-1823.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Jean-Franc̦ois Bastien</publisher>
-                     <date>1776-1780</date>
-                     <date>1776</date>
-                  </imprint>
-                  <extent>3 v.</extent>
-                  <extent>32 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f7976726-202f-4336-a9d4-8ee89b506cd1/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f7976726-202f-4336-a9d4-8ee89b506cd1/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Anecdotes des beaux-arts : contenant tout ce que la peinture, la sculpture, la gravure, l'architecture, la littérature, la musique, &amp;c. ... : avec des notes historiques &amp; critiques, &amp; des tables raisonnées ... / par M. ***.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -116,6 +66,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Early works to 1800.</term>
+               <term>Artists -- Biography.</term>
+               <term>Artists -- Anecdotes.</term>
+               <term>N5303 .N93</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0cd90eea-f023-41d0-95a4-24e47de13698">
@@ -124,6 +84,65 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bd0600bb-e2fe-48f3-8a91-f55d15cacba4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anecdotes des beaux-arts [microform] : contenant tout ce que la peinture, la sculpture, la gravure, l'architecture, la littérature, la musique, &amp;c. &amp; la vie des artistes / offrent de plus curieux &amp; de plus piquant, chez tous les peuples du monde, depuis l'origine de ces différens arts, jusqu'à nos jours ... Avec des notes historiques &amp; critiques, &amp; des tables raisonnées, où l'on apprécie en peu de mots les artistes &amp; les auteures dont on a rapporté des anecdotes / par M.***.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c1333n</idno>
+            <idno type="cico">4</idno>
+            <idno type="dcl">592</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Anecdotes des beaux-arts [microform] : contenant tout ce que la peinture, la sculpture, la gravure, l'architecture, la littérature, la musique, &amp;c. &amp; la vie des artistes / offrent de plus curieux &amp; de plus piquant, chez tous les peuples du monde, depuis l'origine de ces différens arts, jusqu'à nos jours ... Avec des notes historiques &amp; critiques, &amp; des tables raisonnées, où l'on apprécie en peu de mots les artistes &amp; les auteures dont on a rapporté des anecdotes / par M.***.</title>
+                  <respStmt>
+                     <persName>Nougaret, P. J. B. (Pierre Jean Baptiste), 1742-1823.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Jean-Franc̦ois Bastien</publisher>
+                     <date>1776-1780</date>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>32 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f7976726-202f-4336-a9d4-8ee89b506cd1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Early works to 1800.</term>
+               <term>Artists -- Biography -- Early works to 1800.</term>
+               <term>Artists -- Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f7976726-202f-4336-a9d4-8ee89b506cd1/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

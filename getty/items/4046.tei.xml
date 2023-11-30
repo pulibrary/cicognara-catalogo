@@ -27,57 +27,6 @@ volume della Storia della scultura.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La Metropolitana fiorentina illustrata [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985430523506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/943s7b</idno>
-            <idno type="cico">4046</idno>
-            <idno type="dcl">hcb</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La Metropolitana fiorentina illustrata [microform].</title>
-                  <respStmt>
-                     <persName>Molini, Giuseppe, 1772-1856.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <textLang>e-it---</textLang>
-                  <imprint>
-                     <publisher>Firenze : Giuseppe Molini e Comp</publisher>
-                     <pubPlace>Florence (Italy)</pubPlace>
-                     <date>1820</date>
-                  </imprint>
-                  <extent>vii, 76 p., xxxvii leaves of plates</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/60aa213f-3370-4538-9fe0-8e6d17f4197f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/60aa213f-3370-4538-9fe0-8e6d17f4197f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>La metropolitana fiorentina illustrata.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -128,9 +77,83 @@ volume della Storia della scultura.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Santa Maria del Fiore (Cathedral : Florence, Italy)</term>
+               <term>Florence (Italy) -- Buildings, structures, etc.</term>
+               <term>Cathedrals -- Italy -- Florence.</term>
+               <term>Church architecture -- Italy -- Florence -- Designs and plans.</term>
+               <term>Decoration and ornament, Architectural -- Italy -- Florence.</term>
+               <term>Santa Maria del Fiore (Cathedral : Florence, Italy)</term>
+               <term>Buildings.</term>
+               <term>Italy -- Florence.</term>
+               <term>NA5621.F7 M4 f</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/01f59922-ab6f-41a5-9925-4d784914a4e2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Metropolitana fiorentina illustrata [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/943s7b</idno>
+            <idno type="cico">4046</idno>
+            <idno type="dcl">hcb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Metropolitana fiorentina illustrata [microform].</title>
+                  <respStmt>
+                     <persName>Molini, Giuseppe, 1772-1856.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>e-it---</textLang>
+                  <imprint>
+                     <publisher>Firenze : Giuseppe Molini e Comp</publisher>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <date>1820</date>
+                  </imprint>
+                  <extent>vii, 76 p., xxxvii leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/60aa213f-3370-4538-9fe0-8e6d17f4197f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Santa Maria del Fiore (Cathedral : Florence, Italy)</term>
+               <term>Florence (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/60aa213f-3370-4538-9fe0-8e6d17f4197f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

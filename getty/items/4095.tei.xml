@@ -70,9 +70,75 @@ con tutto il gusto. Il testo è breve, e succoso, e può ritenersi come uno de�
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Italy -- Pictorial works -- Early works to 1800.</term>
+               <term>Italy -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5844b116-7cfa-4dac-8087-27efcee3df1f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Select views in Italy : with topographical and historical descriptions in English and French ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991768593504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/pb0h3h</idno>
+            <idno>(OCoLC)973450723</idno>
+            <idno type="cico">4095</idno>
+            <idno type="dcl">fk9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Select views in Italy : with topographical and historical descriptions in English and French ...</title>
+                  <respStmt>
+                     <persName>Smith, John, 1749-1831.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by T. Chapman, for John Smith, William Byrne, and John Emes</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1792-1796</date>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991768593504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Italy -- Pictorial works.</term>
+               <term>Italy -- Description and travel.</term>
+               <term>NE1724 .S62</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991768593504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -24,6 +24,64 @@ in 8.
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Descrizione delle pitture, sculture, ed architetture che si osservano nella città di Mantova e ne' suoi contorni : data in luce a comodo singolarmente de' forestieri / da Giovanni Cadioli, pittor mantovano ed architetto teatrale ; dedicata a sua eccellenza il signor don Carlo ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786883504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/1f2x9t</idno>
+            <idno>(OCoLC)192134457</idno>
+            <idno type="cico">4235</idno>
+            <idno type="dcl">hsf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione delle pitture, sculture, ed architetture che si osservano nella città di Mantova e ne' suoi contorni : data in luce a comodo singolarmente de' forestieri / da Giovanni Cadioli, pittor mantovano ed architetto teatrale ; dedicata a sua eccellenza il signor don Carlo ...</title>
+                  <respStmt>
+                     <persName>Cadioli, Giovanni, 1710-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Mantova : A. Pazzoni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Mantua (Italy)</pubPlace>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>136 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99786883504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Mantua -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Mantua -- Early works to 1800.</term>
+               <term>Mantua (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99786883504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Descrizione delle pitture, sculture, ed architetture [microform] : che si osservano nella città di Mantova e ne' suoi Contorni / data in luce a comodo signolarmente de' Forestieri da Giovanni Cadioli ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -63,6 +121,14 @@ in 8.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Mantua -- Early works to 1800.</term>
+               <term>Art -- Italy -- Mantua -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9c4f9b83-b1a7-44bf-ad34-97316d6e2e9a/manifest">

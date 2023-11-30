@@ -24,57 +24,6 @@ grand., fig.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cremonensium monumenta Romae extantia [microform] / collegit atque illustravit F. Thom. Augustinus Vairani ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985412233506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fr529d</idno>
-            <idno type="cico">3150</idno>
-            <idno type="dcl">mck</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Cremonensium monumenta Romae extantia [microform] / collegit atque illustravit F. Thom. Augustinus Vairani ...</title>
-                  <respStmt>
-                     <persName>Vairani, Tommaso Agostino.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Excudebat Romae Generosus Salomonius : Publica auctoritate</publisher>
-                     <pubPlace>Rome</pubPlace>
-                     <pubPlace>Cremona (Italy)</pubPlace>
-                     <date>1778</date>
-                  </imprint>
-                  <extent>2 v. in 1</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a50d3185-45b4-47e1-aa4a-1472f6334af9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a50d3185-45b4-47e1-aa4a-1472f6334af9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Cremonensium monumenta Romae extantia / collegit atque illustravit F. Thom. Augustinus Vairani, ordinis praedicatorum.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -118,9 +67,83 @@ grand., fig.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Catholic Church -- Clergy -- Early works to 1800.</term>
+               <term>Memorials -- Rome -- Early works to 1800.</term>
+               <term>Cremona (Italy) -- Church history -- Early works to 1800.</term>
+               <term>Catholic Church.</term>
+               <term>Clergy.</term>
+               <term>Memorials.</term>
+               <term>Italy -- Cremona.</term>
+               <term>Rome (Empire)</term>
+               <term>DG975.C79 V3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6f47e2fc-d454-4d07-a99b-bdee20a719f9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cremonensium monumenta Romae extantia [microform] / collegit atque illustravit F. Thom. Augustinus Vairani ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985412233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fr529d</idno>
+            <idno type="cico">3150</idno>
+            <idno type="dcl">mck</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cremonensium monumenta Romae extantia [microform] / collegit atque illustravit F. Thom. Augustinus Vairani ...</title>
+                  <respStmt>
+                     <persName>Vairani, Tommaso Agostino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Excudebat Romae Generosus Salomonius : Publica auctoritate</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Cremona (Italy)</pubPlace>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>2 v. in 1</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a50d3185-45b4-47e1-aa4a-1472f6334af9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Memorials -- Rome -- Early works to 1800.</term>
+               <term>Cremona (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a50d3185-45b4-47e1-aa4a-1472f6334af9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

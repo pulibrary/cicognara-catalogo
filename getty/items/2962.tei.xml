@@ -26,6 +26,68 @@ serie di lettere italiane con 27 tavole al fine intagliate diligentemente.</note
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Laurentii Patarol Opera omnia [microform] : quorum pleraque nunc primum in lucem prodeunt.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Quintilian. Declamationes. 1743.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pn3s85</idno>
+            <idno type="cico">2962</idno>
+            <idno type="dcl">d8k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Laurentii Patarol Opera omnia [microform] : quorum pleraque nunc primum in lucem prodeunt.</title>
+                  <respStmt>
+                     <persName>Patarolo, Lorenzo, 1674-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Typis Joannis Baptistae Pasquali</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Holy Roman Empire</pubPlace>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>17 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0c9f6a6a-ce43-4d55-a782-e7d9947f0ab5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emperors -- Rome -- Early works to 1800.</term>
+               <term>Silkworms -- Early works to 1800.</term>
+               <term>Holy Roman Empire -- Kings and rulers -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0c9f6a6a-ce43-4d55-a782-e7d9947f0ab5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Laurentii Patarol Opera omnia : quorum pleraque nunc primum in lucem prodeunt.</title>
             <respStmt>
                <orgName>Harvard Library</orgName>
@@ -71,6 +133,21 @@ serie di lettere italiane con 27 tavole al fine intagliate diligentemente.</note
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emperors -- Rome -- Early works to 1800.</term>
+               <term>Holy Roman Empire -- Kings and rulers -- Early works to 1800.</term>
+               <term>Silkworms -- Early works to 1800.</term>
+               <term>Emperors</term>
+               <term>Kings and rulers</term>
+               <term>Silkworms</term>
+               <term>Europe -- Holy Roman Empire</term>
+               <term>Rome (Empire)</term>
+               <term>PA8555.P417 A1 1743</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481958641">
@@ -79,59 +156,6 @@ serie di lettere italiane con 27 tavole al fine intagliate diligentemente.</note
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481959831">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Laurentii Patarol Opera omnia [microform] : quorum pleraque nunc primum in lucem prodeunt.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Quintilian. Declamationes. 1743.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985410173506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/pn3s85</idno>
-            <idno type="cico">2962</idno>
-            <idno type="dcl">d8k</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Laurentii Patarol Opera omnia [microform] : quorum pleraque nunc primum in lucem prodeunt.</title>
-                  <respStmt>
-                     <persName>Patarolo, Lorenzo, 1674-1757.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venetiis : Typis Joannis Baptistae Pasquali</publisher>
-                     <pubPlace>Rome</pubPlace>
-                     <pubPlace>Holy Roman Empire</pubPlace>
-                     <date>1743</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>17 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0c9f6a6a-ce43-4d55-a782-e7d9947f0ab5/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0c9f6a6a-ce43-4d55-a782-e7d9947f0ab5/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -25,6 +25,65 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Il marmo augustale [microform] : discorso / del Giovambattista Capponi ; in cui dichiarandosi vn'antica iscrizione si ragiona coposamente delle terme, bagni, essercizij, e giuochi de gli antichi Romani.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334463506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3t0649</idno>
+            <idno type="cico">1613</idno>
+            <idno type="dcl">35w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il marmo augustale [microform] : discorso / del Giovambattista Capponi ; in cui dichiarandosi vn'antica iscrizione si ragiona coposamente delle terme, bagni, essercizij, e giuochi de gli antichi Romani.</title>
+                  <respStmt>
+                     <persName>Capponi, Giovan Battista, 1620-1675.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Bologna? : s.n]</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>[17-?]</date>
+                     <date>1700</date>
+                  </imprint>
+                  <extent>p. 219-298.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ff268664-4724-49bf-b3e5-8b41eeed0ee7/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Baths -- Rome -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+               <term>Recreation -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff268664-4724-49bf-b3e5-8b41eeed0ee7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Prose de' signori accademici Gelati di Bologna ... : colle loro imprese anteposte a' discorsi / pubblicate sotto il principato accademico del sig. co. Valerio Zani.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -67,59 +126,21 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia dei Gelati (Bologna, Italy)</term>
+               <term>Learned institutions and societies -- Italy -- Bologna.</term>
+               <term>Accademia dei Gelati (Bologna, Italy)</term>
+               <term>Learned institutions and societies</term>
+               <term>Italy -- Bologna</term>
+               <term>AS222 .B46</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/48dc3a30-aef7-4f9b-97cb-0b86e59fab29">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Il marmo augustale [microform] : discorso / del Giovambattista Capponi ; in cui dichiarandosi vn'antica iscrizione si ragiona coposamente delle terme, bagni, essercizij, e giuochi de gli antichi Romani.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985334463506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/3t0649</idno>
-            <idno type="cico">1613</idno>
-            <idno type="dcl">35w</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Il marmo augustale [microform] : discorso / del Giovambattista Capponi ; in cui dichiarandosi vn'antica iscrizione si ragiona coposamente delle terme, bagni, essercizij, e giuochi de gli antichi Romani.</title>
-                  <respStmt>
-                     <persName>Capponi, Giovan Battista, 1620-1675.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Bologna? : s.n]</publisher>
-                     <pubPlace>Rome</pubPlace>
-                     <date>[17-?]</date>
-                     <date>1700</date>
-                  </imprint>
-                  <extent>p. 219-298.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ff268664-4724-49bf-b3e5-8b41eeed0ee7/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff268664-4724-49bf-b3e5-8b41eeed0ee7/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

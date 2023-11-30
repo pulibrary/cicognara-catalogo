@@ -28,51 +28,6 @@ foglio) un tesoro di erudizione che mette più in evidenza l’autore che le cos
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cenotaphia Pisana Caii et Lvcii  Caesarum dissertationibus illustrata: Coloniae Obseqventis Ivliae Pisanae origo ... ; Caesaris vtriusque vita, gesta, &amp; annuae eorundem inferiae exponuntur ... ; Parergon De annis regni Herodis: de Praesidibus Syriae, ac Romanis in Asia Prouincijs</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Noris, Enrico, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-191388</idno>
-            <idno type="URI">http://portal.getty.edu/api/n07x67</idno>
-            <idno type="cico">4056</idno>
-            <idno type="dcl">q2f</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Cenotaphia Pisana Caii et Lvcii  Caesarum dissertationibus illustrata: Coloniae Obseqventis Ivliae Pisanae origo ... ; Caesaris vtriusque vita, gesta, &amp; annuae eorundem inferiae exponuntur ... ; Parergon De annis regni Herodis: de Praesidibus Syriae, ac Romanis in Asia Prouincijs</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Römisches Reich</pubPlace>
-                     <date>1681</date>
-                     <date>1681</date>
-                  </imprint>
-                  <extent>[4] Bl., 490 S., [7] Bl., [2] Falttaf.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/noris1681/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/noris1681/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Cenotaphia Pisana Caii et Lucii Caesarum dissertationibus illustrata [microform] : Coloniae Opsequentis Iuliae Pisanae origo, vetusti Magiftratus, &amp; Sacerdotum Collegia : Caefaris vtriusque vita, gesta, &amp; annuae eorundem inferiae exponuntur : ac aurea vtriusque Cenotaphij Latinitas demonstratur : Paregon de annis regni Herodis : de Praefidibus Syriae, ac Romanis in Asia Prouincijs / auctore F. Henrico Noris ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,6 +67,13 @@ foglio) un tesoro di erudizione che mette più in evidenza l’autore che le cos
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin -- Italy -- Pisa.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f719b158-17c5-4c21-b7d6-504b849e23d4/manifest">

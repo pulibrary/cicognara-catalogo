@@ -23,6 +23,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Descrittione della città di Rieti.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990040529110203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/709376</idno>
+            <idno>(OCoLC)41952431</idno>
+            <idno type="cico">4328</idno>
+            <idno type="dcl">8wg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrittione della città di Rieti.</title>
+                  <respStmt>
+                     <persName>Angelotti, Pompeo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma, G.B. Robletti</publisher>
+                     <pubPlace>Rieti (Italy)</pubPlace>
+                     <date>1635</date>
+                  </imprint>
+                  <extent>p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493982836"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rieti (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Rieti (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493982836">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Descrittione della citta di Rieti [microform] / del sigr. Pompeo Angelotti ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -62,57 +118,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rieti (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Rieti (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8d279ac5-75fb-40fa-b63f-61860ebab090/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Descrittione della città di Rieti.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990040529110203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/709376</idno>
-            <idno>(OCoLC)41952431</idno>
-            <idno type="cico">4328</idno>
-            <idno type="dcl">8wg</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Descrittione della città di Rieti.</title>
-                  <respStmt>
-                     <persName>Angelotti, Pompeo.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma, G.B. Robletti</publisher>
-                     <pubPlace>Rieti (Italy)</pubPlace>
-                     <date>1635</date>
-                  </imprint>
-                  <extent>p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493982836"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493982836">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

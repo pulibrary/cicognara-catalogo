@@ -30,53 +30,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Quattro libri geometrici / di Silvio Belli ... Il primo del misurare con la vista ...</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990043781510203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/9q4b12</idno>
-            <idno>(OCoLC)8500565</idno>
-            <idno type="cico">427</idno>
-            <idno type="dcl">xz1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Quattro libri geometrici / di Silvio Belli ... Il primo del misurare con la vista ...</title>
-                  <respStmt>
-                     <persName>Belli, Silvio, -1580.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venetia : Presso Ruberto Megietti</publisher>
-                     <date>1595</date>
-                  </imprint>
-                  <extent>[8], 132 [i.e. 134], [2] p. (last 2 p. blank)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494456892"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494456892">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Quattro libri geometrici [microform] / di Silvio Belli ... il primo del misurare con la vista ; nel quale s'insegna, senza travagliar con numeri,à misurar facilissimamente le distantie, l'altezze, e le profondità con il quadrato geometrico, e con altri stromenti, de'quali facilmente si può prouedere, con le figure ; gli altri tre sono della proportione &amp; proportionalità communi passioni del quanto ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +67,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Surveying -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/323d51f9-06ea-4007-b585-9a7f6282a441/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quattro libri geometrici / di Silvio Belli ... Il primo del misurare con la vista ...</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990043781510203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/9q4b12</idno>
+            <idno>(OCoLC)8500565</idno>
+            <idno type="cico">427</idno>
+            <idno type="dcl">xz1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Quattro libri geometrici / di Silvio Belli ... Il primo del misurare con la vista ...</title>
+                  <respStmt>
+                     <persName>Belli, Silvio, -1580.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Presso Ruberto Megietti</publisher>
+                     <date>1595</date>
+                  </imprint>
+                  <extent>[8], 132 [i.e. 134], [2] p. (last 2 p. blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494456892"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Surveying -- Early works to 1800</term>
+               <term>TA544 .B44 1595</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494456892">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

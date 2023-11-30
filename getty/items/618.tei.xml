@@ -34,55 +34,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Les amours de polia, ou, Le songe de Poliphile [microform] / traduit de l'italien.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985296673506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/vz6w5z</idno>
-            <idno type="cico">618</idno>
-            <idno type="dcl">drx</idno>
-            <idno type="dcl">r27</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Les amours de polia, ou, Le songe de Poliphile [microform] / traduit de l'italien.</title>
-                  <respStmt>
-                     <persName>Colonna, Francesco, -1527.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris ; Chez Antoine Pallandre</publisher>
-                     <date>1772</date>
-                  </imprint>
-                  <extent>31 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bcee93f7-1068-4b4d-a674-fd8bdf453ad9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bcee93f7-1068-4b4d-a674-fd8bdf453ad9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le grand oeuvre dévoilé, en faveur des enfans de la lumiere [microform] / traduit du Chaldaïque par M. Coutan.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -121,6 +72,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alchemy -- Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/085cef83-1a5b-4b1f-9ee1-b2b6f23c7daa/manifest">
@@ -170,6 +128,11 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bcee93f7-1068-4b4d-a674-fd8bdf453ad9/manifest">
@@ -219,9 +182,70 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alchemy -- Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/085cef83-1a5b-4b1f-9ee1-b2b6f23c7daa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les amours de polia, ou, Le songe de Poliphile [microform] / traduit de l'italien.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vz6w5z</idno>
+            <idno type="cico">618</idno>
+            <idno type="dcl">drx</idno>
+            <idno type="dcl">r27</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les amours de polia, ou, Le songe de Poliphile [microform] / traduit de l'italien.</title>
+                  <respStmt>
+                     <persName>Colonna, Francesco, -1527.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris ; Chez Antoine Pallandre</publisher>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>31 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bcee93f7-1068-4b4d-a674-fd8bdf453ad9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bcee93f7-1068-4b4d-a674-fd8bdf453ad9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -267,6 +291,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Economics -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/05ebe236-78c1-4d58-b7a2-9cbf43153d12/manifest">

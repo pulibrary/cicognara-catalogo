@@ -29,50 +29,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Entwurff Einer Historischen Architectur: in Abbildung unterschiedener berühmten Gebäude des Alterthums und fremder Völcker ; umb aus den Geschicht-büchern, Gedächtnüß-münzen, Ruinen, und eingeholten wahrhafften Abrißen, vor Augen zu stellen</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fischer von Erlach, Johann Bernhard, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16126</idno>
-            <idno type="URI">http://portal.getty.edu/api/709v05</idno>
-            <idno type="cico">504</idno>
-            <idno type="dcl">239</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Entwurff Einer Historischen Architectur: in Abbildung unterschiedener berühmten Gebäude des Alterthums und fremder Völcker ; umb aus den Geschicht-büchern, Gedächtnüß-münzen, Ruinen, und eingeholten wahrhafften Abrißen, vor Augen zu stellen</title>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <date>1725</date>
-                     <date>1725</date>
-                  </imprint>
-                  <extent>[circa 120] Bl.</extent>
-                  <extent>überw. Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/fischer1725/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/fischer1725/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Entwurff einer historischen Architectur [microform] : in Abbildung unterschiedener berühmten Gebäude, des Alterthums, und fremder Völcker ... aus den Geschicht-Büchern, Gedächtnüss-Müntzen, Ruinen, und eingeholten wahrhafften Abrissen, von Augen zu stellen : in dem ersten Buche. Die von der Zeit vergrabene Bau-Arten der alten Jüden, Egÿptier, Sÿrer, Perser, und Griechen : in dem andren. Alte unbekante römische : in dem dritten. Einige fremde in- und ausser-europäische, als der Araber, und Türcken, etc. auch neue persianische, siamitische, sinesische und japonesische Gebäude : in dem vierten. Einige Gebäude von des autoris Erfindung und Zeichnung / alles mit grosses Mühe gezeichnet, und auf eigene Unkosten herausgegeben von ... Johann Bernhard Fischers, von Erlachen ; auch kurtzen Teutschen und Frantzösischen Beschreibungen.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +67,83 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Curiosities and wonders -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/045f9093-e158-4e55-b826-dc9ef5a5c240/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entwurff Einer Historischen Architectur: in Abbildung unterschiedener berühmten Gebäude des Alterthums und fremder Völcker ; umb aus den Geschicht-büchern, Gedächtnüß-münzen, Ruinen, und eingeholten wahrhafften Abrißen, vor Augen zu stellen</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fischer von Erlach, Johann Bernhard, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16126</idno>
+            <idno type="URI">http://portal.getty.edu/api/709v05</idno>
+            <idno type="cico">504</idno>
+            <idno type="dcl">239</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Entwurff Einer Historischen Architectur: in Abbildung unterschiedener berühmten Gebäude des Alterthums und fremder Völcker ; umb aus den Geschicht-büchern, Gedächtnüß-münzen, Ruinen, und eingeholten wahrhafften Abrißen, vor Augen zu stellen</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <date>1725</date>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>[circa 120] Bl.</extent>
+                  <extent>überw. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/fischer1725/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>archaeology</term>
+               <term>architecture</term>
+               <term>architecture, in general</term>
+               <term>Archäologie</term>
+               <term>Architektur</term>
+               <term>Architektur, allgemein</term>
+               <term>vessels</term>
+               <term>Gefäße</term>
+               <term>peripheral cultures</term>
+               <term>Syria</term>
+               <term>Randkulturen</term>
+               <term>Syrien</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/fischer1725/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

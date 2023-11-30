@@ -24,54 +24,6 @@ fig., M. 28.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sopra un' armilla d'oro del Museo antiquario della Regia Università di Bologna / ragionamento di Filippo Schiassi ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926318680001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/vx642b</idno>
-            <idno>(OCoLC)145879911</idno>
-            <idno type="cico">2995</idno>
-            <idno type="dcl">rnr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Sopra un' armilla d'oro del Museo antiquario della Regia Università di Bologna / ragionamento di Filippo Schiassi ...</title>
-                  <respStmt>
-                     <persName>Schiassi, Filippo, 1763-1844</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Bologna : Tipografia Sassi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1810</date>
-                  </imprint>
-                  <extent>40 pages, 2 unnumbered leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/055ce057-8c9c-4c79-9abc-c5c17f0fc31f"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/055ce057-8c9c-4c79-9abc-c5c17f0fc31f">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Sopra un' armilla d'oro del Museo antiquario della Regia Università di Bologna [microform] / ragionamento di Filippo Schiassi ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +63,81 @@ fig., M. 28.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Università di Bologna. Museo antiquario.</term>
+               <term>Art metal-work, Celtic.</term>
+               <term>Jewelry -- Italy -- Bologna.</term>
+               <term>Jewelry, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3442dbcd-b89a-4127-bb7a-bab2a303d579/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sopra un' armilla d'oro del Museo antiquario della Regia Università di Bologna / ragionamento di Filippo Schiassi ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926318680001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vx642b</idno>
+            <idno>(OCoLC)145879911</idno>
+            <idno type="cico">2995</idno>
+            <idno type="dcl">rnr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sopra un' armilla d'oro del Museo antiquario della Regia Università di Bologna / ragionamento di Filippo Schiassi ...</title>
+                  <respStmt>
+                     <persName>Schiassi, Filippo, 1763-1844</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Tipografia Sassi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>40 pages, 2 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/055ce057-8c9c-4c79-9abc-c5c17f0fc31f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Università di Bologna. Museo antiquario.</term>
+               <term>Jewelry, Ancient.</term>
+               <term>Art metal-work, Celtic.</term>
+               <term>Jewelry -- Italy -- Bologna.</term>
+               <term>Art metal-work, Celtic.</term>
+               <term>Jewelry.</term>
+               <term>Jewelry, Ancient.</term>
+               <term>Italy -- Bologna.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/055ce057-8c9c-4c79-9abc-c5c17f0fc31f">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -160,6 +184,13 @@ fig., M. 28.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e4be4735-ceed-4954-a773-314d1a588500/manifest">

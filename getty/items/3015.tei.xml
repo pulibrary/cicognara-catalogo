@@ -30,6 +30,64 @@ ec. Padova.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Gemmae antiquitus sculptae a Petro Stephanonio Vicentino : collectae et declarationibus illustratae ... / à Iacobo Stephanonio editae.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Stefanoni, Jacomo.</authority>
+            <authority>Regnard, Valérien.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992122363504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/nh4b0g</idno>
+            <idno>(OCoLC)79266374</idno>
+            <idno type="cico">3015</idno>
+            <idno type="dcl">kg7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gemmae antiquitus sculptae a Petro Stephanonio Vicentino : collectae et declarationibus illustratae ... / à Iacobo Stephanonio editae.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patauii : Apud Matthaeum Bolzettam de Caldorinis</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1646]</date>
+                     <date>1646</date>
+                  </imprint>
+                  <extent>[50] leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992122363504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Stefanoni, Pietro, 1589- -- Art collections -- Catalogs.</term>
+               <term>Gems, Ancient -- Catalogs.</term>
+               <term>Glyptics, Ancient -- Catalogs.</term>
+               <term>Private collections -- Italy -- Rome -- Catalogs.</term>
+               <term>Provenance -- Marle (Raimond van)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992122363504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Gemmae antiquitus sculptae a Petro Stephanonio Vicentino [microform] : collectae et declarationibus illustratae ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -67,6 +125,14 @@ ec. Padova.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Stephanoni, Pietro, b.1589.</term>
+               <term>Gems -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f90631d0-d3c1-40c9-8564-41af48250ed7/manifest">

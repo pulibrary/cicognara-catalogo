@@ -26,6 +26,64 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Manière de bien juger des ouvrages de peinture / par feu M. l'Abbé Laugier, mise au jour, &amp; augmentée de plusieurs notes intéressantes par M. ***.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927686850001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0w048k</idno>
+            <idno>(OCoLC)2135473</idno>
+            <idno type="cico">156</idno>
+            <idno type="dcl">jrp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Manière de bien juger des ouvrages de peinture / par feu M. l'Abbé Laugier, mise au jour, &amp; augmentée de plusieurs notes intéressantes par M. ***.</title>
+                  <respStmt>
+                     <persName>Laugier, Marc-Antoine, 1711-1769</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Claude-Antoine Jombert, fils aîné</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>xii, 274, [2] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a711f7e2-db2e-4dec-8cf1-8bbfa193cb5d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting -- Appreciation -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>Painting -- Appreciation.</term>
+               <term>ND1130 .L38</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a711f7e2-db2e-4dec-8cf1-8bbfa193cb5d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Maniere de bien juger des ouvrages de peinture [microform] / par feu M. l'Abbé Laugier, mise au jour, &amp; augmentée de plusieurs notes intéressantes par M. ***.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -64,56 +122,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/42c8158d-6868-42d7-9d16-1a6811c2a4a9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Manière de bien juger des ouvrages de peinture / par feu M. l'Abbé Laugier, mise au jour, &amp; augmentée de plusieurs notes intéressantes par M. ***.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927686850001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/0w048k</idno>
-            <idno>(OCoLC)2135473</idno>
-            <idno type="cico">156</idno>
-            <idno type="dcl">jrp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Manière de bien juger des ouvrages de peinture / par feu M. l'Abbé Laugier, mise au jour, &amp; augmentée de plusieurs notes intéressantes par M. ***.</title>
-                  <respStmt>
-                     <persName>Laugier, Marc-Antoine, 1711-1769</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Claude-Antoine Jombert, fils aîné</publisher>
-                     <date>1771</date>
-                  </imprint>
-                  <extent>xii, 274, [2] pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a711f7e2-db2e-4dec-8cf1-8bbfa193cb5d"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a711f7e2-db2e-4dec-8cf1-8bbfa193cb5d">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

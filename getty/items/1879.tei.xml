@@ -30,54 +30,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Veridicvs Christianvs / auctore P. Ioanne David, sacerdote Societatis Iesv.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Galle, Théodore, 1571-1633</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926118540001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/gz9w7h</idno>
-            <idno>(OCoLC)13212171</idno>
-            <idno type="cico">1879</idno>
-            <idno type="dcl">nc3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Veridicvs Christianvs / auctore P. Ioanne David, sacerdote Societatis Iesv.</title>
-                  <respStmt>
-                     <persName>David, Jan, 1545?-1613.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Antverpiae : Ex officina Plantiniana, apvd Ioannem Moretvm</publisher>
-                     <date>1601</date>
-                  </imprint>
-                  <extent>[16], 374, [42] p. (the last blank), [1], 100 leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e722f4c0-8283-49de-99f9-c10900f10485"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e722f4c0-8283-49de-99f9-c10900f10485">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Veridicus Christianus [microform] / auctore P. Ioanne David ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -117,9 +69,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian life -- Early works to 1800.</term>
+               <term>Part songs, Sacred.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fcd225f5-4f3b-4f77-b256-b8737b795fac/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veridicvs Christianvs / auctore P. Ioanne David, sacerdote Societatis Iesv.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galle, Théodore, 1571-1633</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926118540001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gz9w7h</idno>
+            <idno>(OCoLC)13212171</idno>
+            <idno type="cico">1879</idno>
+            <idno type="dcl">nc3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veridicvs Christianvs / auctore P. Ioanne David, sacerdote Societatis Iesv.</title>
+                  <respStmt>
+                     <persName>David, Jan, 1545?-1613.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antverpiae : Ex officina Plantiniana, apvd Ioannem Moretvm</publisher>
+                     <date>1601</date>
+                  </imprint>
+                  <extent>[16], 374, [42] p. (the last blank), [1], 100 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e722f4c0-8283-49de-99f9-c10900f10485"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian life -- Catholic authors -- Early works to 1800.</term>
+               <term>Christian life -- Catholic authors</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e722f4c0-8283-49de-99f9-c10900f10485">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

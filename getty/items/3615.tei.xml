@@ -25,56 +25,6 @@ ec.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La storia della Basilica di Santa Croce in Gerusalemme .. [microform] / da Don Raimondo Besozzi ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985418823506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/250j8f</idno>
-            <idno type="cico">3615</idno>
-            <idno type="dcl">0kt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La storia della Basilica di Santa Croce in Gerusalemme .. [microform] / da Don Raimondo Besozzi ...</title>
-                  <respStmt>
-                     <persName>Besozzi, Raimondo.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Per Generoso Salomoni</publisher>
-                     <date>L'anno del giubileo 1750</date>
-                     <date>1750</date>
-                  </imprint>
-                  <extent>[6], XII, 222 p., [1] leaf of plates</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d3f77218-73c8-4607-a2e9-97df776ffc73/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d3f77218-73c8-4607-a2e9-97df776ffc73/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>La storia della basilica di Santa Croce in Gerusalemme : dedicata alla santità di nostro signore papa Benedetto decimoquarto / da Raimondo Besozzi ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,9 +65,78 @@ ec.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>S. Croce in Gerusalemme (Church : Rome, Italy)</term>
+               <term>Rome (Italy) -- Buildings, structures, etc.</term>
+               <term>S. Croce in Gerusalemme (Church : Rome, Italy)</term>
+               <term>Buildings.</term>
+               <term>Italy -- Rome.</term>
+               <term>NA5620.S32 B47 1750</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cc11e8eb-02d6-4c21-92fe-cc8ac9c2ab7d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La storia della Basilica di Santa Croce in Gerusalemme .. [microform] / da Don Raimondo Besozzi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/250j8f</idno>
+            <idno type="cico">3615</idno>
+            <idno type="dcl">0kt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La storia della Basilica di Santa Croce in Gerusalemme .. [microform] / da Don Raimondo Besozzi ...</title>
+                  <respStmt>
+                     <persName>Besozzi, Raimondo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Generoso Salomoni</publisher>
+                     <date>L'anno del giubileo 1750</date>
+                     <date>1750</date>
+                  </imprint>
+                  <extent>[6], XII, 222 p., [1] leaf of plates</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d3f77218-73c8-4607-a2e9-97df776ffc73/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>S. Croce in Gerusalemme (Church : Rome, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d3f77218-73c8-4607-a2e9-97df776ffc73/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

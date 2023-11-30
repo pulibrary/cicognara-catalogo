@@ -21,6 +21,63 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Degli antichi edifizi profani di Ravenna. Libri due di Antonio Zirardini Ravennate giureconsulto.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991500903504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/1w985f</idno>
+            <idno>(OCoLC)993730855</idno>
+            <idno type="cico">4326</idno>
+            <idno type="dcl">f5t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Degli antichi edifizi profani di Ravenna. Libri due di Antonio Zirardini Ravennate giureconsulto.</title>
+                  <respStmt>
+                     <persName>Zirardini, Antonio, 1725-1784</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Faenza, Presso l'Archi Impressor Camerale, e del S. Ufizio</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>xviii, 310, [4] p., [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991500903504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Roman -- Italy -- Ravenna.</term>
+               <term>Architecture, Byzantine</term>
+               <term>Architecture -- Italy -- Ravenna.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991500903504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Degli antichi edifizi profani di Ravenna [microform] : libri due / di Antonio Zirardini ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -60,6 +117,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Ravenna.</term>
+               <term>Architecture, Byzantine.</term>
+               <term>Architecture, Roman -- Italy -- Ravenna.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2727279c-771c-4962-9810-088f660d91b6/manifest">

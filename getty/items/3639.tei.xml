@@ -28,57 +28,6 @@ procede anche la seconda edizione copiano esattamente la prima.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Antiqvae vrbis Romae cum regionibvs simvlachrvm / avthore M. Fabio Calvo ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9924211343506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/gn579c</idno>
-            <idno>(OCoLC)31727535</idno>
-            <idno type="cico">3639</idno>
-            <idno type="dcl">590</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Antiqvae vrbis Romae cum regionibvs simvlachrvm / avthore M. Fabio Calvo ...</title>
-                  <respStmt>
-                     <persName>Calvo, Marco Fabio, d. 1527.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Basileae : Apvd Hier. Frobenivm et Nic. Episcopivm</publisher>
-                     <pubPlace>Rome.</pubPlace>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <pubPlace>Switzerland Basel.</pubPlace>
-                     <date>anno 1556</date>
-                     <date>1556</date>
-                  </imprint>
-                  <extent>[48] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e320797d-a5a2-42f9-b786-a67df48453c3/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e320797d-a5a2-42f9-b786-a67df48453c3/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Antiquae vrbis Romae cum regionibus simulachrum [microform] / authore M. Fabio Caluo Rhauennate.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -119,9 +68,77 @@ procede anche la seconda edizione copiano esattamente la prima.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4c5858f0-6bfd-437a-b35b-2289c46c8e23/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiqvae vrbis Romae cum regionibvs simvlachrvm / avthore M. Fabio Calvo ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9924211343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gn579c</idno>
+            <idno>(OCoLC)31727535</idno>
+            <idno type="cico">3639</idno>
+            <idno type="dcl">590</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiqvae vrbis Romae cum regionibvs simvlachrvm / avthore M. Fabio Calvo ...</title>
+                  <respStmt>
+                     <persName>Calvo, Marco Fabio, d. 1527.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : Apvd Hier. Frobenivm et Nic. Episcopivm</publisher>
+                     <pubPlace>Rome.</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Switzerland Basel.</pubPlace>
+                     <date>anno 1556</date>
+                     <date>1556</date>
+                  </imprint>
+                  <extent>[48] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e320797d-a5a2-42f9-b786-a67df48453c3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Rome.</term>
+               <term>Rome (Italy) -- Pictorial works.</term>
+               <term>DG807</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e320797d-a5a2-42f9-b786-a67df48453c3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

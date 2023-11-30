@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Raisonnement sur la perspective [microform] : pour en faciliter l'usage aux artistes : dédié aus mêmes.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985334533506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/vz6b8w</idno>
-            <idno type="cico">853</idno>
-            <idno type="dcl">0wj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Raisonnement sur la perspective [microform] : pour en faciliter l'usage aux artistes : dédié aus mêmes.</title>
-                  <respStmt>
-                     <persName>Petitot, Ennemond Alexandre, 1727-1801.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>A Parme : Chez les Fréres Faure Libraires</publisher>
-                     <date>1758</date>
-                  </imprint>
-                  <extent>20 p., [9] leaves of plates</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e3dfdb2c-077d-4913-9119-073c32712e97/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e3dfdb2c-077d-4913-9119-073c32712e97/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Raisonnement sur la perspective : pour en faciliter l'usage aux artistes.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,9 +66,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Perspective</term>
+               <term>NC749 .P44 1758</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1d70b3e8-c4fc-4fc1-a5a2-b8c36c7205e9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raisonnement sur la perspective [microform] : pour en faciliter l'usage aux artistes : dédié aus mêmes.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vz6b8w</idno>
+            <idno type="cico">853</idno>
+            <idno type="dcl">0wj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raisonnement sur la perspective [microform] : pour en faciliter l'usage aux artistes : dédié aus mêmes.</title>
+                  <respStmt>
+                     <persName>Petitot, Ennemond Alexandre, 1727-1801.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Parme : Chez les Fréres Faure Libraires</publisher>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>20 p., [9] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e3dfdb2c-077d-4913-9119-073c32712e97/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e3dfdb2c-077d-4913-9119-073c32712e97/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

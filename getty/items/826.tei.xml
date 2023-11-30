@@ -26,9 +26,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La Perspective Avec La Raison des ombres et miroirs</title>
+            <title>La perspective, avec la raison des ombres et miroirs, par Salomon de Cavs.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -37,31 +37,43 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Caus, Salomon, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-312675</idno>
-            <idno type="URI">http://portal.getty.edu/api/qs1z16</idno>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9935122783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s60f33</idno>
+            <idno>(OCoLC)23645268</idno>
             <idno type="cico">826</idno>
             <idno type="dcl">806</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>La Perspective Avec La Raison des ombres et miroirs</title>
+                  <title>La perspective, avec la raison des ombres et miroirs, par Salomon de Cavs.</title>
+                  <respStmt>
+                     <persName>Caus, Salomon de, -1626.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1612</date>
+                     <publisher>A Londres, Chez Jan Norton Imprimeur du Roy de la grand Bretaigne, aus langues estrangeres</publisher>
+                     <date>Anno Dom. 1612</date>
                      <date>1612</date>
                   </imprint>
-                  <extent>[68] Bl.</extent>
-                  <extent>zahlr. Ill.</extent>
+                  <extent>[139] p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/caus1612/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d29bc712-a355-4d2c-bb86-ec4f820379f4/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Shades and shadows -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/caus1612/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d29bc712-a355-4d2c-bb86-ec4f820379f4/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -108,57 +120,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Shades and shadows.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4f1e37fe-5aec-4a9c-8390-a5c7801f5231/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>La perspective, avec la raison des ombres et miroirs, par Salomon de Cavs.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9935122783506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/s60f33</idno>
-            <idno>(OCoLC)23645268</idno>
-            <idno type="cico">826</idno>
-            <idno type="dcl">806</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La perspective, avec la raison des ombres et miroirs, par Salomon de Cavs.</title>
-                  <respStmt>
-                     <persName>Caus, Salomon de, -1626.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Londres, Chez Jan Norton Imprimeur du Roy de la grand Bretaigne, aus langues estrangeres</publisher>
-                     <date>Anno Dom. 1612</date>
-                     <date>1612</date>
-                  </imprint>
-                  <extent>[139] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d29bc712-a355-4d2c-bb86-ec4f820379f4/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d29bc712-a355-4d2c-bb86-ec4f820379f4/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -28,9 +28,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Oeuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté [microform].</title>
+            <title>Oeuvres d'architecture de Marie-Joseph Peyre</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>Heidelberg University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -39,33 +39,42 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985456993506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/dc5695</idno>
+            <authority>Peyre, Marie-Joseph, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-36064</idno>
+            <idno type="URI">http://portal.getty.edu/api/264q96</idno>
             <idno type="cico">609</idno>
             <idno type="dcl">fgj</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Oeuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté [microform].</title>
+                  <title>Oeuvres d'architecture de Marie-Joseph Peyre</title>
                   <textLang>French</textLang>
                   <imprint>
-                     <publisher>A Paris : Chez Prault ..., [et chez] Jombert</publisher>
-                     <pubPlace>France.</pubPlace>
+                     <date>1765</date>
                      <date>1765</date>
                   </imprint>
-                  <extent>27, p.</extent>
-                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
+                  <extent>27 S., [1] Bl.</extent>
+                  <extent>19 Doppeltaf.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/00aca91b-e873-4c5f-b0dd-335da8c31875/manifest"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/peyre1765/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architekturtheorie</term>
+               <term>Peyre, Marie-Joseph</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/00aca91b-e873-4c5f-b0dd-335da8c31875/manifest">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/peyre1765/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -119,6 +128,20 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Designs and plans -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Neoclassicism (Architecture) -- France.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Orders</term>
+               <term>Neoclassicism (Architecture)</term>
+               <term>France</term>
+               <term>NA1053.P51 A31e</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/00524fb0-3186-4be4-af20-bf2e469ac02d">
@@ -130,9 +153,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Oeuvres d'architecture de Marie-Joseph Peyre</title>
+            <title>Oeuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté [microform].</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -141,31 +164,43 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Peyre, Marie-Joseph, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-36064</idno>
-            <idno type="URI">http://portal.getty.edu/api/264q96</idno>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456993506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dc5695</idno>
             <idno type="cico">609</idno>
             <idno type="dcl">fgj</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Oeuvres d'architecture de Marie-Joseph Peyre</title>
+                  <title>Oeuvres d'architecture de Marie-Joseph Peyre, architecte, ancien pensionnaire du roi à Rome, inspecteur des bâtimens de sa majesté [microform].</title>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1765</date>
+                     <publisher>A Paris : Chez Prault ..., [et chez] Jombert</publisher>
+                     <pubPlace>France.</pubPlace>
                      <date>1765</date>
                   </imprint>
-                  <extent>27 S., [1] Bl.</extent>
-                  <extent>19 Doppeltaf.</extent>
+                  <extent>27, p.</extent>
+                  <extent>3 microfiche : positive ; 11 x 15 cm.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/peyre1765/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/00aca91b-e873-4c5f-b0dd-335da8c31875/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Peyre, Marie-Joseph, 1730-1785.</term>
+               <term>Architecture -- Designs and plans -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Neoclassicism (Architecture) -- France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/peyre1765/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/00aca91b-e873-4c5f-b0dd-335da8c31875/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

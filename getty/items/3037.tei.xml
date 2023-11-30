@@ -25,58 +25,6 @@ cum iconibus</title>,<pubPlace> Lutetìae Parisiorum</pubPlace> <date>1681</date
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Seleucidarum imperium, sive, Historia regum Syriae : ad fidem numismatum accommodata / per J. Foy-Vaillant ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Billaine, Louis, -1681, printer.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9922772360001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/7c6x03</idno>
-            <idno>(OCoLC)43235878</idno>
-            <idno type="cico">3037</idno>
-            <idno type="dcl">9gh</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Seleucidarum imperium, sive, Historia regum Syriae : ad fidem numismatum accommodata / per J. Foy-Vaillant ...</title>
-                  <respStmt>
-                     <persName>Foy-Vaillant, Jean, 1632-1706</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Luteciae Parisiorum : Excudebat Ludovicus Billaine</publisher>
-                     <pubPlace>Syria</pubPlace>
-                     <pubPlace>Syria.</pubPlace>
-                     <pubPlace>France Paris.</pubPlace>
-                     <date>an. M. DC. LXXXI</date>
-                     <date>1681</date>
-                  </imprint>
-                  <extent>[24], 463, [1] pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ea888224-a0ba-4a98-99fa-64137e32f384"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ea888224-a0ba-4a98-99fa-64137e32f384">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Seleucidarum imperium, sive, Historia regum Syriae ad fidem numismatum accommodata [microform] / per J. Foy-Vaillant ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -118,9 +66,83 @@ cum iconibus</title>,<pubPlace> Lutetìae Parisiorum</pubPlace> <date>1681</date
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Syria -- Early works to 1800.</term>
+               <term>Seleucids -- Early works to 1800.</term>
+               <term>Syria -- History -- 333 B.C.-634 A.D.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2bea9c25-1896-4df9-9ad3-d23b17a1c394/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seleucidarum imperium, sive, Historia regum Syriae : ad fidem numismatum accommodata / per J. Foy-Vaillant ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Billaine, Louis, -1681, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922772360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/7c6x03</idno>
+            <idno>(OCoLC)43235878</idno>
+            <idno type="cico">3037</idno>
+            <idno type="dcl">9gh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Seleucidarum imperium, sive, Historia regum Syriae : ad fidem numismatum accommodata / per J. Foy-Vaillant ...</title>
+                  <respStmt>
+                     <persName>Foy-Vaillant, Jean, 1632-1706</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Luteciae Parisiorum : Excudebat Ludovicus Billaine</publisher>
+                     <pubPlace>Syria</pubPlace>
+                     <pubPlace>Syria.</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>an. M. DC. LXXXI</date>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>[24], 463, [1] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ea888224-a0ba-4a98-99fa-64137e32f384"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Syria -- Early works to 1800.</term>
+               <term>Seleucids -- Early works to 1800.</term>
+               <term>Syria -- History -- 333 B.C.-634 A.D. -- Early works to 1800.</term>
+               <term>Numismatics.</term>
+               <term>Seleucids.</term>
+               <term>Syria.</term>
+               <term>CJ700 .F69 1681</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ea888224-a0ba-4a98-99fa-64137e32f384">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

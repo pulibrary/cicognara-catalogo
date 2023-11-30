@@ -26,48 +26,4 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>M. Vitrvvii Pollionis De architectvra libri decem</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vitruvius, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-17189</idno>
-            <idno type="URI">http://portal.getty.edu/api/zk9f64</idno>
-            <idno type="cico">726</idno>
-            <idno type="dcl">vrx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>M. Vitrvvii Pollionis De architectvra libri decem</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1649</date>
-                     <date>1649</date>
-                  </imprint>
-                  <extent>[4] Bl., 30 S., [1] Bl., 252 S., [1] Bl., S. 253 - 272, [14] Bl., 164, 69 S.</extent>
-                  <extent>Ill., graph. Darst.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1649/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1649/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
 </teiCorpus>

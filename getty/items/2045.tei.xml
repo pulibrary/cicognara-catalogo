@@ -65,9 +65,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Leonardo, da Vinci, 1452-1519.</term>
+               <term>Leonardo, da Vinci, 1452-1519 -- Drawing.</term>
+               <term>Caricatures and cartoons -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f938c998-dd33-41f3-9df4-1945c5bc4f47/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Characaturas, by Leonardo da Vinci, from drawings by Winceslaus Hollar out of the Portland museum ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Hollar, Wenceslaus, 1607-1677, engr.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920562163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/q89s9t</idno>
+            <idno>(OCoLC)09980823</idno>
+            <idno type="cico">2045</idno>
+            <idno type="dcl">8s4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Characaturas, by Leonardo da Vinci, from drawings by Winceslaus Hollar out of the Portland museum ...</title>
+                  <respStmt>
+                     <persName>Leonardo, da Vinci, 1452-1519.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>[London] J. Clarke</publisher>
+                     <date>1786</date>
+                  </imprint>
+                  <extent>1 p. .</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0bee667e-44f2-4172-a5b7-c851ecb3b6d3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>NC1529 .H7</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0bee667e-44f2-4172-a5b7-c851ecb3b6d3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

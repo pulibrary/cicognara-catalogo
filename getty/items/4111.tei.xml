@@ -25,57 +25,6 @@ Hooghe delin. et sculpsit.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Villa Angiana : vulgo het Perc van Anguien / Romanus de Hooghe, delin. et sculp.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Visscher, Nicolaes, 1618-1679</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929142260001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/qm115h</idno>
-            <idno>(OCoLC)31694341</idno>
-            <idno type="cico">4111</idno>
-            <idno type="dcl">k8c</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Villa Angiana : vulgo het Perc van Anguien / Romanus de Hooghe, delin. et sculp.</title>
-                  <respStmt>
-                     <persName>Hooghe, Romeyn de, 1645-1708.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Dutch; Flemish</textLang>
-                  <imprint>
-                     <publisher>Amst[elodami], Bat. : Nicolaus Visscher</publisher>
-                     <pubPlace>Belgium</pubPlace>
-                     <pubPlace>Parc d'Enghien (Enghien, Belgium)</pubPlace>
-                     <date>[1685]</date>
-                     <date>1685</date>
-                  </imprint>
-                  <extent>[2] leaves, 17 unnumbered leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e88d7bbc-44bd-486a-869f-6d91e825d7d0"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e88d7bbc-44bd-486a-869f-6d91e825d7d0">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Villa Angiana, vulgo het Perc van Anguien [microform] / Romanus de Hooghe ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -117,9 +66,82 @@ Hooghe delin. et sculpsit.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Parc d'Enghien (Enghien, Belgium)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e95f4677-3bf5-4184-a3ee-046b33569b47/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Villa Angiana : vulgo het Perc van Anguien / Romanus de Hooghe, delin. et sculp.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Visscher, Nicolaes, 1618-1679</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929142260001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/qm115h</idno>
+            <idno>(OCoLC)31694341</idno>
+            <idno type="cico">4111</idno>
+            <idno type="dcl">k8c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Villa Angiana : vulgo het Perc van Anguien / Romanus de Hooghe, delin. et sculp.</title>
+                  <respStmt>
+                     <persName>Hooghe, Romeyn de, 1645-1708.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Dutch; Flemish</textLang>
+                  <imprint>
+                     <publisher>Amst[elodami], Bat. : Nicolaus Visscher</publisher>
+                     <pubPlace>Belgium</pubPlace>
+                     <pubPlace>Parc d'Enghien (Enghien, Belgium)</pubPlace>
+                     <date>[1685]</date>
+                     <date>1685</date>
+                  </imprint>
+                  <extent>[2] leaves, 17 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e88d7bbc-44bd-486a-869f-6d91e825d7d0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Parks -- Belgium -- Enghien.</term>
+               <term>Gardens -- Belgium -- Enghien.</term>
+               <term>Parc d'Enghien (Enghien, Belgium) -- Early works to 1800.</term>
+               <term>Parc d'Enghien (Enghien, Belgium) -- Pictorial works.</term>
+               <term>Parks.</term>
+               <term>Gardens.</term>
+               <term>Belgium -- Enghien.</term>
+               <term>Belgium -- Enghien -- Parc d'Enghien.</term>
+               <term>SB466.B5 H66</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e88d7bbc-44bd-486a-869f-6d91e825d7d0">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

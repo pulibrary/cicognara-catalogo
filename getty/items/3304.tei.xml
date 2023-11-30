@@ -27,58 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mumiographia musei obiciani [microform] / exarata a P. Paulino a S. Bartholomaeo Carmelita discalceato ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Obizzino, Tommaso, fl. 1630.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985461543506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/hz0d0f</idno>
-            <idno type="cico">3304</idno>
-            <idno type="dcl">6kd</idno>
-            <idno type="dcl">hp8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Mumiographia musei obiciani [microform] / exarata a P. Paulino a S. Bartholomaeo Carmelita discalceato ...</title>
-                  <respStmt>
-                     <persName>Paulinus, a S. Bartholomaeo, 1748-1806.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Patavii : Ex typographia Seminarii</publisher>
-                     <date>Anno 1799</date>
-                     <date>1799</date>
-                  </imprint>
-                  <extent>65 p., [2] leaves of plates</extent>
-                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fc3d2779-0d7a-4b6e-92db-1be01f755867/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc3d2779-0d7a-4b6e-92db-1be01f755867/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Mumiographia Musei Obiciani / exarata a P. Paulino a S. Bartholomaeo ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -119,6 +67,20 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Museo Obiciani (Padua Region, Italy)</term>
+               <term>Cataio (Battaglia Terme, Italy)</term>
+               <term>Mummies -- Egypt.</term>
+               <term>Egyptian language -- Writing, Hieroglyphic.</term>
+               <term>Cataio (Battaglia Terme, Italy)</term>
+               <term>Egyptian language -- Writing, Hieroglyphic.</term>
+               <term>Mummies.</term>
+               <term>Egypt.     -781</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2504f2b6-4156-4e91-90d3-adb36a6427fc">
@@ -171,6 +133,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Embalming -- Early works to 1800.</term>
+               <term>Mummies -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc3d2779-0d7a-4b6e-92db-1be01f755867/manifest">
@@ -222,9 +192,83 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Museo Obiciani (Padua Region, Italy)</term>
+               <term>Cataio (Battaglia Terme, Italy)</term>
+               <term>Mummies -- Egypt.</term>
+               <term>Egyptian language -- Writing, Hieroglyphic.</term>
+               <term>Cataio (Battaglia Terme, Italy)</term>
+               <term>Egyptian language -- Writing, Hieroglyphic.</term>
+               <term>Mummies.</term>
+               <term>Egypt.     -781</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2504f2b6-4156-4e91-90d3-adb36a6427fc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mumiographia musei obiciani [microform] / exarata a P. Paulino a S. Bartholomaeo Carmelita discalceato ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Obizzino, Tommaso, fl. 1630.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hz0d0f</idno>
+            <idno type="cico">3304</idno>
+            <idno type="dcl">6kd</idno>
+            <idno type="dcl">hp8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mumiographia musei obiciani [microform] / exarata a P. Paulino a S. Bartholomaeo Carmelita discalceato ...</title>
+                  <respStmt>
+                     <persName>Paulinus, a S. Bartholomaeo, 1748-1806.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patavii : Ex typographia Seminarii</publisher>
+                     <date>Anno 1799</date>
+                     <date>1799</date>
+                  </imprint>
+                  <extent>65 p., [2] leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fc3d2779-0d7a-4b6e-92db-1be01f755867/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Embalming -- Early works to 1800.</term>
+               <term>Mummies -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc3d2779-0d7a-4b6e-92db-1be01f755867/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

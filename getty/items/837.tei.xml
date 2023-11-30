@@ -27,53 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gvidivbaldi è marchionibvs Montis Perspectivae libri sex.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9924298590001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/jx532b</idno>
-            <idno>(OCoLC)26189485</idno>
-            <idno type="cico">837</idno>
-            <idno type="dcl">svs</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Gvidivbaldi è marchionibvs Montis Perspectivae libri sex.</title>
-                  <respStmt>
-                     <persName>Monte, Guidobaldo, marchese del, 1545-1607</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Pisavri : Apud Hieronymum Concordiam</publisher>
-                     <date>1600</date>
-                  </imprint>
-                  <extent>[4], 310, [2] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ac982143-3d0b-4bb9-a580-3eb0fb5afb2a"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ac982143-3d0b-4bb9-a580-3eb0fb5afb2a">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Guidiubaldi è marchionibus Montis Perspectiuae libri sex [microform]</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +64,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Geometry, Projective -- Early works to 1800.</term>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a382028b-8626-4bae-9144-026a214aa938/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gvidivbaldi è marchionibvs Montis Perspectivae libri sex.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924298590001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jx532b</idno>
+            <idno>(OCoLC)26189485</idno>
+            <idno type="cico">837</idno>
+            <idno type="dcl">svs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Gvidivbaldi è marchionibvs Montis Perspectivae libri sex.</title>
+                  <respStmt>
+                     <persName>Monte, Guidobaldo, marchese del, 1545-1607</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Pisavri : Apud Hieronymum Concordiam</publisher>
+                     <date>1600</date>
+                  </imprint>
+                  <extent>[4], 310, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ac982143-3d0b-4bb9-a580-3eb0fb5afb2a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Geometry, Projective -- Early works to 1800.</term>
+               <term>Geometry, Projective</term>
+               <term>Perspective</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ac982143-3d0b-4bb9-a580-3eb0fb5afb2a">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

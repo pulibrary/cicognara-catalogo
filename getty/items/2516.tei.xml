@@ -24,59 +24,6 @@ CII virorum epistolae atque opuscula</title>, <pubPlace>Romae</pubPlace> <date>1
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De obelisco Caesaris Augusti e Campi Martii ruderibus nuper eruto commentarius</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bandini, Angelo Maria, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-84096</idno>
-            <idno type="URI">http://portal.getty.edu/api/29230d</idno>
-            <idno type="cico">2516</idno>
-            <idno type="dcl">58z</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De obelisco Caesaris Augusti e Campi Martii ruderibus nuper eruto commentarius</title>
-                  <textLang>Latin</textLang>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <pubPlace>Marsfeld &lt;Rom&gt;</pubPlace>
-                     <pubPlace>Rom</pubPlace>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Italien</pubPlace>
-                     <pubPlace>Rome</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>41.89193 12.51133</pubPlace>
-                     <date>1750</date>
-                     <date>1750</date>
-                  </imprint>
-                  <extent>Getr. Pag.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bandini1750/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bandini1750/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>De obelisco Caesaris Augusti e Campi Martii ruderibus nuper eruto commentarius [microform] / auctore Angelo Maria Bandinio ; accedunt CLL virorum epistolae atque opuscula.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -120,6 +67,17 @@ CII virorum epistolae atque opuscula</title>, <pubPlace>Romae</pubPlace> <date>1
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Excavations (Archaeology) -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Obelisks -- Egypt -- History.</term>
+               <term>Obelisks -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Campo Marzio (Rome, Italy)</term>
+               <term>Rome (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a7e4746e-e5f7-496e-b75c-8d6710a21414/manifest">

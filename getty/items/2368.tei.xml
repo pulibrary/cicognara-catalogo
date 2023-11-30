@@ -25,6 +25,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Vita di Angelica Kauffmann, pittrice / scritta dal Giovanni Gherardo de Rossi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991123883504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/6z036x</idno>
+            <idno>(OCoLC)12370643</idno>
+            <idno type="cico">2368</idno>
+            <idno type="dcl">gc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Angelica Kauffmann, pittrice / scritta dal Giovanni Gherardo de Rossi.</title>
+                  <respStmt>
+                     <persName>De Rossi, Giovanni Gherardo, 1754-1827.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : A spese di Molini, Landi e comp</publisher>
+                     <date>1810</date>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>viii, 116, [1] p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991123883504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Kauffmann, Angelica, 1741-1807.</term>
+               <term>ND853.K29 D4 1810 Rosenwald Coll</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991123883504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Vita di Angelica Kauffmann, pittrice / [microform] scritta dal Giovanni Gherardo de Rossi.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -63,6 +119,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Kauffmann, Angelica, 1741-1807.</term>
+               <term>Painters -- Switzerland -- Biography.</term>
+               <term>Women painters -- Switzerland -- Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c728ab3f-ea01-40b7-a6a5-58723a8735df/manifest">

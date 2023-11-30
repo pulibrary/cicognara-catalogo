@@ -30,9 +30,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
+            <title>Cours d'architecture enseigné dans l'Academie royale d'architecture .. [microform] / par François Blondel ...</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -41,30 +41,43 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-15667</idno>
-            <idno type="URI">http://portal.getty.edu/api/xb465c</idno>
+            <authority>Académie royale d'architecture (France)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295233506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2s4b1p</idno>
             <idno type="cico">434</idno>
             <idno type="dcl">w21</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
+                  <title>Cours d'architecture enseigné dans l'Academie royale d'architecture .. [microform] / par François Blondel ...</title>
+                  <respStmt>
+                     <persName>Blondel, François, 1618-1686.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1698</date>
+                     <publisher>A Paris : Chez l'auteur ;</publisher>
                      <date>1698</date>
                   </imprint>
-                  <extent>[7] Bl., 312 S.</extent>
-                  <extent>Ill., graph. Darst.</extent>
+                  <extent>5 pt.</extent>
+                  <extent>16 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698b/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ef6ef38e-6efc-456a-b1cd-45d45a5b8dd0/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698b/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ef6ef38e-6efc-456a-b1cd-45d45a5b8dd0/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -105,6 +118,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Architekturtheorie</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698a/manifest.json">
@@ -116,9 +140,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cours d'architecture enseigné dans l'Academie royale d'architecture .. [microform] / par François Blondel ...</title>
+            <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>Heidelberg University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -127,36 +151,41 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Académie royale d'architecture (France)</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985295233506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/2s4b1p</idno>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-15667</idno>
+            <idno type="URI">http://portal.getty.edu/api/xb465c</idno>
             <idno type="cico">434</idno>
             <idno type="dcl">w21</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Cours d'architecture enseigné dans l'Academie royale d'architecture .. [microform] / par François Blondel ...</title>
-                  <respStmt>
-                     <persName>Blondel, François, 1618-1686.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
+                  <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
                   <textLang>French</textLang>
                   <imprint>
-                     <publisher>A Paris : Chez l'auteur ;</publisher>
+                     <date>1698</date>
                      <date>1698</date>
                   </imprint>
-                  <extent>5 pt.</extent>
-                  <extent>16 microfiche : positive.</extent>
+                  <extent>[7] Bl., 312 S.</extent>
+                  <extent>Ill., graph. Darst.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ef6ef38e-6efc-456a-b1cd-45d45a5b8dd0/manifest"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698b/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Architekturtheorie</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ef6ef38e-6efc-456a-b1cd-45d45a5b8dd0/manifest">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698b/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

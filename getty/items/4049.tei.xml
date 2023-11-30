@@ -26,57 +26,6 @@ topografiche.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Monumenta Paderbornensia [microform] : ex historia Romana, Francica, Saxonica eruta, et novis inscriptionibus, figuris, tabulis geographicis &amp; notis illustrata : accedunt Caroli M. Capitulatio de partibus Saxoniae, ex antiquissimo ms. Palatino Bibliothecae Vaticanae, &amp; Panegyricus Paderbornensis.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Charlemagne, Emperor, 742-814.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985432033506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/w52m7n</idno>
-            <idno type="cico">4049</idno>
-            <idno type="dcl">vzf</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Monumenta Paderbornensia [microform] : ex historia Romana, Francica, Saxonica eruta, et novis inscriptionibus, figuris, tabulis geographicis &amp; notis illustrata : accedunt Caroli M. Capitulatio de partibus Saxoniae, ex antiquissimo ms. Palatino Bibliothecae Vaticanae, &amp; Panegyricus Paderbornensis.</title>
-                  <respStmt>
-                     <persName>Fürstenberg, Ferdinand von, 1626-1683.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Amstelodami : Apud Danielem Elsevirium</publisher>
-                     <pubPlace>Paderborn (Germany)</pubPlace>
-                     <date>1672</date>
-                  </imprint>
-                  <extent>337, 134 p.</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5f795906-13d8-4ab5-b868-71ed9488baff/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5f795906-13d8-4ab5-b868-71ed9488baff/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Monumenta Paderbornensia : ex historia Romana, Francica, Saxonica eruta, et novis inscriptionibus, figuris, tabulis geographicis &amp; notis illustrata : Accedunt Caroli M. Capitulatio de partibus Saxoniae, ex antiquissimo MS. Palatino Bibliothecae Vaticanae, &amp; Panegyricus Paderbornensis.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -121,9 +70,79 @@ topografiche.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Catholic Church. Diocese of Paderborn (Germany) -- History.</term>
+               <term>Paderborn (Germany) -- History -- Early works to 1800.</term>
+               <term>Catholic Church. Diocese of Paderborn (Germany)</term>
+               <term>Germany -- Paderborn.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/661a6ab0-4702-4211-873d-5717d11706a0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenta Paderbornensia [microform] : ex historia Romana, Francica, Saxonica eruta, et novis inscriptionibus, figuris, tabulis geographicis &amp; notis illustrata : accedunt Caroli M. Capitulatio de partibus Saxoniae, ex antiquissimo ms. Palatino Bibliothecae Vaticanae, &amp; Panegyricus Paderbornensis.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Charlemagne, Emperor, 742-814.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985432033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w52m7n</idno>
+            <idno type="cico">4049</idno>
+            <idno type="dcl">vzf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenta Paderbornensia [microform] : ex historia Romana, Francica, Saxonica eruta, et novis inscriptionibus, figuris, tabulis geographicis &amp; notis illustrata : accedunt Caroli M. Capitulatio de partibus Saxoniae, ex antiquissimo ms. Palatino Bibliothecae Vaticanae, &amp; Panegyricus Paderbornensis.</title>
+                  <respStmt>
+                     <persName>Fürstenberg, Ferdinand von, 1626-1683.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelodami : Apud Danielem Elsevirium</publisher>
+                     <pubPlace>Paderborn (Germany)</pubPlace>
+                     <date>1672</date>
+                  </imprint>
+                  <extent>337, 134 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5f795906-13d8-4ab5-b868-71ed9488baff/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fürstenberg Family -- Genealogy.</term>
+               <term>Paderborn (Germany) -- Genealogy.</term>
+               <term>Paderborn (Germany) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5f795906-13d8-4ab5-b868-71ed9488baff/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

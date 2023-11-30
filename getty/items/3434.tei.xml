@@ -28,63 +28,6 @@ di Robustiano Gironi, <pubPlace>Milano</pubPlace> <date>1812</date>, in fol. p.,
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pinacoteca del palazzo reale delle scienze e delle arti di Milano / pubblicata da Michele Bisi incisore col testo di Robustiano Gironi.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Gironi, Robustiano, 1769-1838</authority>
-            <authority>Palazzo reale di Milano</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929499870001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/gp3x3s</idno>
-            <idno type="URI">http://portal.getty.edu/api/xh410j</idno>
-            <idno>(OCoLC)20788236</idno>
-            <idno type="cico">3434</idno>
-            <idno type="dcl">jp4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Pinacoteca del palazzo reale delle scienze e delle arti di Milano / pubblicata da Michele Bisi incisore col testo di Robustiano Gironi.</title>
-                  <respStmt>
-                     <persName>Bisi, Michele, approximately 1788-</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Milano : Dalla Stamperia Reale</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1812-1833</date>
-                     <date>1812</date>
-                  </imprint>
-                  <extent>3 volumes</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/22828736-d4de-49a1-a70d-db67b0395369https://media.getty.edu/iiif/manifest/a4d580b8-f3ad-41b7-9fe6-11a1be6797b7"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/22828736-d4de-49a1-a70d-db67b0395369">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a4d580b8-f3ad-41b7-9fe6-11a1be6797b7">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Pinacoteca del Palazzo reale delle scienze e delle arti di Milano [microform] / pubblicata da Michele Bisi, incisore ; col testo di Robustiano Gironi.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -126,9 +69,89 @@ di Robustiano Gironi, <pubPlace>Milano</pubPlace> <date>1812</date>, in fol. p.,
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo reale di Milano.</term>
+               <term>Christian art and symbolism.</term>
+               <term>Painting -- Italy -- Milan.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/92ba87c3-6bbc-4ebc-a188-aa99e653e2ec/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pinacoteca del palazzo reale delle scienze e delle arti di Milano / pubblicata da Michele Bisi incisore col testo di Robustiano Gironi.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gironi, Robustiano, 1769-1838</authority>
+            <authority>Palazzo reale di Milano</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929499870001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gp3x3s</idno>
+            <idno type="URI">http://portal.getty.edu/api/xh410j</idno>
+            <idno>(OCoLC)20788236</idno>
+            <idno type="cico">3434</idno>
+            <idno type="dcl">jp4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pinacoteca del palazzo reale delle scienze e delle arti di Milano / pubblicata da Michele Bisi incisore col testo di Robustiano Gironi.</title>
+                  <respStmt>
+                     <persName>Bisi, Michele, approximately 1788-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla Stamperia Reale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1812-1833</date>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>3 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/22828736-d4de-49a1-a70d-db67b0395369https://media.getty.edu/iiif/manifest/a4d580b8-f3ad-41b7-9fe6-11a1be6797b7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo reale di Milano -- Catalogs.</term>
+               <term>Painting -- Italy -- Milan -- Catalogs.</term>
+               <term>Christian art and symbolism -- Catalogs.</term>
+               <term>Palazzo reale di Milano.</term>
+               <term>Christian art and symbolism.</term>
+               <term>Painting.</term>
+               <term>Italy -- Milan.</term>
+               <term>N2665 .B5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/22828736-d4de-49a1-a70d-db67b0395369">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a4d580b8-f3ad-41b7-9fe6-11a1be6797b7">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

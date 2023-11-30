@@ -25,53 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Il trinciante / di M. Vincenzo Cervio ; ampliato, et ridotto a perfettione dal cavalier Reale Fusoritto da Narni ... ; con una bellissima aggiunta fatta nouamente dall'istesso caualier Reale ..</title>
-            <respStmt>
-               <orgName>Metropolitan Museum of Art</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fusoritto, Reale</authority>
-            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_22102</idno>
-            <idno type="dcl">grq</idno>
-            <idno type="cico">1622</idno>
-            <idno>(OCoLC)900273450</idno>
-            <idno type="URI">http://portal.getty.edu/api/xj8417</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Il trinciante / di M. Vincenzo Cervio ; ampliato, et ridotto a perfettione dal cavalier Reale Fusoritto da Narni ... ; con una bellissima aggiunta fatta nouamente dall'istesso caualier Reale ..</title>
-                  <respStmt>
-                     <persName>Cervio, Vincenzo</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venetia : Appresso gli heredi di Giouanni Varisco</publisher>
-                  </imprint>
-                  <extent>[4], 44, [1], 45-68 leaves, [3] folded leaves of plates : ill. ; 22 cm. (4to)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/22102/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/22102/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Il trinciante [microform] / di M. Vincenzo Ceruio ; ampliato, et ridotto a perfettione dal cavalier Reale Fusoritto da Narni ... ; con una bellissima aggiunta fatta nouamente dall'istesso caualier Reale ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +64,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Carving (Meat, etc.) -- Early works to 1800.</term>
+               <term>Cooking, Italian -- Early works to 1800.</term>
+               <term>Knives -- Early works to 1800.</term>
+               <term>Knives -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/233a771a-a36d-4ac0-b431-e26aed7759cc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il trinciante / di M. Vincenzo Cervio ; ampliato, et ridotto a perfettione dal cavalier Reale Fusoritto da Narni ... ; con una bellissima aggiunta fatta nouamente dall'istesso caualier Reale ..</title>
+            <respStmt>
+               <orgName>Metropolitan Museum of Art</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fusoritto, Reale</authority>
+            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_22102</idno>
+            <idno type="dcl">grq</idno>
+            <idno type="cico">1622</idno>
+            <idno>(OCoLC)900273450</idno>
+            <idno type="URI">http://portal.getty.edu/api/xj8417</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il trinciante / di M. Vincenzo Cervio ; ampliato, et ridotto a perfettione dal cavalier Reale Fusoritto da Narni ... ; con una bellissima aggiunta fatta nouamente dall'istesso caualier Reale ..</title>
+                  <respStmt>
+                     <persName>Cervio, Vincenzo</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Appresso gli heredi di Giouanni Varisco</publisher>
+                  </imprint>
+                  <extent>[4], 44, [1], 45-68 leaves, [3] folded leaves of plates : ill. ; 22 cm. (4to)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/22102/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Carving (Meat, etc.) -- Early works to 1800</term>
+               <term>Knives -- Italy -- Early works to 1800</term>
+               <term>Knives -- Early works to 1800</term>
+               <term>Cooking, Italian -- Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/22102/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

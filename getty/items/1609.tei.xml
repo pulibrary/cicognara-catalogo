@@ -25,53 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La danse ancienne et moderne, ou Traité historique de la danse. Par m. de Cahusac ...</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990048312480203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/wk450d</idno>
-            <idno>(OCoLC)612604953</idno>
-            <idno type="cico">1609</idno>
-            <idno type="dcl">wv8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La danse ancienne et moderne, ou Traité historique de la danse. Par m. de Cahusac ...</title>
-                  <respStmt>
-                     <persName>Cahusac, Louis de, 1706-1759.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A La Haye [i.e. Paris] chez J. Neaulme</publisher>
-                     <date>1754</date>
-                  </imprint>
-                  <extent>3 v.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493984291"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493984291">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>La danse ancienne et moderne, ou, Traité historique de la danse [microform] / par m. de Cahusac ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,9 +62,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dance -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9e9750bb-dc03-41ed-b790-28f8ea4f3713/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La danse ancienne et moderne, ou Traité historique de la danse. Par m. de Cahusac ...</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990048312480203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/wk450d</idno>
+            <idno>(OCoLC)612604953</idno>
+            <idno type="cico">1609</idno>
+            <idno type="dcl">wv8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La danse ancienne et moderne, ou Traité historique de la danse. Par m. de Cahusac ...</title>
+                  <respStmt>
+                     <persName>Cahusac, Louis de, 1706-1759.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A La Haye [i.e. Paris] chez J. Neaulme</publisher>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493984291"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dance -- History -- Early works to 1800.</term>
+               <term>GV1600 .C2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493984291">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

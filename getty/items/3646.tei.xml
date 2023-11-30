@@ -23,49 +23,6 @@ Dante</title>, <pubPlace>Roma</pubPlace> <date>1814</date>, in 12.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Osservazioni intorno alla questione promossa dal Vanozzi, dal Mazzocchi, dal Bottari e specialmente dal abate D. Giuseppe Giustino di Costanzo sopra l'originalita della Divina Commedia di Dante ...</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Cancellieri, Francesco, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-246687</idno>
-            <idno type="URI">http://portal.getty.edu/api/639j3x</idno>
-            <idno type="cico">3646</idno>
-            <idno type="dcl">znj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Osservazioni intorno alla questione promossa dal Vanozzi, dal Mazzocchi, dal Bottari e specialmente dal abate D. Giuseppe Giustino di Costanzo sopra l'originalita della Divina Commedia di Dante ...</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <date>1814</date>
-                     <date>1814</date>
-                  </imprint>
-                  <extent>XII, 263 S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/cancellieri1814/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/cancellieri1814/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Osservazioni intorno alla questione promossa dal Vannozzi, dal Mazzocchi, dal Bottari, especialmente dal p. abate D. Giuseppe Giustino di Costanzo [microform] : sopra l'originalità della Divina commedia di Dante; appoggiata alla storia della Visione del monaco casinese Alberico / ora per la prima volta pubblicata e tradotta dal latino in italiano da Francesco Cancellieri.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -105,6 +62,17 @@ Dante</title>, <pubPlace>Roma</pubPlace> <date>1814</date>, in 12.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dante Alighieri, 1265-1321 -- Sources.</term>
+               <term>Bottari, Giovanni Gaetano, 1689-1775.</term>
+               <term>Di Costanzo, Giuseppe Giustino, 1738-1813.</term>
+               <term>Mazzocchi, Alessio Simmaco, 1684-1771.</term>
+               <term>Vannozzi, Bonifazio, 1551-1627.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1bb59096-dcf9-4005-8624-9d512fdeb470/manifest">

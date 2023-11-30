@@ -23,9 +23,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dialogo della pittvra di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignita di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconuengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle uirtù e delle opere del diuin Titiano ...</title>
+            <title>Dialogo della pittura di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignità di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconvengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle virtù e delle opere del divin Titiano ...</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -34,10 +34,10 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Aretino, Pietro, 1492-1556</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9922030290001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/056k5n</idno>
-            <idno>(OCoLC)5132901</idno>
+            <authority>Aretino, Pietro, 1492-1556.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99817253504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/324z1p</idno>
+            <idno>(OCoLC)973470624</idno>
             <idno type="cico">110</idno>
             <idno type="cico">111</idno>
             <idno type="dcl">z1z</idno>
@@ -46,9 +46,9 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Dialogo della pittvra di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignita di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconuengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle uirtù e delle opere del diuin Titiano ...</title>
+                  <title>Dialogo della pittura di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignità di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconvengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle virtù e delle opere del divin Titiano ...</title>
                   <respStmt>
-                     <persName>Dolce, Lodovico, 1508-1568</persName>
+                     <persName>Dolce, Lodovico, 1508-1568.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>Italian</textLang>
@@ -56,15 +56,24 @@
                      <publisher>Vinegia, Gabriel Giolito de'Ferrari</publisher>
                      <date>1557</date>
                   </imprint>
-                  <extent>60 leaves.</extent>
+                  <extent>60 numb. leaves.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f1b9756e-d73b-40e8-9cdd-6b04cd2c9015"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99817253504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Provenance -- Trissino (Leonardo)</term>
+               <term>Provenance -- Testa (Francesco)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f1b9756e-d73b-40e8-9cdd-6b04cd2c9015">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99817253504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -113,6 +122,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a5b9e4f-1374-445a-8fcc-35fc1d3b4701/manifest">
@@ -163,9 +179,79 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Titian, approximately 1488-1576</term>
+               <term>Titian, approximately 1488-1576</term>
+               <term>Painting.</term>
+               <term>ND1130 .D572</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f1b9756e-d73b-40e8-9cdd-6b04cd2c9015">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo della pittura di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignità di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconvengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle virtù e delle opere del divin Titiano ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aretino, Pietro, 1492-1556.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99817253504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/324z1p</idno>
+            <idno>(OCoLC)973470624</idno>
+            <idno type="cico">110</idno>
+            <idno type="cico">111</idno>
+            <idno type="dcl">z1z</idno>
+            <idno type="dcl">zc6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo della pittura di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignità di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconvengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle virtù e delle opere del divin Titiano ...</title>
+                  <respStmt>
+                     <persName>Dolce, Lodovico, 1508-1568.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vinegia, Gabriel Giolito de'Ferrari</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>60 numb. leaves.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99817253504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Provenance -- Trissino (Leonardo)</term>
+               <term>Provenance -- Testa (Francesco)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99817253504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -214,9 +300,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a5b9e4f-1374-445a-8fcc-35fc1d3b4701/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogo della pittvra di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignita di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconuengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle uirtù e delle opere del diuin Titiano ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aretino, Pietro, 1492-1556</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922030290001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/056k5n</idno>
+            <idno>(OCoLC)5132901</idno>
+            <idno type="cico">110</idno>
+            <idno type="cico">111</idno>
+            <idno type="dcl">z1z</idno>
+            <idno type="dcl">zc6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo della pittvra di m. Lodovico Dolce, intitolato L'Aretino. Nel quale si ragiona della dignita di essa pittura, e di tutte le parti necessarie, che a perfetto pittore si acconuengono: con esempi di pittori antichi, &amp; moderni: e nel fine si fa mentione delle uirtù e delle opere del diuin Titiano ...</title>
+                  <respStmt>
+                     <persName>Dolce, Lodovico, 1508-1568</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Vinegia, Gabriel Giolito de'Ferrari</publisher>
+                     <date>1557</date>
+                  </imprint>
+                  <extent>60 leaves.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f1b9756e-d73b-40e8-9cdd-6b04cd2c9015"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Titian, approximately 1488-1576</term>
+               <term>Titian, approximately 1488-1576</term>
+               <term>Painting.</term>
+               <term>ND1130 .D572</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f1b9756e-d73b-40e8-9cdd-6b04cd2c9015">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

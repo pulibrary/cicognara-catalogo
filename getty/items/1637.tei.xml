@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tractatus de sepulturis, capellis, statuis, epitaphijs, &amp; defunctorum munimentis / authore Floriano Dulpho ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Theological Institute of Connecticut, former owner.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9928509183506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/0w337q</idno>
-            <idno>(OCoLC)195091198</idno>
-            <idno type="cico">1637</idno>
-            <idno type="dcl">n29</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Tractatus de sepulturis, capellis, statuis, epitaphijs, &amp; defunctorum munimentis / authore Floriano Dulpho ...</title>
-                  <respStmt>
-                     <persName>Dulphus, Florianus.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Bononiae : typis I. B. Ferronij</publisher>
-                     <date>1641</date>
-                  </imprint>
-                  <extent>[6], 133 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99a6b75a-34b8-4e6d-85a9-451a3d385ce4/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99a6b75a-34b8-4e6d-85a9-451a3d385ce4/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Tractatus de sepulturis, capellis, statuis, epitaphijs, &amp; defunctorum munimentis [microform] / authore Floriano Dulpho ... .</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,9 +64,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Burial -- Early works to 1800.</term>
+               <term>Sepulchral monuments -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c186f217-8e50-406f-92e9-3373dd6ec697/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tractatus de sepulturis, capellis, statuis, epitaphijs, &amp; defunctorum munimentis / authore Floriano Dulpho ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Theological Institute of Connecticut, former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9928509183506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0w337q</idno>
+            <idno>(OCoLC)195091198</idno>
+            <idno type="cico">1637</idno>
+            <idno type="dcl">n29</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tractatus de sepulturis, capellis, statuis, epitaphijs, &amp; defunctorum munimentis / authore Floriano Dulpho ...</title>
+                  <respStmt>
+                     <persName>Dulphus, Florianus.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : typis I. B. Ferronij</publisher>
+                     <date>1641</date>
+                  </imprint>
+                  <extent>[6], 133 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99a6b75a-34b8-4e6d-85a9-451a3d385ce4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Burial laws (Canon law)</term>
+               <term>Cemeteries (Canon law)</term>
+               <term>GT3150</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99a6b75a-34b8-4e6d-85a9-451a3d385ce4/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

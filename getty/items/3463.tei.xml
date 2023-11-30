@@ -29,55 +29,6 @@ stampato con molto lusso di carta bellissima e di tipi. Esemplare di dedica in m
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Aedes Barberinae ad Quirinalem [microform] / à comite Hieronymo Tetio Perusino descriptae.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985435483506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/mp7d4n</idno>
-            <idno type="cico">3463</idno>
-            <idno type="dcl">bvx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Aedes Barberinae ad Quirinalem [microform] / à comite Hieronymo Tetio Perusino descriptae.</title>
-                  <respStmt>
-                     <persName>Tetius, Hieronymus, 1580?-1645.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Romae : Excudebat Mascardus</publisher>
-                     <date>1642</date>
-                  </imprint>
-                  <extent>[4], 195 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ab67f54-409f-4cd2-9a0e-2329718cea2f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ab67f54-409f-4cd2-9a0e-2329718cea2f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Ædes Barberinæ ad Qvirinalem a ̀comite Hieronymo Tetio Pervsino descriptæ.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -125,9 +76,81 @@ stampato con molto lusso di carta bellissima e di tipi. Esemplare di dedica in m
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo Barberini (Rome, Italy)</term>
+               <term>Barberini family.</term>
+               <term>Palaces -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Barberini family</term>
+               <term>Palazzo Barberini (Rome, Italy)</term>
+               <term>Palaces.</term>
+               <term>Buildings.</term>
+               <term>Italy -- Rome.</term>
+               <term>N2815 .T3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8ad57843-0f32-4ae5-ada8-48185332a0ac">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aedes Barberinae ad Quirinalem [microform] / à comite Hieronymo Tetio Perusino descriptae.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985435483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mp7d4n</idno>
+            <idno type="cico">3463</idno>
+            <idno type="dcl">bvx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aedes Barberinae ad Quirinalem [microform] / à comite Hieronymo Tetio Perusino descriptae.</title>
+                  <respStmt>
+                     <persName>Tetius, Hieronymus, 1580?-1645.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Excudebat Mascardus</publisher>
+                     <date>1642</date>
+                  </imprint>
+                  <extent>[4], 195 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ab67f54-409f-4cd2-9a0e-2329718cea2f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo Barberini (Rome, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ab67f54-409f-4cd2-9a0e-2329718cea2f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

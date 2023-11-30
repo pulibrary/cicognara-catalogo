@@ -24,53 +24,6 @@ ornaments, qui se voient au présent gravées d’aprés les originaux</title>, 
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Recueil des figures, groupes, thermes, fontaines, vases, statues et autres ornemens de Versailles: tels qu'ils se voyent à present dans le chateau &amp; parc; gravé d'apres les originaux; le tout en 4 langues:  françois, latin, italien &amp; flaman</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Thomassin, Simon, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-266719</idno>
-            <idno type="URI">http://portal.getty.edu/api/td7t9b</idno>
-            <idno type="cico">3559</idno>
-            <idno type="dcl">7d2</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Recueil des figures, groupes, thermes, fontaines, vases, statues et autres ornemens de Versailles: tels qu'ils se voyent à present dans le chateau &amp; parc; gravé d'apres les originaux; le tout en 4 langues:  françois, latin, italien &amp; flaman</title>
-                  <textLang>Dutch; Flemish</textLang>
-                  <textLang>French</textLang>
-                  <textLang>Italian</textLang>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1695</date>
-                     <date>1695</date>
-                  </imprint>
-                  <extent>59 S., 218 Taf.</extent>
-                  <extent>überw. Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/thomassin1695/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/thomassin1695/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Recueil des figures, groupes, thermes, fontaines, vases, statues, et autres ornemens de Versailles [microform] : tels qu'ils se voyent à present dans le chateau &amp; parc / gravé d'apres les orginaux par Simon Thomassin ... Le tout en quatre langues. françois, latin, italien, &amp; flaman.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,6 +66,14 @@ ornaments, qui se voient au présent gravées d’aprés les originaux</title>, 
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Château de Versailles (Versailles, France)</term>
+               <term>Art -- France -- Versailles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f466319a-b440-4af9-b35d-98575461d9bb/manifest">

@@ -22,6 +22,66 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Mikrokōsmos. Parvus mundus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9923605113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3g1d94</idno>
+            <idno>(OCoLC)30610489</idno>
+            <idno type="cico">1923</idno>
+            <idno type="cico">1923</idno>
+            <idno type="dcl">jnv</idno>
+            <idno type="dcl">szt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mikrokōsmos. Parvus mundus.</title>
+                  <respStmt>
+                     <persName>Haecht Goidtsenhoven, Laurens van, fl. 1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Arnhemi, apud Ioannum Iansonium, sumptibus Theodori Petri, Amstelrodamiensis]</publisher>
+                     <date>[1610?]</date>
+                     <date>1610</date>
+                  </imprint>
+                  <extent>2 p.l., 74 numb. l., 1 l.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d75343f5-a515-4cb6-9381-70c3b882e93c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Latin poetry, Medieval and modern.</term>
+               <term>Emblem books.</term>
+               <term>Emblems.</term>
+               <term>N7740 .H27</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d75343f5-a515-4cb6-9381-70c3b882e93c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>[Mikrokósmos]= Paruus mundus [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -63,59 +123,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e4f40562-5755-4839-aac0-2358de126993/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Mikrokōsmos. Parvus mundus.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9923605113506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/3g1d94</idno>
-            <idno>(OCoLC)30610489</idno>
-            <idno type="cico">1923</idno>
-            <idno type="cico">1923</idno>
-            <idno type="dcl">jnv</idno>
-            <idno type="dcl">szt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Mikrokōsmos. Parvus mundus.</title>
-                  <respStmt>
-                     <persName>Haecht Goidtsenhoven, Laurens van, fl. 1600.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[Arnhemi, apud Ioannum Iansonium, sumptibus Theodori Petri, Amstelrodamiensis]</publisher>
-                     <date>[1610?]</date>
-                     <date>1610</date>
-                  </imprint>
-                  <extent>2 p.l., 74 numb. l., 1 l.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d75343f5-a515-4cb6-9381-70c3b882e93c/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d75343f5-a515-4cb6-9381-70c3b882e93c/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

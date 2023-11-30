@@ -31,55 +31,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vita e macchine di Bartolommeo Ferracino, celebre bassanese ingegnere : colla storia del Ponte di Bassano dal medesimo rifabbrecato : illustrata da varie note riguardanti la stessa città / opera di Francesco Memmo.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Ricci, Filippo, 18th cent.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923816210001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/v10d93</idno>
-            <idno>(OCoLC)18569320</idno>
-            <idno type="cico">942</idno>
-            <idno type="dcl">f8r</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vita e macchine di Bartolommeo Ferracino, celebre bassanese ingegnere : colla storia del Ponte di Bassano dal medesimo rifabbrecato : illustrata da varie note riguardanti la stessa città / opera di Francesco Memmo.</title>
-                  <respStmt>
-                     <persName>Memmo, Francesco, 1724-1788.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venezia : Nella Stamperia Remondini</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1754</date>
-                  </imprint>
-                  <extent>xii, 222, [2] p., [4] leaves of plates (3 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b9be4d54-6899-4408-a7c0-4ac46d76c270"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b9be4d54-6899-4408-a7c0-4ac46d76c270">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Vita e macchine di Bartolommeo Ferracino, celebre bassanese ingegnere [microform] : colla storia del Ponte di Bassano dal medesimo rifabbrecato : illustrata da varie note riguardanti la stessa città / opera di Francesco Memmo.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -118,9 +69,83 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ferracina, Bartolomeo, 1692-1777.</term>
+               <term>Bridges -- Design and construction -- Early works to 1800.</term>
+               <term>Bridges -- Italy -- Bassano del Grappa.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/30026bc6-23fc-437c-89ce-4be02a3fecfb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita e macchine di Bartolommeo Ferracino, celebre bassanese ingegnere : colla storia del Ponte di Bassano dal medesimo rifabbrecato : illustrata da varie note riguardanti la stessa città / opera di Francesco Memmo.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ricci, Filippo, 18th cent.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923816210001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/v10d93</idno>
+            <idno>(OCoLC)18569320</idno>
+            <idno type="cico">942</idno>
+            <idno type="dcl">f8r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita e macchine di Bartolommeo Ferracino, celebre bassanese ingegnere : colla storia del Ponte di Bassano dal medesimo rifabbrecato : illustrata da varie note riguardanti la stessa città / opera di Francesco Memmo.</title>
+                  <respStmt>
+                     <persName>Memmo, Francesco, 1724-1788.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Nella Stamperia Remondini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>xii, 222, [2] p., [4] leaves of plates (3 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b9be4d54-6899-4408-a7c0-4ac46d76c270"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ferracina, Bartolomeo, 1692-1777.</term>
+               <term>Civil engineers -- Italy -- Biography.</term>
+               <term>Bridges -- Italy -- Bassano del Grappa.</term>
+               <term>Bridges -- Design and construction -- Early works to 1800.</term>
+               <term>Ferracina, Bartolomeo, 1692-1777</term>
+               <term>Bridges</term>
+               <term>Bridges -- Design and construction</term>
+               <term>Civil engineers</term>
+               <term>Italy</term>
+               <term>Italy -- Bassano del Grappa</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b9be4d54-6899-4408-a7c0-4ac46d76c270">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

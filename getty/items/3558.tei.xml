@@ -23,9 +23,9 @@ fronte, M. 100.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le sculture e le pitture di Antonio Canova pubblicate fino a quest'anno 1795 / [Faustino Tadini].</title>
+            <title>Le sculture e le pitture di Antonio Canova.</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -34,34 +34,41 @@ fronte, M. 100.
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/princeton_99100854503506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/k3196r</idno>
-            <idno>(OCoLC)314523590</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_99504963504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/d1184m</idno>
+            <idno>(OCoLC)08369703</idno>
             <idno type="cico">3558</idno>
             <idno type="dcl">pp9</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Le sculture e le pitture di Antonio Canova pubblicate fino a quest'anno 1795 / [Faustino Tadini].</title>
+                  <title>Le sculture e le pitture di Antonio Canova.</title>
                   <respStmt>
-                     <persName>Tadini, Faustino.</persName>
+                     <persName>Tadini, Faustino, 1774-1799.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <publisher>Venezia : Palese</publisher>
+                     <publisher>Venezia : Stamperia Palese</publisher>
                      <date>1796</date>
                   </imprint>
-                  <extent>2 Mikrofiches : 24x.</extent>
+                  <extent>[6], 86 p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4930e7f8-2486-48fd-b49b-184575bd2f7f/manifest"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99504963504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4930e7f8-2486-48fd-b49b-184575bd2f7f/manifest">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99504963504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -111,9 +118,75 @@ fronte, M. 100.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822 -- Poetry.</term>
+               <term>Art and literature -- Italy -- Early works to 1800.</term>
+               <term>Canova, Antonio, 1757-1822</term>
+               <term>Art and literature.</term>
+               <term>Italy.</term>
+               <term>N6923.C16 T32</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/99ed40b8-0b14-4310-885b-970237cbeff5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le sculture e le pitture di Antonio Canova pubblicate fino a quest'anno 1795 / [Faustino Tadini].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100854503506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k3196r</idno>
+            <idno>(OCoLC)314523590</idno>
+            <idno type="cico">3558</idno>
+            <idno type="dcl">pp9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le sculture e le pitture di Antonio Canova pubblicate fino a quest'anno 1795 / [Faustino Tadini].</title>
+                  <respStmt>
+                     <persName>Tadini, Faustino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Palese</publisher>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>2 Mikrofiches : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4930e7f8-2486-48fd-b49b-184575bd2f7f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>N6923.C3247</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4930e7f8-2486-48fd-b49b-184575bd2f7f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

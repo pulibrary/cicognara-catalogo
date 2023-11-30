@@ -26,53 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Il libro della bella donna / composta da messer Federico Lvigini da Vdine.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929322010001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/mr8t7j</idno>
-            <idno>(OCoLC)49495275</idno>
-            <idno type="cico">1063</idno>
-            <idno type="dcl">3w2</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Il libro della bella donna / composta da messer Federico Lvigini da Vdine.</title>
-                  <respStmt>
-                     <persName>Luigini, Federigo, approximately 1530-</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venetia : Per Plinio Pietrasanta</publisher>
-                     <date>1554</date>
-                  </imprint>
-                  <extent>130, [4] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8d95cf03-22b4-429a-b6d5-352db529febd"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8d95cf03-22b4-429a-b6d5-352db529febd">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Il libro della bella donna [microform] / composta da messer Federico Luigini da Udine ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +64,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Women -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/17f39e5f-1a5a-4a7c-b390-aec2ff434454/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il libro della bella donna / composta da messer Federico Lvigini da Vdine.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929322010001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/mr8t7j</idno>
+            <idno>(OCoLC)49495275</idno>
+            <idno type="cico">1063</idno>
+            <idno type="dcl">3w2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il libro della bella donna / composta da messer Federico Lvigini da Vdine.</title>
+                  <respStmt>
+                     <persName>Luigini, Federigo, approximately 1530-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per Plinio Pietrasanta</publisher>
+                     <date>1554</date>
+                  </imprint>
+                  <extent>130, [4] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8d95cf03-22b4-429a-b6d5-352db529febd"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Feminine beauty (Aesthetics) -- Early works to 1800.</term>
+               <term>Women -- Early works to 1800.</term>
+               <term>Feminine beauty (Aesthetics)</term>
+               <term>Women</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8d95cf03-22b4-429a-b6d5-352db529febd">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

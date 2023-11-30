@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De' Bassanesi illustri [microform] / narrazione di Bartolommeo Gamba ; con un catalogo degli scrittori di Bassano del secolo XVIII.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985344223506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/jg6n58</idno>
-            <idno type="cico">2270</idno>
-            <idno type="dcl">h2r</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De' Bassanesi illustri [microform] / narrazione di Bartolommeo Gamba ; con un catalogo degli scrittori di Bassano del secolo XVIII.</title>
-                  <respStmt>
-                     <persName>Gamba, Bartolommeo, 1776-1841.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Bassano : Dalla Remondiniana</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1807</date>
-                  </imprint>
-                  <extent>108 p.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f84a5f74-b367-41c0-b117-b0dcd392f4b9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f84a5f74-b367-41c0-b117-b0dcd392f4b9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>De' bassanesi illustri / narrazione di Bartolommeo Gamba accademico fiorentino ; con un catalogo degli scrittori di Bassano del secolo XVIII.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -118,9 +69,78 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bassano del Grappa (Italy) -- Bio-bibliography.</term>
+               <term>Bassano del Grappa (Italy) -- Biography.</term>
+               <term>Italian literature -- Italy -- Bassano del Grappa -- 18th century -- Bibliography.</term>
+               <term>Italy -- Bassano del Grappa</term>
+               <term>Italian literature -- Bassano del Grappa -- Bibliography.</term>
+               <term>Z2364.B31 G2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/800c7929-f142-4189-9f25-4cae795d151c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De' Bassanesi illustri [microform] / narrazione di Bartolommeo Gamba ; con un catalogo degli scrittori di Bassano del secolo XVIII.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jg6n58</idno>
+            <idno type="cico">2270</idno>
+            <idno type="dcl">h2r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De' Bassanesi illustri [microform] / narrazione di Bartolommeo Gamba ; con un catalogo degli scrittori di Bassano del secolo XVIII.</title>
+                  <respStmt>
+                     <persName>Gamba, Bartolommeo, 1776-1841.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : Dalla Remondiniana</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>108 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f84a5f74-b367-41c0-b117-b0dcd392f4b9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bassano del Grappa (Italy) -- Bio-bibliography.</term>
+               <term>Italian literature -- Italy -- Bassano del Grappas -- Bibliography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f84a5f74-b367-41c0-b117-b0dcd392f4b9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

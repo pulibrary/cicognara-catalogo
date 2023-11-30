@@ -27,6 +27,63 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>L'esprit des beaux arts [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bs9k2z</idno>
+            <idno type="cico">27</idno>
+            <idno type="dcl">3k9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'esprit des beaux arts [microform].</title>
+                  <respStmt>
+                     <persName>Estève, Pierre, approximately 1720-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez C.J. Baptiste Bauche fils</publisher>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4c58c819-d8cc-48ec-a606-573b52402704/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Art -- Philosophy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4c58c819-d8cc-48ec-a606-573b52402704/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>L'esprit des beaux arts.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -68,6 +125,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Art -- Philosophy -- Early works to 1800.</term>
+               <term>Aesthetics.</term>
+               <term>Art -- Philosophy.</term>
+               <term>N63 .E79e</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/02454833-ca8f-4fc9-8867-eebc0a7bf85a">
@@ -76,55 +144,6 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4649c239-e0b9-4500-b800-b2bd9e5042e9">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>L'esprit des beaux arts [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246883506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/bs9k2z</idno>
-            <idno type="cico">27</idno>
-            <idno type="dcl">3k9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'esprit des beaux arts [microform].</title>
-                  <respStmt>
-                     <persName>Estève, Pierre, approximately 1720-</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez C.J. Baptiste Bauche fils</publisher>
-                     <date>1753</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4c58c819-d8cc-48ec-a606-573b52402704/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4c58c819-d8cc-48ec-a606-573b52402704/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

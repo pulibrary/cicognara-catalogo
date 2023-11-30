@@ -25,55 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Della cerografia.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929719470001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/z54780</idno>
-            <idno>(OCoLC)40315436</idno>
-            <idno type="cico">219</idno>
-            <idno type="dcl">f5n</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Della cerografia.</title>
-                  <respStmt>
-                     <persName>Tommaselli, Giuseppe, 1733-1818.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Verona : Per gli eredi Moroni</publisher>
-                     <pubPlace>Italy Verona.</pubPlace>
-                     <date>MDCCLXXXV [1785]</date>
-                     <date>1785</date>
-                  </imprint>
-                  <extent>[6], 116 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f87f9877-97f1-4144-b886-1d37846fca62"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f87f9877-97f1-4144-b886-1d37846fca62">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Della cerografia [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,9 +63,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Encaustic painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f75cc960-b108-4294-8c49-595c3a4f8d48/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della cerografia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929719470001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/z54780</idno>
+            <idno>(OCoLC)40315436</idno>
+            <idno type="cico">219</idno>
+            <idno type="dcl">f5n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della cerografia.</title>
+                  <respStmt>
+                     <persName>Tommaselli, Giuseppe, 1733-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Verona : Per gli eredi Moroni</publisher>
+                     <pubPlace>Italy Verona.</pubPlace>
+                     <date>MDCCLXXXV [1785]</date>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>[6], 116 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f87f9877-97f1-4144-b886-1d37846fca62"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Encaustic painting -- Early works to 1800.</term>
+               <term>Encaustic painting.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f87f9877-97f1-4144-b886-1d37846fca62">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -26,56 +26,6 @@ necessità questa si aggiugne in guisa di continuazione ed illustrazione.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Jo. Baptistae Passerii pisaurensis nob. Eugubini ... In Thomae Dempsteri libros de Etruria regali paralipomena [microform] : quibus tabulae eidem operi additae illustrantur : accedunt dissertationes de re nummaria Etruscorum, de nominibus Etruscorum, et notae in tabulas Eugubinas.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Dempster, Thomas, 1579?-1625. De Etruria regali.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985404033506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sj8j0j</idno>
-            <idno type="cico">2570</idno>
-            <idno type="dcl">xfv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Jo. Baptistae Passerii pisaurensis nob. Eugubini ... In Thomae Dempsteri libros de Etruria regali paralipomena [microform] : quibus tabulae eidem operi additae illustrantur : accedunt dissertationes de re nummaria Etruscorum, de nominibus Etruscorum, et notae in tabulas Eugubinas.</title>
-                  <respStmt>
-                     <persName>Passeri, Giovanni Battista, approximately 1610-1679.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Lucae : Typis Leonardi Venturini</publisher>
-                     <pubPlace>Etruria</pubPlace>
-                     <date>1767</date>
-                  </imprint>
-                  <extent>XXII, 339 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/245f7d6d-1780-42ff-8619-354357fd4951/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/245f7d6d-1780-42ff-8619-354357fd4951/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Jo. Baptistae Passerii pisaurensis nob. Eugubini ... In Thomae Dempsteri libros De Etruria regali paralipomena : quibus tabulae eidem operi additae illustrantur : accedunt dissertationes de re nummaria Etruscorum, de nominibus Etruscorum, et notae in tabulas Eugubinas.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -120,9 +70,86 @@ necessità questa si aggiugne in guisa di continuazione ed illustrazione.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dempster, Thomas, 1579?-1625. De Etruria regali.</term>
+               <term>Etruria -- Antiquities -- Early works to 1800.</term>
+               <term>Etruscans -- Italy -- Early works to 1800.</term>
+               <term>Art -- Italy -- Etruria -- Early works to 1800.</term>
+               <term>Eugubine tables.</term>
+               <term>Eugubine tables.</term>
+               <term>Antiquities.</term>
+               <term>Art.</term>
+               <term>Etruscans.</term>
+               <term>Europe -- Etruria.</term>
+               <term>Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/be0bbb47-795e-448c-8236-4bb4c1ac38a6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jo. Baptistae Passerii pisaurensis nob. Eugubini ... In Thomae Dempsteri libros de Etruria regali paralipomena [microform] : quibus tabulae eidem operi additae illustrantur : accedunt dissertationes de re nummaria Etruscorum, de nominibus Etruscorum, et notae in tabulas Eugubinas.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Dempster, Thomas, 1579?-1625. De Etruria regali.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sj8j0j</idno>
+            <idno type="cico">2570</idno>
+            <idno type="dcl">xfv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Jo. Baptistae Passerii pisaurensis nob. Eugubini ... In Thomae Dempsteri libros de Etruria regali paralipomena [microform] : quibus tabulae eidem operi additae illustrantur : accedunt dissertationes de re nummaria Etruscorum, de nominibus Etruscorum, et notae in tabulas Eugubinas.</title>
+                  <respStmt>
+                     <persName>Passeri, Giovanni Battista, approximately 1610-1679.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Lucae : Typis Leonardi Venturini</publisher>
+                     <pubPlace>Etruria</pubPlace>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>XXII, 339 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/245f7d6d-1780-42ff-8619-354357fd4951/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dempster, Thomas, 1579?-1625. De Etruria regali.</term>
+               <term>Eugubine tables.</term>
+               <term>Art -- Etruria -- Early works to 1800.</term>
+               <term>Etruria -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/245f7d6d-1780-42ff-8619-354357fd4951/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

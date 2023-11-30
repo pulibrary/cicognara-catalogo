@@ -29,9 +29,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Recueil de dessins d'une exécution peu dispendieuse: contenant des plans de petits maisons de campagne, petits pavillons de jardins, temples, hermitages, chaumières, monumens, obélisques, ruines, portails, portes, grilles, bancs de jardins, chaises, volières, gondoles, ponts, etc.</title>
+            <title>Recueil de dessins d'une execution peu dispendieuse, contenans des plans de petites maisons de campagne, petits pavillons de jardins [etc., etc.] [microform] / par J.G. Grohmann ; avec des additions de batimens du meilleur gout.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -40,31 +40,44 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Grohmann, Johann Gottfried, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-239341</idno>
-            <idno type="URI">http://portal.getty.edu/api/h97j0q</idno>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985455473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zp1t0g</idno>
             <idno type="cico">523</idno>
             <idno type="dcl">n5k</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Recueil de dessins d'une exécution peu dispendieuse: contenant des plans de petits maisons de campagne, petits pavillons de jardins, temples, hermitages, chaumières, monumens, obélisques, ruines, portails, portes, grilles, bancs de jardins, chaises, volières, gondoles, ponts, etc.</title>
+                  <title>Recueil de dessins d'une execution peu dispendieuse, contenans des plans de petites maisons de campagne, petits pavillons de jardins [etc., etc.] [microform] / par J.G. Grohmann ; avec des additions de batimens du meilleur gout.</title>
+                  <respStmt>
+                     <persName>Grohmann, J. G. (Johann Gottfried), 1763-1805.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1826</date>
+                     <publisher>Venise : J. Remondini et fils</publisher>
                      <date>1805</date>
                   </imprint>
-                  <extent>37 Bl.</extent>
-                  <extent>nur Ill. u. graph. Darst.</extent>
+                  <extent>[l] p., 37leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/grohmann1805/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e84ed647-2ec7-4f42-b754-57418ef80e07/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Designs and plans.</term>
+               <term>Landscape gardening.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/grohmann1805/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e84ed647-2ec7-4f42-b754-57418ef80e07/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -109,58 +122,26 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Designs and plans.</term>
+               <term>Decoration and ornament, Architectural -- Designs and plans.</term>
+               <term>Landscape architecture -- Designs and plans.</term>
+               <term>Garden ornaments and furniture -- Designs and plans.</term>
+               <term>Garden structures -- Designs and plans.</term>
+               <term>Architecture, Domestic</term>
+               <term>Decoration and ornament, Architectural</term>
+               <term>Garden ornaments and furniture</term>
+               <term>Garden structures</term>
+               <term>Landscape architecture</term>
+               <term>SB473.5 .G7 1805</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/382d9edb-0f51-4192-89ef-a6a3aa93248e">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Recueil de dessins d'une execution peu dispendieuse, contenans des plans de petites maisons de campagne, petits pavillons de jardins [etc., etc.] [microform] / par J.G. Grohmann ; avec des additions de batimens du meilleur gout.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985455473506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/zp1t0g</idno>
-            <idno type="cico">523</idno>
-            <idno type="dcl">n5k</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Recueil de dessins d'une execution peu dispendieuse, contenans des plans de petites maisons de campagne, petits pavillons de jardins [etc., etc.] [microform] / par J.G. Grohmann ; avec des additions de batimens du meilleur gout.</title>
-                  <respStmt>
-                     <persName>Grohmann, J. G. (Johann Gottfried), 1763-1805.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Venise : J. Remondini et fils</publisher>
-                     <date>1805</date>
-                  </imprint>
-                  <extent>[l] p., 37leaves of plates</extent>
-                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e84ed647-2ec7-4f42-b754-57418ef80e07/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e84ed647-2ec7-4f42-b754-57418ef80e07/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

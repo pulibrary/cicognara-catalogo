@@ -64,9 +64,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charles Emmanuel III, King of Sardinia, 1701-1773.</term>
+               <term>Elizabeth Theresa of Lorraine, queen consort of Charles Emmanuel III, King of Sardinia.</term>
+               <term>Parades -- Italy -- Turin -- History -- 18th century.</term>
+               <term>Weddings -- Italy -- Turin -- History -- 18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/42375b88-d37a-46d5-88d9-878c991a2a4a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La sontuosa illuminazione della citta di Torino per l'augusto sposalizio delle Reali Maesta' di Carlo Emmanuele, re di Sardegna, e di Elisabetta Teresa, principessa primogenita di Lorena, con l'aggiunta della pubblica esposizione della santissima Sindone; descritta in lingua italiana, e franzese, co' disegni delle più ragguardevoli vedute.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Prenner, Georg Kaspar, approximately 1720-1766</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991203523504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/rt202w</idno>
+            <idno>(OCoLC)171191298</idno>
+            <idno>(OCoLC)79695517</idno>
+            <idno type="cico">1504</idno>
+            <idno type="dcl">pzb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La sontuosa illuminazione della citta di Torino per l'augusto sposalizio delle Reali Maesta' di Carlo Emmanuele, re di Sardegna, e di Elisabetta Teresa, principessa primogenita di Lorena, con l'aggiunta della pubblica esposizione della santissima Sindone; descritta in lingua italiana, e franzese, co' disegni delle più ragguardevoli vedute.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino: Presso G. B. Chais, regio stampatore</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>xxvii, xviii p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991203523504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charles Emmanuel III, King of Sardinia, 1701-1773 -- Marriage.</term>
+               <term>Elisabeth-Thérèse, Princess of Lorraine, 1711-1741 -- Marriage.</term>
+               <term>Festivals -- Italy -- Turin -- History -- 18th century.</term>
+               <term>Parades -- Italy -- Turin.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991203523504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

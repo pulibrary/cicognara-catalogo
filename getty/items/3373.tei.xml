@@ -29,6 +29,63 @@ velina. Vedi Verri.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Del Cenacolo di Leonardo da Vinci [microform] : libri quattro / di Giuseppe Bossi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/h8080m</idno>
+            <idno type="cico">3373</idno>
+            <idno type="dcl">1kq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del Cenacolo di Leonardo da Vinci [microform] : libri quattro / di Giuseppe Bossi ...</title>
+                  <respStmt>
+                     <persName>Bossi, Giuseppe 1777-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla Stamperia reale</publisher>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>263 p.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ea48862a-1c97-4ca7-961a-8fb4b48491db/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Leonardo, da Vinci, 1452-1519.</term>
+               <term>Last Supper in art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ea48862a-1c97-4ca7-961a-8fb4b48491db/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Del Cenacolo di Leonardo da Vinci libri quattro / di Giuseppe Bossi.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -69,102 +126,21 @@ velina. Vedi Verri.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Leonardo, da Vinci, 1452-1519</term>
+               <term>Lord's Supper in art.</term>
+               <term>Leonardo, da Vinci, 1452-1519. Last Supper.</term>
+               <term>Leonardo, da Vinci, 1452-1519</term>
+               <term>Lord's Supper in art.</term>
+               <term>ND623.L55 B7</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/60a5828c-3c67-49c5-8f30-3526cea02a19">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Del Cenacolo di Leonardo da Vinci [microform] : libri quattro / di Giuseppe Bossi ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985418593506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/h8080m</idno>
-            <idno type="cico">3373</idno>
-            <idno type="dcl">1kq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Del Cenacolo di Leonardo da Vinci [microform] : libri quattro / di Giuseppe Bossi ...</title>
-                  <respStmt>
-                     <persName>Bossi, Giuseppe 1777-1815.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Milano : Dalla Stamperia reale</publisher>
-                     <date>1810</date>
-                  </imprint>
-                  <extent>263 p.</extent>
-                  <extent>12 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ea48862a-1c97-4ca7-961a-8fb4b48491db/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ea48862a-1c97-4ca7-961a-8fb4b48491db/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Del cenacolo di Leonardo da Vinci: libri quattro</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bossi, Giuseppe, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-237923</idno>
-            <idno type="URI">http://portal.getty.edu/api/hv7509</idno>
-            <idno type="cico">3373</idno>
-            <idno type="dcl">1kq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Del cenacolo di Leonardo da Vinci: libri quattro</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <date>1810</date>
-                     <date>1810</date>
-                  </imprint>
-                  <extent>263 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bossi1810/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bossi1810/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

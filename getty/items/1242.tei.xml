@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Relazione di due quadri di Tiziano Vecellio.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Titian, approximately 1488-1576.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929086730001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/1v0h8f</idno>
-            <idno>(OCoLC)58914861</idno>
-            <idno type="cico">1242</idno>
-            <idno type="dcl">hzg</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Relazione di due quadri di Tiziano Vecellio.</title>
-                  <respStmt>
-                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venezia : Tipografia di Alvisopoli</publisher>
-                     <date>1816</date>
-                  </imprint>
-                  <extent>14, [2] (blank) p., [3] leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/66d404e1-a480-49cb-9bfb-259bdbdef302"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/66d404e1-a480-49cb-9bfb-259bdbdef302">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Relazione di due quadri di Tiziano Vecellio [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +65,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Titian, approximately 1488-1576.</term>
+               <term>Painting -- Attribution.</term>
+               <term>Painting -- Expertising.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bdce62b1-332a-4ccd-9b3a-b915358eab25/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione di due quadri di Tiziano Vecellio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Titian, approximately 1488-1576.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929086730001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1v0h8f</idno>
+            <idno>(OCoLC)58914861</idno>
+            <idno type="cico">1242</idno>
+            <idno type="dcl">hzg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione di due quadri di Tiziano Vecellio.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Tipografia di Alvisopoli</publisher>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>14, [2] (blank) p., [3] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/66d404e1-a480-49cb-9bfb-259bdbdef302"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Titian, approximately 1488-1576.</term>
+               <term>Painting -- Expertising.</term>
+               <term>Painting -- Attribution.</term>
+               <term>Titian, approximately 1488-1576</term>
+               <term>Painting -- Attribution.</term>
+               <term>Painting -- Expertising.</term>
+               <term>Giorgione, 1477 or 1478-1510</term>
+               <term>ND623.T7 C54 1816</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/66d404e1-a480-49cb-9bfb-259bdbdef302">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

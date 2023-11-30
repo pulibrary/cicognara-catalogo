@@ -28,55 +28,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Regles des cinq ordres d'architecture de Vignole [microform] : ouvrage dans lequel on donne : une idée de la géometrie, les définitions des figures géométriques nécessaire à l'étude de l'architecture : la formation des ordres, rigoureusement démontrée, dans l'origine de l'architecture ... / par C.M.D. Delagardette ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984944803506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/922c9c</idno>
-            <idno type="cico">489</idno>
-            <idno type="dcl">3ch</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Regles des cinq ordres d'architecture de Vignole [microform] : ouvrage dans lequel on donne : une idée de la géometrie, les définitions des figures géométriques nécessaire à l'étude de l'architecture : la formation des ordres, rigoureusement démontrée, dans l'origine de l'architecture ... / par C.M.D. Delagardette ...</title>
-                  <respStmt>
-                     <persName>Delagardette, C. M. (Claude Mathieu), 1762-1805.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Joubert</publisher>
-                     <date>L'An V. de la République [1797]</date>
-                     <date>1797</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e965cf9c-4205-4698-b895-60abe2013a5a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e965cf9c-4205-4698-b895-60abe2013a5a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Regles des cinq ordres d'architecture de Vignole : ouvrage dans lequel on donne : une idée de la géometrie, les définitions des figures géométriques nécessaires à l'étude de l'architecture, la formation des ordres, rigoureusement démontrée, dans l'origine de l'architecture ... : enfin, les notions nécessaires sur les ordres appellés accessoires / par C.M. Delagardette ... ; cet ouvrage a pour suite et comprend, Les leçons élémentaires des ombres dans l'architecture, démontrées par des principes puisés dans la nature, par le même auteur.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -117,9 +68,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Shades and shadows -- Early works to 1800.</term>
+               <term>Vignola, 1507-1573. Regola delli cinque ordini d'architettura</term>
+               <term>Regola delli cinque ordini d'architettura (Vignola)</term>
+               <term>Architecture -- Orders.</term>
+               <term>Shades and shadows.</term>
+               <term>NA2810 .D46 1797</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6ed76181-f0df-4648-9463-fb1180c82b27">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regles des cinq ordres d'architecture de Vignole [microform] : ouvrage dans lequel on donne : une idée de la géometrie, les définitions des figures géométriques nécessaire à l'étude de l'architecture : la formation des ordres, rigoureusement démontrée, dans l'origine de l'architecture ... / par C.M.D. Delagardette ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/922c9c</idno>
+            <idno type="cico">489</idno>
+            <idno type="dcl">3ch</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regles des cinq ordres d'architecture de Vignole [microform] : ouvrage dans lequel on donne : une idée de la géometrie, les définitions des figures géométriques nécessaire à l'étude de l'architecture : la formation des ordres, rigoureusement démontrée, dans l'origine de l'architecture ... / par C.M.D. Delagardette ...</title>
+                  <respStmt>
+                     <persName>Delagardette, C. M. (Claude Mathieu), 1762-1805.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Joubert</publisher>
+                     <date>L'An V. de la République [1797]</date>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e965cf9c-4205-4698-b895-60abe2013a5a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vignola, 1507-1573.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Shades and shadows -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e965cf9c-4205-4698-b895-60abe2013a5a/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

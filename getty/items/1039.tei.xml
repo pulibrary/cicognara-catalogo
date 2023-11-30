@@ -27,6 +27,65 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Scherzi poetici e pittorici.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Barreto, José Teixeira, 1767-1810</authority>
+            <authority>Bodoni, Giambattista, 1740-1813, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925928870001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w1855j</idno>
+            <idno>(OCoLC)3519063</idno>
+            <idno type="cico">1039</idno>
+            <idno type="dcl">9k5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Scherzi poetici e pittorici.</title>
+                  <respStmt>
+                     <persName>De Rossi, Giovanni Gherardo, 1754-1827</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Co' tipi Bodoniani</publisher>
+                     <pubPlace>Italy Parma.</pubPlace>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>[55] leaves (the last leaf blank), [40] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/375d04db-0659-4ce2-b66d-dd280c05e11b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Printing -- Specimens.</term>
+               <term>Printing.</term>
+               <term>PQ4731.R63 S4 1795b</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/375d04db-0659-4ce2-b66d-dd280c05e11b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Scherzi poetici e pittorici [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -69,59 +128,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Love -- Poetry -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f631abfe-ae74-479f-bd88-a611d231e2b7/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Scherzi poetici e pittorici.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Barreto, José Teixeira, 1767-1810</authority>
-            <authority>Bodoni, Giambattista, 1740-1813, printer.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925928870001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/w1855j</idno>
-            <idno>(OCoLC)3519063</idno>
-            <idno type="cico">1039</idno>
-            <idno type="dcl">9k5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Scherzi poetici e pittorici.</title>
-                  <respStmt>
-                     <persName>De Rossi, Giovanni Gherardo, 1754-1827</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Parma : Co' tipi Bodoniani</publisher>
-                     <pubPlace>Italy Parma.</pubPlace>
-                     <date>1795</date>
-                  </imprint>
-                  <extent>[55] leaves (the last leaf blank), [40] leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/375d04db-0659-4ce2-b66d-dd280c05e11b"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/375d04db-0659-4ce2-b66d-dd280c05e11b">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -26,52 +26,6 @@ dell’architettura.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Osservazioni Di Gio. Battista Piranesi sopra la Lettre de M. Mariette aux auteurs de la Gazette Littéraire de l'Europe</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Piranesi, Giovanni Battista, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16634</idno>
-            <idno type="URI">http://portal.getty.edu/api/sm9565</idno>
-            <idno type="cico">3836</idno>
-            <idno type="dcl">2wd</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Osservazioni Di Gio. Battista Piranesi sopra la Lettre de M. Mariette aux auteurs de la Gazette Littéraire de l'Europe</title>
-                  <textLang>Italian</textLang>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <pubPlace>Griechenland &lt;Altertum&gt;</pubPlace>
-                     <date>1765</date>
-                     <date>1765</date>
-                  </imprint>
-                  <extent>[1] Bl., 23 S., III Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/piranesi1765/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/piranesi1765/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Osservazioni di Gio. Battista Piranesi sopra la Lettre de M. Mariette aux auteurs de la Gazette littéraire de l'Europe [microform] : inserita nel supplemento dell'istessa Gazzetta, stampata, dimanche 4. novembre 1764 ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,9 +66,76 @@ dell’architettura.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Rome -- Early works to 1800.</term>
+               <term>Art, Classical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7974ecaf-81ee-4852-8b56-7ad4a5b6b19a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Osservazioni Di Gio. Battista Piranesi sopra la Lettre de M. Mariette aux auteurs de la Gazette Littéraire de l'Europe</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Piranesi, Giovanni Battista, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16634</idno>
+            <idno type="URI">http://portal.getty.edu/api/sm9565</idno>
+            <idno type="cico">3836</idno>
+            <idno type="dcl">2wd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni Di Gio. Battista Piranesi sopra la Lettre de M. Mariette aux auteurs de la Gazette Littéraire de l'Europe</title>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <pubPlace>Griechenland &lt;Altertum&gt;</pubPlace>
+                     <date>1765</date>
+                     <date>1765</date>
+                  </imprint>
+                  <extent>[1] Bl., 23 S., III Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/piranesi1765/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Kunstbetrachtung</term>
+               <term>Architektur</term>
+               <term>Römerzeit</term>
+               <term>Piranesi, Giovanni Battista</term>
+               <term>Cicognara</term>
+               <term>Parte Seconda</term>
+               <term>Roma Antica e Moderna</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/piranesi1765/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -25,54 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Principi di architettura civile [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984945913506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/356k5p</idno>
-            <idno type="cico">566</idno>
-            <idno type="dcl">xnb</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Principi di architettura civile [microform]</title>
-                  <respStmt>
-                     <persName>Milizia, Francesco, 1725-1798.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Bassano : A spese Remondini de Venezia</publisher>
-                     <date>1785</date>
-                  </imprint>
-                  <extent>3 v.</extent>
-                  <extent>19 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a0544462-08b7-4679-8c25-d5e55ea48eb3/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a0544462-08b7-4679-8c25-d5e55ea48eb3/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Principj di architettura civile.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -113,6 +65,21 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Composition, proportion, etc. -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Errata lists (Printing)</term>
+               <term>Engravings.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Composition, proportion, etc.</term>
+               <term>Architecture -- Orders.</term>
+               <term>NA2510 .M4 1785</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/faa831e6-a8f9-424c-8b6e-f933769cbb85">
@@ -141,6 +108,61 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/de5863aa-6736-4a8d-a81d-d24915084d16">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principi di architettura civile [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945913506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/356k5p</idno>
+            <idno type="cico">566</idno>
+            <idno type="dcl">xnb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Principi di architettura civile [microform]</title>
+                  <respStmt>
+                     <persName>Milizia, Francesco, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : A spese Remondini de Venezia</publisher>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>19 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a0544462-08b7-4679-8c25-d5e55ea48eb3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a0544462-08b7-4679-8c25-d5e55ea48eb3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

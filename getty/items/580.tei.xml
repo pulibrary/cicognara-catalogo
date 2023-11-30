@@ -27,9 +27,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>I Tre Ordini D'Architettura: Dorico, Jonico, E Corintio ; Presi dalle Fabbriche più celebri dell'Antica Roma, e posti in uso con un nuovo esattissimo metodo</title>
+            <title>I tre ordini d'architettura dorico, jonico, e corintio [microform] : presi dalle fabbriche più celebri dell'antica Roma e posti in uso con un nuovo esattissimo metodo / opera di Neralco P.A.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -38,31 +38,43 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Ercolani, Giuseppe Maria, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16118</idno>
-            <idno type="URI">http://portal.getty.edu/api/ks412c</idno>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296203506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r93q80</idno>
             <idno type="cico">580</idno>
             <idno type="dcl">12z</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>I Tre Ordini D'Architettura: Dorico, Jonico, E Corintio ; Presi dalle Fabbriche più celebri dell'Antica Roma, e posti in uso con un nuovo esattissimo metodo</title>
+                  <title>I tre ordini d'architettura dorico, jonico, e corintio [microform] : presi dalle fabbriche più celebri dell'antica Roma e posti in uso con un nuovo esattissimo metodo / opera di Neralco P.A.</title>
+                  <respStmt>
+                     <persName>Neralco, 1672 or 1673-1759.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <date>1744</date>
+                     <publisher>In Roma : Nella Stamperia di Antonio de'Rossi</publisher>
                      <date>1744</date>
                   </imprint>
-                  <extent>X S., [1] Bl., 166 S., [3] Bl., 166 S.</extent>
-                  <extent>zahlr. Ill.</extent>
+                  <extent>x, [1], 166, [5] p., [76] leaves of plates (some folded)</extent>
+                  <extent>6 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/ercolani1744/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/49e2bbc2-b618-4548-b8a3-c5b4a9665c0c/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture, Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/ercolani1744/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49e2bbc2-b618-4548-b8a3-c5b4a9665c0c/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -107,57 +119,19 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture, Roman.</term>
+               <term>Architecture -- Orders</term>
+               <term>Architecture, Roman</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/eda7567a-f3bb-411c-bb40-84db74398db6">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>I tre ordini d'architettura dorico, jonico, e corintio [microform] : presi dalle fabbriche più celebri dell'antica Roma e posti in uso con un nuovo esattissimo metodo / opera di Neralco P.A.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985296203506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/r93q80</idno>
-            <idno type="cico">580</idno>
-            <idno type="dcl">12z</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>I tre ordini d'architettura dorico, jonico, e corintio [microform] : presi dalle fabbriche più celebri dell'antica Roma e posti in uso con un nuovo esattissimo metodo / opera di Neralco P.A.</title>
-                  <respStmt>
-                     <persName>Neralco, 1672 or 1673-1759.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Nella Stamperia di Antonio de'Rossi</publisher>
-                     <date>1744</date>
-                  </imprint>
-                  <extent>x, [1], 166, [5] p., [76] leaves of plates (some folded)</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/49e2bbc2-b618-4548-b8a3-c5b4a9665c0c/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49e2bbc2-b618-4548-b8a3-c5b4a9665c0c/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

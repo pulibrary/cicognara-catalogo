@@ -23,55 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dissertatio Inavgvralis De Colvmnis Hercvlis</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Schwarz, Christian Gottlieb, Author</authority>
-            <authority>Loehe, Johann Conrad, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-111772</idno>
-            <idno type="URI">http://portal.getty.edu/api/2j9n45</idno>
-            <idno type="cico">3336</idno>
-            <idno type="dcl">zjq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertatio Inavgvralis De Colvmnis Hercvlis</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Straße von Gibraltar</pubPlace>
-                     <pubPlace>Strait of Gibraltar</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>35.95 -5.6</pubPlace>
-                     <date>1749</date>
-                     <date>1749</date>
-                  </imprint>
-                  <extent>34 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/loehe1749/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/loehe1749/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dissertatio inauguralis de Columnis Herculis [microform] : quam incluti philosophorum ordinis auctoritate praeside Dom. Christiano Gottl. Schuuarzio ... ad obtinendos summos in philosophia honores XXVII Iunii A.S.R. [M] [D] CCXXXXVIIII publicae sollennique disquisitioni subiicit Iohannes Conradus Loehe ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +64,82 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gibraltar, Strait of -- Name.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/090227c9-d6b9-4e56-9748-5cf990d89763/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertatio Inavgvralis De Colvmnis Hercvlis</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Schwarz, Christian Gottlieb, Author</authority>
+            <authority>Loehe, Johann Conrad, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-111772</idno>
+            <idno type="URI">http://portal.getty.edu/api/2j9n45</idno>
+            <idno type="cico">3336</idno>
+            <idno type="dcl">zjq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertatio Inavgvralis De Colvmnis Hercvlis</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <pubPlace>Straße von Gibraltar</pubPlace>
+                     <pubPlace>Strait of Gibraltar</pubPlace>
+                     <pubPlace>WGS 84</pubPlace>
+                     <pubPlace>35.95 -5.6</pubPlace>
+                     <date>1749</date>
+                     <date>1749</date>
+                  </imprint>
+                  <extent>34 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/loehe1749/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>archaeology</term>
+               <term>topography</term>
+               <term>routes and roads</term>
+               <term>Archäologie</term>
+               <term>Topographie</term>
+               <term>Wege und Strassen</term>
+               <term>settlement and land use</term>
+               <term>Siedlungskunde</term>
+               <term>Cicognara</term>
+               <term>Parte Seconda</term>
+               <term>Erudizione varia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/loehe1749/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

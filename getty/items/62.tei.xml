@@ -27,56 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dell'origine di alcune arti principali appresso i Viniziani [microform] : libri due.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984940683506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/jc1s6d</idno>
-            <idno type="cico">62</idno>
-            <idno type="dcl">8zz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dell'origine di alcune arti principali appresso i Viniziani [microform] : libri due.</title>
-                  <respStmt>
-                     <persName>Zanetti, Girolamo Francesco, 1713-1782.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venezia : Appresso Stefano Orlandini</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1758</date>
-                  </imprint>
-                  <extent>[4], 100 p.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d38293db-0bc3-4ac6-8da8-b762ad68b2df/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d38293db-0bc3-4ac6-8da8-b762ad68b2df/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dell'origine di alcune arti principali appresso i viniziani, libri due.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -116,9 +66,86 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Shipbuilding -- Italy -- Venice -- History.</term>
+               <term>Cartography -- Italy -- Venice -- History.</term>
+               <term>Architecture -- Italy -- Venice -- History.</term>
+               <term>Sculpture -- Italy -- Venice -- History.</term>
+               <term>Jewelry -- Italy -- Venice -- History.</term>
+               <term>Architecture.</term>
+               <term>Cartography.</term>
+               <term>Jewelry.</term>
+               <term>Sculpture.</term>
+               <term>Shipbuilding.</term>
+               <term>Italy -- Venice.</term>
+               <term>VM80.V4 Z36 1758</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/73bc0101-8cca-4fac-b0c0-7520e33166c6">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'origine di alcune arti principali appresso i Viniziani [microform] : libri due.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940683506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/jc1s6d</idno>
+            <idno type="cico">62</idno>
+            <idno type="dcl">8zz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'origine di alcune arti principali appresso i Viniziani [microform] : libri due.</title>
+                  <respStmt>
+                     <persName>Zanetti, Girolamo Francesco, 1713-1782.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Appresso Stefano Orlandini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>[4], 100 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d38293db-0bc3-4ac6-8da8-b762ad68b2df/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Venice -- History.</term>
+               <term>Naval architecture -- Italy -- Venice -- History.</term>
+               <term>Shipbuilding -- Italy -- Venice -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d38293db-0bc3-4ac6-8da8-b762ad68b2df/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

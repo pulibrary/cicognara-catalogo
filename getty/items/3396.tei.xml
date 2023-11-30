@@ -60,9 +60,75 @@ direzione del sig. Pietro Benvenuti, <pubPlace>Firenze</pubPlace>, in 8.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Real Galleria di Firenze -- Catalogs.</term>
+               <term>Art -- Italy -- Florence -- Catalogs.</term>
+               <term>Painting -- Italy -- Florence -- Catalogs.</term>
+               <term>Sculpture -- Italy -- Florence -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0e9f1fab-2796-4b67-a37b-15d43330fc60/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reale Galleria di Firenze illustrata.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99497653504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/m71971</idno>
+            <idno>(OCoLC)973466332</idno>
+            <idno type="cico">3396</idno>
+            <idno type="dcl">7sb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Reale Galleria di Firenze illustrata.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze, Luigi di G. Molini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1817-1833</date>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>5 v. in 13</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99497653504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galleria degli Uffizi. -- Catalogs.</term>
+               <term>Art -- Italy -- Florence -- Catalogs</term>
+               <term>Painting -- Italy -- Florence -- Catalogs.</term>
+               <term>Sculpture -- Italy -- Florence -- Catalogs.</term>
+               <term>Provenance -- Society of Writers to H.M. Signet (Great Britain)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99497653504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

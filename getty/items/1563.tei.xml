@@ -23,56 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Monumenta latina postuma Josephi Averani J.C. Florentini in Pisano athenaeo antecessoris : nunc primum edita.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Monaldini, Venanzio.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9928838810001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/vz2x89</idno>
-            <idno>(OCoLC)28786466</idno>
-            <idno type="cico">1563</idno>
-            <idno type="cico">3945</idno>
-            <idno type="dcl">xz3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Monumenta latina postuma Josephi Averani J.C. Florentini in Pisano athenaeo antecessoris : nunc primum edita.</title>
-                  <respStmt>
-                     <persName>Averani, Giuseppe, 1662-1738</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Florentiae : Ex typographia Albizziniana :</publisher>
-                     <pubPlace>Italy Florence.</pubPlace>
-                     <date>1769</date>
-                  </imprint>
-                  <extent>VIII, 190, [2] p., [2] leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8bcc6281-44c3-4eb2-8878-5cbb0cace642"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8bcc6281-44c3-4eb2-8878-5cbb0cace642">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Monumenta latina postuma Josephi Averani J.C. Florentini in Pisano athenaeo antecessoris [microform] : nunc primum edita.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,9 +62,69 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/11d17f39-7888-4990-beec-7b28197c3203/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenta latina postuma Josephi Averani J.C. Florentini in Pisano athenaeo antecessoris : nunc primum edita.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Monaldini, Venanzio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928838810001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vz2x89</idno>
+            <idno>(OCoLC)28786466</idno>
+            <idno type="cico">1563</idno>
+            <idno type="cico">3945</idno>
+            <idno type="dcl">xz3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenta latina postuma Josephi Averani J.C. Florentini in Pisano athenaeo antecessoris : nunc primum edita.</title>
+                  <respStmt>
+                     <persName>Averani, Giuseppe, 1662-1738</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Florentiae : Ex typographia Albizziniana :</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>VIII, 190, [2] p., [2] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8bcc6281-44c3-4eb2-8878-5cbb0cace642"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8bcc6281-44c3-4eb2-8878-5cbb0cace642">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

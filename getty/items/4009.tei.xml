@@ -24,54 +24,6 @@ in 32 grandi tavole senza illustrazioni.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Les beautés de la France / par N. de Fer Geographe de sa Majesté Catolique et de Monseigneur le Dauphin.</title>
-            <respStmt>
-               <orgName>Dumbarton Oaks</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/huldo_990064814390203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/374p84</idno>
-            <idno>(OCoLC)82208970</idno>
-            <idno type="cico">4009</idno>
-            <idno type="dcl">82x</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Les beautés de la France / par N. de Fer Geographe de sa Majesté Catolique et de Monseigneur le Dauphin.</title>
-                  <respStmt>
-                     <persName>Fer, Nicolas de, 1646-1720.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez l'Auteur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royale</publisher>
-                     <pubPlace>France</pubPlace>
-                     <date>1708</date>
-                  </imprint>
-                  <extent>32 leaves of plates (some folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482447285"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482447285">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Les beautés de la France [microform] / par N. de Fer ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +63,71 @@ in 32 grandi tavole senza illustrazioni.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>France -- Pictorial works -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1cfe2072-e0b7-4bca-b283-8d113fba7ea2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les beautés de la France / par N. de Fer Geographe de sa Majesté Catolique et de Monseigneur le Dauphin.</title>
+            <respStmt>
+               <orgName>Dumbarton Oaks</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/huldo_990064814390203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/374p84</idno>
+            <idno>(OCoLC)82208970</idno>
+            <idno type="cico">4009</idno>
+            <idno type="dcl">82x</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les beautés de la France / par N. de Fer Geographe de sa Majesté Catolique et de Monseigneur le Dauphin.</title>
+                  <respStmt>
+                     <persName>Fer, Nicolas de, 1646-1720.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez l'Auteur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royale</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1708</date>
+                  </imprint>
+                  <extent>32 leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482447285"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>France -- Pictorial works -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482447285">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

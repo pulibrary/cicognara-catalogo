@@ -18,9 +18,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat par Matthys Pool.</title>
+            <title>Cabinet de l'art de schulpture [sic] [microform] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat ; par Matthys Pool.</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -29,39 +29,42 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Graat, Barend, 1628-1709</authority>
-            <authority>Pool, Matthys, 1670-approximately 1732</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926981790001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/54823b</idno>
-            <idno>(OCoLC)71645403</idno>
+            <authority>Graat, Barend, 1628-1709.</authority>
+            <authority>Pool, Matthys, 1670-approximately 1732.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984940513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6r7z1r</idno>
+            <idno>(OCoLC)78815221</idno>
             <idno type="cico">272</idno>
             <idno type="dcl">0cq</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat par Matthys Pool.</title>
-                  <respStmt>
-                     <persName>Bossuit, Francis van, 1635?-1692.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Dutch; Flemish</textLang>
+                  <title>Cabinet de l'art de schulpture [sic] [microform] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat ; par Matthys Pool.</title>
                   <textLang>French</textLang>
                   <imprint>
-                     <publisher>A Amsterdam : Chez Matthys Pool sur le leʻiose graft proche de heere graft</publisher>
-                     <pubPlace>Netherlands Amsterdam.</pubPlace>
-                     <date>MDCCXXVII [1727]</date>
+                     <publisher>Amsterdam : Matthys Pool</publisher>
                      <date>1727</date>
                   </imprint>
-                  <extent>103 [i.e. 99] leaves</extent>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>3 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d6b380f2-e458-4c59-b4ba-e28acfbd805d"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6bf60cdd-429a-40f7-9be7-deb5d0b60dd6/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bossuit, Francis van, 1635?-1692.</term>
+               <term>NB673.B67</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d6b380f2-e458-4c59-b4ba-e28acfbd805d">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6bf60cdd-429a-40f7-9be7-deb5d0b60dd6/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -110,6 +113,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bossuit, Francis van, 1635?-1692.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072001227471">
@@ -121,9 +131,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cabinet de l'art de schulpture [sic] [microform] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat ; par Matthys Pool.</title>
+            <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat par Matthys Pool.</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -132,34 +142,52 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Graat, Barend, 1628-1709.</authority>
-            <authority>Pool, Matthys, 1670-approximately 1732.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984940513506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/6r7z1r</idno>
-            <idno>(OCoLC)78815221</idno>
+            <authority>Graat, Barend, 1628-1709</authority>
+            <authority>Pool, Matthys, 1670-approximately 1732</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926981790001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/54823b</idno>
+            <idno>(OCoLC)71645403</idno>
             <idno type="cico">272</idno>
             <idno type="dcl">0cq</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Cabinet de l'art de schulpture [sic] [microform] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat ; par Matthys Pool.</title>
+                  <title>Cabinet de l'art de schulpture [sic] / par le fameux sculpteur Francis van Bossuit ; executé en yvoire ou ebauché en terre ; gravées d'apres les desseins de Barent Graat par Matthys Pool.</title>
+                  <respStmt>
+                     <persName>Bossuit, Francis van, 1635?-1692.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Dutch; Flemish</textLang>
                   <textLang>French</textLang>
                   <imprint>
-                     <publisher>Amsterdam : Matthys Pool</publisher>
+                     <publisher>A Amsterdam : Chez Matthys Pool sur le leʻiose graft proche de heere graft</publisher>
+                     <pubPlace>Netherlands Amsterdam.</pubPlace>
+                     <date>MDCCXXVII [1727]</date>
                      <date>1727</date>
                   </imprint>
-                  <extent>1 v. (unpaged)</extent>
-                  <extent>3 microfiche : positive.</extent>
+                  <extent>103 [i.e. 99] leaves</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6bf60cdd-429a-40f7-9be7-deb5d0b60dd6/manifest"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d6b380f2-e458-4c59-b4ba-e28acfbd805d"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bossuit, Francis van, 1635?-1692.</term>
+               <term>Bossuit, Francis van, 1635?-1692.</term>
+               <term>Ivory carving.</term>
+               <term>Ivories.</term>
+               <term>Ivories -- Early works to 1800.</term>
+               <term>Ivory carving -- Early works to 1800.</term>
+               <term>NB673.B67 C33 1727</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6bf60cdd-429a-40f7-9be7-deb5d0b60dd6/manifest">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d6b380f2-e458-4c59-b4ba-e28acfbd805d">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

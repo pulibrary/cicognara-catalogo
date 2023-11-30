@@ -28,6 +28,65 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Orazione inaugurale per l'apertura dell'Accademia nazionale di belle arti in Bologna / di G. Rossi, professore e segretario ; recitata il giorno 20 gennaro 1804.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Accademia di belle arti di Bologna.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991156543504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/mc0c14</idno>
+            <idno>(OCoLC)34260257</idno>
+            <idno type="cico">1346</idno>
+            <idno type="dcl">2ck</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione inaugurale per l'apertura dell'Accademia nazionale di belle arti in Bologna / di G. Rossi, professore e segretario ; recitata il giorno 20 gennaro 1804.</title>
+                  <respStmt>
+                     <persName>Rossi, Giacomo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Fratelli Masi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1804?</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>26 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991156543504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di belle arti di Bologna.</term>
+               <term>Art -- Italy -- Bologna.</term>
+               <term>Art -- Study and teaching -- Italy -- Bologna.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991156543504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Orazione inaugurale per l'apertura dell'Accademia nazionale di belle arti in Bologna [microform] / di G. Rossi ... ; recitata il giorno 20 gennaro 1804.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -69,6 +128,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di belle arti di Bologna.</term>
+               <term>Art -- Study and teaching -- Italy -- Bologna.</term>
+               <term>Art -- Italy -- Bologna.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cf49d7e6-5de4-478b-a3a1-77b8b4478542/manifest">

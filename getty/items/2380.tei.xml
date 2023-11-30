@@ -23,6 +23,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Storia dei letterati e degli artisti del dipartimento della Piave. Tomo I / di Stefano Ticozzi.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990054970480203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/5w4n1z</idno>
+            <idno>(OCoLC)71008949</idno>
+            <idno type="cico">2380</idno>
+            <idno type="dcl">hp1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Storia dei letterati e degli artisti del dipartimento della Piave. Tomo I / di Stefano Ticozzi.</title>
+                  <respStmt>
+                     <persName>Ticozzi, S. (Stefano), 1762-1836, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Belluno : Presso Francesc' Antonio Tissi</publisher>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>xviii, 242 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481794572"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Authors, Italian -- Biography</term>
+               <term>Authors, Italian</term>
+               <term>Art, Italian -- Piave. fal</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481794572">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Storia dei letterati e degli artisti del Dipartimento della Piave. T. I [microform] / di Stefano Ticozzi.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -62,56 +118,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Piave River Valley -- Biography.</term>
+               <term>Scholars -- Italy -- Piave River Valley -- Biography.</term>
+               <term>Piave River Valley (Italy) -- Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c1c5f7ae-067f-4a97-8180-ff9de9a70835/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Storia dei letterati e degli artisti del dipartimento della Piave. Tomo I / di Stefano Ticozzi.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990054970480203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/5w4n1z</idno>
-            <idno>(OCoLC)71008949</idno>
-            <idno type="cico">2380</idno>
-            <idno type="dcl">hp1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Storia dei letterati e degli artisti del dipartimento della Piave. Tomo I / di Stefano Ticozzi.</title>
-                  <respStmt>
-                     <persName>Ticozzi, S. (Stefano), 1762-1836, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Belluno : Presso Francesc' Antonio Tissi</publisher>
-                     <date>1813</date>
-                  </imprint>
-                  <extent>xviii, 242 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481794572"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481794572">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

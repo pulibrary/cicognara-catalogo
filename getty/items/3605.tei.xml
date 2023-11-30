@@ -28,60 +28,6 @@ Vedi per la colonna teodosiana Menetrei Claudii.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Columna Cochlis M. Aurelio Antonio Augusto Dicata eius rebus gestis in Germanicâ, atque Sarmaticâ expeditione insignis, ex S. C. Romae ad viam Flaminiam erecta, ac utriusque belli imaginibus anaglyphice insculpta</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bartoli, Pietro Santo, Editor</authority>
-            <authority>Bellori, Giovanni Pietro, Commentator for written text</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-35958</idno>
-            <idno type="URI">http://portal.getty.edu/api/kb6c0n</idno>
-            <idno type="cico">3605</idno>
-            <idno type="dcl">w2b</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Columna Cochlis M. Aurelio Antonio Augusto Dicata eius rebus gestis in Germanicâ, atque Sarmaticâ expeditione insignis, ex S. C. Romae ad viam Flaminiam erecta, ac utriusque belli imaginibus anaglyphice insculpta</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Mark-Aurel-Säule &lt;Rom&gt;</pubPlace>
-                     <pubPlace>Rom</pubPlace>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Italien</pubPlace>
-                     <pubPlace>Rome</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>41.89193 12.51133</pubPlace>
-                     <date>1704</date>
-                     <date>1704</date>
-                  </imprint>
-                  <extent>[2], 77, III Bl.</extent>
-                  <extent>nur Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartoli1704/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartoli1704/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Columna Cochlis M. Aurelio Antonino Augusto [microform] : dicata eius rebus gestis in Germanicâ, atque sarmaticâ expeditione insignis, ex. s.c. Romae ad viam Flaminiam erecta, ac utriusque belli imaginibus anaglyphice insculpta / brevibus notis Io. Petri Bellorii illustrata et a Petro Sancte Bartolo iuxta delineationes in Bibliothecâ Barberinâ asservatas, ac cum antiquis ipsius columnae signis collatas ae incisa iterum in lucem prodit sub faustissimis auspicijs sanctiss. d.n. papae Clementis XI.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -121,6 +67,13 @@ Vedi per la colonna teodosiana Menetrei Claudii.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Column of Marcus Aurelius (Rome, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/082b5c36-5155-469d-9404-83dc5b481ff6/manifest">
@@ -169,9 +122,70 @@ Vedi per la colonna teodosiana Menetrei Claudii.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Column of Marcus Aurelius (Rome, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0262d255-0688-440d-aa67-fe3aae029564/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stylobates columnae Antoninae, nuper e ruderibus campi martii, Iussu SS. D.N. Clementis XI. Effossus in tres tabulas distributus. Cura et impensis Dominici de Rubeis ad Sac. Aedem S.Mariae de Pace cum Privil. sum Pont. et Supl. Permissu.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aquila, Francesco Faraone, approximately 1676-1740.</authority>
+            <authority>Clement XI, Pope, 1649-1721.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99778153504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/9s2031</idno>
+            <idno>(OCoLC)973446485</idno>
+            <idno type="cico">3605</idno>
+            <idno type="dcl">dcr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Stylobates columnae Antoninae, nuper e ruderibus campi martii, Iussu SS. D.N. Clementis XI. Effossus in tres tabulas distributus. Cura et impensis Dominici de Rubeis ad Sac. Aedem S.Mariae de Pace cum Privil. sum Pont. et Supl. Permissu.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae, [Impensis Dominici de Rubeis ...]</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1708</date>
+                  </imprint>
+                  <extent>3 plates.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99778153504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Column of Marcus Aurelius (Rome, Italy)</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99778153504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

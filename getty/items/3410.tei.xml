@@ -65,9 +65,72 @@ MOLINARI Stefano. Vedi Scola italicae picturae cui va unito.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Kunsthistorisches Museum Wien. Gemäldegalerie -- Catalogs.</term>
+               <term>Painting, European -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/86d10ee8-c350-44ee-87de-75d425fd2a55/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des tableaux de la Galerie impʹeriale et royale de Vienne, composʹe par Chrʹetien de Mechel,d'après l'arrangement gu'il a fait de cette galerie en 1781.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Marquand, Allan, 1853-1924, donor.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920708173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/732613</idno>
+            <idno>(OCoLC)23618544</idno>
+            <idno type="cico">3410</idno>
+            <idno type="dcl">2kp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des tableaux de la Galerie impʹeriale et royale de Vienne, composʹe par Chrʹetien de Mechel,d'après l'arrangement gu'il a fait de cette galerie en 1781.</title>
+                  <respStmt>
+                     <persName>Kunsthistorisches Museum Wien. Gemäldegalerie.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Basle, L'auteur</publisher>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>xxx,384p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/854d32dd-8547-48e9-b12f-68649d8e2381/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>N1680 .A46</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/854d32dd-8547-48e9-b12f-68649d8e2381/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

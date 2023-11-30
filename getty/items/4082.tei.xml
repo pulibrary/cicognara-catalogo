@@ -22,56 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mémoire abrégé et recueil de quelques antiquités de la Suisse [microform] : avec des desseins levés sur les lieux depuis 1783 / par Mr. Ritter ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985461423506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/2c2x65</idno>
-            <idno type="cico">4082</idno>
-            <idno type="dcl">537</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Mémoire abrégé et recueil de quelques antiquités de la Suisse [microform] : avec des desseins levés sur les lieux depuis 1783 / par Mr. Ritter ...</title>
-                  <respStmt>
-                     <persName>Ritter, Erasmus, 1726-1805.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <publisher>Berne : [s.n.]</publisher>
-                     <pubPlace>Switzerland</pubPlace>
-                     <date>1788</date>
-                  </imprint>
-                  <extent>39 p., [9] leaves of plates</extent>
-                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3425c679-a816-4ee0-9a5a-01f99ac21352/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3425c679-a816-4ee0-9a5a-01f99ac21352/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Mémoire abrégé et recueil de quelques antiquités de la Suisse : avec des desseins levés sur les lieux depuis 1783 / par Mr. Ritter, intendant de L.L.E.E. et directeur à la douanne à Berne, architecte ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -112,9 +62,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Switzerland -- Antiquities -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>Switzerland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ca5873c2-71b1-406d-af54-0cfedd455818">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mémoire abrégé et recueil de quelques antiquités de la Suisse [microform] : avec des desseins levés sur les lieux depuis 1783 / par Mr. Ritter ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461423506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2c2x65</idno>
+            <idno type="cico">4082</idno>
+            <idno type="dcl">537</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Mémoire abrégé et recueil de quelques antiquités de la Suisse [microform] : avec des desseins levés sur les lieux depuis 1783 / par Mr. Ritter ...</title>
+                  <respStmt>
+                     <persName>Ritter, Erasmus, 1726-1805.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Berne : [s.n.]</publisher>
+                     <pubPlace>Switzerland</pubPlace>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>39 p., [9] leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3425c679-a816-4ee0-9a5a-01f99ac21352/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Switzerland -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3425c679-a816-4ee0-9a5a-01f99ac21352/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

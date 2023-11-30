@@ -26,62 +26,6 @@ perché le tavole estremamente logorate le sfigurano. Esemplare di dedica con ri
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Admiranda Romanarvm Antiqvitatvm Ac Veteris Scvlptvrae Vestigia: Anaglyphico Opere Elaborata Ex Marmoreis Exemplaribvs Qvae Romae Adhvc Extant In Capitolio Aedibvs Hortisqve Virorvm Principvm Ad Antiqvam Elegantiam</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bartoli, Pietro Santo, Author</authority>
-            <authority>Rossi, Giovanni Giacomo de, Editor</authority>
-            <authority>Rossi, Domenico de, Editor</authority>
-            <authority>Bellori, Giovanni Pietro, Commentator for written text</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-85947</idno>
-            <idno type="URI">http://portal.getty.edu/api/n34g17</idno>
-            <idno type="cico">3607</idno>
-            <idno type="dcl">bpg</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Admiranda Romanarvm Antiqvitatvm Ac Veteris Scvlptvrae Vestigia: Anaglyphico Opere Elaborata Ex Marmoreis Exemplaribvs Qvae Romae Adhvc Extant In Capitolio Aedibvs Hortisqve Virorvm Principvm Ad Antiqvam Elegantiam</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Rom</pubPlace>
-                     <pubPlace>Rom</pubPlace>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Italien</pubPlace>
-                     <pubPlace>Rome</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>41.89193 12.51133</pubPlace>
-                     <date>1693</date>
-                     <date>1693</date>
-                  </imprint>
-                  <extent>84 Bl.</extent>
-                  <extent>nur Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartoli1693/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bartoli1693/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Admiranda Romanarum antiquitatum [microform] : ac veteris sculpturae vestigia anaglyphico opere elaborata ex marmoreis exemplaribus quae Romae adhuc extant in Capitolio, aedibus, hortisque virorum principum ad antiquam elegantiam / a Petro Sancti Bartolo delineata, incisa in quibus plurima ac praeclarissima ad Romanam historiam ac veteres mores dignoscendos ob oculos ponuntur ; notis Io. Petri Bellorii illustrata ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -123,6 +67,15 @@ perché le tavole estremamente logorate le sfigurano. Esemplare di dedica con ri
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bas-relief -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Sculpture, Roman -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/95375933-d4a6-4ef0-95ca-7f8d23234f9f/manifest">

@@ -61,6 +61,13 @@ du Luxembourg</title>, <pubPlace>Paris</pubPlace> <date>1818</date>, in 8.</bibl
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Salon (Exhibition : Paris, France) (1775)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c6f4e746-e609-4e09-a799-c08f5c58e8c3/manifest">
@@ -107,9 +114,73 @@ du Luxembourg</title>, <pubPlace>Paris</pubPlace> <date>1818</date>, in 8.</bibl
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, French -- 19th century -- Exhibitions.</term>
+               <term>Sculpture, French -- 19th century -- Exhibitions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8e5a5e91-72a8-4dd9-9d5e-b65354cca178/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explication des ouvrages de peinture et sculpture, de lé̓cole moderne de France, exposés le 24 avril 1818, dans la gallerie royale du Luxembourg, destiné aux artistes vivants.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Musée national du Luxembourg (France)</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991357193504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/hh1f68</idno>
+            <idno>(OCoLC)78312996</idno>
+            <idno type="cico">4285</idno>
+            <idno type="dcl">xzc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Explication des ouvrages de peinture et sculpture, de lé̓cole moderne de France, exposés le 24 avril 1818, dans la gallerie royale du Luxembourg, destiné aux artistes vivants.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Didot</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>88 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991357193504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Musée national du Luxembourg (France) -- Exhibitions.</term>
+               <term>Painting -- France -- Paris -- Exhibitions.</term>
+               <term>Sculpture -- France -- Paris -- Exhibitions.</term>
+               <term>Painting, French -- 19th century -- Exhibitions</term>
+               <term>Sculpture, French -- 19th century -- Exhibitions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991357193504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

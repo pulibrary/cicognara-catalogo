@@ -64,6 +64,14 @@ proposto <publisher>Ant. Fran. Gori</publisher>, <pubPlace>Roma</pubPlace> <date
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Montferrat, Alessina de -- Seals.</term>
+               <term>Seals (Numismatics) -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f06d8cba-ff66-4937-bda6-cc5373589981/manifest">
@@ -117,6 +125,13 @@ proposto <publisher>Ant. Fran. Gori</publisher>, <pubPlace>Roma</pubPlace> <date
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Suetonius, approximately 69-approximately 122. Divus Claudius.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e8115578-a89b-4eea-a756-cb8dd88c61a8/manifest">
@@ -168,57 +183,16 @@ proposto <publisher>Ant. Fran. Gori</publisher>, <pubPlace>Roma</pubPlace> <date
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Capri (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6654ae6f-fc5b-4287-87cd-a9b534b1c56f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Breve istoria dell'antica città di Tadino nell'Umbria : ed esatta relazione delle ultime ricerche fatte sulle sue ruine / di Stefano Borgia.</title>
-            <respStmt>
-               <orgName>National Gallery of Art Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/nga_99802923504896</idno>
-            <idno type="URI">http://portal.getty.edu/api/1x1x67</idno>
-            <idno>(OCoLC)84284456</idno>
-            <idno type="cico">2710</idno>
-            <idno type="dcl">p84</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Breve istoria dell'antica città di Tadino nell'Umbria : ed esatta relazione delle ultime ricerche fatte sulle sue ruine / di Stefano Borgia.</title>
-                  <respStmt>
-                     <persName>Borgia, Stefano, 1731-1804.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Nella stamperia di Pallade a spese di Niccolò, e Marco Pagliarini, 1751</publisher>
-                     <pubPlace>Tadino (Ancient city)</pubPlace>
-                     <date>1751</date>
-                  </imprint>
-                  <extent>[52] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99802923504896.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99802923504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -267,9 +241,72 @@ proposto <publisher>Ant. Fran. Gori</publisher>, <pubPlace>Roma</pubPlace> <date
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tadino (Extinct city) -- Antiquites.</term>
+               <term>Tadino (Extinct city) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ebf1cb1e-53e4-4215-8f3a-02337166d0f7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breve istoria dell'antica città di Tadino nell'Umbria : ed esatta relazione delle ultime ricerche fatte sulle sue ruine / di Stefano Borgia.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99802923504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/1x1x67</idno>
+            <idno>(OCoLC)84284456</idno>
+            <idno type="cico">2710</idno>
+            <idno type="dcl">p84</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breve istoria dell'antica città di Tadino nell'Umbria : ed esatta relazione delle ultime ricerche fatte sulle sue ruine / di Stefano Borgia.</title>
+                  <respStmt>
+                     <persName>Borgia, Stefano, 1731-1804.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Pallade a spese di Niccolò, e Marco Pagliarini, 1751</publisher>
+                     <pubPlace>Tadino (Ancient city)</pubPlace>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>[52] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99802923504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tadino (Ancient city) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99802923504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -317,6 +354,14 @@ proposto <publisher>Ant. Fran. Gori</publisher>, <pubPlace>Roma</pubPlace> <date
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fontis, Aloisius de -- Medals.</term>
+               <term>Knights of Malta -- Medals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a9f67094-453c-46c5-bc62-65fba9de00bc/manifest">

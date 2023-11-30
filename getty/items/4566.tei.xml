@@ -23,53 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Catalogue d'une nombreuse collection d'estampes et de dessins de grands maitres, après le decès de Madame Alibert, et cessation de commerce de J. Guill. Alibert, marchand d'estampes.</title>
-            <respStmt>
-               <orgName>Frick Art Reference Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Regnault-Delalande, François Léandre, 1762-1824.</authority>
-            <idno type="URI">http://portal.getty.edu/books/frick_1145342076</idno>
-            <idno type="URI">http://portal.getty.edu/api/m02646</idno>
-            <idno>(OCoLC)1145342076</idno>
-            <idno type="cico">4566</idno>
-            <idno type="dcl">sk1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Catalogue d'une nombreuse collection d'estampes et de dessins de grands maitres, après le decès de Madame Alibert, et cessation de commerce de J. Guill. Alibert, marchand d'estampes.</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris : Chez Franç. Léand. Regnault</publisher>
-                     <pubPlace>France</pubPlace>
-                     <pubPlace>France.</pubPlace>
-                     <date>An XI (1803)</date>
-                     <date>1803</date>
-                  </imprint>
-                  <extent>1 online resource (viii, 167 pages)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072002713255"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072002713255">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Catalogue d'une nombreuse collection d'estampes et de dessins de grands maitres, après le decès de Madame Alibert, et cessation de commerce de J. Guill. Alibert, marchand d'estampes [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -107,9 +60,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>J. Guillaume Alibert (Firm) -- Catalogs.</term>
+               <term>Drawing -- France -- Catalogs.</term>
+               <term>Engraving -- France -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ad093483-5fad-490c-9519-e979f3c41a2a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une nombreuse collection d'estampes et de dessins de grands maitres, après le decès de Madame Alibert, et cessation de commerce de J. Guill. Alibert, marchand d'estampes.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Regnault-Delalande, François Léandre, 1762-1824.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1145342076</idno>
+            <idno type="URI">http://portal.getty.edu/api/m02646</idno>
+            <idno>(OCoLC)1145342076</idno>
+            <idno type="cico">4566</idno>
+            <idno type="dcl">sk1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une nombreuse collection d'estampes et de dessins de grands maitres, après le decès de Madame Alibert, et cessation de commerce de J. Guill. Alibert, marchand d'estampes.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Franç. Léand. Regnault</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <date>An XI (1803)</date>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>1 online resource (viii, 167 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072002713255"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>J. Guillaume Alibert (Firm) -- Catalogs.</term>
+               <term>Engraving -- France -- Catalogs.</term>
+               <term>Drawing -- France -- Catalogs.</term>
+               <term>Drawing.</term>
+               <term>Engraving.</term>
+               <term>France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072002713255">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

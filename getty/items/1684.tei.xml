@@ -26,54 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le costume des peuples de l'antiquité prouvé par les monuments [microform] / par André Lens ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985334883506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/c61h7p</idno>
-            <idno type="cico">1684</idno>
-            <idno type="dcl">4p8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le costume des peuples de l'antiquité prouvé par les monuments [microform] / par André Lens ...</title>
-                  <respStmt>
-                     <persName>Lens, André Corneille, 1739-1822.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Dresde : Chez Les Freres Walther</publisher>
-                     <date>1785</date>
-                  </imprint>
-                  <extent>LVI, 418 p., 36 leaves of plates</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/65092e06-fb0b-4557-8d76-8faaa1e7c656/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/65092e06-fb0b-4557-8d76-8faaa1e7c656/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le costume des peuples de l'antiquité, prouvé par les monuments. Par André Lens ... Avec LVII. estampes.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -111,9 +63,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Costume -- History.</term>
+               <term>Costume.</term>
+               <term>GT530 .L5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ee3d5723-b4c0-4f2a-ad97-46b5b9b9f8d2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le costume des peuples de l'antiquité prouvé par les monuments [microform] / par André Lens ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c61h7p</idno>
+            <idno type="cico">1684</idno>
+            <idno type="dcl">4p8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le costume des peuples de l'antiquité prouvé par les monuments [microform] / par André Lens ...</title>
+                  <respStmt>
+                     <persName>Lens, André Corneille, 1739-1822.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Dresde : Chez Les Freres Walther</publisher>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>LVI, 418 p., 36 leaves of plates</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/65092e06-fb0b-4557-8d76-8faaa1e7c656/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Costume -- Early works to 1800.</term>
+               <term>Costume -- History -- To 500.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/65092e06-fb0b-4557-8d76-8faaa1e7c656/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

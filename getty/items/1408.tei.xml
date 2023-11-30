@@ -27,50 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Historica Narratio Profectionis Et Inavgvrationis  Serenissimorvm  Belgii Principvm  Alberti Et Isabellae, Avstriae  Archiducvm: Et eorum optatissimi in Belgium Aduentus, Rerumque gestarum et memorabilium, Gratulationum, Apparatum, et Spectaculorum in ipsorum Susceptione et Inavgvratione hactenus editorum accurata Descriptio</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Boch, Johann, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280553</idno>
-            <idno type="URI">http://portal.getty.edu/api/p70m0k</idno>
-            <idno type="cico">1408</idno>
-            <idno type="dcl">m2d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Historica Narratio Profectionis Et Inavgvrationis  Serenissimorvm  Belgii Principvm  Alberti Et Isabellae, Avstriae  Archiducvm: Et eorum optatissimi in Belgium Aduentus, Rerumque gestarum et memorabilium, Gratulationum, Apparatum, et Spectaculorum in ipsorum Susceptione et Inavgvratione hactenus editorum accurata Descriptio</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1602</date>
-                     <date>1602</date>
-                  </imprint>
-                  <extent>500 S., [6] Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/boch1602/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/boch1602/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Historica narratio profectionis et inaugurationis serenissimorum Belgii principum Alberti et Isabellae, Austriae archiducum [microform] : et eorum optatissimi in Belgium aduentus, rerumque gestarum et memorabilium, gratulationum, apparatuum, et spectaculorum in ipsorum susceptione et inauguratione hactenus editorum accurata descriptio / auctore Ioanne Bochio ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,6 +65,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Albrecht VII, Archduke of Austria, 1559-1621.</term>
+               <term>Isabella Clara Eugenia, Infanta of Spain, 1566-1633.</term>
+               <term>Festivals -- Belgium -- History -- 17th century.</term>
+               <term>Triumphal arches -- Belgium -- Antwerp -- History -- 17th century.</term>
+               <term>Visits of state -- Belgium -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/87e44c22-0eef-4d7f-9298-a08edb1d6421/manifest">

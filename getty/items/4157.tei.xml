@@ -23,6 +23,60 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Le guide d'Amsterdam avec la description de tout ce qu'il y a de plus intéressant [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428283506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/vp7b2q</idno>
+            <idno type="cico">4157</idno>
+            <idno type="dcl">x5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le guide d'Amsterdam avec la description de tout ce qu'il y a de plus intéressant [microform].</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam : Chès J. Cóvens &amp; Fils</publisher>
+                     <pubPlace>Amsterdam (Netherlands)</pubPlace>
+                     <date>1793</date>
+                  </imprint>
+                  <extent>339 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b4c5191e-c59f-4ace-ac3c-d2d394038618/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Amsterdam (Netherlands) -- Guidebooks -- Early works to 1800.</term>
+               <term>Amsterdam (Netherlands) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b4c5191e-c59f-4ace-ac3c-d2d394038618/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Le guide d'Amsterdam : avec la description de tout ce qu'il y a de plus intéressant.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -60,55 +114,20 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Amsterdam (Netherlands) -- Guidebooks -- Early works to 1800.</term>
+               <term>Amsterdam (Netherlands) -- Description and travel -- Early works to 1800.</term>
+               <term>Amsterdam (Netherlands) -- History -- Early works to 1800.</term>
+               <term>Netherlands -- Amsterdam.</term>
+               <term>DJ16 .G84 1793</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/51f253c0-3b92-4620-b4e4-a3155ab67685">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Le guide d'Amsterdam avec la description de tout ce qu'il y a de plus intéressant [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985428283506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/vp7b2q</idno>
-            <idno type="cico">4157</idno>
-            <idno type="dcl">x5c</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le guide d'Amsterdam avec la description de tout ce qu'il y a de plus intéressant [microform].</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Amsterdam : Chès J. Cóvens &amp; Fils</publisher>
-                     <pubPlace>Amsterdam (Netherlands)</pubPlace>
-                     <date>1793</date>
-                  </imprint>
-                  <extent>339 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b4c5191e-c59f-4ace-ac3c-d2d394038618/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b4c5191e-c59f-4ace-ac3c-d2d394038618/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

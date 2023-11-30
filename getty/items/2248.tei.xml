@@ -66,9 +66,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Malvasia, Carlo Cesare, conte, 1616-1693.</term>
+               <term>Painters -- Italy -- Bologna -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9f0dacb2-c480-4721-aaf2-b404d5bf8e48/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori bolognesi non descritte nella Felsina pittrice ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Malvasia, Carlo Cesare, conte, 1616-1693. Felsina pittrice.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99525313504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/z69g92</idno>
+            <idno>(OCoLC)09269853</idno>
+            <idno type="cico">2248</idno>
+            <idno type="dcl">506</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori bolognesi non descritte nella Felsina pittrice ...</title>
+                  <respStmt>
+                     <persName>Crespi, Luigi, 1709-1779.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma, Stamperia di M. Pagliarini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>xx, 344 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99525313504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Malvasia, Carlo Cesare, conte, 1616-1693.</term>
+               <term>Painters -- Italy -- Bologna.</term>
+               <term>Artists -- Portraits.</term>
+               <term>ND621.B7 M2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99525313504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

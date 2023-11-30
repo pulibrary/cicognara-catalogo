@@ -26,6 +26,62 @@ ragguaglio storico.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Histoire métallique de la révolution française, ou, Recueil des médailles et des monnoies : qui ont été frappées depuis la convocation des États-généraux jusqu'aux premières campagnes de l'armée d'Italie / par A.L. Millin.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990073146010203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/8w576t</idno>
+            <idno>(OCoLC)1155217347</idno>
+            <idno type="cico">2931</idno>
+            <idno type="dcl">q2d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire métallique de la révolution française, ou, Recueil des médailles et des monnoies : qui ont été frappées depuis la convocation des États-généraux jusqu'aux premières campagnes de l'armée d'Italie / par A.L. Millin.</title>
+                  <respStmt>
+                     <persName>Millin, A. L. (Aubin Louis), 1759-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : De l'Imprimerie impériale</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>x, 62, [2] p., 26 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493834682"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- France</term>
+               <term>France -- History -- Revolution, 1789-1799.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493834682">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Histoire métallique de la révolution française, ou, Recueil des médailles et des monnoies [microform] : qui ont été frappées depuis la convocation des États-généraux jusqu'aux premières campagnes de l'armée d'Italie / par A.L. Millin.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,57 +122,17 @@ ragguaglio storico.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- France.</term>
+               <term>France -- History -- Revolution, 1789-1799.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a7302aa-f90a-4be3-9b68-4b6c1fc3689d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Histoire métallique de la révolution française, ou, Recueil des médailles et des monnoies : qui ont été frappées depuis la convocation des États-généraux jusqu'aux premières campagnes de l'armée d'Italie / par A.L. Millin.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990073146010203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/8w576t</idno>
-            <idno>(OCoLC)1155217347</idno>
-            <idno type="cico">2931</idno>
-            <idno type="dcl">q2d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Histoire métallique de la révolution française, ou, Recueil des médailles et des monnoies : qui ont été frappées depuis la convocation des États-généraux jusqu'aux premières campagnes de l'armée d'Italie / par A.L. Millin.</title>
-                  <respStmt>
-                     <persName>Millin, A. L. (Aubin Louis), 1759-1818.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris : De l'Imprimerie impériale</publisher>
-                     <pubPlace>France</pubPlace>
-                     <date>1806</date>
-                  </imprint>
-                  <extent>x, 62, [2] p., 26 leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493834682"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493834682">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

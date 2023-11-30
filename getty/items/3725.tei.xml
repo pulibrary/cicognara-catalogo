@@ -22,51 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Joannis Schefferi ... De antiquorum torqvibvs syntagma</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Scheffer, Johannes, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-111762</idno>
-            <idno type="URI">http://portal.getty.edu/api/b56z9g</idno>
-            <idno type="cico">3725</idno>
-            <idno type="dcl">g5t</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Joannis Schefferi ... De antiquorum torqvibvs syntagma</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Römisches Reich</pubPlace>
-                     <date>1656</date>
-                     <date>1656</date>
-                  </imprint>
-                  <extent>[1] Bl., 62 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/scheffer1656/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/scheffer1656/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Emundi Figrelii De statuis illustrium Romanorum [microform] : liber singularis.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -105,53 +60,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2d757997-e996-4a06-98f8-cf1b08c94692/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Emvndi Figrelii De statuis illustrium Romanorvm liber singvlaris</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Figrelius, Edmund, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-111752</idno>
-            <idno type="URI">http://portal.getty.edu/api/c33570</idno>
-            <idno type="cico">3725</idno>
-            <idno type="dcl">g5t</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Emvndi Figrelii De statuis illustrium Romanorvm liber singvlaris</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1656</date>
-                     <date>1656</date>
-                  </imprint>
-                  <extent>[8] Bl., 327, [1] S., [4] Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/figrelius1656/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/figrelius1656/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

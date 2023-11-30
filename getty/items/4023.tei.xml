@@ -25,56 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Essais historiques et topographiques sur l'église cathédrale de Strasbourg</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-267049</idno>
-            <idno type="URI">http://portal.getty.edu/api/f83w11</idno>
-            <idno type="cico">4023</idno>
-            <idno type="dcl">s8d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Essais historiques et topographiques sur l'église cathédrale de Strasbourg</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <pubPlace>Straßburg</pubPlace>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Frankreich</pubPlace>
-                     <pubPlace>Strasbourg</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>France</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>48.58392 7.74553</pubPlace>
-                     <date>1782</date>
-                     <date>1782</date>
-                  </imprint>
-                  <extent>[8] Bl., 436 S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/grandidier1782bd1/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/grandidier1782bd1/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Essais historiques et topographiques sur l'eglise cathédrale de Strasbourg [microform] / par M. l'Abbé Grandidier ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,6 +64,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cathédrale de Strasbourg.</term>
+               <term>Strasbourg (France) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3914380c-b2fe-4d39-8a8f-d7bf0552a0ca/manifest">

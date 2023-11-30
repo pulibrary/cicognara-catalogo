@@ -25,52 +25,6 @@ intagliate da Stefano della Bella.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Descrizione della regia villa, fontane e fabbriche de Pratolino</title>
-            <respStmt>
-               <orgName>Metropolitan Museum of Art</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Della Bella, Stefano, 1610-1664</authority>
-            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_38738</idno>
-            <idno type="dcl">3gt</idno>
-            <idno type="cico">4097</idno>
-            <idno type="URI">http://portal.getty.edu/api/5p8w75</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Descrizione della regia villa, fontane e fabbriche de Pratolino</title>
-                  <respStmt>
-                     <persName>Sgrilli, Bernardo Sansone, conte, active 1733-1755</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Firenze : Nella stamperia granducale, per i Tartini, e Franchi</publisher>
-                  </imprint>
-                  <extent>27 p., [12] folded leaves of plates : ill., plans ; 35 cm</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38738/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38738/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Descrizione della regia villa, fontane e fabbriche di Pratolino [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -110,9 +64,70 @@ intagliate da Stefano della Bella.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pratolino (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb348ad2-b2cd-470e-a507-2ed96bd1ba0f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della regia villa, fontane e fabbriche de Pratolino</title>
+            <respStmt>
+               <orgName>Metropolitan Museum of Art</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Della Bella, Stefano, 1610-1664</authority>
+            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_38738</idno>
+            <idno type="dcl">3gt</idno>
+            <idno type="cico">4097</idno>
+            <idno type="URI">http://portal.getty.edu/api/5p8w75</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della regia villa, fontane e fabbriche de Pratolino</title>
+                  <respStmt>
+                     <persName>Sgrilli, Bernardo Sansone, conte, active 1733-1755</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia granducale, per i Tartini, e Franchi</publisher>
+                  </imprint>
+                  <extent>27 p., [12] folded leaves of plates : ill., plans ; 35 cm</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38738/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pratolino (Italy) Buildings, structures, etc. Early works to 1800</term>
+               <term>Pratolino (Italy) Description and travel Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38738/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

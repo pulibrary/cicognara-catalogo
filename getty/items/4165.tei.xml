@@ -25,55 +25,6 @@ volumetto d’oltre 100 pagine. Questo Calvi era il padre priore degli Agostinia
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le misteriose pitture del Palazzo Moroni [microform] / spiegate dall'ansioso accademico Donato Calvi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985463083506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ff7s7w</idno>
-            <idno type="cico">4165</idno>
-            <idno type="dcl">569</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le misteriose pitture del Palazzo Moroni [microform] / spiegate dall'ansioso accademico Donato Calvi.</title>
-                  <respStmt>
-                     <persName>Calvi, Donato.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bergamo : Per Marc'Antonio Rossi</publisher>
-                     <date>1655</date>
-                  </imprint>
-                  <extent>92 p.</extent>
-                  <extent>2 microfiches : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a2f3fb54-eba3-4bb3-a8d2-e9070b3d690d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a2f3fb54-eba3-4bb3-a8d2-e9070b3d690d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le misteriose pitture del Palazzo Moroni / spiegate dall'ansioso accademico Donato Calvi, vice prencipe dell' Accademia delli Eccitati ; all' illustrissimo signor Francesco Moroni.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,9 +66,80 @@ volumetto d’oltre 100 pagine. Questo Calvi era il padre priore degli Agostinia
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo Moroni (Bergamo, Italy)</term>
+               <term>Mural painting and decoration -- Italy -- Bergamo -- Early works to 1800.</term>
+               <term>Mural painting and decoration, Italian -- 17th century -- Themes, motives.</term>
+               <term>Painting, Italian.</term>
+               <term>Mural painting and decoration, Italian -- Themes, motives.</term>
+               <term>Mural painting and decoration.</term>
+               <term>Painting, Italian.</term>
+               <term>Italy -- Bergamo.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2ec4e3a7-6554-4709-a6ff-18f11cfaf20e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le misteriose pitture del Palazzo Moroni [microform] / spiegate dall'ansioso accademico Donato Calvi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985463083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ff7s7w</idno>
+            <idno type="cico">4165</idno>
+            <idno type="dcl">569</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le misteriose pitture del Palazzo Moroni [microform] / spiegate dall'ansioso accademico Donato Calvi.</title>
+                  <respStmt>
+                     <persName>Calvi, Donato.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bergamo : Per Marc'Antonio Rossi</publisher>
+                     <date>1655</date>
+                  </imprint>
+                  <extent>92 p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a2f3fb54-eba3-4bb3-a8d2-e9070b3d690d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo Moroni (Bergamo, Italy)</term>
+               <term>Painting, Italian -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a2f3fb54-eba3-4bb3-a8d2-e9070b3d690d/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

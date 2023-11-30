@@ -62,9 +62,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chiesa di S. Francesco (Perugia, Italy)</term>
+               <term>Chapels -- Italy -- Perugia.</term>
+               <term>Oratories -- Italy -- Perugia.</term>
+               <term>Sepulchral chapels -- Italy -- Perugia.</term>
+               <term>Perugia (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/67dc3394-ff76-476b-be1f-0d9b285b8408/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della chiesa di S. Francesco de' PP. Minori conventuali della citta' di Perugia ... / raccolte da un religioso dello stesso ordine.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Modestini, Giuseppe Maria.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99833613504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/z21609</idno>
+            <idno>(OCoLC)29282963</idno>
+            <idno type="cico">4300</idno>
+            <idno type="dcl">30d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della chiesa di S. Francesco de' PP. Minori conventuali della citta' di Perugia ... / raccolte da un religioso dello stesso ordine.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Presso Carlo Baduel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Perugia (Italy)</pubPlace>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>xxiv, 79 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99833613504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chiesa di San Francesco al Prato (Perugia, Italy)</term>
+               <term>Chapels -- Italy -- Perugia.</term>
+               <term>Oratories -- Italy -- Perugia.</term>
+               <term>Sepulchral chapels -- Italy -- Perugia.</term>
+               <term>Perugia (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99833613504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

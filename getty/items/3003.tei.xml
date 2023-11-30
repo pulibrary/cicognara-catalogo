@@ -26,6 +26,67 @@ indicati.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Illvstratione de gli epitaffi et medaglie antiche, di M. Gabriel Symeoni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922550210001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/530476</idno>
+            <idno>(OCoLC)17572461</idno>
+            <idno type="cico">3003</idno>
+            <idno type="dcl">b8m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Illvstratione de gli epitaffi et medaglie antiche, di M. Gabriel Symeoni.</title>
+                  <respStmt>
+                     <persName>Simeoni, Gabriele, 1509-1575</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Lione, G. van Tovrnes</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <pubPlace>Rome (Empire)</pubPlace>
+                     <date>1558</date>
+                  </imprint>
+                  <extent>8 preliminary leaves, 174 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f7b15358-f905-4d25-bccd-c022459873dc"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals, Ancient -- Early works to 1800.</term>
+               <term>Epitaphs -- Rome -- Early works to 1800.</term>
+               <term>Epitaphs.</term>
+               <term>Medals, Ancient.</term>
+               <term>Rome (Empire)</term>
+               <term>CJ5615.S55 I4 1558</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f7b15358-f905-4d25-bccd-c022459873dc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Illustratione de gli epitaffi et medaglie antiche [microform] / di M. Gabriel Symeoni.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -65,58 +126,18 @@ indicati.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Epitaphs -- Rome -- Early works to 1800.</term>
+               <term>Medals, Ancient.</term>
+               <term>Medals, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/36d25a8c-d18f-4c10-86cb-4baf1e822684/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Illvstratione de gli epitaffi et medaglie antiche, di M. Gabriel Symeoni.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9922550210001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/530476</idno>
-            <idno>(OCoLC)17572461</idno>
-            <idno type="cico">3003</idno>
-            <idno type="dcl">b8m</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Illvstratione de gli epitaffi et medaglie antiche, di M. Gabriel Symeoni.</title>
-                  <respStmt>
-                     <persName>Simeoni, Gabriele, 1509-1575</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Lione, G. van Tovrnes</publisher>
-                     <pubPlace>Rome</pubPlace>
-                     <pubPlace>Rome (Empire)</pubPlace>
-                     <date>1558</date>
-                  </imprint>
-                  <extent>8 preliminary leaves, 174 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f7b15358-f905-4d25-bccd-c022459873dc"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f7b15358-f905-4d25-bccd-c022459873dc">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

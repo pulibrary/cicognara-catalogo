@@ -30,9 +30,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Oeuvres d'architecture de Vincent Scamozzi Vicentin ...: contenuës dans son idée de l'architecture universelle</title>
+            <title>Oeuvres d'architecture de Vincent Scamozzi vicentin, architecte de la republique de Venise, contenuës dans son idée de l'architecture universelle : dont les regles des cinq ordres, que le sixième livre contient ont été traduites en françois / par Mr. Augustin Charles D'Aviler ... ; &amp; le reste traduit nouvellement par Mr. Samuel Du Ry ... ; avec les planches originales ; le tout revü &amp; exactement corrigé sur l'original italien ; on y a joint aussi plusieurs nouveaux desseins des plus beaux edifices de Rome, dont l'auteur parle dans son ouvrage.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -41,32 +41,46 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Scamozzi, Vincenzo, Author</authority>
-            <authority>Daviler, Augustin Charles, Translator</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16779</idno>
-            <idno type="URI">http://portal.getty.edu/api/qz9t6c</idno>
+            <authority>Aviler, Augustin-Charles d', 1653-1701.</authority>
+            <authority>Du Ry de Champdoré, Samuel.</authority>
+            <authority>Sluiter, Pieter, 1675-approximately 1713</authority>
+            <authority>Goeree, Jan, 1670-1731</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923838380001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/fm128v</idno>
+            <idno>(OCoLC)52155968</idno>
             <idno type="cico">655</idno>
             <idno type="dcl">q7z</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Oeuvres d'architecture de Vincent Scamozzi Vicentin ...: contenuës dans son idée de l'architecture universelle</title>
+                  <title>Oeuvres d'architecture de Vincent Scamozzi vicentin, architecte de la republique de Venise, contenuës dans son idée de l'architecture universelle : dont les regles des cinq ordres, que le sixième livre contient ont été traduites en françois / par Mr. Augustin Charles D'Aviler ... ; &amp; le reste traduit nouvellement par Mr. Samuel Du Ry ... ; avec les planches originales ; le tout revü &amp; exactement corrigé sur l'original italien ; on y a joint aussi plusieurs nouveaux desseins des plus beaux edifices de Rome, dont l'auteur parle dans son ouvrage.</title>
+                  <respStmt>
+                     <persName>Scamozzi, Vincenzo, 1552-1616.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1713</date>
+                     <publisher>A Leide : Chez Pierre Vander Aa</publisher>
                      <date>1713</date>
                   </imprint>
-                  <extent>[9] Bl., 276 S.</extent>
-                  <extent>Ill., graph. Darst.</extent>
+                  <extent>[16], 276 p., [23] leaves of plates (3 folded)</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1713/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f0d88738-575c-4d87-b16c-5ce645d1395a"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/scamozzi1713/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f0d88738-575c-4d87-b16c-5ce645d1395a">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -114,60 +128,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/01e4dfc0-285d-46db-af7d-867a4dc5e738/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Oeuvres d'architecture de Vincent Scamozzi vicentin, architecte de la republique de Venise, contenuës dans son idée de l'architecture universelle : dont les regles des cinq ordres, que le sixième livre contient ont été traduites en françois / par Mr. Augustin Charles D'Aviler ... ; &amp; le reste traduit nouvellement par Mr. Samuel Du Ry ... ; avec les planches originales ; le tout revü &amp; exactement corrigé sur l'original italien ; on y a joint aussi plusieurs nouveaux desseins des plus beaux edifices de Rome, dont l'auteur parle dans son ouvrage.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Aviler, Augustin-Charles d', 1653-1701.</authority>
-            <authority>Du Ry de Champdoré, Samuel.</authority>
-            <authority>Sluiter, Pieter, 1675-approximately 1713</authority>
-            <authority>Goeree, Jan, 1670-1731</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923838380001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/fm128v</idno>
-            <idno>(OCoLC)52155968</idno>
-            <idno type="cico">655</idno>
-            <idno type="dcl">q7z</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Oeuvres d'architecture de Vincent Scamozzi vicentin, architecte de la republique de Venise, contenuës dans son idée de l'architecture universelle : dont les regles des cinq ordres, que le sixième livre contient ont été traduites en françois / par Mr. Augustin Charles D'Aviler ... ; &amp; le reste traduit nouvellement par Mr. Samuel Du Ry ... ; avec les planches originales ; le tout revü &amp; exactement corrigé sur l'original italien ; on y a joint aussi plusieurs nouveaux desseins des plus beaux edifices de Rome, dont l'auteur parle dans son ouvrage.</title>
-                  <respStmt>
-                     <persName>Scamozzi, Vincenzo, 1552-1616.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Leide : Chez Pierre Vander Aa</publisher>
-                     <date>1713</date>
-                  </imprint>
-                  <extent>[16], 276 p., [23] leaves of plates (3 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f0d88738-575c-4d87-b16c-5ce645d1395a"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f0d88738-575c-4d87-b16c-5ce645d1395a">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

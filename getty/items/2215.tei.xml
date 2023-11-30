@@ -22,55 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Elogio di Pompeo Girolamo Batoni [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985449773506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/0g6s1v</idno>
-            <idno type="cico">2215</idno>
-            <idno type="dcl">z84</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Elogio di Pompeo Girolamo Batoni [microform].</title>
-                  <respStmt>
-                     <persName>Boni, Onofrio, 1743-1818.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Nella stamperia Pagliarini</publisher>
-                     <date>1787</date>
-                  </imprint>
-                  <extent>LXXII p.</extent>
-                  <extent>2 microfiches : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6a24fa53-7d0c-42e6-b187-cebcba33f267/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a24fa53-7d0c-42e6-b187-cebcba33f267/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Elogio di Pompeo Girolamo Batoni.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -110,9 +61,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Batoni, Pompeo, 1708-1787.</term>
+               <term>Batoni, Pompeo, 1708-1787</term>
+               <term>Provenance -- Trissino (Leonardo)</term>
+               <term>ND623.B34 B6 1787</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5328fb7c-9c35-43e1-be82-777a9fc32e7d">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio di Pompeo Girolamo Batoni [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0g6s1v</idno>
+            <idno type="cico">2215</idno>
+            <idno type="dcl">z84</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio di Pompeo Girolamo Batoni [microform].</title>
+                  <respStmt>
+                     <persName>Boni, Onofrio, 1743-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia Pagliarini</publisher>
+                     <date>1787</date>
+                  </imprint>
+                  <extent>LXXII p.</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6a24fa53-7d0c-42e6-b187-cebcba33f267/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Batoni, Pompeo, 1708-1787.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a24fa53-7d0c-42e6-b187-cebcba33f267/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

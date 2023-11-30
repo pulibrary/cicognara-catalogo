@@ -28,9 +28,9 @@ in cui gl’inglesi primeggiano sulle altre nazioni.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Antiquities of Great Britain : illustrated in views of monasteries, castles, and churches, now existing / engraved by W. Byrne from drawings made by Thomas Hearne ; with descriptions in English and French.</title>
+            <title>Antiquities of Great Britain, illustrated in views of monasteries, castles, and churches, now existing. Engraved by W. Byrne, F.S.A., from drawings made by Thomas Hearne, F.S.A. With descriptions in English and in French.</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -39,10 +39,9 @@ in cui gl’inglesi primeggiano sulle altre nazioni.</note>
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Byrne, William, 1743-1805</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927481460001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/nb4395</idno>
-            <idno type="URI">http://portal.getty.edu/api/ws0m0t</idno>
+            <authority>Hearne, Thomas, 1744-1817.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991810633504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/4z8g93</idno>
             <idno>(OCoLC)44514758</idno>
             <idno type="cico">3936</idno>
             <idno type="dcl">535</idno>
@@ -50,32 +49,42 @@ in cui gl’inglesi primeggiano sulle altre nazioni.</note>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Antiquities of Great Britain : illustrated in views of monasteries, castles, and churches, now existing / engraved by W. Byrne from drawings made by Thomas Hearne ; with descriptions in English and French.</title>
+                  <title>Antiquities of Great Britain, illustrated in views of monasteries, castles, and churches, now existing. Engraved by W. Byrne, F.S.A., from drawings made by Thomas Hearne, F.S.A. With descriptions in English and in French.</title>
                   <respStmt>
-                     <persName>Hearne, Thomas, 1744-1817</persName>
+                     <persName>Byrne, William, 1743-1805</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>English</textLang>
+                  <textLang>French</textLang>
                   <imprint>
-                     <publisher>London : Printed for T. Cadell and W. Davies</publisher>
+                     <publisher>London, Printed by T. Cadell and W. Davies</publisher>
+                     <pubPlace>England</pubPlace>
+                     <pubPlace>England.</pubPlace>
                      <pubPlace>Great Britain.</pubPlace>
                      <pubPlace>Great Britain</pubPlace>
                      <date>1807</date>
                   </imprint>
                   <extent>2 v.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/5a60f789-9afb-4c01-b8a3-7436a8aee9b5https://media.getty.edu/iiif/manifest/6a7bbdf1-91de-4be4-9701-1da6c36603ea"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991810633504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monasteries -- England</term>
+               <term>Castles -- England.</term>
+               <term>Architecture -- Great Britain.</term>
+               <term>Great Britain -- Antiquities.</term>
+               <term>Great Britain -- Description and travel.</term>
+               <term>Great Britain -- Pictorial works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5a60f789-9afb-4c01-b8a3-7436a8aee9b5">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6a7bbdf1-91de-4be4-9701-1da6c36603ea">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991810633504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -128,9 +137,93 @@ in cui gl’inglesi primeggiano sulle altre nazioni.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Great Britain.</term>
+               <term>Castles -- England.</term>
+               <term>Great Britain -- Pictorial works.</term>
+               <term>Monasteries -- England.</term>
+               <term>Great Britain -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/17847fbb-2e70-43f8-b1dd-97f5320df69d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiquities of Great Britain : illustrated in views of monasteries, castles, and churches, now existing / engraved by W. Byrne from drawings made by Thomas Hearne ; with descriptions in English and French.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Byrne, William, 1743-1805</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927481460001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/nb4395</idno>
+            <idno type="URI">http://portal.getty.edu/api/ws0m0t</idno>
+            <idno>(OCoLC)44514758</idno>
+            <idno type="cico">3936</idno>
+            <idno type="dcl">535</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antiquities of Great Britain : illustrated in views of monasteries, castles, and churches, now existing / engraved by W. Byrne from drawings made by Thomas Hearne ; with descriptions in English and French.</title>
+                  <respStmt>
+                     <persName>Hearne, Thomas, 1744-1817</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed for T. Cadell and W. Davies</publisher>
+                     <pubPlace>Great Britain.</pubPlace>
+                     <pubPlace>Great Britain</pubPlace>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/5a60f789-9afb-4c01-b8a3-7436a8aee9b5https://media.getty.edu/iiif/manifest/6a7bbdf1-91de-4be4-9701-1da6c36603ea"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monasteries -- Great Britain.</term>
+               <term>Castles -- Great Britain.</term>
+               <term>Church buildings -- Great Britain.</term>
+               <term>Architecture -- Great Britain.</term>
+               <term>Great Britain -- Antiquities.</term>
+               <term>Antiquities</term>
+               <term>Architecture</term>
+               <term>Castles</term>
+               <term>Church buildings</term>
+               <term>Monasteries</term>
+               <term>Great Britain</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5a60f789-9afb-4c01-b8a3-7436a8aee9b5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6a7bbdf1-91de-4be4-9701-1da6c36603ea">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

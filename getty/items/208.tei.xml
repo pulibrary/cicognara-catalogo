@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Joannis Schefferi Argentoratensis Graphice, id est, De arte pingendi liber singularis : cum indice necessario.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925321030001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/br7d7d</idno>
-            <idno>(OCoLC)39983353</idno>
-            <idno type="cico">208</idno>
-            <idno type="dcl">mc1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Joannis Schefferi Argentoratensis Graphice, id est, De arte pingendi liber singularis : cum indice necessario.</title>
-                  <respStmt>
-                     <persName>Scheffer, Johannes, 1621-1679</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Norimbergae : Ex officina Endteriana</publisher>
-                     <date>A.C. 1669</date>
-                     <date>1669</date>
-                  </imprint>
-                  <extent>223, [9] pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d27001d6-dca1-4188-9bac-e355c4589e66"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d27001d6-dca1-4188-9bac-e355c4589e66">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Joannis Schefferi Argentoratensis Graphice [microform] : id est, De arte pingendi ; liber singularis, cum indice necessario.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,9 +64,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dc8527f6-349c-4b9e-9e36-30826ddbcbd9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joannis Schefferi Argentoratensis Graphice, id est, De arte pingendi liber singularis : cum indice necessario.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925321030001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/br7d7d</idno>
+            <idno>(OCoLC)39983353</idno>
+            <idno type="cico">208</idno>
+            <idno type="dcl">mc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Joannis Schefferi Argentoratensis Graphice, id est, De arte pingendi liber singularis : cum indice necessario.</title>
+                  <respStmt>
+                     <persName>Scheffer, Johannes, 1621-1679</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae : Ex officina Endteriana</publisher>
+                     <date>A.C. 1669</date>
+                     <date>1669</date>
+                  </imprint>
+                  <extent>223, [9] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d27001d6-dca1-4188-9bac-e355c4589e66"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Technique.</term>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>Painting -- Technique.</term>
+               <term>ND1259 .S28</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d27001d6-dca1-4188-9bac-e355c4589e66">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

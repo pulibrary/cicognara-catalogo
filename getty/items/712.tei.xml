@@ -27,50 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>M. Vitrvvii Pollionis De Architectvra Libri Decem</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vitruvius, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-17177</idno>
-            <idno type="URI">http://portal.getty.edu/api/kb023n</idno>
-            <idno type="cico">712</idno>
-            <idno type="dcl">pg4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>M. Vitrvvii Pollionis De Architectvra Libri Decem</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1552</date>
-                     <date>1552</date>
-                  </imprint>
-                  <extent>[8] Bl., 447 S., [27] Bl.</extent>
-                  <extent>Ill., graph. Darst.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1552/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1552/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>M. Vitrvvii Pollionis De architectvra libri decem ad Caesarem Avgvstvm : omnibus omnium editionibus longè emendatiores, collatis veteribus exemplis : accesservnt Gulielmi Philandri Castilionii, ciuis Romani, annotationes castigatiores, &amp; plus tertia parte locupletiores : adiecta est Epitome in omnes Georgij Agricolae De mensuris &amp; ponderibus libros, eodem avtore : cum Graeco pariter &amp; Latino indice locupletissimo.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -111,6 +67,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ed5748b9-a876-4827-aba7-834d82483fda">

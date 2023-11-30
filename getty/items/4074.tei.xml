@@ -28,6 +28,64 @@ progetto del Buzio, o del Castelli.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Per la facciata del duomo di Milano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Castelli, Francesco.</authority>
+            <authority>Richini, Francesco Maria, 1584-1658.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9974135533506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/13547w</idno>
+            <idno>(OCoLC)25018635</idno>
+            <idno type="cico">4074</idno>
+            <idno type="dcl">kzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Per la facciata del duomo di Milano.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Milan?] : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Milan (Italy)</pubPlace>
+                     <date>[not before 1654]</date>
+                     <date>1654</date>
+                  </imprint>
+                  <extent>70 unnumbered pages, 6 unnumbered folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b1e9add6-f780-4051-8439-3c1aa655ce6e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Duomo di Milano -- Early works to 1800.</term>
+               <term>Buzzi, Carlo, 1608-1658.</term>
+               <term>Facades -- Italy -- Milan -- Early works to 1800.</term>
+               <term>Milan (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b1e9add6-f780-4051-8439-3c1aa655ce6e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Per la facciata del duomo di Milano [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -69,57 +127,17 @@ progetto del Buzio, o del Castelli.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Duomo di Milano.</term>
+               <term>Church architecture -- Italy -- Milan -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fcd06507-1345-4fe3-93fc-e9c2bd94cd40/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Per la facciata del duomo di Milano.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Castelli, Francesco.</authority>
-            <authority>Richini, Francesco Maria, 1584-1658.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9974135533506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/13547w</idno>
-            <idno>(OCoLC)25018635</idno>
-            <idno type="cico">4074</idno>
-            <idno type="dcl">kzm</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Per la facciata del duomo di Milano.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Milan?] : [publisher not identified]</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Milan (Italy)</pubPlace>
-                     <date>[not before 1654]</date>
-                     <date>1654</date>
-                  </imprint>
-                  <extent>70 unnumbered pages, 6 unnumbered folded leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b1e9add6-f780-4051-8439-3c1aa655ce6e/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b1e9add6-f780-4051-8439-3c1aa655ce6e/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

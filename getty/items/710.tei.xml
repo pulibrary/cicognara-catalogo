@@ -29,55 +29,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Architecture, ou, Art de bien bastir [microform] / de Marc Vitruue Pollion, autheur romain antique ; mis de latin en francoys par Ian Martin.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Martin, Ian, -approximately 1553.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985175213506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/m26h21</idno>
-            <idno type="cico">710</idno>
-            <idno type="dcl">r5r</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Architecture, ou, Art de bien bastir [microform] / de Marc Vitruue Pollion, autheur romain antique ; mis de latin en francoys par Ian Martin.</title>
-                  <respStmt>
-                     <persName>Vitruvius Pollio.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : On les vend chez Iacques Gazeau</publisher>
-                     <date>1547</date>
-                  </imprint>
-                  <extent>[4], 155, [25] leaves</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/98009807-137c-48c2-8573-aaafcc5fc182/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/98009807-137c-48c2-8573-aaafcc5fc182/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Architecture, ou Art de bien bastir, mis de latin en francoys, par Ian Martin.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -116,9 +67,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>NA2517 .V84, Rosenwald Coll</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/40b480d8-ecfd-40dc-bfa2-0784332fbfc8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architecture, ou, Art de bien bastir [microform] / de Marc Vitruue Pollion, autheur romain antique ; mis de latin en francoys par Ian Martin.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Martin, Ian, -approximately 1553.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985175213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/m26h21</idno>
+            <idno type="cico">710</idno>
+            <idno type="dcl">r5r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architecture, ou, Art de bien bastir [microform] / de Marc Vitruue Pollion, autheur romain antique ; mis de latin en francoys par Ian Martin.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : On les vend chez Iacques Gazeau</publisher>
+                     <date>1547</date>
+                  </imprint>
+                  <extent>[4], 155, [25] leaves</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/98009807-137c-48c2-8573-aaafcc5fc182/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/98009807-137c-48c2-8573-aaafcc5fc182/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

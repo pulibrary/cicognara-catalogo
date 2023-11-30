@@ -25,9 +25,9 @@ in che direzione l’autore abbia rivolte le sue ricerche.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Della chiesa del S. Sepolcro : riputata l'antico battisterio di Bologna e in generale dei battisterj : discorso dedicato a Gesu Cristo e al suo amico e battezzatore Giovanni.</title>
+            <title>Della chiesa del S. Sepolcro riputata l'antico battisterio di Bologna; e in generale dei battisterj : discorso dedicato a Gesù Cristo e al suo amico e battezzatore Giovanni.</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -36,17 +36,18 @@ in che direzione l’autore abbia rivolte le sue ricerche.</note>
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925122530001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/31296g</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_99750223504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/rk9s82</idno>
+            <idno>(OCoLC)171159797</idno>
             <idno>(OCoLC)15873384</idno>
-            <idno type="cico">3985</idno>
             <idno type="cico">4168</idno>
+            <idno type="cico">3985</idno>
             <idno type="dcl">mnz</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Della chiesa del S. Sepolcro : riputata l'antico battisterio di Bologna e in generale dei battisterj : discorso dedicato a Gesu Cristo e al suo amico e battezzatore Giovanni.</title>
+                  <title>Della chiesa del S. Sepolcro riputata l'antico battisterio di Bologna; e in generale dei battisterj : discorso dedicato a Gesù Cristo e al suo amico e battezzatore Giovanni.</title>
                   <respStmt>
                      <persName>Bianconi, Giovanni Battista, 1698-1781.</persName>
                      <resp>creator</resp>
@@ -54,20 +55,26 @@ in che direzione l’autore abbia rivolte le sue ricerche.</note>
                   <textLang>Italian</textLang>
                   <imprint>
                      <publisher>In Bologna : A S. Tommaso d'Aquino</publisher>
-                     <pubPlace>Italy</pubPlace>
                      <pubPlace>Bologna (Italy)</pubPlace>
-                     <pubPlace>Italy Bologna.</pubPlace>
                      <date>1772</date>
                   </imprint>
-                  <extent>viii, 157 pages, 1 unnumbered leaf of plates</extent>
+                  <extent>[2], v-viii, 157, [1] p., [1] folded leaf of plates</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6136c7d0-61b4-4f47-98e9-f2516f01c78d"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99750223504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>San Sepolcro (Church : Bologna, Italy)</term>
+               <term>Bologna (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6136c7d0-61b4-4f47-98e9-f2516f01c78d">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99750223504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -116,9 +123,81 @@ in che direzione l’autore abbia rivolte le sue ricerche.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sanctuario di Santo Stefano (Bologna, Italy)</term>
+               <term>Bologna (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5c7448bb-8a05-41d0-9d8d-83da30677b30/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della chiesa del S. Sepolcro : riputata l'antico battisterio di Bologna e in generale dei battisterj : discorso dedicato a Gesu Cristo e al suo amico e battezzatore Giovanni.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925122530001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/31296g</idno>
+            <idno>(OCoLC)15873384</idno>
+            <idno type="cico">3985</idno>
+            <idno type="cico">4168</idno>
+            <idno type="dcl">mnz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della chiesa del S. Sepolcro : riputata l'antico battisterio di Bologna e in generale dei battisterj : discorso dedicato a Gesu Cristo e al suo amico e battezzatore Giovanni.</title>
+                  <respStmt>
+                     <persName>Bianconi, Giovanni Battista, 1698-1781.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : A S. Tommaso d'Aquino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Bologna (Italy)</pubPlace>
+                     <pubPlace>Italy Bologna.</pubPlace>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>viii, 157 pages, 1 unnumbered leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6136c7d0-61b4-4f47-98e9-f2516f01c78d"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>San Sepolcro (Church : Bologna, Italy)</term>
+               <term>Church architecture -- Italy -- Bologna.</term>
+               <term>Bologna (Italy) -- Buildings, structures, etc.</term>
+               <term>Buildings.</term>
+               <term>Church architecture.</term>
+               <term>Italy -- Bologna.</term>
+               <term>NA5621.B65 B5x</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6136c7d0-61b4-4f47-98e9-f2516f01c78d">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

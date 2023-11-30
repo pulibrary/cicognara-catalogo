@@ -28,9 +28,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dialogos de la pintvra : sv defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+            <title>Dialogos de la pintvra : sv defensa, origen, essēcia, defin̄icion, modos y diferencias, al gran monarcha de las Españas y Nvevo Mvndo, don Felipe IIII / por Vincencio Carducho ... ; Siguēse a los Dialogos, informaciones, y pareceres en sabor del arte, escritas por varones insignes en todas letras.</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -39,36 +39,41 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9930266350001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/660676</idno>
-            <idno>(OCoLC)19702766</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_991310273504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/5g7m6t</idno>
+            <idno>(OCoLC)973451384</idno>
             <idno type="cico">98</idno>
             <idno type="dcl">dzm</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Dialogos de la pintvra : sv defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+                  <title>Dialogos de la pintvra : sv defensa, origen, essēcia, defin̄icion, modos y diferencias, al gran monarcha de las Españas y Nvevo Mvndo, don Felipe IIII / por Vincencio Carducho ... ; Siguēse a los Dialogos, informaciones, y pareceres en sabor del arte, escritas por varones insignes en todas letras.</title>
                   <respStmt>
-                     <persName>Carducho, Vicente, 1578-1638</persName>
+                     <persName>Carducho, Vicente, 1578-1638.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>Spanish; Castilian</textLang>
                   <imprint>
-                     <publisher>En Madrid : Impresso con licencia por Frco. Martinez</publisher>
-                     <pubPlace>Spain Madrid.</pubPlace>
-                     <date>Ano de 1633</date>
+                     <publisher>[Madrid] : Impresso por Fr.co Martinez</publisher>
                      <date>1633</date>
                   </imprint>
-                  <extent>[18] pages, 229 leaves, [25] pages</extent>
+                  <extent>[8], 162 leaves, [9] leaves of plates</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e215ca3d-24f6-4385-9591-71b90aad3699"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991310273504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e215ca3d-24f6-4385-9591-71b90aad3699">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991310273504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -115,9 +120,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d6a6099b-f1d9-4f8c-ad3f-5cffedc97832/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogos de la pintvra : sv defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930266350001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/660676</idno>
+            <idno>(OCoLC)19702766</idno>
+            <idno type="cico">98</idno>
+            <idno type="dcl">dzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogos de la pintvra : sv defensa, origen, esse[n]cia, definicion, modos y diferencias / por Vincencio Carducho ...</title>
+                  <respStmt>
+                     <persName>Carducho, Vicente, 1578-1638</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>En Madrid : Impresso con licencia por Frco. Martinez</publisher>
+                     <pubPlace>Spain Madrid.</pubPlace>
+                     <date>Ano de 1633</date>
+                     <date>1633</date>
+                  </imprint>
+                  <extent>[18] pages, 229 leaves, [25] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e215ca3d-24f6-4385-9591-71b90aad3699"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>ND1130 .C3 1633</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e215ca3d-24f6-4385-9591-71b90aad3699">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -64,9 +64,77 @@ frontespizio i cono <pb type="cico" n="322"/> scitori stabilissero in quest’op
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Divination -- Early works to 1800.</term>
+               <term>Oracles -- Early works to 1800.</term>
+               <term>Sibyls -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/032f54f9-9280-4f23-973f-b9a33a1f0dda/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oracoli, auguri, aruspici, sibille, indovini della religione pagana, tratti da antichissimi monumenti, o sulle traccie della storia, delineati dal celebre Jacopo Guarana, ed incisi in rame dai piu esperti viniziani artefici; corredati in appresso di storiche illustrazioni.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Guarana, Jacopo, 1720-1808.</authority>
+            <authority>Alessandri, Innocente, approximately 1740-</authority>
+            <authority>Colle, Pellegrino dal, 1737-1812</authority>
+            <authority>Giaconi, Vincenzo, 1760-1829</authority>
+            <authority>Povelato, Luigi.</authority>
+            <authority>Sandi, Antonio, 1733-1817.</authority>
+            <authority>Zuliani, Gianantonio, 1760-approximately 1831.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992484663504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/br057f</idno>
+            <idno>(OCoLC)973424557</idno>
+            <idno type="cico">4711</idno>
+            <idno type="dcl">dkh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Oracoli, auguri, aruspici, sibille, indovini della religione pagana, tratti da antichissimi monumenti, o sulle traccie della storia, delineati dal celebre Jacopo Guarana, ed incisi in rame dai piu esperti viniziani artefici; corredati in appresso di storiche illustrazioni.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia</publisher>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>43 leaves, 40 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992484663504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Oracles -- Early works to 1800.</term>
+               <term>Divination -- Early works to 1800</term>
+               <term>Sibyls -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992484663504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

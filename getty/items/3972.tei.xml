@@ -27,6 +27,60 @@ intagliate da Bernardo Sgrilli.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>La Libreria Mediceo-Laurenziana, architettura di Michelagnolo Buonaroti, disegnata e illustrata da ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920734593506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/711v2g</idno>
+            <idno>(OCoLC)26913805</idno>
+            <idno type="cico">3972</idno>
+            <idno type="dcl">7pc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Libreria Mediceo-Laurenziana, architettura di Michelagnolo Buonaroti, disegnata e illustrata da ...</title>
+                  <respStmt>
+                     <persName>Rossi, Giuseppe Ignazio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze, per i Tartini e Franchi</publisher>
+                     <date>1739</date>
+                  </imprint>
+                  <extent>p. n. chfr. + xxxiii p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e49c9e29-5c14-4323-9de4-404703881165/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Library architecture -- early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e49c9e29-5c14-4323-9de4-404703881165/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>La Libreria mediceo-laurenziana [microform] : architettura di Michel Agnolo Buonarruoti / disegnata, e illustrata da Giuseppe Ignazio Rossi ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,56 +120,18 @@ intagliate da Bernardo Sgrilli.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Michelangelo Buonarroti, 1475-1564.</term>
+               <term>Biblioteca medicea laurenziana.</term>
+               <term>Library architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/190571b3-34df-439a-962f-12a27a3aee86/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>La Libreria Mediceo-Laurenziana, architettura di Michelagnolo Buonaroti, disegnata e illustrata da ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9920734593506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/711v2g</idno>
-            <idno>(OCoLC)26913805</idno>
-            <idno type="cico">3972</idno>
-            <idno type="dcl">7pc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La Libreria Mediceo-Laurenziana, architettura di Michelagnolo Buonaroti, disegnata e illustrata da ...</title>
-                  <respStmt>
-                     <persName>Rossi, Giuseppe Ignazio.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Firenze, per i Tartini e Franchi</publisher>
-                     <date>1739</date>
-                  </imprint>
-                  <extent>p. n. chfr. + xxxiii p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e49c9e29-5c14-4323-9de4-404703881165/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e49c9e29-5c14-4323-9de4-404703881165/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

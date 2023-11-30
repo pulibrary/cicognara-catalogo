@@ -24,6 +24,61 @@ Galleria di Milano all’Accademia di Belle Arti.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Descrizione italiana e francese : di tutto ciò che si contiene nella Galleria del Sig. marchese Senatore Luigi Sampieri ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991040373504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/rn6b5s</idno>
+            <idno>(OCoLC)79828035</idno>
+            <idno type="cico">3380</idno>
+            <idno type="dcl">1d0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione italiana e francese : di tutto ciò che si contiene nella Galleria del Sig. marchese Senatore Luigi Sampieri ...</title>
+                  <respStmt>
+                     <persName>Galleria Sampieri (Bologna, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperia di S. Tommaso d'Aquine</publisher>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>45, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991040373504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galleria Sampieri (Bologna, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991040373504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Descrizione italiana e francese [microform] : di tutto ciò che si contiene nella Galleria del Sig. marchese Senatore Luigi Sampieri ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -63,57 +118,16 @@ Galleria di Milano all’Accademia di Belle Arti.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galleria Sampieri (Bologna, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/83f1954a-2250-4646-ab96-4eebdf24c33b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Descrizione italiana e francese : di tutto ciò che si contiene nella Galleria del Sig. marchese Senatore Luigi Sampieri ...</title>
-            <respStmt>
-               <orgName>National Gallery of Art Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/nga_991040373504896</idno>
-            <idno type="URI">http://portal.getty.edu/api/rn6b5s</idno>
-            <idno>(OCoLC)79828035</idno>
-            <idno type="cico">3380</idno>
-            <idno type="dcl">1d0</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Descrizione italiana e francese : di tutto ciò che si contiene nella Galleria del Sig. marchese Senatore Luigi Sampieri ...</title>
-                  <respStmt>
-                     <persName>Galleria Sampieri (Bologna, Italy)</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Nella stamperia di S. Tommaso d'Aquine</publisher>
-                     <date>1795</date>
-                  </imprint>
-                  <extent>45, [1] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991040373504896.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991040373504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

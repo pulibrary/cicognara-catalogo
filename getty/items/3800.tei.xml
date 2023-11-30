@@ -28,6 +28,68 @@ Carlo Dati sopra un antico mattone: sono fra il testo della Roma antica alcune u
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Roma antica [microform] / di Famiano Nardini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Falconieri, Ottavio, 1646-1676.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985437773506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/787r46</idno>
+            <idno type="cico">3800</idno>
+            <idno type="dcl">3cv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma antica [microform] / di Famiano Nardini ...</title>
+                  <respStmt>
+                     <persName>Nardini, Famiano, -1661.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per il Faco, A spece di Biagio Diuerfino, e Felice Cesaretti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1666</date>
+                  </imprint>
+                  <extent>546, 32, 12 p.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a1def59a-d86d-4e6c-88bd-21d99ff52a95/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscription, Latin -- Italy -- Rome.</term>
+               <term>Inscriptions, Ancient.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a1def59a-d86d-4e6c-88bd-21d99ff52a95/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Roma antica di Famiano Nardini ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -71,61 +133,24 @@ Carlo Dati sopra un antico mattone: sono fra il testo della Roma antica alcune u
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Antiquities.</term>
+               <term>Rome (Italy) -- Description and travel.</term>
+               <term>Antiquities.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+               <term>Führer.</term>
+               <term>Antike</term>
+               <term>Rom</term>
+               <term>DG63 .N22</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4e77f575-d7c5-4550-8791-af90937d0154">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Roma antica [microform] / di Famiano Nardini ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Falconieri, Ottavio, 1646-1676.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985437773506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/787r46</idno>
-            <idno type="cico">3800</idno>
-            <idno type="dcl">3cv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Roma antica [microform] / di Famiano Nardini ...</title>
-                  <respStmt>
-                     <persName>Nardini, Famiano, -1661.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Per il Faco, A spece di Biagio Diuerfino, e Felice Cesaretti</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <date>1666</date>
-                  </imprint>
-                  <extent>546, 32, 12 p.</extent>
-                  <extent>10 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a1def59a-d86d-4e6c-88bd-21d99ff52a95/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a1def59a-d86d-4e6c-88bd-21d99ff52a95/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

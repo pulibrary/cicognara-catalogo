@@ -25,58 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Roma trionfante, di Biondo da Forli, tradotta pur hora per Lvcio Favno di latino in bvona lingva volgare.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fauno, Lucio, active 16th century</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923155600001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/p18d2d</idno>
-            <idno>(OCoLC)123188969</idno>
-            <idno type="cico">3621</idno>
-            <idno type="dcl">4gq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Roma trionfante, di Biondo da Forli, tradotta pur hora per Lvcio Favno di latino in bvona lingva volgare.</title>
-                  <respStmt>
-                     <persName>Biondo Flavio, 1392-1463.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venetia : Per Michiele Tramezzino</publisher>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy.</pubPlace>
-                     <date>nel M.D.XLIIII. [1544]</date>
-                     <date>1544</date>
-                  </imprint>
-                  <extent>[24], 384 leaves</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/bf4523d8-925c-4dfa-8c20-73dd51b6e375"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bf4523d8-925c-4dfa-8c20-73dd51b6e375">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Roma trionfante [microform] / di Biondo da Forli ; tradotta pur hora per Lucio Fauno di latino in buona lingua volgare.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -118,9 +66,82 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7f1cbf6e-b41c-4841-a0c8-ec1c89ea2d3e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roma trionfante, di Biondo da Forli, tradotta pur hora per Lvcio Favno di latino in bvona lingva volgare.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fauno, Lucio, active 16th century</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923155600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/p18d2d</idno>
+            <idno>(OCoLC)123188969</idno>
+            <idno type="cico">3621</idno>
+            <idno type="dcl">4gq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Roma trionfante, di Biondo da Forli, tradotta pur hora per Lvcio Favno di latino in bvona lingva volgare.</title>
+                  <respStmt>
+                     <persName>Biondo Flavio, 1392-1463.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Per Michiele Tramezzino</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>nel M.D.XLIIII. [1544]</date>
+                     <date>1544</date>
+                  </imprint>
+                  <extent>[24], 384 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/bf4523d8-925c-4dfa-8c20-73dd51b6e375"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Italy -- History -- 476-1492.</term>
+               <term>Italy -- Description and travel.</term>
+               <term>Antiquities.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+               <term>Italy.</term>
+               <term>DG76 .B5616 1544</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bf4523d8-925c-4dfa-8c20-73dd51b6e375">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

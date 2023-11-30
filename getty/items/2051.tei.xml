@@ -31,51 +31,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Imagines Veteris Ac Novi Testamenti</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Raffaello &lt;Sanzio&gt;, Editor</authority>
-            <authority>Rossi, Giovanni Giacomo de, Editor</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-265118</idno>
-            <idno type="URI">http://portal.getty.edu/api/tt8t94</idno>
-            <idno type="cico">2051</idno>
-            <idno type="dcl">4cs</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Imagines Veteris Ac Novi Testamenti</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1674</date>
-                     <date>1674</date>
-                  </imprint>
-                  <extent>[2], 52, [1] Bl.</extent>
-                  <extent>55 Ill. (Kupfer)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/raffaello1674/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/raffaello1674/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Imagines veteris ac Novi Testamenti [microform] / a Raphaele Sanctio urbinate in Vaticani palatii xystis mira picturae elegantia expressae Jo. Jacobi de Rubeis cura, ac sumptibus, delineate, incisae, ac typis editae ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,6 +67,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520 -- Individual works -- Vatican City. Logge (Vatican Palace)</term>
+               <term>Raphael, 1483-1520 -- Painting.</term>
+               <term>Bible -- Illustrations.</term>
+               <term>Vatican Palace (Vatican City)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4e3187e8-71df-45d6-80f3-00891972603b/manifest">

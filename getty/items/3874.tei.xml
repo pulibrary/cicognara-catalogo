@@ -24,55 +24,6 @@ da una terza. Nel frontespizio sta la pianta della villa, e in fine è una carta
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dissertazione sopra la villa di Orazio Flacco dell'abbate Domenico de Sanctis fra gli Arcadi Falcisco Caristio.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990065191310203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/zj3k3w</idno>
-            <idno>(OCoLC)79458116</idno>
-            <idno>(OCoLC)15581796</idno>
-            <idno type="cico">3874</idno>
-            <idno type="dcl">2wf</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertazione sopra la villa di Orazio Flacco dell'abbate Domenico de Sanctis fra gli Arcadi Falcisco Caristio.</title>
-                  <respStmt>
-                     <persName>Sanctis, Domenico de, 1721-1798, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Nella stamperia di Carlo Barbiellini</publisher>
-                     <pubPlace>Campagna di Roma (Italy)</pubPlace>
-                     <date>1768</date>
-                  </imprint>
-                  <extent>6, 41 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481957635"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481957635">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dissertazione sopra la villa di Orazio Flacco dell'abbate Domenico de Sanctis fra gli Arcadi Falcisco Caristio [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +62,75 @@ da una terza. Nel frontespizio sta la pianta della villa, e in fine è una carta
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Horace -- Homes and Haunts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cb066fa0-9fc5-444e-9f14-6948e0373297/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertazione sopra la villa di Orazio Flacco dell'abbate Domenico de Sanctis fra gli Arcadi Falcisco Caristio.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990065191310203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/zj3k3w</idno>
+            <idno>(OCoLC)79458116</idno>
+            <idno>(OCoLC)15581796</idno>
+            <idno type="cico">3874</idno>
+            <idno type="dcl">2wf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertazione sopra la villa di Orazio Flacco dell'abbate Domenico de Sanctis fra gli Arcadi Falcisco Caristio.</title>
+                  <respStmt>
+                     <persName>Sanctis, Domenico de, 1721-1798, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Carlo Barbiellini</publisher>
+                     <pubPlace>Campagna di Roma (Italy)</pubPlace>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>6, 41 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481957635"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Horace -- Homes and haunts -- Early works to 1800.</term>
+               <term>Horace</term>
+               <term>Campagna di Roma (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>PA6410 .S34</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481957635">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

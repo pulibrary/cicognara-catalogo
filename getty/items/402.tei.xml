@@ -24,49 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Seülen-Buch Oder Gründlicher Bericht Von den Fünf Ordnungen der Architectur-Kunst: wie solche von Marco Vitruvio, Jacobo Barrozio, Hanns Blumen, [et]c. und anern vornehmen berühmten Baumeistern seind zusammen getragen und in gewisse Abtheilungen verabfasset worden ...</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Erasmus, Georg Caspar, Editor</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16093</idno>
-            <idno type="URI">http://portal.getty.edu/api/s4403m</idno>
-            <idno type="cico">402</idno>
-            <idno type="dcl">sbs</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Seülen-Buch Oder Gründlicher Bericht Von den Fünf Ordnungen der Architectur-Kunst: wie solche von Marco Vitruvio, Jacobo Barrozio, Hanns Blumen, [et]c. und anern vornehmen berühmten Baumeistern seind zusammen getragen und in gewisse Abtheilungen verabfasset worden ...</title>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <date>1667</date>
-                     <date>1667</date>
-                  </imprint>
-                  <extent>52 S., 42 Kupfertaf.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/erasmus1672/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/erasmus1672/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Seülen-Buch, oder, Gründlicher Bericht von den fünf Ordnungen der Architectur-Kunst [microform] : wie solche von Marco, Vitruvio, Jacobo Barrozzio, Hanns Blumen &amp;c. und andern ... Baumeistern seind zusammen getragen ... wie auch die so genandten darzu gehörigen fünff Termes ... mit neben beygefügten schönen Capitälen ... / durch einen Liebhaber der edlen Architectur-Kunst an den Tag gegeben ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -105,9 +62,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8e9351b9-fe92-402c-9f50-d0100a043cb2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seülen-Buch Oder Gründlicher Bericht Von den Fünf Ordnungen der Architectur-Kunst: wie solche von Marco Vitruvio, Jacobo Barrozio, Hanns Blumen, [et]c. und anern vornehmen berühmten Baumeistern seind zusammen getragen und in gewisse Abtheilungen verabfasset worden ...</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Erasmus, Georg Caspar, Editor</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16093</idno>
+            <idno type="URI">http://portal.getty.edu/api/s4403m</idno>
+            <idno type="cico">402</idno>
+            <idno type="dcl">sbs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Seülen-Buch Oder Gründlicher Bericht Von den Fünf Ordnungen der Architectur-Kunst: wie solche von Marco Vitruvio, Jacobo Barrozio, Hanns Blumen, [et]c. und anern vornehmen berühmten Baumeistern seind zusammen getragen und in gewisse Abtheilungen verabfasset worden ...</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <date>1667</date>
+                     <date>1667</date>
+                  </imprint>
+                  <extent>52 S., 42 Kupfertaf.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/erasmus1672/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architekturtheorie</term>
+               <term>Säulenordnung</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/erasmus1672/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

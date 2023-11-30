@@ -30,6 +30,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Manuale d'architettura [microform] / di Giovanni Branca.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gw446x</idno>
+            <idno type="cico">450</idno>
+            <idno type="dcl">s7w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Manuale d'architettura [microform] / di Giovanni Branca.</title>
+                  <respStmt>
+                     <persName>Branca, Giovanni, 1571-1640.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso V. Monaldini</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>xvi, 271, [1] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/34e4dadc-1a85-4f36-875f-291849892796/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34e4dadc-1a85-4f36-875f-291849892796/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Manuale d'architettura di Giovanni Branca.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -68,57 +123,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Handbooks, manuals, etc. -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>NA2515 .B72 1772</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f40f8c4b-9053-45b9-ae8f-2b858280f687">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Manuale d'architettura [microform] / di Giovanni Branca.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984944383506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/gw446x</idno>
-            <idno type="cico">450</idno>
-            <idno type="dcl">s7w</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Manuale d'architettura [microform] / di Giovanni Branca.</title>
-                  <respStmt>
-                     <persName>Branca, Giovanni, 1571-1640.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Presso V. Monaldini</publisher>
-                     <date>1783</date>
-                  </imprint>
-                  <extent>xvi, 271, [1] p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/34e4dadc-1a85-4f36-875f-291849892796/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34e4dadc-1a85-4f36-875f-291849892796/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

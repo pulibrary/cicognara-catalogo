@@ -25,54 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Traité d'architecture, ou, Proportions des trois ordres grecs, sur un module de douze parties [microform] / par Jean Antoine ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985291053506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/849q0g</idno>
-            <idno type="cico">399</idno>
-            <idno type="dcl">58k</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Traité d'architecture, ou, Proportions des trois ordres grecs, sur un module de douze parties [microform] / par Jean Antoine ...</title>
-                  <respStmt>
-                     <persName>Antoine, Jean, 18th cent.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Treves : De l'Imprimerie electorale de Son Altesse Sérénissime ;</publisher>
-                     <date>1768</date>
-                  </imprint>
-                  <extent>[54], 186 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e727cb28-9d4a-49e7-8fac-fb2a84d26f4b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e727cb28-9d4a-49e7-8fac-fb2a84d26f4b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Traité d'architecture; ou, Proportions des trois ordres grecs, sur un module de douze parties. Par Jean Antoine ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -112,9 +64,82 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture, Greek -- Early works to 1800.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architects -- Early works to 1800.</term>
+               <term>Architects.</term>
+               <term>Architecture.</term>
+               <term>Architecture, Greek.</term>
+               <term>Architecture -- Orders.</term>
+               <term>NA2810 .A6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/42c23ebc-4979-44e7-bbd8-b8615031d6f3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité d'architecture, ou, Proportions des trois ordres grecs, sur un module de douze parties [microform] / par Jean Antoine ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985291053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/849q0g</idno>
+            <idno type="cico">399</idno>
+            <idno type="dcl">58k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité d'architecture, ou, Proportions des trois ordres grecs, sur un module de douze parties [microform] / par Jean Antoine ...</title>
+                  <respStmt>
+                     <persName>Antoine, Jean, 18th cent.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Treves : De l'Imprimerie electorale de Son Altesse Sérénissime ;</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>[54], 186 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e727cb28-9d4a-49e7-8fac-fb2a84d26f4b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Early works to 1800.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture, Greek -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e727cb28-9d4a-49e7-8fac-fb2a84d26f4b/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

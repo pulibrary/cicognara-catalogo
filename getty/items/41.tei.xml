@@ -27,49 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Considérations sur les révolutions des arts</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Méhégan, Guillaume Alexandre de, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-280362</idno>
-            <idno type="URI">http://portal.getty.edu/api/q65z5p</idno>
-            <idno type="cico">41</idno>
-            <idno type="dcl">dc7</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Considérations sur les révolutions des arts</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <date>1755</date>
-                     <date>1755</date>
-                  </imprint>
-                  <extent>XXIII, 282, 24, 18 S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/mehegan1755/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/mehegan1755/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Considérations sur les révolutions des arts .. [microform]</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -107,6 +64,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Early works to 1800.</term>
+               <term>Civilization -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3bc99c3d-4150-4d1b-8a90-ed085f014b35/manifest">

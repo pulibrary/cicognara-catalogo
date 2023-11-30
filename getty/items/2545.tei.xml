@@ -25,58 +25,6 @@ critica e profonda erudizione.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De l'architecture égyptienne: considerée dans son origine, ses principes et son gout et comparée sous les mêmes rapports à l'architecture grecque</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Quatremère de Quincy, Antoine Chrysostôme, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-57346</idno>
-            <idno type="URI">http://portal.getty.edu/api/9g0r75</idno>
-            <idno type="cico">2545</idno>
-            <idno type="dcl">rnq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De l'architecture égyptienne: considerée dans son origine, ses principes et son gout et comparée sous les mêmes rapports à l'architecture grecque</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <pubPlace>Ägypten &lt;Altertum&gt;</pubPlace>
-                     <pubPlace>Afrika</pubPlace>
-                     <pubPlace>Ägypten</pubPlace>
-                     <pubPlace>Pyramids of Giza</pubPlace>
-                     <pubPlace>Africa</pubPlace>
-                     <pubPlace>Egypt</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>29.98333 31.13333</pubPlace>
-                     <date>1803</date>
-                     <date>1803</date>
-                  </imprint>
-                  <extent>XII, 268 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/quatremeredequincy1803/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/quatremeredequincy1803/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>De l'architecture égyptienne [microform] : considérée dans son origine, ses principes et son goût, et comparée : sous les mêmes rapports a l'architecture grecque : dissertation : qui a remporté, en 1785, le Prix proposé par l'Académie des inscriptions et belles-lettres / par M. Quatremere de Quincy.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -115,6 +63,13 @@ critica e profonda erudizione.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Egypt.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c5fedb29-23cc-45ae-840d-dd0530ddae96/manifest">

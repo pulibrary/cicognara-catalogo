@@ -25,56 +25,6 @@ ogni altro libro di questa materia.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Description des travaux [microform] : qui ont précédé, accompagné et suivi la font en bronze d'un seul jet de la statue équestre de Louis XV, le Bien-Aimé : dressée sur les mémoires de M. Lempereur ... / par M. Mariette ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Lempereur, Jean Louis.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985419083506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/hn2p98</idno>
-            <idno type="cico">3524</idno>
-            <idno type="dcl">8w9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Description des travaux [microform] : qui ont précédé, accompagné et suivi la font en bronze d'un seul jet de la statue équestre de Louis XV, le Bien-Aimé : dressée sur les mémoires de M. Lempereur ... / par M. Mariette ...</title>
-                  <respStmt>
-                     <persName>Mariette, Pierre-Jean, 1694-1774.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : De l'imprimerie de P. G. Le Mercier</publisher>
-                     <date>1768</date>
-                  </imprint>
-                  <extent>ix, 166 p.</extent>
-                  <extent>14 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/54edaa78-275a-4470-b35e-aacac7b252c5/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/54edaa78-275a-4470-b35e-aacac7b252c5/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Description des travaux qui ont précédé, accompagné et suivi la fonte en bronze d'un seul jet de la statue équestre de Louis XV le Bien-Aimé. Dressée sur les mémoires de M. Lempereur, ancien echevin, par M. Mariette ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -116,9 +66,84 @@ ogni altro libro di questa materia.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Paris (France) -- Monuments -- Statue équestre de Louis XV.</term>
+               <term>Bronze founding.</term>
+               <term>Founding.</term>
+               <term>Louis XV, King of France, 1710-1774</term>
+               <term>Monuments.</term>
+               <term>Bronze founding.</term>
+               <term>Founding.</term>
+               <term>Louis XV, King of France, 1710-1774 -- Monuments.</term>
+               <term>TS570 .M37</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d368c812-1bd0-44b6-9b04-306739fd15a9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des travaux [microform] : qui ont précédé, accompagné et suivi la font en bronze d'un seul jet de la statue équestre de Louis XV, le Bien-Aimé : dressée sur les mémoires de M. Lempereur ... / par M. Mariette ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lempereur, Jean Louis.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hn2p98</idno>
+            <idno type="cico">3524</idno>
+            <idno type="dcl">8w9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des travaux [microform] : qui ont précédé, accompagné et suivi la font en bronze d'un seul jet de la statue équestre de Louis XV, le Bien-Aimé : dressée sur les mémoires de M. Lempereur ... / par M. Mariette ...</title>
+                  <respStmt>
+                     <persName>Mariette, Pierre-Jean, 1694-1774.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de P. G. Le Mercier</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>ix, 166 p.</extent>
+                  <extent>14 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/54edaa78-275a-4470-b35e-aacac7b252c5/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Louis XV, King of France, 1710-1774 -- Statues.</term>
+               <term>Bouchardon, Edme, 1698-1762 -- Individual works -- Statue équestre de Louis XV.</term>
+               <term>Bronze founding.</term>
+               <term>Statue équestre de Louis XV (Paris, France)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/54edaa78-275a-4470-b35e-aacac7b252c5/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -27,55 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le nozze dei greci [microform] / descritte da Robustiano Gironi e pubblicate nell'occasione del faustissimo matrimonio della Marietta Vassalli con Francesco Ricci ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985334513506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/rh703t</idno>
-            <idno type="cico">1662</idno>
-            <idno type="dcl">v2b</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le nozze dei greci [microform] / descritte da Robustiano Gironi e pubblicate nell'occasione del faustissimo matrimonio della Marietta Vassalli con Francesco Ricci ...</title>
-                  <respStmt>
-                     <persName>Gironi, Robustiano, 1769-1838.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Milano : Dalla tipografia del dottore Giulio Ferrario</publisher>
-                     <pubPlace>Greece.</pubPlace>
-                     <date>1819</date>
-                  </imprint>
-                  <extent>34 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0e46aca5-d54a-4edb-a207-5fcf445a7051/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0e46aca5-d54a-4edb-a207-5fcf445a7051/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le nozze dei Greci / descritte da Robustiano Gironi e pubblicate nell' occasione del faustissimo matrimonio della signora Marietta Vassalli di Milano col signor Francesco Ricci di Genova.</title>
             <respStmt>
                <orgName>National Gallery of Art Library</orgName>
@@ -116,9 +67,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Marriage customs and rites -- Greece.</term>
+               <term>Marriage in art.</term>
+               <term>Greece -- Social life and customs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992960543504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le nozze dei greci [microform] / descritte da Robustiano Gironi e pubblicate nell'occasione del faustissimo matrimonio della Marietta Vassalli con Francesco Ricci ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rh703t</idno>
+            <idno type="cico">1662</idno>
+            <idno type="dcl">v2b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le nozze dei greci [microform] / descritte da Robustiano Gironi e pubblicate nell'occasione del faustissimo matrimonio della Marietta Vassalli con Francesco Ricci ...</title>
+                  <respStmt>
+                     <persName>Gironi, Robustiano, 1769-1838.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla tipografia del dottore Giulio Ferrario</publisher>
+                     <pubPlace>Greece.</pubPlace>
+                     <date>1819</date>
+                  </imprint>
+                  <extent>34 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0e46aca5-d54a-4edb-a207-5fcf445a7051/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Marriage customs and rites -- Greece.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0e46aca5-d54a-4edb-a207-5fcf445a7051/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

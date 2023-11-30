@@ -22,57 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le sagre memorie di Ravenna antica. Parte prima [microform] / le scrisse Girolamo Fabri ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985428213506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/2z3b99</idno>
-            <idno type="cico">4005</idno>
-            <idno type="dcl">m5k</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le sagre memorie di Ravenna antica. Parte prima [microform] / le scrisse Girolamo Fabri ...</title>
-                  <respStmt>
-                     <persName>Fabri, Girolamo, 1627-1679.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venetia : Francesco Valuasense</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Ravenna (Italy)</pubPlace>
-                     <date>1664</date>
-                  </imprint>
-                  <extent>392 p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/421fed50-89a5-44c2-93fb-cc8b24a218df/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/421fed50-89a5-44c2-93fb-cc8b24a218df/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le sagre memorie di Rauenna antica  / le scrisse Girolamo Fabri di sagra teologia, e dell'vna e l'altra legge dottore, protonotario apostolico, e della Santa chiesa metropolitana di Rauenna canonico teologo.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +63,86 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bishops -- Italy -- Ravenna -- Early works to 1800.</term>
+               <term>Church buildings -- Italy -- Ravenna -- Early works to 1800.</term>
+               <term>Relics -- Italy -- Ravenna -- Early works to 1800.</term>
+               <term>Saints -- Italy -- Ravenna -- Early works to 1800.</term>
+               <term>Ravenna (Italy) -- Church history -- Early works to 1800.</term>
+               <term>Bishops.</term>
+               <term>Church buildings.</term>
+               <term>Relics.</term>
+               <term>Saints.</term>
+               <term>Italy -- Ravenna.</term>
+               <term>BX1548.R3 F3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/98546e85-052f-424e-a7a7-386f9e8e0f88">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le sagre memorie di Ravenna antica. Parte prima [microform] / le scrisse Girolamo Fabri ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428213506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/2z3b99</idno>
+            <idno type="cico">4005</idno>
+            <idno type="dcl">m5k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le sagre memorie di Ravenna antica. Parte prima [microform] / le scrisse Girolamo Fabri ...</title>
+                  <respStmt>
+                     <persName>Fabri, Girolamo, 1627-1679.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetia : Francesco Valuasense</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Ravenna (Italy)</pubPlace>
+                     <date>1664</date>
+                  </imprint>
+                  <extent>392 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/421fed50-89a5-44c2-93fb-cc8b24a218df/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Church buildings -- Italy -- Ravenna -- Early works to 1800.</term>
+               <term>Ravenna (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Ravenna (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/421fed50-89a5-44c2-93fb-cc8b24a218df/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

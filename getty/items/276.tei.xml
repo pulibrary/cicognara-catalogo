@@ -27,9 +27,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Recherches sur l'art statuaire [microform] : considéré chez les anciens et chez les modernes ...</title>
+            <title>Recherches sur l'art statuaire : considéré chez les anciens et chez les modernes ...</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -38,16 +38,16 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985274253506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/s46c86</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_99185443504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/n00x9b</idno>
+            <idno>(OCoLC)171103197</idno>
             <idno type="cico">276</idno>
             <idno type="dcl">sz5</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Recherches sur l'art statuaire [microform] : considéré chez les anciens et chez les modernes ...</title>
+                  <title>Recherches sur l'art statuaire : considéré chez les anciens et chez les modernes ...</title>
                   <respStmt>
                      <persName>Emeric-David, T.-B. (Toussaint-Bernard), 1755-1839.</persName>
                      <resp>creator</resp>
@@ -57,16 +57,22 @@
                      <publisher>Paris : Nyon</publisher>
                      <date>1805</date>
                   </imprint>
-                  <extent>xiv, 544 p.</extent>
-                  <extent>9 microfiche : positive.</extent>
+                  <extent>XIV, 544 p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/44950a66-f78d-4536-aa66-c6590ceba568/manifest"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99185443504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/44950a66-f78d-4536-aa66-c6590ceba568/manifest">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99185443504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -111,9 +117,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture.</term>
+               <term>Sculpture, Greek.</term>
+               <term>Sculpture.</term>
+               <term>Sculpture, Greek.</term>
+               <term>NB90 .E5 1805</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4bd29c3e-8fc0-4ee6-addb-409b3f4cb6ba">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recherches sur l'art statuaire [microform] : considéré chez les anciens et chez les modernes ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985274253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/s46c86</idno>
+            <idno type="cico">276</idno>
+            <idno type="dcl">sz5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recherches sur l'art statuaire [microform] : considéré chez les anciens et chez les modernes ...</title>
+                  <respStmt>
+                     <persName>Emeric-David, T.-B. (Toussaint-Bernard), 1755-1839.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Nyon</publisher>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>xiv, 544 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/44950a66-f78d-4536-aa66-c6590ceba568/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/44950a66-f78d-4536-aa66-c6590ceba568/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

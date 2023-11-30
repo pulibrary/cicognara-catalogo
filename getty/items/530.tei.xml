@@ -26,53 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Parallèle des temples anciens, gothiques et modernes / par J.C. Huet, sous-chef de division à la Grande-Chancellerie de la Légion d'honneur.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926947970001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/4d5p83</idno>
-            <idno>(OCoLC)25922998</idno>
-            <idno type="cico">530</idno>
-            <idno type="dcl">qg7</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Parallèle des temples anciens, gothiques et modernes / par J.C. Huet, sous-chef de division à la Grande-Chancellerie de la Légion d'honneur.</title>
-                  <respStmt>
-                     <persName>Huet, J. C. (Jean Charles), 1762-1811.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris : Chez Desenne :</publisher>
-                     <date>1809</date>
-                  </imprint>
-                  <extent>82 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/bedd4230-3d81-4191-8083-6169334176f2"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bedd4230-3d81-4191-8083-6169334176f2">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Parallèle des temples anciens, gothiques et modernes [microform] / par J.C. Huet.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +64,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture and religion.</term>
+               <term>Church architecture.</term>
+               <term>Temples.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2dbeebf7-5a9d-4844-8c23-3193f7be81aa/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parallèle des temples anciens, gothiques et modernes / par J.C. Huet, sous-chef de division à la Grande-Chancellerie de la Légion d'honneur.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926947970001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4d5p83</idno>
+            <idno>(OCoLC)25922998</idno>
+            <idno type="cico">530</idno>
+            <idno type="dcl">qg7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Parallèle des temples anciens, gothiques et modernes / par J.C. Huet, sous-chef de division à la Grande-Chancellerie de la Légion d'honneur.</title>
+                  <respStmt>
+                     <persName>Huet, J. C. (Jean Charles), 1762-1811.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Desenne :</publisher>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>82 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/bedd4230-3d81-4191-8083-6169334176f2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Temples.</term>
+               <term>Church architecture.</term>
+               <term>Architecture and religion.</term>
+               <term>Architecture and religion</term>
+               <term>Church architecture</term>
+               <term>Temples</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bedd4230-3d81-4191-8083-6169334176f2">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

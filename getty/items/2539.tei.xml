@@ -23,57 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Description de l'Arabie: faite sur les observations propres et des avis recueillis dans les lieux mêmes</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Niebuhr, Carsten, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-55454</idno>
-            <idno type="URI">http://portal.getty.edu/api/7j9679</idno>
-            <idno type="cico">2539</idno>
-            <idno type="dcl">3gg</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Description de l'Arabie: faite sur les observations propres et des avis recueillis dans les lieux mêmes</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <pubPlace>Arabien</pubPlace>
-                     <pubPlace>Asien</pubPlace>
-                     <pubPlace>Saudi-Arabien</pubPlace>
-                     <pubPlace>Asia</pubPlace>
-                     <pubPlace>Saudi Arabia</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>25 45</pubPlace>
-                     <date>1774</date>
-                     <date>1774</date>
-                  </imprint>
-                  <extent>XLII, 372 S., [7] S., 25 Taf.</extent>
-                  <extent>Ill., Kt.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/niebuhr1774/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/niebuhr1774/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Description de l'Arabie [microform] / faite sur des observations propres et des avis recueillis dans les lieux mèmes par Carsten Niebuhr.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -115,6 +64,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Arabian Peninsula -- Description and travel -- Early works to 1800.</term>
+               <term>Iran -- Description and travel -- Early works to 1800.</term>
+               <term>Middle East -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ec218e21-1fc3-4b95-a9fa-d512efc7ef88/manifest">
@@ -167,6 +125,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Arabian Peninsula -- Description and travel -- Early works to 1800.</term>
+               <term>Iran -- Description and travel -- Early works to 1800.</term>
+               <term>Middle East -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6c7bba56-ea25-42ac-9660-2dccf3d1f562/manifest">

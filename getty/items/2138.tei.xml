@@ -26,50 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Speculum, &amp; [Et] Exemplar Christicolarum: Vita Beatissimi Patris Benedicti Monacho[rum] Patriarch[a]e Sanctissimi</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Sangrinus, Angelus, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-279254</idno>
-            <idno type="URI">http://portal.getty.edu/api/sv594g</idno>
-            <idno type="cico">2138</idno>
-            <idno type="dcl">dg5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Speculum, &amp; [Et] Exemplar Christicolarum: Vita Beatissimi Patris Benedicti Monacho[rum] Patriarch[a]e Sanctissimi</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1587</date>
-                     <date>1587</date>
-                  </imprint>
-                  <extent>[8] Bl., 246 S., [3] Bl.</extent>
-                  <extent>Ill. (Titeleinfassung, Kupferst.)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/sangrinus1587/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/sangrinus1587/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Speculum &amp; exemplar Christicolarum [microform] : vita beatissimi patris Benedicti, monacho[rum] patriarch[a]e sanctissimi / per R.P.D. Angelum Sangrinum abbatem congregationis Casine[n]sis Carmine conscripta.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -108,6 +64,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Benedict, Saint, Abbot of Monte Cassino -- Art.</term>
+               <term>Christian saints -- Italy -- Biography -- Portraits.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ab6b36d2-cb2e-4bca-b652-523ca53b74da/manifest">

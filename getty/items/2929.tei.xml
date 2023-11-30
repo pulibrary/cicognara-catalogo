@@ -27,6 +27,71 @@ testo e sono eseguite accuratamente.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Michaelis Mercati Samminiatensis Metallotheca opus posthumum, auctoritate, &amp; munificentia Clementis Undecimi Pontificis Maximi e tenebris in lucem eductum : opera autem, &amp; studio Joannis Mariae Lancisii archiatri pontificii illustratum.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lancisi, Giovanni Maria, 1654-1720</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991809453504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/dk7d57</idno>
+            <idno>(OCoLC)973473653</idno>
+            <idno type="cico">2929</idno>
+            <idno type="dcl">n2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Michaelis Mercati Samminiatensis Metallotheca opus posthumum, auctoritate, &amp; munificentia Clementis Undecimi Pontificis Maximi e tenebris in lucem eductum : opera autem, &amp; studio Joannis Mariae Lancisii archiatri pontificii illustratum.</title>
+                  <respStmt>
+                     <persName>Mercati, Michele, 1541-1593.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex officina Jo. Mariae Salvioni</publisher>
+                     <pubPlace>Vatican City</pubPlace>
+                     <date>1717-1719</date>
+                     <date>1717</date>
+                  </imprint>
+                  <extent>[8], xiij-lxiv, 378, [18] p., [7] leaves of plates (2 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991809453504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mercati, Michele, 1541-1593.</term>
+               <term>Sixtus V, Pope, 1520-1590 -- Natural history collections -- Catalogs.</term>
+               <term>Vatican Palace (Vatican City) -- Catalogs.</term>
+               <term>Minerals -- Catalogs and collections -- Vatican City -- Early works to 1800.</term>
+               <term>Natural history -- Catalogs and collections -- Vatican City -- Early works to 1800.</term>
+               <term>Metals -- Vatican City -- Catalogs.</term>
+               <term>Sculpture -- Vatican City -- Catalogs.</term>
+               <term>Paleontology -- Early works to 1800</term>
+               <term>QE386 .M4 1717</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991809453504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Michaelis Mercati Samminiatensis Metallotheca [microform] : opus posthumum, auctoritate, &amp; munificentia Clementis Undecimi Pontificis Maximi e tenebris in lucem eductum : opera autem, &amp; studio Joannis Mariae Lancisii archiatri pontificii illustratum.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -67,6 +132,14 @@ testo e sono eseguite accuratamente.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Metals -- Early works to 1800.</term>
+               <term>Minerals -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1a12da6e-10af-484c-8bcd-b87f5540d478/manifest">

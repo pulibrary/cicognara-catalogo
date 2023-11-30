@@ -24,51 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Selecta Nvmismata  Antiqva</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Seguin, Pierre, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-306890</idno>
-            <idno type="URI">http://portal.getty.edu/api/qq3f14</idno>
-            <idno type="cico">2999</idno>
-            <idno type="dcl">wfr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Selecta Nvmismata  Antiqva</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Römisches Reich</pubPlace>
-                     <date>1665</date>
-                     <date>1665</date>
-                  </imprint>
-                  <extent>[4] Bl., 226 S., [3] Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/seguin1665/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/seguin1665/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Selecta numismata antiqua ex museo Petri Seguini .. [microform] : eiusdem observationibus illustrata.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -105,6 +60,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seguin, Pierre, fl. 1660 -- Coin collections.</term>
+               <term>Numismatics, Ancient.</term>
+               <term>Private collection -- France -- Paris -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/022c7d08-2e8c-4848-b39d-d6ca786a9e80/manifest">
@@ -152,6 +116,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seguin, Pierre, fl. 1660 -- Coin collections.</term>
+               <term>Coins, Ancient.</term>
+               <term>Numismatics -- Early works to 1800.</term>
+               <term>Private collections -- France -- Paris -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/75d882c4-9455-4460-b17c-76b7cf900482/manifest">
@@ -201,6 +175,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Ancient.</term>
+               <term>Numismatics, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/394df930-718b-4359-9c93-507dec85ade9/manifest">
@@ -248,6 +230,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seguin, Pierre, fl. 1660 -- Coin collections.</term>
+               <term>Coins, Ancient.</term>
+               <term>Private collections -- France -- Paris -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4f0274eb-d1df-4c9f-a908-24ab2753c296/manifest">

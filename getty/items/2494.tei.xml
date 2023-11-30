@@ -25,55 +25,6 @@ Vedansi le osservazioni su quest’opera all’articolo Ficoroni e l’apologia 
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Diarium italicum, sive monumentorum veterum, bibliothecum, musaeorum, &amp;c [microform] : notitiae singulares in itinerario italico collectae / additis schematibus ac figuris a R.P.D. Bernardo de Montfaucon ....</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985404783506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ps4t2h</idno>
-            <idno type="cico">2494</idno>
-            <idno type="dcl">9zt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Diarium italicum, sive monumentorum veterum, bibliothecum, musaeorum, &amp;c [microform] : notitiae singulares in itinerario italico collectae / additis schematibus ac figuris a R.P.D. Bernardo de Montfaucon ....</title>
-                  <respStmt>
-                     <persName>Montfaucon, Bernard de, 1655-1741.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Parisiis : Apud Joannem Anisson</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1702</date>
-                  </imprint>
-                  <extent>526 p.</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a839d1fe-9e19-4c24-ae96-107b38c15394/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a839d1fe-9e19-4c24-ae96-107b38c15394/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Diarium Italicum Sive Monumentorum Veterum, Bibliothecarum Musæorum, &amp;c. Notitiæ singulares in Itinerario Italico collectæ: Additis schematibus ac figuris</title>
             <respStmt>
                <orgName>Heidelberg University Library</orgName>
@@ -114,9 +65,85 @@ Vedansi le osservazioni su quest’opera all’articolo Ficoroni e l’apologia 
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Denkmal</term>
+               <term>Antike</term>
+               <term>archaeology</term>
+               <term>architecture</term>
+               <term>buildings</term>
+               <term>cities, towns, villages</term>
+               <term>Archäologie</term>
+               <term>Architektur</term>
+               <term>Bauten</term>
+               <term>Städte und Dörfer</term>
+               <term>Cicognara</term>
+               <term>Parte Seconda</term>
+               <term>Delle Antichità in genere</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/montfaucon1702/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diarium italicum, sive monumentorum veterum, bibliothecum, musaeorum, &amp;c [microform] : notitiae singulares in itinerario italico collectae / additis schematibus ac figuris a R.P.D. Bernardo de Montfaucon ....</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404783506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ps4t2h</idno>
+            <idno type="cico">2494</idno>
+            <idno type="dcl">9zt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Diarium italicum, sive monumentorum veterum, bibliothecum, musaeorum, &amp;c [microform] : notitiae singulares in itinerario italico collectae / additis schematibus ac figuris a R.P.D. Bernardo de Montfaucon ....</title>
+                  <respStmt>
+                     <persName>Montfaucon, Bernard de, 1655-1741.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Joannem Anisson</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>526 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a839d1fe-9e19-4c24-ae96-107b38c15394/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Italy -- Antiquities -- Early works to 1800.</term>
+               <term>Italy -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a839d1fe-9e19-4c24-ae96-107b38c15394/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -27,58 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Iacobi Philippi Tomasini De donariis ac tabellis votiuis liber singularis [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985335963506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/wd566v</idno>
-            <idno type="URI">http://portal.getty.edu/api/9c557t</idno>
-            <idno type="URI">http://portal.getty.edu/api/d25s90</idno>
-            <idno type="cico">1809</idno>
-            <idno type="dcl">1kh</idno>
-            <idno type="dcl">dpc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Iacobi Philippi Tomasini De donariis ac tabellis votiuis liber singularis [microform].</title>
-                  <respStmt>
-                     <persName>Tomasini, Giacomo Filippo, 1595-1655.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Patvaii : Typis Pauli Frambotti Bibl</publisher>
-                     <date>1654</date>
-                  </imprint>
-                  <extent>[8], 250 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cd2d8bb6-7292-4a08-9663-27e0a7be88c6/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cd2d8bb6-7292-4a08-9663-27e0a7be88c6/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Iacobi Philippi Tomasini episcopi aemoniensis De donariis ac tabellis votivis liber singularis.</title>
             <respStmt>
                <orgName>Harvard Library</orgName>
@@ -119,6 +67,23 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Votive offerings</term>
+               <term>Religion</term>
+               <term>Religion</term>
+               <term>Religion.</term>
+               <term>religion (discipline)</term>
+               <term>Religion</term>
+               <term>Votive offerings</term>
+               <term>Rome -- Religion</term>
+               <term>Rome -- Religion.</term>
+               <term>Rome (Empire)</term>
+               <term>BL815 .V6 T6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494887350">
@@ -171,6 +136,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Votive offerings -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cd2d8bb6-7292-4a08-9663-27e0a7be88c6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iacobi Philippi Tomasini De donariis ac tabellis votiuis liber singularis [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985335963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wd566v</idno>
+            <idno type="URI">http://portal.getty.edu/api/9c557t</idno>
+            <idno type="URI">http://portal.getty.edu/api/d25s90</idno>
+            <idno type="cico">1809</idno>
+            <idno type="dcl">1kh</idno>
+            <idno type="dcl">dpc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iacobi Philippi Tomasini De donariis ac tabellis votiuis liber singularis [microform].</title>
+                  <respStmt>
+                     <persName>Tomasini, Giacomo Filippo, 1595-1655.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Patvaii : Typis Pauli Frambotti Bibl</publisher>
+                     <date>1654</date>
+                  </imprint>
+                  <extent>[8], 250 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cd2d8bb6-7292-4a08-9663-27e0a7be88c6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Votive offerings -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cd2d8bb6-7292-4a08-9663-27e0a7be88c6/manifest">

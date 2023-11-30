@@ -26,9 +26,9 @@ questa opera con cinque tavole in rame.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Description des pyramides de Ghizé, de la ville du Kaire et de ses environs</title>
+            <title>Description des pyramides de Ghizé, de la ville du Kaire, et ses environs / par J. Grobert, Chef de Brigade d'Artillerie, membre de l'Institut de Bologne.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -37,39 +37,65 @@ questa opera con cinque tavole in rame.</note>
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Grobert, Jacques François Louis, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-47870</idno>
-            <idno type="URI">http://portal.getty.edu/api/mz5v2n</idno>
+            <authority>Huet, Nicolas, 1770-1830.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930053430001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vd5x48</idno>
+            <idno>(OCoLC)16791940</idno>
             <idno type="cico">2523</idno>
             <idno type="dcl">z87</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Description des pyramides de Ghizé, de la ville du Kaire et de ses environs</title>
+                  <title>Description des pyramides de Ghizé, de la ville du Kaire, et ses environs / par J. Grobert, Chef de Brigade d'Artillerie, membre de l'Institut de Bologne.</title>
+                  <respStmt>
+                     <persName>Grobert, Jacques-François-Louis, 1757-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <pubPlace>Giseh</pubPlace>
-                     <pubPlace>Afrika</pubPlace>
-                     <pubPlace>Ägypten</pubPlace>
-                     <pubPlace>Pyramids of Giza</pubPlace>
-                     <pubPlace>Africa</pubPlace>
+                     <publisher>A Paris : Chez Logerot-Petiet, imprimeur, rue et maison des Capucines, vis-à-vis la place Vendôme :</publisher>
                      <pubPlace>Egypt</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>29.98333 31.13333</pubPlace>
-                     <date>1800</date>
+                     <pubPlace>Cairo (Egypt)</pubPlace>
+                     <pubPlace>Jīzah (Egypt)</pubPlace>
+                     <pubPlace>Egypt.</pubPlace>
+                     <pubPlace>Guizèh, Pyramides de (Égypte)</pubPlace>
+                     <pubPlace>Égypte</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>An IX [1801]</date>
                      <date>1801</date>
-                     <date>An IX [1800/01]</date>
                   </imprint>
-                  <extent>[3] Bl., 160 S.</extent>
+                  <extent>3 preliminary leaves, 160 pages, 6 leaves of plates (some folded)</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/grobert1801/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/72f5963c-e8ba-49e6-8541-b91a00348da1"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pyramids -- Egypt -- Jīzah.</term>
+               <term>Egypt -- Description and travel.</term>
+               <term>Cairo (Egypt) -- Antiquities.</term>
+               <term>Cairo (Egypt) -- Description and travel.</term>
+               <term>Jīzah (Egypt) -- Antiquities.</term>
+               <term>Jīzah (Egypt) -- Description and travel.</term>
+               <term>Egypt -- History -- French occupation, 1798-1801.</term>
+               <term>Antiquities.</term>
+               <term>Pyramids.</term>
+               <term>Travel.</term>
+               <term>Egypt -- Jīzah.</term>
+               <term>Egypt.</term>
+               <term>Egypt -- Cairo.</term>
+               <term>Guizèh, Pyides de (Égypte)</term>
+               <term>Égypte -- 1798-1801 (Occupation française).</term>
+               <term>DT63 .G87</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/grobert1801/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/72f5963c-e8ba-49e6-8541-b91a00348da1">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -119,65 +145,19 @@ questa opera con cinque tavole in rame.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pyramids.</term>
+               <term>Cairo (Egypt) -- Description and travel.</term>
+               <term>Egypt -- Description and travel.</term>
+               <term>Egypt -- History -- French occupation, 1798-1801.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/abd942a2-6399-4f47-bd80-a82911e311ab/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Description des pyramides de Ghizé, de la ville du Kaire, et ses environs / par J. Grobert, Chef de Brigade d'Artillerie, membre de l'Institut de Bologne.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Huet, Nicolas, 1770-1830.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9930053430001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/vd5x48</idno>
-            <idno>(OCoLC)16791940</idno>
-            <idno type="cico">2523</idno>
-            <idno type="dcl">z87</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Description des pyramides de Ghizé, de la ville du Kaire, et ses environs / par J. Grobert, Chef de Brigade d'Artillerie, membre de l'Institut de Bologne.</title>
-                  <respStmt>
-                     <persName>Grobert, Jacques-François-Louis, 1757-</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Logerot-Petiet, imprimeur, rue et maison des Capucines, vis-à-vis la place Vendôme :</publisher>
-                     <pubPlace>Egypt</pubPlace>
-                     <pubPlace>Cairo (Egypt)</pubPlace>
-                     <pubPlace>Jīzah (Egypt)</pubPlace>
-                     <pubPlace>Egypt.</pubPlace>
-                     <pubPlace>Guizèh, Pyramides de (Égypte)</pubPlace>
-                     <pubPlace>Égypte</pubPlace>
-                     <pubPlace>France Paris.</pubPlace>
-                     <date>An IX [1801]</date>
-                     <date>1801</date>
-                  </imprint>
-                  <extent>3 preliminary leaves, 160 pages, 6 leaves of plates (some folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/72f5963c-e8ba-49e6-8541-b91a00348da1"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/72f5963c-e8ba-49e6-8541-b91a00348da1">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

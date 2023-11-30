@@ -66,9 +66,76 @@ parte di queste tavole fu riprodotta a Londra pochi anni dopo. Vedi Ogle</note>.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb9fe63c-a670-4715-93cf-59f31d256b7c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de pierres gravées antiques.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Mariette, Pierre-Jean, 1694-1774.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993355443504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/4k2m92</idno>
+            <idno>(OCoLC)865578222</idno>
+            <idno>(OCoLC)23629441</idno>
+            <idno type="cico">2873</idno>
+            <idno type="dcl">kp2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de pierres gravées antiques.</title>
+                  <respStmt>
+                     <persName>Lévesque de Gravelle, Michel Philippe, -1752</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>À Paris : De l'imprimerie de P.J. Mariette, ruë S. Jacques, aux Colonnes d'Hercule</publisher>
+                     <date>MDCCXXXII [1732-37]</date>
+                     <date>1732</date>
+                  </imprint>
+                  <extent>2 v. ([2], x, 40, [2] p., [1], 101 leaves of plates (some folded); 79, [1] p., [1], 104 leaves of plates (1 folded))</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993355443504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems, Classical -- Early works to 1800.</term>
+               <term>Cameos, Classical -- Early works to 1800.</term>
+               <term>Gems -- Early works to 1800.</term>
+               <term>Glyptics -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993355443504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

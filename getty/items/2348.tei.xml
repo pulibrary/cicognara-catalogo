@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vie des architectes anciens et modernes, qui se sont rendus célebres chez les différentes nations. Traduites de l'italien, &amp; enrichies de notes historiques &amp; critiques. Par M. Pingeron.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Pingeron, Jean Claude, 1730-1795, ed. and tr.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9919965003506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8p1d9h</idno>
-            <idno>(OCoLC)01083793</idno>
-            <idno type="cico">2348</idno>
-            <idno type="dcl">j5f</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vie des architectes anciens et modernes, qui se sont rendus célebres chez les différentes nations. Traduites de l'italien, &amp; enrichies de notes historiques &amp; critiques. Par M. Pingeron.</title>
-                  <respStmt>
-                     <persName>Milizia, Francesco, 1725-1798.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>A Paris, Chez C. A. Jombert</publisher>
-                     <date>1771</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ece3a238-5ccd-4971-b778-47a20c82f3dc/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ece3a238-5ccd-4971-b778-47a20c82f3dc/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Vies des architectes anciens et modernes [microform] : qui se sont rendus célèbres chez les différentes nations / traduites de l'italien, &amp; enrichies de notes historiques &amp; critiques par M. Pingeron ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +64,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d4e03ddd-c151-42c1-8c35-792052a9359e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vie des architectes anciens et modernes, qui se sont rendus célebres chez les différentes nations. Traduites de l'italien, &amp; enrichies de notes historiques &amp; critiques. Par M. Pingeron.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pingeron, Jean Claude, 1730-1795, ed. and tr.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9919965003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8p1d9h</idno>
+            <idno>(OCoLC)01083793</idno>
+            <idno type="cico">2348</idno>
+            <idno type="dcl">j5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vie des architectes anciens et modernes, qui se sont rendus célebres chez les différentes nations. Traduites de l'italien, &amp; enrichies de notes historiques &amp; critiques. Par M. Pingeron.</title>
+                  <respStmt>
+                     <persName>Milizia, Francesco, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Paris, Chez C. A. Jombert</publisher>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ece3a238-5ccd-4971-b778-47a20c82f3dc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Biography -- Early works to 1800.</term>
+               <term>NA40</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ece3a238-5ccd-4971-b778-47a20c82f3dc/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

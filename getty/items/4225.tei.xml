@@ -63,9 +63,84 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Italy -- Genoa.</term>
+               <term>Genoa (Italy) -- Description and travel.</term>
+               <term>Genoa (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b30215e8-5dd0-422c-a3e4-40834d10aece/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Istruzione di quanto può vedersi di più bello in Genova in pittura, scultura ed architettura, ecc. / autore, Carlo Giuseppe Ratti, pittor genovese.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Brusco, Giacomo.</authority>
+            <authority>Guidotti, Giovanni Lorenzo</authority>
+            <authority>Scionico, Paolo.</authority>
+            <authority>Scionico, Adamo</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993237763504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/380m7j</idno>
+            <idno>(OCoLC)823931161</idno>
+            <idno>(OCoLC)34888858</idno>
+            <idno type="cico">4225</idno>
+            <idno type="dcl">gs1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istruzione di quanto può vedersi di più bello in Genova in pittura, scultura ed architettura, ecc. / autore, Carlo Giuseppe Ratti, pittor genovese.</title>
+                  <respStmt>
+                     <persName>Ratti, Carlo Giuseppe, 1737-1795.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Genova : Dalle stampe di Paolo e Adamo Scionico, sulle Piazza delle Scuole Pie</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Genoa (Italy)</pubPlace>
+                     <date>MDCCLXVI [1766]</date>
+                     <date>1766</date>
+                  </imprint>
+                  <extent>xxii, [8], 404 p., [1] leaf of plate</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993237763504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Genoa -- Early works to 1800.</term>
+               <term>Church buildings -- Italy -- Genoa -- Early works to 1800.</term>
+               <term>Provenance -- Queirolo (G.)</term>
+               <term>Genoa (Italy) -- Guidebooks -- Early works to 1800.</term>
+               <term>Genoa (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993237763504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

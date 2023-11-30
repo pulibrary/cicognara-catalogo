@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Notizie istoriche degl'intagliatori [microform] / opera di Gio: Gori Gandellini, Sanese.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985344853506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/790j8j</idno>
-            <idno type="cico">2281</idno>
-            <idno type="dcl">hvv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Notizie istoriche degl'intagliatori [microform] / opera di Gio: Gori Gandellini, Sanese.</title>
-                  <respStmt>
-                     <persName>Gori Gandellini, Giovanni, 1703-1769.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Siena : Presso Vincenzo Pazzini Carli e Figlj</publisher>
-                     <date>1771-1816</date>
-                     <date>1771</date>
-                  </imprint>
-                  <extent>15 v.</extent>
-                  <extent>77 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4796ab89-717a-497d-b87d-7ee6741efa62/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4796ab89-717a-497d-b87d-7ee6741efa62/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Notizie istoriche degli intagliatori / di Giovanni Gori Gandellini.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -129,6 +80,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Engravers -- Italy -- Biography -- Dictionaries.</term>
+               <term>Engraving -- History -- Early works to 1800.</term>
+               <term>Engravers.</term>
+               <term>Engraving.</term>
+               <term>Italy.</term>
+               <term>NE800 .G67n 1808</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f99e854f-c8f5-43e9-9a28-c08b6b09fa80">
@@ -202,6 +165,63 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/70b1ed6f-b71a-45d1-9b7f-8fb2930bbea9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie istoriche degl'intagliatori [microform] / opera di Gio: Gori Gandellini, Sanese.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985344853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/790j8j</idno>
+            <idno type="cico">2281</idno>
+            <idno type="dcl">hvv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie istoriche degl'intagliatori [microform] / opera di Gio: Gori Gandellini, Sanese.</title>
+                  <respStmt>
+                     <persName>Gori Gandellini, Giovanni, 1703-1769.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Siena : Presso Vincenzo Pazzini Carli e Figlj</publisher>
+                     <date>1771-1816</date>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>15 v.</extent>
+                  <extent>77 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4796ab89-717a-497d-b87d-7ee6741efa62/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Engravers -- Biography -- Dictionaries -- Italian -- Early works to 1800.</term>
+               <term>Engraving -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4796ab89-717a-497d-b87d-7ee6741efa62/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -23,57 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pitture, sculture, architetture, ed altre cose notabili di Padova / nuovamente descritte da Pietro Brandolese ; con alcune brevi notizie intorno gli artefici mentovati nell'opera.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Zanoni, Rizzi.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9928242580001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/2r396d</idno>
-            <idno>(OCoLC)5394936</idno>
-            <idno type="cico">4274</idno>
-            <idno type="dcl">rnz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Pitture, sculture, architetture, ed altre cose notabili di Padova / nuovamente descritte da Pietro Brandolese ; con alcune brevi notizie intorno gli artefici mentovati nell'opera.</title>
-                  <respStmt>
-                     <persName>Brandolese, Pietro, 1754-1809</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Padova : A spese di Pietro Brandolese librajo</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Padua (Italy)</pubPlace>
-                     <pubPlace>Italy Padua.</pubPlace>
-                     <date>1795</date>
-                  </imprint>
-                  <extent>xx, 308, [2] p., [1] folded leaf of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e6047f6c-1bec-4a60-862c-8bf629ddc291"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e6047f6c-1bec-4a60-862c-8bf629ddc291">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Pitture, sculture, architetture, ed altre cose notabili di Padova [microform] / nuovamente descritte da Pietro Brandolese ; con alcune brevi notizie intorno gli artefici mentovati nell'opera.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +63,83 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Art -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Padua (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/68620ba0-e261-4d63-bedb-e1f2b9646ef9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pitture, sculture, architetture, ed altre cose notabili di Padova / nuovamente descritte da Pietro Brandolese ; con alcune brevi notizie intorno gli artefici mentovati nell'opera.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zanoni, Rizzi.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928242580001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2r396d</idno>
+            <idno>(OCoLC)5394936</idno>
+            <idno type="cico">4274</idno>
+            <idno type="dcl">rnz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pitture, sculture, architetture, ed altre cose notabili di Padova / nuovamente descritte da Pietro Brandolese ; con alcune brevi notizie intorno gli artefici mentovati nell'opera.</title>
+                  <respStmt>
+                     <persName>Brandolese, Pietro, 1754-1809</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova : A spese di Pietro Brandolese librajo</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Padua (Italy)</pubPlace>
+                     <pubPlace>Italy Padua.</pubPlace>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>xx, 308, [2] p., [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/e6047f6c-1bec-4a60-862c-8bf629ddc291"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Padua (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Art -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Padua -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>Art.</term>
+               <term>Travel.</term>
+               <term>Italy -- Padua.</term>
+               <term>N6921.P7 B73 1795</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e6047f6c-1bec-4a60-862c-8bf629ddc291">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

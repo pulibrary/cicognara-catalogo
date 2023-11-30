@@ -24,55 +24,6 @@ musaici e pitture.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Iosephi Mariae Svaresii episcopi vasionensis Praenestes antiquae libri duo [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985406033506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/3d0h1t</idno>
-            <idno type="cico">2630</idno>
-            <idno type="dcl">rrp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Iosephi Mariae Svaresii episcopi vasionensis Praenestes antiquae libri duo [microform].</title>
-                  <respStmt>
-                     <persName>Suarès, Joseph Marie, 1599-1677.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Romae : Typis Angeli Bernabò, Haerdis Manelsi Manelsij</publisher>
-                     <pubPlace>Palestrina (Italy)</pubPlace>
-                     <date>1655</date>
-                  </imprint>
-                  <extent>292 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9f9e652b-4906-4f66-bc90-458286ea08ca/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9f9e652b-4906-4f66-bc90-458286ea08ca/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Iosephi Mariae Svaresii episcopi vasionensis Praenestes antiqvae libri dvo.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +62,73 @@ musaici e pitture.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palestrina (Italy) -- Antiquities.</term>
+               <term>DG70.P8 S9</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b79f552d-3f66-4d08-9a25-d2f6ab26ebae/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iosephi Mariae Svaresii episcopi vasionensis Praenestes antiquae libri duo [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3d0h1t</idno>
+            <idno type="cico">2630</idno>
+            <idno type="dcl">rrp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iosephi Mariae Svaresii episcopi vasionensis Praenestes antiquae libri duo [microform].</title>
+                  <respStmt>
+                     <persName>Suarès, Joseph Marie, 1599-1677.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Angeli Bernabò, Haerdis Manelsi Manelsij</publisher>
+                     <pubPlace>Palestrina (Italy)</pubPlace>
+                     <date>1655</date>
+                  </imprint>
+                  <extent>292 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9f9e652b-4906-4f66-bc90-458286ea08ca/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palestrina (Italy) -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9f9e652b-4906-4f66-bc90-458286ea08ca/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

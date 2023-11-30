@@ -25,6 +25,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Pia desideria [microform] / authore Hermanno Hugo ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985337513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k0897p</idno>
+            <idno type="cico">1908</idno>
+            <idno type="dcl">nvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pia desideria [microform] / authore Hermanno Hugo ...</title>
+                  <respStmt>
+                     <persName>Hugo, Herman, 1588-1629.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Antuerpiae : Apud Henricum Aertssens</publisher>
+                     <date>1629</date>
+                  </imprint>
+                  <extent>[24], 190 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/caa869ba-fbb8-462f-8e6c-ace1f8b7b0b2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian life -- Early works to 1800.</term>
+               <term>Emblems -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/caa869ba-fbb8-462f-8e6c-ace1f8b7b0b2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Pia desideria / lib. iii. ad Urbanum viii. authore Herm. Hugone, Soc. Iesu.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,57 +122,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian life -- Catholic authors -- Early works to 1800.</term>
+               <term>Emblems -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6bd36d0f-e82a-4701-84c5-7a5808fab2f5/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Pia desideria [microform] / authore Hermanno Hugo ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985337513506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/k0897p</idno>
-            <idno type="cico">1908</idno>
-            <idno type="dcl">nvr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Pia desideria [microform] / authore Hermanno Hugo ...</title>
-                  <respStmt>
-                     <persName>Hugo, Herman, 1588-1629.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Antuerpiae : Apud Henricum Aertssens</publisher>
-                     <date>1629</date>
-                  </imprint>
-                  <extent>[24], 190 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/caa869ba-fbb8-462f-8e6c-ace1f8b7b0b2/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/caa869ba-fbb8-462f-8e6c-ace1f8b7b0b2/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

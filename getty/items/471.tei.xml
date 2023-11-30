@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De architectura Iacobi Androuetii du Cerceau opus [microform] : quo descriptae sunt aedificiorum quinquaginta plane dissimilium ichnographiae ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985298883506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tt1m9s</idno>
-            <idno type="cico">471</idno>
-            <idno type="dcl">4kr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De architectura Iacobi Androuetii du Cerceau opus [microform] : quo descriptae sunt aedificiorum quinquaginta plane dissimilium ichnographiae ...</title>
-                  <respStmt>
-                     <persName>Androuet du Cerceau, Jacques, active 1549-1584.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Lutetia Parisiorum [Paris] : [E typographia Benedicti Praeuotij ...]</publisher>
-                     <date>1559</date>
-                  </imprint>
-                  <extent>32, [1] p., [16] leaves of plates</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/522fd523-7ce6-4260-9fc9-8f2d15e7af7a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/522fd523-7ce6-4260-9fc9-8f2d15e7af7a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>De architectura Iacobi Androuetii du Cerceau, opus : quo descriptae sunt aedificiorum quinquaginta planè dissimilium ichnographiae, in omnium non modò potentiorum, sed etiam mediocrium &amp; tenuiorum gratia[m], quos aedificandi studium oblectat: adiunctâ vsus &amp; commoditatis in habitationibus singulis expositione, vnà cum integra cuisque aedificij dimensione. Hûc accedit breuis explicatio de structurarum, quibus aedifica constant, dimensione per orgyiam, que Gallica est architectorum mensura, sex longa pedes: quâ certè methodo nemo non aedificia quaevis metiri, &amp; futuri in aedificando sumptus rationem secum inire poterit ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -113,9 +65,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Designs and plans -- Early works to 1800.</term>
+               <term>Architecture.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/69fceb15-640d-41ef-9e4d-28ccc3e0d35f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De architectura Iacobi Androuetii du Cerceau opus [microform] : quo descriptae sunt aedificiorum quinquaginta plane dissimilium ichnographiae ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985298883506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tt1m9s</idno>
+            <idno type="cico">471</idno>
+            <idno type="dcl">4kr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De architectura Iacobi Androuetii du Cerceau opus [microform] : quo descriptae sunt aedificiorum quinquaginta plane dissimilium ichnographiae ...</title>
+                  <respStmt>
+                     <persName>Androuet du Cerceau, Jacques, active 1549-1584.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Lutetia Parisiorum [Paris] : [E typographia Benedicti Praeuotij ...]</publisher>
+                     <date>1559</date>
+                  </imprint>
+                  <extent>32, [1] p., [16] leaves of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/522fd523-7ce6-4260-9fc9-8f2d15e7af7a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Designs and plans -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/522fd523-7ce6-4260-9fc9-8f2d15e7af7a/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -161,6 +178,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Triumphal arches.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/136cbe32-115f-4e7b-934b-44c4a5f3413a/manifest">

@@ -28,6 +28,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Dialogo di pittvra di messer Paolo Pino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925970890001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/k48m48</idno>
+            <idno>(OCoLC)4764036</idno>
+            <idno type="cico">185</idno>
+            <idno type="dcl">c2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogo di pittvra di messer Paolo Pino.</title>
+                  <respStmt>
+                     <persName>Pino, Paolo, active 1534-1565.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Per Pauolo Gherardo</publisher>
+                     <date>1548</date>
+                  </imprint>
+                  <extent>34 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8e4f0a66-17d8-43cb-9358-8b24190b1e09"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8e4f0a66-17d8-43cb-9358-8b24190b1e09">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Dialogo di pittura [microform] / di messer Paolo Pino.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -65,56 +120,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/32aa0503-ce91-4f04-a4c4-cd87fec518b7/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Dialogo di pittvra di messer Paolo Pino.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925970890001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/k48m48</idno>
-            <idno>(OCoLC)4764036</idno>
-            <idno type="cico">185</idno>
-            <idno type="dcl">c2h</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dialogo di pittvra di messer Paolo Pino.</title>
-                  <respStmt>
-                     <persName>Pino, Paolo, active 1534-1565.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Vinegia : Per Pauolo Gherardo</publisher>
-                     <date>1548</date>
-                  </imprint>
-                  <extent>34 leaves</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/8e4f0a66-17d8-43cb-9358-8b24190b1e09"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8e4f0a66-17d8-43cb-9358-8b24190b1e09">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

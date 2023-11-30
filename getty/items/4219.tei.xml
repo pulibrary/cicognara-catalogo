@@ -24,56 +24,6 @@ vedere cogli occhi altrui, e pensare coll’altrui testa, e fece un’opera infe
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Description de la galerie royale de Florence [microform] / par M. François Zacchiroli ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <authority>Real Galleria di Firenze.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985427453506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tn8p3s</idno>
-            <idno type="cico">4219</idno>
-            <idno type="dcl">k8d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Description de la galerie royale de Florence [microform] / par M. François Zacchiroli ...</title>
-                  <respStmt>
-                     <persName>Zacchiroli, Francesco.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>A Florence : Chez Pierre Allegrini</publisher>
-                     <date>1783</date>
-                  </imprint>
-                  <extent>3 pt. in 1 v.</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ddb139c1-64e4-48fb-8e87-868ff3cfeaa0/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ddb139c1-64e4-48fb-8e87-868ff3cfeaa0/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Description de la galerie royale de Florence / par M. François Zacchiroli.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -113,9 +63,79 @@ vedere cogli occhi altrui, e pensare coll’altrui testa, e fece un’opera infe
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galleria degli Uffizi.</term>
+               <term>Art -- Italy -- Florence.</term>
+               <term>Galleria degli Uffizi.</term>
+               <term>Art.</term>
+               <term>Italy -- Florence.</term>
+               <term>Uffizi (Florence, Italie) -- Ouvrages avant 1800.</term>
+               <term>N2570 .Z2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f9467018-fd90-4585-a9e3-7606b26c4579">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description de la galerie royale de Florence [microform] / par M. François Zacchiroli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Real Galleria di Firenze.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427453506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tn8p3s</idno>
+            <idno type="cico">4219</idno>
+            <idno type="dcl">k8d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description de la galerie royale de Florence [microform] / par M. François Zacchiroli ...</title>
+                  <respStmt>
+                     <persName>Zacchiroli, Francesco.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Florence : Chez Pierre Allegrini</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>3 pt. in 1 v.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ddb139c1-64e4-48fb-8e87-868ff3cfeaa0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Real Galleria di Firenze.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ddb139c1-64e4-48fb-8e87-868ff3cfeaa0/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -63,9 +63,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Virgil. Aeneis -- Illustrations -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/decfa7bc-851e-47e4-91b3-2976002286e4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'Eneide di Virgilio / tradotta di Clemente Bondi ; inventata ed incisa all'acquaforte da Bartolomeo Pinelli ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bondi, Clemente, 1742-1821.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992359233504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/q41g58</idno>
+            <idno>(OCoLC)993735004</idno>
+            <idno type="cico">1761</idno>
+            <idno type="dcl">r24</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'Eneide di Virgilio / tradotta di Clemente Bondi ; inventata ed incisa all'acquaforte da Bartolomeo Pinelli ...</title>
+                  <respStmt>
+                     <persName>Pinelli, Bartolomeo, 1781-1835.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Presso Luigi Fabri</publisher>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>[1] p., [50] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992359233504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Virgil. Aeneis -- Illustrations -- Early works to 1800.</term>
+               <term>Provenance -- Artium Genio.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992359233504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

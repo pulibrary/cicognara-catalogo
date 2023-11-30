@@ -25,58 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Delle case de' contadini [microform] : trattato architettonico / di Ferdinando Morozzi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985446933506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/9h1b6t</idno>
-            <idno type="URI">http://portal.getty.edu/api/k03036</idno>
-            <idno type="URI">http://portal.getty.edu/api/f04k1t</idno>
-            <idno type="cico">944</idno>
-            <idno type="dcl">z59</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Delle case de' contadini [microform] : trattato architettonico / di Ferdinando Morozzi.</title>
-                  <respStmt>
-                     <persName>Morozzi, Ferdinando.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Firenze : Nella Stamp. di S.A.R. per Gaet. Cambiagi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1770</date>
-                  </imprint>
-                  <extent>VI, 87 p., III folded leaves of plates</extent>
-                  <extent>2 microfiches : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/235be545-b3cf-4fdb-ab9e-a560cbffd660/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/235be545-b3cf-4fdb-ab9e-a560cbffd660/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Delle case de' contadini : trattato architettonico / di Ferdinando Morozzi ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -118,9 +66,84 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Farmhouses -- Italy -- Early works to 1800.</term>
+               <term>Farm buildings -- Italy -- Early works to 1800.</term>
+               <term>Architecture, Domestic -- Italy -- Early works to 1800.</term>
+               <term>Architecture, Domestic</term>
+               <term>Farm buildings.</term>
+               <term>Farmhouses.</term>
+               <term>Italy.</term>
+               <term>NA8210.I7 M67 1770</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8fd60d2b-0220-4ad4-9bd4-7c9d55a3ab81">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle case de' contadini [microform] : trattato architettonico / di Ferdinando Morozzi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985446933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9h1b6t</idno>
+            <idno type="URI">http://portal.getty.edu/api/k03036</idno>
+            <idno type="URI">http://portal.getty.edu/api/f04k1t</idno>
+            <idno type="cico">944</idno>
+            <idno type="dcl">z59</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle case de' contadini [microform] : trattato architettonico / di Ferdinando Morozzi.</title>
+                  <respStmt>
+                     <persName>Morozzi, Ferdinando.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella Stamp. di S.A.R. per Gaet. Cambiagi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>VI, 87 p., III folded leaves of plates</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/235be545-b3cf-4fdb-ab9e-a560cbffd660/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Italy -- Early works to 1800.</term>
+               <term>Farm buildings -- Italy -- Early works to 1800.</term>
+               <term>Farmhouses -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/235be545-b3cf-4fdb-ab9e-a560cbffd660/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

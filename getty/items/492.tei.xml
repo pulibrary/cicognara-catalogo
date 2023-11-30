@@ -31,55 +31,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Architecture civile : maisons de ville et de campagne de toutes formes et de tous genres, projetées pour être construites sur des terreins de différentes grandeurs : ouvrage utile à tous constructeurs et entrepreneurs, et à toutes personnes qui, ayant quelques connaissances en construction, veulent elles-mêmes diriger leurs bâtimens / par L.A. Dubut ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9924319880001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/ch5x9n</idno>
-            <idno>(OCoLC)23099468</idno>
-            <idno type="cico">492</idno>
-            <idno type="dcl">6vw</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Architecture civile : maisons de ville et de campagne de toutes formes et de tous genres, projetées pour être construites sur des terreins de différentes grandeurs : ouvrage utile à tous constructeurs et entrepreneurs, et à toutes personnes qui, ayant quelques connaissances en construction, veulent elles-mêmes diriger leurs bâtimens / par L.A. Dubut ...</title>
-                  <respStmt>
-                     <persName>Dubut, L.-A. (Louis-Ambroise), 1769-1846.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : De l'imprimerie de J.M. Eberhart</publisher>
-                     <pubPlace>France.</pubPlace>
-                     <date>an 11 (1803)</date>
-                     <date>1803</date>
-                  </imprint>
-                  <extent>[6] pages, [1], LXXXVII, [2] leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d8f9cdea-5944-4afa-a8df-12b3bc93082b"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d8f9cdea-5944-4afa-a8df-12b3bc93082b">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Architecture civile [microform] : maisons de ville et de campagne de toutes formes et de tous genres, projetées pour être construites sur des terreins de différentes grandeurs : ouvrage utile à tous constructeurs et entrepreneurs, et à toutes personnes qui, ayant quelques connaissances en construction, veulent elles-mêmes diriger leurs bâtimens / par L.A. Dubut ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -119,9 +70,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Designs and plans.</term>
+               <term>Architecture, Domestic -- France.</term>
+               <term>Country homes -- Designs and plans.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/329a2698-a5bf-4b9c-91d4-64154718f353/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architecture civile : maisons de ville et de campagne de toutes formes et de tous genres, projetées pour être construites sur des terreins de différentes grandeurs : ouvrage utile à tous constructeurs et entrepreneurs, et à toutes personnes qui, ayant quelques connaissances en construction, veulent elles-mêmes diriger leurs bâtimens / par L.A. Dubut ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924319880001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ch5x9n</idno>
+            <idno>(OCoLC)23099468</idno>
+            <idno type="cico">492</idno>
+            <idno type="dcl">6vw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architecture civile : maisons de ville et de campagne de toutes formes et de tous genres, projetées pour être construites sur des terreins de différentes grandeurs : ouvrage utile à tous constructeurs et entrepreneurs, et à toutes personnes qui, ayant quelques connaissances en construction, veulent elles-mêmes diriger leurs bâtimens / par L.A. Dubut ...</title>
+                  <respStmt>
+                     <persName>Dubut, L.-A. (Louis-Ambroise), 1769-1846.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de J.M. Eberhart</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <date>an 11 (1803)</date>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>[6] pages, [1], LXXXVII, [2] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d8f9cdea-5944-4afa-a8df-12b3bc93082b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Designs and plans.</term>
+               <term>Country homes -- Designs and plans.</term>
+               <term>Architecture, Domestic -- France.</term>
+               <term>Architecture, Domestic</term>
+               <term>Country homes.</term>
+               <term>France.     -781</term>
+               <term>NA7105 .D85e</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d8f9cdea-5944-4afa-a8df-12b3bc93082b">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

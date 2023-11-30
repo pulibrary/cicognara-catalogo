@@ -25,56 +25,6 @@ frontespizio figurato. Esemplare in carta distinta.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tombeaux antiques trouvés à Saint-Médard d'Eyran, près de Bordeaux [microform] / gravés et publiés par MM. Lacour.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985426703506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/kw9f7z</idno>
-            <idno type="cico">4028</idno>
-            <idno type="dcl">fk8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Tombeaux antiques trouvés à Saint-Médard d'Eyran, près de Bordeaux [microform] / gravés et publiés par MM. Lacour.</title>
-                  <respStmt>
-                     <persName>Lacour, Pierre, 1778-1859.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Bordeaux : De l'imprimerie de Bergeret Neveu</publisher>
-                     <pubPlace>France</pubPlace>
-                     <date>1806</date>
-                  </imprint>
-                  <extent>72 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d11e9348-a9e0-4e74-868c-de9b4fb304af/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d11e9348-a9e0-4e74-868c-de9b4fb304af/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Tombeaux antiques, trouvés à Saint-Médard d'Eyran, près de Bordeaux / gravés et publiés par MM. Lacour, père et fils.</title>
             <respStmt>
                <orgName>Harvard Library</orgName>
@@ -117,9 +67,74 @@ frontespizio figurato. Esemplare in carta distinta.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tombs -- France -- Saint-Médard d'Eyran.</term>
+               <term>Tombs</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482117625">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tombeaux antiques trouvés à Saint-Médard d'Eyran, près de Bordeaux [microform] / gravés et publiés par MM. Lacour.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985426703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/kw9f7z</idno>
+            <idno type="cico">4028</idno>
+            <idno type="dcl">fk8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tombeaux antiques trouvés à Saint-Médard d'Eyran, près de Bordeaux [microform] / gravés et publiés par MM. Lacour.</title>
+                  <respStmt>
+                     <persName>Lacour, Pierre, 1778-1859.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Bordeaux : De l'imprimerie de Bergeret Neveu</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>72 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d11e9348-a9e0-4e74-868c-de9b4fb304af/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tombs -- France -- Bordeaux (Aquitaine).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d11e9348-a9e0-4e74-868c-de9b4fb304af/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

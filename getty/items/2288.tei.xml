@@ -26,6 +26,71 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Pictorum aliquot celebrium praecipué Germaniae inferioris, effigies, pars I[-III].</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Frisius, Simon, approximately 1580-1629.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993230123504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/kn6z2c</idno>
+            <idno>(OCoLC)819546076</idno>
+            <idno>(OCoLC)57286880</idno>
+            <idno type="cico">2288</idno>
+            <idno type="dcl">fzp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pictorum aliquot celebrium praecipué Germaniae inferioris, effigies, pars I[-III].</title>
+                  <respStmt>
+                     <persName>Hondius, Hendrik, 1573-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Hagae-Comitis : Ex officina Henrici Hondii</publisher>
+                     <pubPlace>Netherlands</pubPlace>
+                     <pubPlace>Belgium</pubPlace>
+                     <pubPlace>Germany</pubPlace>
+                     <date>[1610]</date>
+                     <date>1610</date>
+                  </imprint>
+                  <extent>[1] leaf, [73] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993230123504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Netherlands -- Portraits -- Early works to 1800.</term>
+               <term>Artists -- Belgium -- Portraits -- Early works to 1800.</term>
+               <term>Artists -- Germany -- Portraits -- Early works to 1800.</term>
+               <term>Painters -- Netherlands -- Portraits -- Early works to 1800.</term>
+               <term>Painters -- Belgium -- Portraits -- Early works to 1800.</term>
+               <term>Painters -- Germany -- Portraits -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993230123504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Pictorum aliquot celebrium praecipué Germaniae inferioris, effigies [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -62,6 +127,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Belgium -- Portraits -- Early works to 1800.</term>
+               <term>Artists -- Netherlands -- Portraits -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/15ccdb69-b5d7-4dce-9371-ada649a0989c/manifest">

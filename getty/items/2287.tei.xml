@@ -64,9 +64,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hollar, Wenceslaus, 1607-1677.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a1be323d-8bb7-4352-85d1-9987cdb3ac45/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the works of the ingenious delineator and engraver Wenceslaus Hollar, disposed into classes of different sorts; with some account of his life.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_9951673504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/d5774h</idno>
+            <idno>(OCoLC)04729079</idno>
+            <idno type="cico">2287</idno>
+            <idno type="dcl">qjz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>A description of the works of the ingenious delineator and engraver Wenceslaus Hollar, disposed into classes of different sorts; with some account of his life.</title>
+                  <respStmt>
+                     <persName>Vertue, George, 1684-1756.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London, Printed for the editor G.V</publisher>
+                     <date>1745</date>
+                  </imprint>
+                  <extent>vi, [2], 136 p., 1 leaf.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/9951673504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hollar, Wenceslaus, 1607-1677.</term>
+               <term>NE642.H7 V4 1745</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/9951673504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

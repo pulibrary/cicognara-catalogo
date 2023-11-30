@@ -62,9 +62,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Art, Italian -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Church architecture -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0b31032b-5b92-4f1b-9143-8f268a0aa151/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studio di pittura, scoltura et architettura nelle chiese di Roma / Dell' Abb. Filippo Titi ... Nel quale si ha notitia di tutti gl'artefici, che hanno iui operato; con una breue introduttione delle fondationi, e ristori delle medesime chiese, e strada facile per ritouarle.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786793504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/zw3r71</idno>
+            <idno>(OCoLC)38841717</idno>
+            <idno type="cico">3891</idno>
+            <idno type="dcl">0wd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Studio di pittura, scoltura et architettura nelle chiese di Roma / Dell' Abb. Filippo Titi ... Nel quale si ha notitia di tutti gl'artefici, che hanno iui operato; con una breue introduttione delle fondationi, e ristori delle medesime chiese, e strada facile per ritouarle.</title>
+                  <respStmt>
+                     <persName>Titi, Filippo</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Mancini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1674</date>
+                  </imprint>
+                  <extent>[24] 477 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99786793504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Art -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Church architecture -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99786793504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

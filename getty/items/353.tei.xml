@@ -30,7 +30,7 @@
          <titleStmt>
             <title>Théorie de la figure humaine : considérée dans ses principes, soit en repos ou en mouvement / ouvrage traduit du Latin de Pierre-Paul Rubens, avec XLIV planches gravées par Pierre Aveline, d'après les desseins de ce célebre artiste.</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -40,9 +40,8 @@
                <ref>https://cicognara.org/</ref>
             </publisher>
             <authority>Aveline, Pierre-Alexandre, approximately 1710-1760</authority>
-            <authority>Jombert, Charles-Antoine, 1712-1784, printer.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9928976270001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/5g684d</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_991561943504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/mv4j0t</idno>
             <idno>(OCoLC)171111468</idno>
             <idno type="cico">353</idno>
             <idno type="dcl">bzs</idno>
@@ -52,24 +51,33 @@
                <monogr>
                   <title>Théorie de la figure humaine : considérée dans ses principes, soit en repos ou en mouvement / ouvrage traduit du Latin de Pierre-Paul Rubens, avec XLIV planches gravées par Pierre Aveline, d'après les desseins de ce célebre artiste.</title>
                   <respStmt>
-                     <persName>Rubens, Peter Paul, 1577-1640</persName>
+                     <persName>Rubens, Peter Paul, 1577-1640.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>French</textLang>
                   <imprint>
                      <publisher>A Paris : Chez Charles-Antoine Jombert, pere</publisher>
-                     <pubPlace>France Paris.</pubPlace>
                      <date>1773</date>
                   </imprint>
-                  <extent>xj, [1], 55, [1] pages, 44 leaves of plates</extent>
+                  <extent>xj, [1], 55, [1] p., 44 leaves of plates</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4fa0a71f-fd94-4eca-ab70-db295ebc4657"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991561943504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Human figure in art -- Early works to 1800.</term>
+               <term>Anatomy, Artistic -- Early works to 1800.</term>
+               <term>Proportion (Art) -- Early works to 1800.</term>
+               <term>Provenance -- Triqueti (Henri Joseph François de)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4fa0a71f-fd94-4eca-ab70-db295ebc4657">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991561943504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -116,9 +124,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Anatomy, Artistic -- Early works to 1800.</term>
+               <term>Human figure in art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/65661189-b511-4e60-8ba8-709b2d660e32/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Théorie de la figure humaine : considérée dans ses principes, soit en repos ou en mouvement / ouvrage traduit du Latin de Pierre-Paul Rubens, avec XLIV planches gravées par Pierre Aveline, d'après les desseins de ce célebre artiste.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aveline, Pierre-Alexandre, approximately 1710-1760</authority>
+            <authority>Jombert, Charles-Antoine, 1712-1784, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928976270001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/5g684d</idno>
+            <idno>(OCoLC)171111468</idno>
+            <idno type="cico">353</idno>
+            <idno type="dcl">bzs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Théorie de la figure humaine : considérée dans ses principes, soit en repos ou en mouvement / ouvrage traduit du Latin de Pierre-Paul Rubens, avec XLIV planches gravées par Pierre Aveline, d'après les desseins de ce célebre artiste.</title>
+                  <respStmt>
+                     <persName>Rubens, Peter Paul, 1577-1640</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Charles-Antoine Jombert, pere</publisher>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>xj, [1], 55, [1] pages, 44 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4fa0a71f-fd94-4eca-ab70-db295ebc4657"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Human figure in art -- Early works to 1800.</term>
+               <term>Anatomy, Artistic -- Early works to 1800.</term>
+               <term>Proportion (Art) -- Early works to 1800.</term>
+               <term>Anatomy, Artistic.</term>
+               <term>Human figure in art.</term>
+               <term>Proportion (Art)</term>
+               <term>N7570 .R75 1773</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4fa0a71f-fd94-4eca-ab70-db295ebc4657">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

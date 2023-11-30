@@ -25,53 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Traité théorique et pratique sur l'art de faire et d'appliquer les vernis : sur les différens genres de peinture par impression et en décoration, ainsi que sur les couleurs simples et composées ... / par P.F. Tingry.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925683960001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/ff6705</idno>
-            <idno>(OCoLC)16260721</idno>
-            <idno type="cico">218</idno>
-            <idno type="dcl">zbm</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Traité théorique et pratique sur l'art de faire et d'appliquer les vernis : sur les différens genres de peinture par impression et en décoration, ainsi que sur les couleurs simples et composées ... / par P.F. Tingry.</title>
-                  <respStmt>
-                     <persName>Tingry, P. F. (Pierre François), 1743-1821</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Genève : G.J. Manget</publisher>
-                     <date>1803</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b1e9384c-508a-44a0-abee-6d0a71fe6be3"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b1e9384c-508a-44a0-abee-6d0a71fe6be3">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Traité théorique et pratique sur l'art de faire et d'appliquer les vernis [microform] : sur les différens genres de peinture par impression et en décoration, ainsi que sur les couleurs simples et composées : accompagné de nouvelles observations sur le copal ... avec gravures / par P.F. Tingry ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,9 +62,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Paint.</term>
+               <term>Painting, Industrial.</term>
+               <term>Varnish and varnishing.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/902537d0-2f13-40f3-8a83-4940e18549d8/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité théorique et pratique sur l'art de faire et d'appliquer les vernis : sur les différens genres de peinture par impression et en décoration, ainsi que sur les couleurs simples et composées ... / par P.F. Tingry.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925683960001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ff6705</idno>
+            <idno>(OCoLC)16260721</idno>
+            <idno type="cico">218</idno>
+            <idno type="dcl">zbm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité théorique et pratique sur l'art de faire et d'appliquer les vernis : sur les différens genres de peinture par impression et en décoration, ainsi que sur les couleurs simples et composées ... / par P.F. Tingry.</title>
+                  <respStmt>
+                     <persName>Tingry, P. F. (Pierre François), 1743-1821</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Genève : G.J. Manget</publisher>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b1e9384c-508a-44a0-abee-6d0a71fe6be3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Varnish and varnishing.</term>
+               <term>Pigments.</term>
+               <term>Pigments</term>
+               <term>Varnish and varnishing</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b1e9384c-508a-44a0-abee-6d0a71fe6be3">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

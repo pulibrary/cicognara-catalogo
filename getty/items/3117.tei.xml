@@ -29,50 +29,6 @@ orientalista. Il volume è composto da 43 foglietti.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Monument de Yu ou La plus ancienne inscription de la Chine: suivie de trente-deux formes d'anciens caractères chinois ; avec quelques remarques sur cette inscription et sur ces caractères</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Hager, Joseph, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-246581</idno>
-            <idno type="URI">http://portal.getty.edu/api/0j648d</idno>
-            <idno type="cico">3117</idno>
-            <idno type="dcl">prr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Monument de Yu ou La plus ancienne inscription de la Chine: suivie de trente-deux formes d'anciens caractères chinois ; avec quelques remarques sur cette inscription et sur ces caractères</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <date>1802</date>
-                     <date>X [1802]</date>
-                  </imprint>
-                  <extent>32 S.</extent>
-                  <extent>zahlr. Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/hager1802/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/hager1802/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Monument de Yu, ou, La plus ancienne inscription de la Chine [microform] : suivie de trente-deux formes d'anciens caracteres chinois : avec quelques remarques sur cette inscription et sur ces caracteres / par Joseph Hager.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,6 +67,14 @@ orientalista. Il volume è composto da 43 foglietti.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chinese language -- Writing.</term>
+               <term>Inscriptions, Chinese.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d488ace8-af7b-465d-a758-1f6b418b82e4/manifest">

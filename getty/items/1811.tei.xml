@@ -26,54 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dei riti nuziali degli antichi cristiani.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990070328210203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/cc0r0p</idno>
-            <idno>(OCoLC)40209117</idno>
-            <idno type="cico">1811</idno>
-            <idno type="dcl">6s4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dei riti nuziali degli antichi cristiani.</title>
-                  <respStmt>
-                     <persName>Tori, Giuseppe, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Perugia : Dai torchi di Carlo Baduel</publisher>
-                     <date>MDCCXCIII [1793]</date>
-                     <date>1793</date>
-                  </imprint>
-                  <extent>lxxix pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481773372"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481773372">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dei riti nuziali degli antichi cristiani [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,9 +64,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Church history -- Primitive and early church, ca. 30-600.</term>
+               <term>Marriage customs and rites -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9604f002-0975-40cc-be9d-c7eace3f62e6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dei riti nuziali degli antichi cristiani.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990070328210203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/cc0r0p</idno>
+            <idno>(OCoLC)40209117</idno>
+            <idno type="cico">1811</idno>
+            <idno type="dcl">6s4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dei riti nuziali degli antichi cristiani.</title>
+                  <respStmt>
+                     <persName>Tori, Giuseppe, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Dai torchi di Carlo Baduel</publisher>
+                     <date>MDCCXCIII [1793]</date>
+                     <date>1793</date>
+                  </imprint>
+                  <extent>lxxix pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481773372"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Marriage -- Catholic Church -- Early works to 1800.</term>
+               <term>Marriage -- History -- Early works to 1800.</term>
+               <term>Christian antiquities -- Early works to 1800.</term>
+               <term>Christian antiquities</term>
+               <term>Marriage</term>
+               <term>Marriage -- Customs. wid</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481773372">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

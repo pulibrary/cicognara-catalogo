@@ -25,55 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dell'arte dei giardini inglesi [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985245323506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8k8n68</idno>
-            <idno type="cico">960</idno>
-            <idno type="dcl">bpn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dell'arte dei giardini inglesi [microform]</title>
-                  <respStmt>
-                     <persName>Silva, Ercole, 1756-1840.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Milano : Stamperia e Fonderia al Genio Tipografico</publisher>
-                     <date>anno IX [1801]</date>
-                     <date>1801</date>
-                  </imprint>
-                  <extent>[6], 373 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c09ca603-1970-4613-9035-342e1dd4f45f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c09ca603-1970-4613-9035-342e1dd4f45f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dell'arte dei giardini inglesi.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -113,9 +64,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gardens, English.</term>
+               <term>Landscape gardening.</term>
+               <term>Garden structures.</term>
+               <term>Follies (Architecture)</term>
+               <term>Follies (Architecture)</term>
+               <term>Garden structures</term>
+               <term>Gardens, English</term>
+               <term>Landscape gardening</term>
+               <term>SB466.G7 S55 1801</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b4f5a2af-dfdf-424b-a1a9-b9505dbd6469">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dell'arte dei giardini inglesi [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985245323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8k8n68</idno>
+            <idno type="cico">960</idno>
+            <idno type="dcl">bpn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dell'arte dei giardini inglesi [microform]</title>
+                  <respStmt>
+                     <persName>Silva, Ercole, 1756-1840.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Stamperia e Fonderia al Genio Tipografico</publisher>
+                     <date>anno IX [1801]</date>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>[6], 373 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c09ca603-1970-4613-9035-342e1dd4f45f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gardens, English.</term>
+               <term>Landscape gardening.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c09ca603-1970-4613-9035-342e1dd4f45f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

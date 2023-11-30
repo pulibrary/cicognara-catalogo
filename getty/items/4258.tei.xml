@@ -25,55 +25,6 @@ era il migliore per tale oggetto.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>I trionfi dell'architettvra nella sontuosa residenza di Monaco ... / dal Ranuccio Pallavicino.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926151080001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/317k23</idno>
-            <idno>(OCoLC)78461956</idno>
-            <idno type="cico">4258</idno>
-            <idno type="dcl">vvq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>I trionfi dell'architettvra nella sontuosa residenza di Monaco ... / dal Ranuccio Pallavicino.</title>
-                  <respStmt>
-                     <persName>Pallavicino, Ranuccio, marchese, 1632-1712</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Avgvsta : Per Simone Uzschneider</publisher>
-                     <pubPlace>Germany</pubPlace>
-                     <pubPlace>Munich (Germany)</pubPlace>
-                     <date>1680</date>
-                  </imprint>
-                  <extent>[6], 153 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/fa1f35f7-4add-43c6-a7a3-1ced73dbc225"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fa1f35f7-4add-43c6-a7a3-1ced73dbc225">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>I trionfi dell'architettura nella sontuosa residenza di Monaco .. [microform] / dal Marchese Ranuccio Pallavicino.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +64,84 @@ era il migliore per tale oggetto.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Residenzmuseum München.</term>
+               <term>Munich (Germany) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/771ef694-286e-49d5-9c02-7ebeb382d03a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I trionfi dell'architettvra nella sontuosa residenza di Monaco ... / dal Ranuccio Pallavicino.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926151080001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/317k23</idno>
+            <idno>(OCoLC)78461956</idno>
+            <idno type="cico">4258</idno>
+            <idno type="dcl">vvq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I trionfi dell'architettvra nella sontuosa residenza di Monaco ... / dal Ranuccio Pallavicino.</title>
+                  <respStmt>
+                     <persName>Pallavicino, Ranuccio, marchese, 1632-1712</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Avgvsta : Per Simone Uzschneider</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Munich (Germany)</pubPlace>
+                     <date>1680</date>
+                  </imprint>
+                  <extent>[6], 153 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/fa1f35f7-4add-43c6-a7a3-1ced73dbc225"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Residenzmuseum München -- Early works to 1800.</term>
+               <term>Munich (Germany) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Architecture -- Germany -- Munich -- Early works to 1800.</term>
+               <term>Decoration and ornament, Architectural -- Germany -- Munich -- Early works to 1800.</term>
+               <term>Palaces -- Germany -- Munich -- Early works to 1800.</term>
+               <term>Residenzmuseum München.</term>
+               <term>Architecture.</term>
+               <term>Buildings.</term>
+               <term>Decoration and ornament, Architectural.</term>
+               <term>Palaces.</term>
+               <term>Germany -- Munich.</term>
+               <term>NA1086.M8 P35 1680</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fa1f35f7-4add-43c6-a7a3-1ced73dbc225">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

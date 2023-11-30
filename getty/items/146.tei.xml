@@ -63,9 +63,70 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian art and symbolism -- Modern period, 1500-</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e43c5905-4560-4d52-9933-a7ddf88b6f07/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pictor christianus eruditus sive de erroribus qui passim admittuntus circa pingendas atque effigendas sacras imagines : libri octo cum appendice : opus sacrae scripturae, atque ecclesiaticae historiae studiosis non inutile / authore R.P.M. Fr. Joanne Interian de Ayala ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99829213504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/1z307h</idno>
+            <idno>(OCoLC)973461165</idno>
+            <idno type="cico">146</idno>
+            <idno type="dcl">1s5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pictor christianus eruditus sive de erroribus qui passim admittuntus circa pingendas atque effigendas sacras imagines : libri octo cum appendice : opus sacrae scripturae, atque ecclesiaticae historiae studiosis non inutile / authore R.P.M. Fr. Joanne Interian de Ayala ...</title>
+                  <respStmt>
+                     <persName>Interián de Ayala, Juan, 1656-1730</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Matriti : Ex Typographia Conventus</publisher>
+                     <date>1730</date>
+                  </imprint>
+                  <extent>[24], 415 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99829213504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Christian art and symbolism -- Modern period, 1500-</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99829213504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -27,56 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Perspectiva pictorum et architectorum Andreae Putei .. [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985243953506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8q673v</idno>
-            <idno type="cico">854</idno>
-            <idno type="dcl">366</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Perspectiva pictorum et architectorum Andreae Putei .. [microform]</title>
-                  <respStmt>
-                     <persName>Pozzo, Andrea, 1642-1709.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Romae : Typis Joannis Jacobi Komarek Bohemi apud S. Angelum Custodem</publisher>
-                     <date>1693-1700</date>
-                     <date>1693</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>10 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7dab6963-8977-4993-8feb-3ec5044b540a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7dab6963-8977-4993-8feb-3ec5044b540a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Perspectiva pictorum et architectorum / Andreae Putei ... ; in quâ docetur modus expeditissimus delineandi opticè omnia quȩ pertinent ad architecturam.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -117,6 +67,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Perspective</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/db0b1241-5953-4f8a-8b67-b33776deaeed">
@@ -130,6 +88,63 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/716de4c7-933e-4b20-960b-e5d9a0278783">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Perspectiva pictorum et architectorum Andreae Putei .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985243953506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8q673v</idno>
+            <idno type="cico">854</idno>
+            <idno type="dcl">366</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Perspectiva pictorum et architectorum Andreae Putei .. [microform]</title>
+                  <respStmt>
+                     <persName>Pozzo, Andrea, 1642-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Joannis Jacobi Komarek Bohemi apud S. Angelum Custodem</publisher>
+                     <date>1693-1700</date>
+                     <date>1693</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7dab6963-8977-4993-8feb-3ec5044b540a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7dab6963-8977-4993-8feb-3ec5044b540a/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

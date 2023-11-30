@@ -29,6 +29,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Istituzioni d'architettura civile [microform] / di Niccolo Carletti ..</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295703506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/px185p</idno>
+            <idno type="cico">464</idno>
+            <idno type="dcl">prk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Istituzioni d'architettura civile [microform] / di Niccolo Carletti ..</title>
+                  <respStmt>
+                     <persName>Carletti, Niccolo, b. 1723.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Nella Stamperia Raimondiana</publisher>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>13 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a39db6e4-6130-4c22-a517-7a467c4700db/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a39db6e4-6130-4c22-a517-7a467c4700db/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Istituzioni d'architettura civile / di Niccolò Carletti ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -67,6 +122,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>NA2515 .C37 1772</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dc6d5afd-0fc9-464c-abd9-1e8ff8794cb9">
@@ -75,54 +139,6 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/9585fca7-37f8-44af-a8dd-43046f863707">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Istituzioni d'architettura civile [microform] / di Niccolo Carletti ..</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985295703506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/px185p</idno>
-            <idno type="cico">464</idno>
-            <idno type="dcl">prk</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Istituzioni d'architettura civile [microform] / di Niccolo Carletti ..</title>
-                  <respStmt>
-                     <persName>Carletti, Niccolo, b. 1723.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Napoli : Nella Stamperia Raimondiana</publisher>
-                     <date>1772</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>13 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a39db6e4-6130-4c22-a517-7a467c4700db/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a39db6e4-6130-4c22-a517-7a467c4700db/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -25,57 +25,6 @@ mediocre merito, quantunque raro.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ager Puteolanus, siue, Prospectus eiusdem insigniores / illustrissimo Antonio Roccio ... Franciscus Villam[a]ena grati animi argumentum dicabat.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927231700001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/836w05</idno>
-            <idno>(OCoLC)62186224</idno>
-            <idno type="cico">2716</idno>
-            <idno type="cico">4321</idno>
-            <idno type="dcl">fcq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Ager Puteolanus, siue, Prospectus eiusdem insigniores / illustrissimo Antonio Roccio ... Franciscus Villam[a]ena grati animi argumentum dicabat.</title>
-                  <respStmt>
-                     <persName>Villamena, Francesco, approximately 1566-1624.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Rom[a]e : [publisher not identified]</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Pozzuoli (Italy)</pubPlace>
-                     <pubPlace>Phlegraean Plain (Italy)</pubPlace>
-                     <date>1620</date>
-                  </imprint>
-                  <extent>24 leaves</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/90b801d4-52dc-4623-b129-8d70318bc764"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/90b801d4-52dc-4623-b129-8d70318bc764">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Ager Puteolanus sive Prospectus eiusdem insigniores [microform] : illustrissimo Antonio Roccio optime de se merito Franciscus Villamena grati animi argumentum dicabat.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -116,9 +65,82 @@ mediocre merito, quantunque raro.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pozzuoli (Italy) -- Maps -- Early works to 1800.</term>
+               <term>Pozzuoli (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a612e1c-2cad-40d1-996c-a8840793916b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ager Puteolanus, siue, Prospectus eiusdem insigniores / illustrissimo Antonio Roccio ... Franciscus Villam[a]ena grati animi argumentum dicabat.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927231700001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/836w05</idno>
+            <idno>(OCoLC)62186224</idno>
+            <idno type="cico">2716</idno>
+            <idno type="cico">4321</idno>
+            <idno type="dcl">fcq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ager Puteolanus, siue, Prospectus eiusdem insigniores / illustrissimo Antonio Roccio ... Franciscus Villam[a]ena grati animi argumentum dicabat.</title>
+                  <respStmt>
+                     <persName>Villamena, Francesco, approximately 1566-1624.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Rom[a]e : [publisher not identified]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Pozzuoli (Italy)</pubPlace>
+                     <pubPlace>Phlegraean Plain (Italy)</pubPlace>
+                     <date>1620</date>
+                  </imprint>
+                  <extent>24 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/90b801d4-52dc-4623-b129-8d70318bc764"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pozzuoli (Italy) -- Pictorial works -- Early works to 1800.</term>
+               <term>Phlegraean Plain (Italy) -- Pictorial works -- Early works to 1800.</term>
+               <term>Architecture, Roman -- Italy -- Naples Region -- Pictorial works -- Early works to 1800.</term>
+               <term>Architecture, Roman.</term>
+               <term>Italy -- Naples Region.</term>
+               <term>Italy -- Phlegraean Plain</term>
+               <term>Italy -- Pozzuoli</term>
+               <term>DG70.P9 V55 1620</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/90b801d4-52dc-4623-b129-8d70318bc764">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

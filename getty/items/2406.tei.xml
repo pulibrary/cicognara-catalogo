@@ -62,9 +62,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tintoretto, 1518-1594.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2f3af637-5344-44dc-be15-b65d472a507b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio a Giacomo Robusti / del professore Gio. Prosdocimo Zabeo ; recitato all'Imperiale R. Accademia di belle arti in Venezia ; il di 8 agosto 1813 ; pella solenne distribuzione dei premi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99837273504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/z15j27</idno>
+            <idno>(OCoLC)214294870</idno>
+            <idno type="cico">2406</idno>
+            <idno type="dcl">r5f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio a Giacomo Robusti / del professore Gio. Prosdocimo Zabeo ; recitato all'Imperiale R. Accademia di belle arti in Venezia ; il di 8 agosto 1813 ; pella solenne distribuzione dei premi.</title>
+                  <respStmt>
+                     <persName>Zabeo, Giovanni Prosdocimo, 1753-1828.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Bernardi</publisher>
+                     <date>[1813?]</date>
+                     <date>1813</date>
+                  </imprint>
+                  <extent>61 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99837273504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tintoretto, 1518-1594.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99837273504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

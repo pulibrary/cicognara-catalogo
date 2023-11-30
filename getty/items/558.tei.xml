@@ -26,6 +26,69 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Due antichi monumenti di architettura messicana : illustrati / da d. Pietro Marquez.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922244110001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/g06c89</idno>
+            <idno>(OCoLC)10890042</idno>
+            <idno type="cico">558</idno>
+            <idno type="dcl">r26</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Due antichi monumenti di architettura messicana : illustrati / da d. Pietro Marquez.</title>
+                  <respStmt>
+                     <persName>Marquez, Pietro, 1741-1820.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Presso il Salomoni</publisher>
+                     <pubPlace>Mexico.</pubPlace>
+                     <pubPlace>Mexico</pubPlace>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>iv, 47 pages, 4 folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a92875a7-01ab-4e36-a60c-c0da42b6522b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mexico -- Antiquities.</term>
+               <term>Indian architecture -- Mexico.</term>
+               <term>Pyramids -- Mexico.</term>
+               <term>Antiquities</term>
+               <term>Indian architecture</term>
+               <term>Pyramids</term>
+               <term>Mexico</term>
+               <term>F1219 .M35</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a92875a7-01ab-4e36-a60c-c0da42b6522b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Due antichi monumenti di architettura messicana [microform] / illustrati da D. Pietro Marquez ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -65,58 +128,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Indian architecture -- Mexico.</term>
+               <term>Mexico -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8ab46872-2347-48bc-92f0-0e03030a10c9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Due antichi monumenti di architettura messicana : illustrati / da d. Pietro Marquez.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9922244110001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/g06c89</idno>
-            <idno>(OCoLC)10890042</idno>
-            <idno type="cico">558</idno>
-            <idno type="dcl">r26</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Due antichi monumenti di architettura messicana : illustrati / da d. Pietro Marquez.</title>
-                  <respStmt>
-                     <persName>Marquez, Pietro, 1741-1820.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma : Presso il Salomoni</publisher>
-                     <pubPlace>Mexico.</pubPlace>
-                     <pubPlace>Mexico</pubPlace>
-                     <date>1804</date>
-                  </imprint>
-                  <extent>iv, 47 pages, 4 folded leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a92875a7-01ab-4e36-a60c-c0da42b6522b"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a92875a7-01ab-4e36-a60c-c0da42b6522b">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

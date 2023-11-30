@@ -30,73 +30,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ornithologia methodice digesta, atque iconibus aeneis ad vivum illuminatis ornata.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Lorenzi, Lorenzo.</authority>
-            <authority>Vanni, Violante.</authority>
-            <idno type="URI">http://portal.getty.edu/books/hul_990052901710203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/f63h75</idno>
-            <idno>(OCoLC)6211145</idno>
-            <idno type="cico">2074</idno>
-            <idno type="dcl">p0k</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Ornithologia methodice digesta, atque iconibus aeneis ad vivum illuminatis ornata.</title>
-                  <respStmt>
-                     <persName>Manetti, Saverio, 1723-1785.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Florentiae, In Aedibus Mouchianis</publisher>
-                     <pubPlace>Italy Florence.</pubPlace>
-                     <date>1767-1776</date>
-                     <date>1767</date>
-                  </imprint>
-                  <extent>5 v.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:427858805https://iiif.lib.harvard.edu/manifests/drs:427858826https://iiif.lib.harvard.edu/manifests/drs:427858848https://iiif.lib.harvard.edu/manifests/drs:427858871"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858805">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858826">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858848">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858871">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Catalogue des livres de la bibliothéque de M. Pierre-Antoine Bolongaro-Crevenna.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -146,6 +79,24 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Crevenna, Pietro Antonio Bolongaro, -1792 -- Library -- Catalogs.</term>
+               <term>Early printed books -- Netherlands -- Bibliography -- Catalogs -- Early works to 1800.</term>
+               <term>Rare books -- Netherlands -- Bibliography -- Catalogs -- Early works to 1800.</term>
+               <term>Private libraries -- Netherlands -- Catalogs -- Early works to 1800.</term>
+               <term>Books -- Prices -- Catalogs.</term>
+               <term>Books -- Prices.</term>
+               <term>Early printed books.</term>
+               <term>Libraries.</term>
+               <term>Private libraries.</term>
+               <term>Rare books.</term>
+               <term>Netherlands.</term>
+               <term>Z997 .C92 1789</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dcf41647-983d-441a-808d-4ac5b72de4bf">
@@ -159,6 +110,81 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4e50b92a-a49e-4bdb-9a7f-de26aec0c3da">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ornithologia methodice digesta, atque iconibus aeneis ad vivum illuminatis ornata.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lorenzi, Lorenzo.</authority>
+            <authority>Vanni, Violante.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990052901710203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/f63h75</idno>
+            <idno>(OCoLC)6211145</idno>
+            <idno type="cico">2074</idno>
+            <idno type="dcl">p0k</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ornithologia methodice digesta, atque iconibus aeneis ad vivum illuminatis ornata.</title>
+                  <respStmt>
+                     <persName>Manetti, Saverio, 1723-1785.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Florentiae, In Aedibus Mouchianis</publisher>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>1767-1776</date>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:427858805https://iiif.lib.harvard.edu/manifests/drs:427858826https://iiif.lib.harvard.edu/manifests/drs:427858848https://iiif.lib.harvard.edu/manifests/drs:427858871"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Birds -- Pictorial works.</term>
+               <term>QL674 .M27</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858805">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858826">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858848">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:427858871">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

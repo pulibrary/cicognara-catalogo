@@ -27,6 +27,64 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Dissegni d'architettura civile et ecclesiastica [microform] / inuentati e delineati dal Padre D. Guarino Guarini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945193506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wc6415</idno>
+            <idno type="cico">525</idno>
+            <idno type="dcl">nz9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissegni d'architettura civile et ecclesiastica [microform] / inuentati e delineati dal Padre D. Guarino Guarini ...</title>
+                  <respStmt>
+                     <persName>Guarini, Guarino, 1624-1683.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Torino : Per gl'eredi Gianelli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1686</date>
+                  </imprint>
+                  <extent>[4] p., [11], 27, [9] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/15018bcf-d94d-4400-bd87-b0c252e2febc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Turin.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/15018bcf-d94d-4400-bd87-b0c252e2febc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Dissegni d'architettvra civile et ecclesiastica / inuentati e delineati dal Padre D. Gvarino Gvarini ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -69,58 +127,21 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Pictorial works -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Turin -- Pictorial works -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Pictorial works -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Details.</term>
+               <term>Italy -- Turin</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e3590a8d-d152-4cf3-b278-9d2d11a7f5ae">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Dissegni d'architettura civile et ecclesiastica [microform] / inuentati e delineati dal Padre D. Guarino Guarini ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984945193506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/wc6415</idno>
-            <idno type="cico">525</idno>
-            <idno type="dcl">nz9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissegni d'architettura civile et ecclesiastica [microform] / inuentati e delineati dal Padre D. Guarino Guarini ...</title>
-                  <respStmt>
-                     <persName>Guarini, Guarino, 1624-1683.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Torino : Per gl'eredi Gianelli</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1686</date>
-                  </imprint>
-                  <extent>[4] p., [11], 27, [9] leaves of plates</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/15018bcf-d94d-4400-bd87-b0c252e2febc/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/15018bcf-d94d-4400-bd87-b0c252e2febc/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

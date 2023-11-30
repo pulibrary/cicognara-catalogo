@@ -34,49 +34,6 @@ inferiori e non hanno alcuna relazione col testo.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Imperatorum Romanorum Numismata Ex Aere Mediae Et Minimae Formae</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-289077</idno>
-            <idno type="URI">http://portal.getty.edu/api/6w3z0q</idno>
-            <idno type="cico">2967</idno>
-            <idno type="dcl">tg2</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Imperatorum Romanorum Numismata Ex Aere Mediae Et Minimae Formae</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1671</date>
-                     <date>1671</date>
-                  </imprint>
-                  <extent>[17] Bl., 500 S., [8] Bl., [2] Doppelbl., 35 S., [1] Bl.</extent>
-                  <extent>zahlr. Ill. (inkl. 1 Frontispiz) und Portr., Kt.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/patin1671/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/patin1671/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Imperatorum romanorum numismata ex aere, mediae et minimae formae [microform] / descripta &amp; enarrata per Carolum Patinum ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -115,6 +72,13 @@ inferiori e non hanno alcuna relazione col testo.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics, Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/aabcbcb2-a64b-4740-8a75-02e2b5e8fd0a/manifest">

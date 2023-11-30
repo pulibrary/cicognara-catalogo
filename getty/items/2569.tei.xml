@@ -24,9 +24,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Thomae Dempsteri a Muresk Scoti pandectarum in Pisano lyceo professoris ordinari De Etruria regali libri septem : opus postumum in duas partes divisum tomus primus priores tres libros comprehendens.</title>
+            <title>Thomae Dempsteri De Etruria regali libri VII. nuno primum editi curante Thoma Coke ...</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -35,12 +35,13 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Coke, Thomas, Earl of Leicester, 1697-1759, editor.</authority>
-            <authority>Tartini, Giovanni Gaetano, printer.</authority>
-            <authority>Buonarroti, Filippo, 1661-1733. Ad monumenta Etrusca operi Dempsteriano addita explicationes et conjecturae</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927118920001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/h85q1g</idno>
-            <idno type="URI">http://portal.getty.edu/api/847q4p</idno>
+            <authority>Leicester, Thomas Coke, Earl of, -1759.</authority>
+            <authority>Buonarroti, Filippo, 1661-1733. Ad monumenta Etrusca operi Dempsteriano addita explicationes et conjecturae.</authority>
+            <authority>Franceschini, Vincenzo, 1680-approximately 1744.</authority>
+            <authority>Verkruys, Theodor, -1739.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992563363504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/c65p4k</idno>
+            <idno>(OCoLC)191673432</idno>
             <idno>(OCoLC)12294093</idno>
             <idno type="cico">2569</idno>
             <idno type="dcl">jk2</idno>
@@ -48,31 +49,38 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Thomae Dempsteri a Muresk Scoti pandectarum in Pisano lyceo professoris ordinari De Etruria regali libri septem : opus postumum in duas partes divisum tomus primus priores tres libros comprehendens.</title>
+                  <title>Thomae Dempsteri De Etruria regali libri VII. nuno primum editi curante Thoma Coke ...</title>
                   <respStmt>
-                     <persName>Dempster, Thomas, 1579?-1625</persName>
+                     <persName>Dempster, Thomas, 1579?-1625.</persName>
                      <resp>creator</resp>
                   </respStmt>
-                  <textLang>Latin</textLang>
+                  <textLang>Italian</textLang>
                   <imprint>
-                     <publisher>Florentiae : Typis regiae celsitudinis, apud Joannem Cajetanum Tartinium, &amp; Sanctem Franchium</publisher>
+                     <publisher>Florentiae [Typis Regiae Celsitudinis</publisher>
                      <pubPlace>Italy</pubPlace>
                      <pubPlace>Etruria</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Italy.</pubPlace>
-                     <pubPlace>Italy Florence.</pubPlace>
-                     <date>MDCCXXIII-MDCCCXXIV [1723-24]</date>
+                     <date>1723-[1726]</date>
                      <date>1723</date>
                   </imprint>
-                  <extent>2 v.</extent>
+                  <extent>3 v.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b0c06dd6-8e8c-4546-8b04-428bb75bc53a"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992563363504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Eugubine tables.</term>
+               <term>Art -- Italy -- Etruria -- Early works to 1800.</term>
+               <term>Provenance -- Dempster (G. H.)</term>
+               <term>Etruria -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b0c06dd6-8e8c-4546-8b04-428bb75bc53a">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992563363504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -121,6 +129,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Eugubine tables.</term>
+               <term>Art -- Etruria -- Early works to 1800.</term>
+               <term>Etruria -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fcb428bf-9202-4dbe-bfdc-dd59cb117ca9/manifest">
@@ -132,9 +149,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Thomae Dempsteri De Etruria regali libri VII. nuno primum editi curante Thoma Coke ...</title>
+            <title>Thomae Dempsteri a Muresk Scoti pandectarum in Pisano lyceo professoris ordinari De Etruria regali libri septem : opus postumum in duas partes divisum tomus primus priores tres libros comprehendens.</title>
             <respStmt>
-               <orgName>National Gallery of Art Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -143,13 +160,12 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Leicester, Thomas Coke, Earl of, -1759.</authority>
-            <authority>Buonarroti, Filippo, 1661-1733. Ad monumenta Etrusca operi Dempsteriano addita explicationes et conjecturae.</authority>
-            <authority>Franceschini, Vincenzo, 1680-approximately 1744.</authority>
-            <authority>Verkruys, Theodor, -1739.</authority>
-            <idno type="URI">http://portal.getty.edu/books/nga_992563363504896</idno>
-            <idno type="URI">http://portal.getty.edu/api/c65p4k</idno>
-            <idno>(OCoLC)191673432</idno>
+            <authority>Coke, Thomas, Earl of Leicester, 1697-1759, editor.</authority>
+            <authority>Tartini, Giovanni Gaetano, printer.</authority>
+            <authority>Buonarroti, Filippo, 1661-1733. Ad monumenta Etrusca operi Dempsteriano addita explicationes et conjecturae</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927118920001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/h85q1g</idno>
+            <idno type="URI">http://portal.getty.edu/api/847q4p</idno>
             <idno>(OCoLC)12294093</idno>
             <idno type="cico">2569</idno>
             <idno type="dcl">jk2</idno>
@@ -157,28 +173,49 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Thomae Dempsteri De Etruria regali libri VII. nuno primum editi curante Thoma Coke ...</title>
+                  <title>Thomae Dempsteri a Muresk Scoti pandectarum in Pisano lyceo professoris ordinari De Etruria regali libri septem : opus postumum in duas partes divisum tomus primus priores tres libros comprehendens.</title>
                   <respStmt>
-                     <persName>Dempster, Thomas, 1579?-1625.</persName>
+                     <persName>Dempster, Thomas, 1579?-1625</persName>
                      <resp>creator</resp>
                   </respStmt>
-                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
                   <imprint>
-                     <publisher>Florentiae [Typis Regiae Celsitudinis</publisher>
+                     <publisher>Florentiae : Typis regiae celsitudinis, apud Joannem Cajetanum Tartinium, &amp; Sanctem Franchium</publisher>
                      <pubPlace>Italy</pubPlace>
                      <pubPlace>Etruria</pubPlace>
-                     <date>1723-[1726]</date>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCCXXIII-MDCCCXXIV [1723-24]</date>
                      <date>1723</date>
                   </imprint>
-                  <extent>3 v.</extent>
+                  <extent>2 v.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992563363504896.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b0c06dd6-8e8c-4546-8b04-428bb75bc53a"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Eugubine tables.</term>
+               <term>Etruria -- Antiquities -- Early works to 1800.</term>
+               <term>Etruscans -- Italy -- Early works to 1800.</term>
+               <term>Art -- Italy -- Etruria -- Early works to 1800.</term>
+               <term>Provenance -- Dempster (G.H.)</term>
+               <term>Eugubine tables.</term>
+               <term>Antiquities.</term>
+               <term>Art.</term>
+               <term>Etruscans.</term>
+               <term>Europe -- Etruria.</term>
+               <term>Italy.</term>
+               <term>DG223 .D38</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992563363504896.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b0c06dd6-8e8c-4546-8b04-428bb75bc53a">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

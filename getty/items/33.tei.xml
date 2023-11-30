@@ -64,9 +64,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Drawing, Italian -- 18th century.</term>
+               <term>Painting, Italian -- 18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5a776ae6-f23b-4984-ab44-ffbab02913de/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle cagioni per le quali nel nostro secolo pochi riescono eccellenti disegnatori e pittori : dissertazione prima.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991156503504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/rs9q2r</idno>
+            <idno>(OCoLC)298565176</idno>
+            <idno>(OCoLC)33939909</idno>
+            <idno type="cico">33</idno>
+            <idno type="dcl">72p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle cagioni per le quali nel nostro secolo pochi riescono eccellenti disegnatori e pittori : dissertazione prima.</title>
+                  <respStmt>
+                     <persName>Gallarati, Francesco Maria.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Nell' Imperial Monistero di s. Ambrogio Magg</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>77, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991156503504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, Italian -- 18th century.</term>
+               <term>Drawing, Italian -- 18th century.</term>
+               <term>ND616 .G345 1780</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991156503504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

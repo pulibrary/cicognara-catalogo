@@ -25,56 +25,6 @@ noi intitolati dall’amico autore, che è uno dei più forti e begli ingegni it
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Monumenti di scultura e di architettura : sonetti.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927093490001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/93667q</idno>
-            <idno>(OCoLC)24816634</idno>
-            <idno type="cico">1028</idno>
-            <idno type="cico">3532</idno>
-            <idno type="dcl">j8c</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Monumenti di scultura e di architettura : sonetti.</title>
-                  <respStmt>
-                     <persName>Missirini, Melchior, 1773-1849</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Rome : Nella Stamperia de Romanis</publisher>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1818</date>
-                  </imprint>
-                  <extent>v, [3], 9-107, [5], 16 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/52b66d45-5b77-4da6-9c5e-a93d633d24df"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/52b66d45-5b77-4da6-9c5e-a93d633d24df">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Monumenti di scultura e di architettura [microform] : sonetti.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +64,82 @@ noi intitolati dall’amico autore, che è uno dei più forti e begli ingegni it
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Poetry.</term>
+               <term>Sculpture -- Italy -- Poetry.</term>
+               <term>Italy -- Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2890d3a6-6142-487b-a55c-6a3f4871e90b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenti di scultura e di architettura : sonetti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927093490001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/93667q</idno>
+            <idno>(OCoLC)24816634</idno>
+            <idno type="cico">1028</idno>
+            <idno type="cico">3532</idno>
+            <idno type="dcl">j8c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti di scultura e di architettura : sonetti.</title>
+                  <respStmt>
+                     <persName>Missirini, Melchior, 1773-1849</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Rome : Nella Stamperia de Romanis</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>v, [3], 9-107, [5], 16 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/52b66d45-5b77-4da6-9c5e-a93d633d24df"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822 -- Appreciation -- Poetry.</term>
+               <term>Sculpture, Classical -- Appreciation -- Poetry.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Poetry.</term>
+               <term>Canova, Antonio, 1757-1822</term>
+               <term>Art appreciation</term>
+               <term>Buildings</term>
+               <term>Sculpture, Classical -- Appreciation</term>
+               <term>Italy -- Rome</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/52b66d45-5b77-4da6-9c5e-a93d633d24df">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

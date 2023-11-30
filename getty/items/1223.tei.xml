@@ -25,6 +25,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Osservazioni di Ennio Quirino Visconti su due musaici antichi istoriati [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sf1f45</idno>
+            <idno type="cico">1223</idno>
+            <idno type="dcl">8s0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Osservazioni di Ennio Quirino Visconti su due musaici antichi istoriati [microform].</title>
+                  <respStmt>
+                     <persName>Visconti, Ennio Quirino, 1751-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Parma : Dalla Reale tipografia</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>50 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0e3ccc4e-b859-426c-b291-bdbc140fc1b3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mosaics -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0e3ccc4e-b859-426c-b291-bdbc140fc1b3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Osservazioni di Ennio Quirino Visconti su due musaici antichi istoriati.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -65,58 +121,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mosaics, Roman -- Early works to 1800.</term>
+               <term>Mosaics, Roman.</term>
+               <term>NA3770 .V5 1788</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/000e2fad-abf1-4ee3-9e64-a96f1ff417dd">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Osservazioni di Ennio Quirino Visconti su due musaici antichi istoriati [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985300273506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sf1f45</idno>
-            <idno type="cico">1223</idno>
-            <idno type="dcl">8s0</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Osservazioni di Ennio Quirino Visconti su due musaici antichi istoriati [microform].</title>
-                  <respStmt>
-                     <persName>Visconti, Ennio Quirino, 1751-1818.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Parma : Dalla Reale tipografia</publisher>
-                     <date>1788</date>
-                  </imprint>
-                  <extent>50 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0e3ccc4e-b859-426c-b291-bdbc140fc1b3/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0e3ccc4e-b859-426c-b291-bdbc140fc1b3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

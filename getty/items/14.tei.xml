@@ -30,54 +30,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The fine arts of the English school; illustrated by a series of engravings, from paintings, sculpture, and architecture, of eminent English artists: with ample biographical, critical, and descriptive essays, by various authors. Ed., and partly written by John Britton ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923841500001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/gc6h44</idno>
-            <idno>(OCoLC)1146407</idno>
-            <idno type="cico">14</idno>
-            <idno type="dcl">05t</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>The fine arts of the English school; illustrated by a series of engravings, from paintings, sculpture, and architecture, of eminent English artists: with ample biographical, critical, and descriptive essays, by various authors. Ed., and partly written by John Britton ...</title>
-                  <respStmt>
-                     <persName>Britton, John, 1771-1857, editor.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <publisher>London, Longman, Hurst, Rees, Orme, and Brown</publisher>
-                     <pubPlace>Great Britain.</pubPlace>
-                     <date>1812</date>
-                  </imprint>
-                  <extent>[128] pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/947cc728-06f7-4b2a-823c-196f316b207f"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/947cc728-06f7-4b2a-823c-196f316b207f">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>The fine arts of the English school [microform] : illustrated by a series of engravings, from paintings, sculpture, and architecture, of eminent English artists : with ample biographical, critical, and descriptive essays, by various authors / edited and partly written by John Britton.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -117,6 +69,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, English.</term>
+               <term>Artists -- England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a2c1e198-fdf6-4073-b240-71d589ede323/manifest">
@@ -128,9 +88,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The fine arts of the English school: illustrated by a series of engravings from paintings, sculpture, and architecture, of eminent English artists ; with ample biographical, critical, and descriptive essays</title>
+            <title>The fine arts of the English school; illustrated by a series of engravings, from paintings, sculpture, and architecture, of eminent English artists: with ample biographical, critical, and descriptive essays, by various authors. Ed., and partly written by John Britton ...</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -139,31 +99,45 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Britton, John, Editor</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-69159</idno>
-            <idno type="URI">http://portal.getty.edu/api/r05j6r</idno>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923841500001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/gc6h44</idno>
+            <idno>(OCoLC)1146407</idno>
             <idno type="cico">14</idno>
             <idno type="dcl">05t</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>The fine arts of the English school: illustrated by a series of engravings from paintings, sculpture, and architecture, of eminent English artists ; with ample biographical, critical, and descriptive essays</title>
+                  <title>The fine arts of the English school; illustrated by a series of engravings, from paintings, sculpture, and architecture, of eminent English artists: with ample biographical, critical, and descriptive essays, by various authors. Ed., and partly written by John Britton ...</title>
+                  <respStmt>
+                     <persName>Britton, John, 1771-1857, editor.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>English</textLang>
                   <imprint>
-                     <date>1812</date>
+                     <publisher>London, Longman, Hurst, Rees, Orme, and Brown</publisher>
+                     <pubPlace>Great Britain.</pubPlace>
                      <date>1812</date>
                   </imprint>
-                  <extent>122 S.</extent>
-                  <extent>24 Taf.</extent>
+                  <extent>[128] pages</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/britton1812/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/947cc728-06f7-4b2a-823c-196f316b207f"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Great Britain.</term>
+               <term>Art -- Great Britain.</term>
+               <term>Artists -- Great Britain.</term>
+               <term>N6764 .B8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/britton1812/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/947cc728-06f7-4b2a-823c-196f316b207f">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

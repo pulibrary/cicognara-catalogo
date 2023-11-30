@@ -63,9 +63,83 @@ rassicurate.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Domenichino, 1581-1641.</term>
+               <term>Vanni, Niccolò, 18th cent.</term>
+               <term>Cappella dei Santi fondatori (Badia greca di Grottaferrata di Maria Santissima)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/aa41c9ca-6d8c-469d-8136-598bade52ec1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Picturæ Dominici Zampierii vulgo Domenichino quæ extant in sacello sacræ ædi cryptoferratensi adjuncto, nunc primum tabulis æneis incisæ.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vanni, Niccolò.</authority>
+            <authority>Bartolozzi, Francesco, 1727-1815</authority>
+            <authority>Pazzi, Antonio, 1706-approximately 1766.</authority>
+            <authority>Capellan, Antonio, approximately 1740-1793.</authority>
+            <authority>Gregori, Carlo Bartolomeo, 1702-1759.</authority>
+            <authority>Limpach, Maximilian Joseph, active 18th century.</authority>
+            <authority>Gabbuggiani, Baldassare, 1689-</authority>
+            <authority>Mallia, Giovanni Carlo, active 1757-1760.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993324553504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/dx8x96</idno>
+            <idno>(OCoLC)857813856</idno>
+            <idno>(OCoLC)10175391</idno>
+            <idno type="cico">3469</idno>
+            <idno type="dcl">r5m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Picturæ Dominici Zampierii vulgo Domenichino quæ extant in sacello sacræ ædi cryptoferratensi adjuncto, nunc primum tabulis æneis incisæ.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romæ : Ex chalcographia R.C.A</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDCCLXII [1762]</date>
+                     <date>1762</date>
+                  </imprint>
+                  <extent>[4], viii p., [36] leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993324553504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Domenichino, 1581-1641 -- Early works to 1800.</term>
+               <term>Cappella dei Santi fondatori (Badia greca di Grottaferrata di Maria Santissima) -- Early works to 1800.</term>
+               <term>Mural painting and decoration -- Italy -- Grottaferrata -- Early works to 1800.</term>
+               <term>Church decoration and ornament -- Italy -- Grottaferrata -- Early works to 1800.</term>
+               <term>Provenance -- Drummond (Amelia Sophia)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993324553504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -34,55 +34,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Les dix livres d'architecture de Vitruve [microform] / corrigez et traduits nouvellement en françois ; avec des notes &amp; des figures.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Perrault, Claude, 1613-1688.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985187043506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ws4b3h</idno>
-            <idno type="cico">730</idno>
-            <idno type="dcl">trv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Les dix livres d'architecture de Vitruve [microform] / corrigez et traduits nouvellement en françois ; avec des notes &amp; des figures.</title>
-                  <respStmt>
-                     <persName>Vitruvius Pollio.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Jean Baptiste Coignard</publisher>
-                     <date>1684</date>
-                  </imprint>
-                  <extent>[20], 354, [15] p.</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/146935ac-813b-4576-8e63-d17489609559/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/146935ac-813b-4576-8e63-d17489609559/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Les dix livres d'architecture de Vitruve : corrigez et traduits nouvellement en françois, avec des notes &amp; des figures.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -131,9 +82,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>NA2517 .V85</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/27242880-4eee-47da-8c17-efe6b32c791f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les dix livres d'architecture de Vitruve [microform] / corrigez et traduits nouvellement en françois ; avec des notes &amp; des figures.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Perrault, Claude, 1613-1688.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985187043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ws4b3h</idno>
+            <idno type="cico">730</idno>
+            <idno type="dcl">trv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les dix livres d'architecture de Vitruve [microform] / corrigez et traduits nouvellement en françois ; avec des notes &amp; des figures.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jean Baptiste Coignard</publisher>
+                     <date>1684</date>
+                  </imprint>
+                  <extent>[20], 354, [15] p.</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/146935ac-813b-4576-8e63-d17489609559/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/146935ac-813b-4576-8e63-d17489609559/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

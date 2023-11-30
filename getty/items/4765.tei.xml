@@ -26,6 +26,62 @@ venne citata in una nota nel I volume della Storia della Scultura.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Di Cennino Cennini Trattato della pittura / messo in luce la prima volta con annotazioni dal cavaliere Giuseppe Tambroni ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tambroni, Giuseppe, 1773-1824</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927804130001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/sg6g9q</idno>
+            <idno>(OCoLC)5306243</idno>
+            <idno type="cico">4765</idno>
+            <idno type="dcl">bpm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Di Cennino Cennini Trattato della pittura / messo in luce la prima volta con annotazioni dal cavaliere Giuseppe Tambroni ...</title>
+                  <respStmt>
+                     <persName>Cennini, Cennino, active 15th century</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Co' torchj di Paolo Salviucci</publisher>
+                     <date>1821</date>
+                  </imprint>
+                  <extent>lii, 171, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c313e8f1-7e5f-4964-a1c8-40749e988890"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Technique.</term>
+               <term>Painting -- Technique</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c313e8f1-7e5f-4964-a1c8-40749e988890">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Di Cennino Cennini Trattato della pittura [microform] / messo in luce la prima volta con annotazioni dal cavaliere Giuseppe Tambroni ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -65,57 +121,17 @@ venne citata in una nota nel I volume della Storia della Scultura.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting -- Technique -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e844949a-a7cb-48be-a1a6-736f5e10fd74/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Di Cennino Cennini Trattato della pittura / messo in luce la prima volta con annotazioni dal cavaliere Giuseppe Tambroni ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Tambroni, Giuseppe, 1773-1824</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927804130001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/sg6g9q</idno>
-            <idno>(OCoLC)5306243</idno>
-            <idno type="cico">4765</idno>
-            <idno type="dcl">bpm</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Di Cennino Cennini Trattato della pittura / messo in luce la prima volta con annotazioni dal cavaliere Giuseppe Tambroni ...</title>
-                  <respStmt>
-                     <persName>Cennini, Cennino, active 15th century</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma : Co' torchj di Paolo Salviucci</publisher>
-                     <date>1821</date>
-                  </imprint>
-                  <extent>lii, 171, [1] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c313e8f1-7e5f-4964-a1c8-40749e988890"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c313e8f1-7e5f-4964-a1c8-40749e988890">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

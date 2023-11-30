@@ -26,6 +26,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Contes moraux, et nouvelles idylles / de D--- et Sal. Gessner.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Gessner, Salomon, 1730-1788.</authority>
+            <authority>Gisborne, Thomas, 1758-1846, former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9932466893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/34408h</idno>
+            <idno>(OCoLC)54361105</idno>
+            <idno type="cico">1096</idno>
+            <idno type="dcl">5vz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Contes moraux, et nouvelles idylles / de D--- et Sal. Gessner.</title>
+                  <respStmt>
+                     <persName>Diderot, Denis, 1713-1784.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Londres [i.e. Paris?]</publisher>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>[6], 230 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4d97aaae-9a46-46f8-869c-118ec1e9319c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>AC4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4d97aaae-9a46-46f8-869c-118ec1e9319c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Contes moraux et Nouvelles idylles [microform]/ de D ... et Salomon Gessner.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -67,58 +123,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/06a873be-52f4-4f2e-a462-1c63e0124740/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Contes moraux, et nouvelles idylles / de D--- et Sal. Gessner.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Gessner, Salomon, 1730-1788.</authority>
-            <authority>Gisborne, Thomas, 1758-1846, former owner.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9932466893506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/34408h</idno>
-            <idno>(OCoLC)54361105</idno>
-            <idno type="cico">1096</idno>
-            <idno type="dcl">5vz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Contes moraux, et nouvelles idylles / de D--- et Sal. Gessner.</title>
-                  <respStmt>
-                     <persName>Diderot, Denis, 1713-1784.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Londres [i.e. Paris?]</publisher>
-                     <date>1773</date>
-                  </imprint>
-                  <extent>[6], 230 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4d97aaae-9a46-46f8-869c-118ec1e9319c/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4d97aaae-9a46-46f8-869c-118ec1e9319c/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

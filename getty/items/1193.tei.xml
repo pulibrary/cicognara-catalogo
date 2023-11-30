@@ -63,9 +63,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perugino, approximately 1450-1523.</term>
+               <term>Mariotti, Annibale, 1738-1801. Lettere pittoriche perugine.</term>
+               <term>Art, Italian -- Italy -- Perugia -- Early works to 1800.</term>
+               <term>Painting, Italian -- Italy -- Perugia -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3a2f2e63-1f39-46fe-9af2-edc982677bdd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Risposta alle lettere pittoriche del signore Annibale Mariotti ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991397333504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/sk3h9w</idno>
+            <idno>(OCoLC)13609063</idno>
+            <idno type="cico">1193</idno>
+            <idno type="dcl">vz6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Risposta alle lettere pittoriche del signore Annibale Mariotti ...</title>
+                  <respStmt>
+                     <persName>Orsini, Baldassarre, 1732-1810.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Perugia : Dai Torchj di Carlo Baduel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1791</date>
+                  </imprint>
+                  <extent>160, [2] p., [6] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991397333504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mariotti, Annibale, 1738-1801. Lettere pittoriche perugine.</term>
+               <term>Perugino, approximately 1450-1523.</term>
+               <term>Painting, Italian -- Italy -- Perugia -- Early works to 1800.</term>
+               <term>Art, Italian -- Italy -- Perugia -- Early works to 1800.</term>
+               <term>Painting, Italian -- 14th century.</term>
+               <term>Painting, Italian -- 15th century.</term>
+               <term>Provenance -- Richards (Raymond)</term>
+               <term>Provenance -- Dalcanes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991397333504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

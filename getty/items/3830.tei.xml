@@ -24,54 +24,6 @@ Antichità di Roma fatta dallo stesso, ed ultimamente soppressa</title>, <pubPla
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lettere di givstificazione / scritte a milord Charlemont e a' di lvi agenti di Roma ... intorno la dedica della sva opera delle antichità Rom.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Charlemont, James Caulfeild, Earl of, 1728-1799</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927768660001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/px6s2h</idno>
-            <idno>(OCoLC)80376683</idno>
-            <idno type="cico">3830</idno>
-            <idno type="dcl">vfw</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Lettere di givstificazione / scritte a milord Charlemont e a' di lvi agenti di Roma ... intorno la dedica della sva opera delle antichità Rom.</title>
-                  <respStmt>
-                     <persName>Piranesi, Giovanni Battista, 1720-1778</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : [publisher not identified]</publisher>
-                     <date>1757</date>
-                  </imprint>
-                  <extent>2 preliminary leaves, 28 pages, 8 plates (1 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/85354bab-81fa-458a-b33c-3eba604659f0"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/85354bab-81fa-458a-b33c-3eba604659f0">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Lettere di giustificazione [microform] / scritte a milord Charlemont e a di lui agenti di Roma dal signor Piranesi, socio della Real Società degli Antiquari di Londra, intorno la dedica della sua opera delle antichità Rom[ane], fatta allo stesso signore ed vltimamente soppressa.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +63,81 @@ Antichità di Roma fatta dallo stesso, ed ultimamente soppressa</title>, <pubPla
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charlemont, James Caulfeild, Lord, d. 1799 -- Correspondence.</term>
+               <term>Piranesi, Giovanni Battista, 1720-1778 -- Correspondence.</term>
+               <term>Piranesi, Giovanni Battista, 1720-1778. Antichità romane.</term>
+               <term>Dedications.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2c26e1bb-fcee-4e77-952a-e2657bc3d2e5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettere di givstificazione / scritte a milord Charlemont e a' di lvi agenti di Roma ... intorno la dedica della sva opera delle antichità Rom.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Charlemont, James Caulfeild, Earl of, 1728-1799</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927768660001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/px6s2h</idno>
+            <idno>(OCoLC)80376683</idno>
+            <idno type="cico">3830</idno>
+            <idno type="dcl">vfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettere di givstificazione / scritte a milord Charlemont e a' di lvi agenti di Roma ... intorno la dedica della sva opera delle antichità Rom.</title>
+                  <respStmt>
+                     <persName>Piranesi, Giovanni Battista, 1720-1778</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : [publisher not identified]</publisher>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>2 preliminary leaves, 28 pages, 8 plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/85354bab-81fa-458a-b33c-3eba604659f0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charlemont, James Caulfeild, Earl of, 1728-1799 -- Correspondence.</term>
+               <term>Piranesi, Giovanni Battista, 1720-1778 -- Correspondence.</term>
+               <term>Piranesi, Giovanni Battista, 1720-1778. Antichita romane.</term>
+               <term>Dedications.</term>
+               <term>Charlemont, James Caulfeild, Earl of, 1728-1799</term>
+               <term>Piranesi, Giovanni Battista, 1720-1778</term>
+               <term>Dedications.</term>
+               <term>NE662.P57 L4 1757</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/85354bab-81fa-458a-b33c-3eba604659f0">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

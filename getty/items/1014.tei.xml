@@ -23,6 +23,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Versi e prose sopra una serie di eccellenti pitture posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Calvi, Iacopo Alessandro, 1740-1815</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924424600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/1z6508</idno>
+            <idno>(OCoLC)148221201</idno>
+            <idno type="cico">1014</idno>
+            <idno type="dcl">h87</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Versi e prose sopra una serie di eccellenti pitture posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperia di San Tommaso d'Aquino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>109, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/fc919195-adab-41b1-abdc-5a501589e1b0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hercolani, Filippo, marchese -- Poetry.</term>
+               <term>Painting -- Italy -- Poetry.</term>
+               <term>Painting</term>
+               <term>Italy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fc919195-adab-41b1-abdc-5a501589e1b0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Versi e prose sopra una serie di eccellenti pitture [microform] / posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -62,6 +117,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hercolani, Filippo, marchese -- Art collections.</term>
+               <term>Painters -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ec7e0572-ac4b-4ea1-b469-a89d712b8a74/manifest">
@@ -73,9 +136,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Versi e prose sopra una serie di eccellenti pitture posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+            <title>Versi e prose sopra una serie di eccellenti pitture, posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -84,9 +147,8 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Calvi, Iacopo Alessandro, 1740-1815</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9924424600001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/1z6508</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_99938443504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/5z9147</idno>
             <idno>(OCoLC)148221201</idno>
             <idno type="cico">1014</idno>
             <idno type="dcl">h87</idno>
@@ -94,22 +156,35 @@
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Versi e prose sopra una serie di eccellenti pitture posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+                  <title>Versi e prose sopra una serie di eccellenti pitture, posseduta dal signor marchese Filippo Hercolani, principe del S.R.I.</title>
+                  <respStmt>
+                     <persName>Calvi, Iacopo Alessandro, 1740-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <publisher>In Bologna : Nella stamperia di San Tommaso d'Aquino</publisher>
-                     <pubPlace>Italy</pubPlace>
+                     <publisher>Bologna, Stamp. di San Tommaso d'Aquino</publisher>
+                     <pubPlace>Italy.</pubPlace>
                      <date>1780</date>
                   </imprint>
-                  <extent>109, [1] p.</extent>
+                  <extent>109p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/fc919195-adab-41b1-abdc-5a501589e1b0"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99938443504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hercolani, Filippo, marchese -- Art collections.</term>
+               <term>Painters -- Italy.</term>
+               <term>Private collections -- Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fc919195-adab-41b1-abdc-5a501589e1b0">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99938443504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

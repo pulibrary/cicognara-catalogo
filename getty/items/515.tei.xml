@@ -27,56 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Opuscoli di Agostino Gerli [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984945103506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sz8672</idno>
-            <idno type="cico">515</idno>
-            <idno type="dcl">35q</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Opuscoli di Agostino Gerli [microform]</title>
-                  <respStmt>
-                     <persName>Gerli, Agostino.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Parma : Dalla Stamperia reale</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy.</pubPlace>
-                     <date>1785</date>
-                  </imprint>
-                  <extent>99 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cccb7b42-c9c3-4d11-9924-fd7f7736228e/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cccb7b42-c9c3-4d11-9924-fd7f7736228e/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Opuscoli di Agostino Gerli.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -119,9 +69,91 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Andreani, Paolo.</term>
+               <term>Balloon ascensions -- Early works to 1800.</term>
+               <term>Pavements -- Italy.</term>
+               <term>Mural painting and decoration -- Early works to 1800.</term>
+               <term>Church architecture -- Italy -- Seregno.</term>
+               <term>Ventilation -- Early works to 1800.</term>
+               <term>Balloon ascensions.</term>
+               <term>Church architecture.</term>
+               <term>Mural painting and decoration.</term>
+               <term>Pavements.</term>
+               <term>Ventilation.</term>
+               <term>Italy -- Seregno.</term>
+               <term>TL620.A6 B4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/8aa74073-7ae3-4619-9a55-6e1e2a6df69f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opuscoli di Agostino Gerli [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984945103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sz8672</idno>
+            <idno type="cico">515</idno>
+            <idno type="dcl">35q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Opuscoli di Agostino Gerli [microform]</title>
+                  <respStmt>
+                     <persName>Gerli, Agostino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Dalla Stamperia reale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1785</date>
+                  </imprint>
+                  <extent>99 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cccb7b42-c9c3-4d11-9924-fd7f7736228e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Andreani, Paolo, 1763-1823.</term>
+               <term>Aeronautics -- Early works to 1900.</term>
+               <term>Church architecture -- Italy -- Seregno.</term>
+               <term>Encaustic painting.</term>
+               <term>Engraving, Italian.</term>
+               <term>Pavements -- Italy.</term>
+               <term>Ventilation -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cccb7b42-c9c3-4d11-9924-fd7f7736228e/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -21,4 +21,63 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Degli anfiteatri e particolarmente del Flavio di Roma di quello d'italica nella Spagna e di quello di pola nell'Istria.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Carli, Gian Rinaldo, conte, 1720-1795. Delle antichitá italiche.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991499553504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/0w343n</idno>
+            <idno>(OCoLC)993731781</idno>
+            <idno type="cico">789</idno>
+            <idno type="dcl">166</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Degli anfiteatri e particolarmente del Flavio di Roma di quello d'italica nella Spagna e di quello di pola nell'Istria.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Nell'imperial monistero di S. Ambrogio maggiore</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Istria (Croatia and Slovenia)</pubPlace>
+                     <pubPlace>Spain</pubPlace>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>88 p., 10 leaves of plates (4 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991499553504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pula (Croatia). Amphitheater.</term>
+               <term>Rome (Lazio, Italy). Colosseo.</term>
+               <term>Amphitheaters -- Italy</term>
+               <term>Italy -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Istria (Croatia and Slovenia) -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Spain -- Antiquities, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991499553504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

@@ -25,60 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ricerche su le bellezze della pittura : e sul merito de più celebri pittori antichi e moderni / del signor Daniele Webb ; tradotte e comentate dal Dottore Francesco Pizzetti, professore di logica e metafisica nell'Università di Parma.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Pizzetti, Francesco, translator.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929659180001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/xk8g7c</idno>
-            <idno type="URI">http://portal.getty.edu/api/zv245v</idno>
-            <idno>(OCoLC)84972152</idno>
-            <idno type="cico">242</idno>
-            <idno type="dcl">xnc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Ricerche su le bellezze della pittura : e sul merito de più celebri pittori antichi e moderni / del signor Daniele Webb ; tradotte e comentate dal Dottore Francesco Pizzetti, professore di logica e metafisica nell'Università di Parma.</title>
-                  <respStmt>
-                     <persName>Webb, Daniel, 1718 or 1719-1798</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Parma : Stamperia Imperiale</publisher>
-                     <date>1804</date>
-                  </imprint>
-                  <extent>2 volumes</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/54ecfbdc-e5e3-4633-a137-761607afe512https://media.getty.edu/iiif/manifest/9729c9c9-f4a7-4b46-ab54-9a786a2c3cc8"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/54ecfbdc-e5e3-4633-a137-761607afe512">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/9729c9c9-f4a7-4b46-ab54-9a786a2c3cc8">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Ricerche su le bellezze della pittura [microform] : e sul merito de' più celebri pittori antichi e moderni / di Daniele Webb ; tradotte e comentate dal Francesco Pizzetti.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -118,9 +64,134 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/176a2996-838f-428b-9f92-b4e7a906f90d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricerche su le bellezze della pittura : e sul merito de' più celebri pittori antichi e moderni / di Daniele Webb ; tradotte e comentate dal Francesco Pizzetti.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pizzetti, Francesco. Riflessioni su l'arte della pittura.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_9994043504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/d21t5n</idno>
+            <idno>(OCoLC)878621875</idno>
+            <idno type="cico">242</idno>
+            <idno type="dcl">xnc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ricerche su le bellezze della pittura : e sul merito de' più celebri pittori antichi e moderni / di Daniele Webb ; tradotte e comentate dal Francesco Pizzetti.</title>
+                  <respStmt>
+                     <persName>Webb, Daniel, 1718 or 1719-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Stamperia Imperiale</publisher>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/9994043504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/9994043504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricerche su le bellezze della pittura : e sul merito de più celebri pittori antichi e moderni / del signor Daniele Webb ; tradotte e comentate dal Dottore Francesco Pizzetti, professore di logica e metafisica nell'Università di Parma.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pizzetti, Francesco, translator.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929659180001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/xk8g7c</idno>
+            <idno type="URI">http://portal.getty.edu/api/zv245v</idno>
+            <idno>(OCoLC)84972152</idno>
+            <idno type="cico">242</idno>
+            <idno type="dcl">xnc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ricerche su le bellezze della pittura : e sul merito de più celebri pittori antichi e moderni / del signor Daniele Webb ; tradotte e comentate dal Dottore Francesco Pizzetti, professore di logica e metafisica nell'Università di Parma.</title>
+                  <respStmt>
+                     <persName>Webb, Daniel, 1718 or 1719-1798</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Stamperia Imperiale</publisher>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/54ecfbdc-e5e3-4633-a137-761607afe512https://media.getty.edu/iiif/manifest/9729c9c9-f4a7-4b46-ab54-9a786a2c3cc8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>ND1130 .W416 1804</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/54ecfbdc-e5e3-4633-a137-761607afe512">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/9729c9c9-f4a7-4b46-ab54-9a786a2c3cc8">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -27,6 +27,67 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Monumenti di fabbriche antiche estratti dai disegni dei piu celebri autori [microform] / da Gio. Battista Cipriani ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ks8p0s</idno>
+            <idno type="cico">476</idno>
+            <idno type="dcl">g5d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenti di fabbriche antiche estratti dai disegni dei piu celebri autori [microform] / da Gio. Battista Cipriani ...</title>
+                  <respStmt>
+                     <persName>Cipriani, Giovanni Battista, 1766-1839.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : [s.n.]</publisher>
+                     <pubPlace>Greece</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1796-1803</date>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b0eb14f5-81ae-4e6a-8e46-78b3d0dca02e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Greek.</term>
+               <term>Architecture, Roman.</term>
+               <term>Greece -- Antiquities.</term>
+               <term>Italy -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b0eb14f5-81ae-4e6a-8e46-78b3d0dca02e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Monumenti di fabbriche antiche estratti dai disegni dei piu celebri autori / da Gio. Battista Cipriani sanese.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -71,6 +132,22 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Roman -- Pictorial works.</term>
+               <term>Architecture, Greek -- Pictorial works.</term>
+               <term>Italy -- Antiquities -- Pictorial works.</term>
+               <term>Greece -- Antiquities -- Pictorial works.</term>
+               <term>Antiquities.</term>
+               <term>Architecture, Greek.</term>
+               <term>Architecture, Roman.</term>
+               <term>Greece.     -781</term>
+               <term>Italy.     -781</term>
+               <term>NA260 .C6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/9af86f6d-87f0-4677-8b80-bc729d97799e">
@@ -84,57 +161,6 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e23fb184-164d-489d-a674-82355eeefbd3">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Monumenti di fabbriche antiche estratti dai disegni dei piu celebri autori [microform] / da Gio. Battista Cipriani ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985295493506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ks8p0s</idno>
-            <idno type="cico">476</idno>
-            <idno type="dcl">g5d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Monumenti di fabbriche antiche estratti dai disegni dei piu celebri autori [microform] / da Gio. Battista Cipriani ...</title>
-                  <respStmt>
-                     <persName>Cipriani, Giovanni Battista, 1766-1839.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma : [s.n.]</publisher>
-                     <pubPlace>Greece</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1796-1803</date>
-                     <date>1796</date>
-                  </imprint>
-                  <extent>3 v.</extent>
-                  <extent>11 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b0eb14f5-81ae-4e6a-8e46-78b3d0dca02e/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b0eb14f5-81ae-4e6a-8e46-78b3d0dca02e/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

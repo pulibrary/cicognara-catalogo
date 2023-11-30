@@ -21,50 +21,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Essai d'un catalogue de l'œuvre d'Etienne de LaBelle, peintre et graveur florentin: disposé par ordre historique suivant l'année où chaque pièce a été gravée ; avec la vie de cet artiste ...</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Jombert, Charles Antoine, Author</authority>
-            <authority>Della Bella, Stefano, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-279844</idno>
-            <idno type="URI">http://portal.getty.edu/api/9k3w0x</idno>
-            <idno type="cico">4454</idno>
-            <idno type="dcl">hgk</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Essai d'un catalogue de l'œuvre d'Etienne de LaBelle, peintre et graveur florentin: disposé par ordre historique suivant l'année où chaque pièce a été gravée ; avec la vie de cet artiste ...</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <date>1772</date>
-                     <date>1772</date>
-                  </imprint>
-                  <extent>VIII, 230 S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/jombert1772/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/jombert1772/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Essai d'un catalogue de l'œuvre d'Etienne de la Belle, peintre et graveur florentin [microform] : disposé par ordre historique suivant l'année où chaque pièce a été gravée : avec la vie de cet artiste, traduite de l'italien &amp; enrichie de notes / par Charles-Antoine Jombert.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -106,6 +62,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Della Bella, Stefano, 1610-1664.</term>
+               <term>Artists -- Italy -- Biography.</term>
+               <term>N6923.D4215</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dee30b2c-c541-4e40-b23f-907915191fff/manifest">

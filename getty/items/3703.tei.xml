@@ -28,60 +28,6 @@ fine.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Discorso sopra il nuovo ornato della guglia di S. Pietro ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Salvioni, Giovanni Maria, 1676-1755, printer.</authority>
-            <authority>Mastrozzi, Fed., engraver.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927935650001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/4v7g6r</idno>
-            <idno>(OCoLC)18435675</idno>
-            <idno type="cico">3703</idno>
-            <idno type="cico">2665</idno>
-            <idno type="dcl">wc7</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Discorso sopra il nuovo ornato della guglia di S. Pietro ...</title>
-                  <respStmt>
-                     <persName>Sergardi, Lodovico, 1660-1726.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Appresso Gio. Maria Salvioni</publisher>
-                     <pubPlace>Vatican City.</pubPlace>
-                     <pubPlace>Vatican City</pubPlace>
-                     <pubPlace>Piazza San Pietro (Vatican City)</pubPlace>
-                     <date>M. DCC. XXIII. [1723]</date>
-                     <date>1723</date>
-                  </imprint>
-                  <extent>17, 3 unnumbered pages, 4 unnumbered leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/cd24d453-f3a1-4d0d-805e-1442310340ce"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cd24d453-f3a1-4d0d-805e-1442310340ce">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Discorso sopra il nuovo ornato della guglia di S. Pietro [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -127,9 +73,87 @@ fine.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisks -- Vatican City -- Early works to 1800.</term>
+               <term>Vatican Obelisk (Vatican City) -- Early works to 1800.</term>
+               <term>Piazza San Pietro (Vatican City)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e42673c0-5bee-4c72-b1b0-a6391091c427/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discorso sopra il nuovo ornato della guglia di S. Pietro ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Salvioni, Giovanni Maria, 1676-1755, printer.</authority>
+            <authority>Mastrozzi, Fed., engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927935650001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4v7g6r</idno>
+            <idno>(OCoLC)18435675</idno>
+            <idno type="cico">3703</idno>
+            <idno type="cico">2665</idno>
+            <idno type="dcl">wc7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorso sopra il nuovo ornato della guglia di S. Pietro ...</title>
+                  <respStmt>
+                     <persName>Sergardi, Lodovico, 1660-1726.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso Gio. Maria Salvioni</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <pubPlace>Vatican City</pubPlace>
+                     <pubPlace>Piazza San Pietro (Vatican City)</pubPlace>
+                     <date>M. DCC. XXIII. [1723]</date>
+                     <date>1723</date>
+                  </imprint>
+                  <extent>17, 3 unnumbered pages, 4 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/cd24d453-f3a1-4d0d-805e-1442310340ce"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisco vaticano (Vatican City) -- Early works to 1800.</term>
+               <term>Obelisks -- Vatican City.</term>
+               <term>Vatican City -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Piazza San Pietro (Vatican City)</term>
+               <term>Buildings.</term>
+               <term>Obelisks.</term>
+               <term>Vatican City.</term>
+               <term>Vatican City -- Piazza San Pietro.</term>
+               <term>NA5620 S9S4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cd24d453-f3a1-4d0d-805e-1442310340ce">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -177,9 +201,72 @@ fine.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chiusi (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7c7ef66c-2ade-4404-a020-dfa753530aad/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relazione della statua equestre di Carlo Magno eretta nel portico del Tempio Vaticano colla raccolta d'alcuni componimenti poetici .. [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Quinza, Francesco.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fr738n</idno>
+            <idno type="cico">3547</idno>
+            <idno type="dcl">rzn</idno>
+            <idno type="dcl">d5z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Relazione della statua equestre di Carlo Magno eretta nel portico del Tempio Vaticano colla raccolta d'alcuni componimenti poetici .. [microform]</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Siena : Appresso Francesco Quinza stampator'di S.A.R</publisher>
+                     <pubPlace>Vatican City.</pubPlace>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>46 p., [1] leaf of plates</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/58f26b71-280c-41d1-bfc2-f86a3344e487/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charlemagne, Emperor, 742-814 -- Statues -- Vatican City.</term>
+               <term>Equestrian statues -- Vatican City.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/58f26b71-280c-41d1-bfc2-f86a3344e487/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -238,57 +325,23 @@ fine.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Charlemagne, Emperor, 742-814 -- Statues -- Vatican City.</term>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Equestrian statues -- Vatican City.</term>
+               <term>Charlemagne, Emperor, 742-814</term>
+               <term>Basilica di San Pietro in Vaticano.</term>
+               <term>Equestrian statues.</term>
+               <term>Statues.</term>
+               <term>Vatican City.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0bbf0614-ac70-4f83-979d-a35833a886f4">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Relazione della statua equestre di Carlo Magno eretta nel portico del Tempio Vaticano colla raccolta d'alcuni componimenti poetici .. [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Quinza, Francesco.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985419123506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fr738n</idno>
-            <idno type="cico">3547</idno>
-            <idno type="dcl">rzn</idno>
-            <idno type="dcl">d5z</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Relazione della statua equestre di Carlo Magno eretta nel portico del Tempio Vaticano colla raccolta d'alcuni componimenti poetici .. [microform]</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Siena : Appresso Francesco Quinza stampator'di S.A.R</publisher>
-                     <pubPlace>Vatican City.</pubPlace>
-                     <date>1725</date>
-                  </imprint>
-                  <extent>46 p., [1] leaf of plates</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/58f26b71-280c-41d1-bfc2-f86a3344e487/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/58f26b71-280c-41d1-bfc2-f86a3344e487/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -338,6 +391,14 @@ fine.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hercules (Roman mythological character) -- Art.</term>
+               <term>Marble sculpture -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d9bf21ec-6117-4506-8272-06e4136007b4/manifest">

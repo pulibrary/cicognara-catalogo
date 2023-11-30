@@ -23,55 +23,6 @@ duplici alba, de Ara maxima, M. 44.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Xaverii Matthaei per saturam exercitationes [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985453063506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/0z6z22</idno>
-            <idno type="cico">3269</idno>
-            <idno type="dcl">bk9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Xaverii Matthaei per saturam exercitationes [microform].</title>
-                  <respStmt>
-                     <persName>Matthaeus, Xaverius.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Neapoli : Ex typographia Simoniana</publisher>
-                     <date>1759</date>
-                  </imprint>
-                  <extent>161 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3e2ffb9a-eb0d-4479-a131-2b89bf126629/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3e2ffb9a-eb0d-4479-a131-2b89bf126629/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Xaverii Matthaei Per saturam exercitationes.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -111,9 +62,73 @@ duplici alba, de Ara maxima, M. 44.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical education -- Problems, exercises, etc.</term>
+               <term>Classical education.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6e466881-d3e7-454f-b8d4-de877bfdbed8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Xaverii Matthaei per saturam exercitationes [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985453063506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0z6z22</idno>
+            <idno type="cico">3269</idno>
+            <idno type="dcl">bk9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Xaverii Matthaei per saturam exercitationes [microform].</title>
+                  <respStmt>
+                     <persName>Matthaeus, Xaverius.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Neapoli : Ex typographia Simoniana</publisher>
+                     <date>1759</date>
+                  </imprint>
+                  <extent>161 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3e2ffb9a-eb0d-4479-a131-2b89bf126629/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical education -- Problems, exercises, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3e2ffb9a-eb0d-4479-a131-2b89bf126629/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

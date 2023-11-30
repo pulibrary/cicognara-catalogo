@@ -23,58 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Account of the discoveries at Pompeii : communicated to the Society of Antiquaries of London / by the Hon. Sir William Hamilton ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Basire, James, 1730-1802.</authority>
-            <authority>Society of Antiquaries of London.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923399490001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/cp2220</idno>
-            <idno type="URI">http://portal.getty.edu/api/3r1b1b</idno>
-            <idno>(OCoLC)145939722</idno>
-            <idno type="cico">2676</idno>
-            <idno type="dcl">gcc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Account of the discoveries at Pompeii : communicated to the Society of Antiquaries of London / by the Hon. Sir William Hamilton ...</title>
-                  <respStmt>
-                     <persName>Hamilton, William, Sir, 1730-1803.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <publisher>London : Printed by W. Bowyer and J. Nichols</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Pompeii (Extinct city)</pubPlace>
-                     <date>1777</date>
-                  </imprint>
-                  <extent>18 pages, XIII leaves of plates (1 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/aa741c44-2b9a-424f-b0c1-c35203b17c8b"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/aa741c44-2b9a-424f-b0c1-c35203b17c8b">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Account of the discoveries at Pompeii [microform] : communicated to the Society of Antiquaries of London / by the Hon. Sir William Hamilton ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -117,9 +65,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Roman -- Italy -- Pompeii (Extinct city).</term>
+               <term>Pompeii (Extinct city) -- Discovery and exploration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c59e36a5-3896-47c5-9423-eba188f11dbd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Account of the discoveries at Pompeii : communicated to the Society of Antiquaries of London / by the Hon. Sir William Hamilton ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Basire, James, 1730-1802</authority>
+            <authority>Society of Antiquaries of London</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923399490001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/3r1b1b</idno>
+            <idno type="URI">http://portal.getty.edu/api/cp2220</idno>
+            <idno>(OCoLC)145939722</idno>
+            <idno type="cico">2676</idno>
+            <idno type="dcl">gcc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Account of the discoveries at Pompeii : communicated to the Society of Antiquaries of London / by the Hon. Sir William Hamilton ...</title>
+                  <respStmt>
+                     <persName>Hamilton, William, Sir, 1730-1803</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by W. Bowyer and J. Nichols</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Pompeii (Extinct city)</pubPlace>
+                     <date>1777</date>
+                  </imprint>
+                  <extent>18 pages, XIII leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/aa741c44-2b9a-424f-b0c1-c35203b17c8b"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pompeii (Extinct city) -- Discovery and exploration.</term>
+               <term>Architecture, Roman -- Italy -- Pompeii (Extinct city).</term>
+               <term>Architecture, Roman.</term>
+               <term>Discoveries in geography</term>
+               <term>Italy -- Pompeii (Extinct city).</term>
+               <term>DG70.P7 H36 1777</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/aa741c44-2b9a-424f-b0c1-c35203b17c8b">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

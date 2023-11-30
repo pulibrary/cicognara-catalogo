@@ -32,6 +32,58 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>L'arithmetique militaire, ou, l'arithmetique pratique de l'ingénieur et de l'officier, divisée en trois parties, ouvrage également necessaire aux officiers, aux ingéniurs et aux commerçans. Par le Sieur Clermont.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990028582270203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/q37c0v</idno>
+            <idno>(OCoLC)5579698</idno>
+            <idno type="cico">479</idno>
+            <idno type="dcl">pjr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'arithmetique militaire, ou, l'arithmetique pratique de l'ingénieur et de l'officier, divisée en trois parties, ouvrage également necessaire aux officiers, aux ingéniurs et aux commerçans. Par le Sieur Clermont.</title>
+                  <respStmt>
+                     <persName>Clermont</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Á Paris, Chez Pierre Witte</publisher>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>4 p. l., 170 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494457670"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494457670">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Oeuvres de M. Clermont [microform] : contenant L'arithmetique militaire et La geometrie-pratique de l'ingenieur.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -70,56 +122,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Arithmetic -- Early works to 1800.</term>
+               <term>Geometry -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34c9200b-6f17-4443-b60e-4b3a143a4405/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>L'arithmetique militaire, ou, l'arithmetique pratique de l'ingénieur et de l'officier, divisée en trois parties, ouvrage également necessaire aux officiers, aux ingéniurs et aux commerçans. Par le Sieur Clermont.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990028582270203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/q37c0v</idno>
-            <idno>(OCoLC)5579698</idno>
-            <idno type="cico">479</idno>
-            <idno type="dcl">pjr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'arithmetique militaire, ou, l'arithmetique pratique de l'ingénieur et de l'officier, divisée en trois parties, ouvrage également necessaire aux officiers, aux ingéniurs et aux commerçans. Par le Sieur Clermont.</title>
-                  <respStmt>
-                     <persName>Clermont</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Á Paris, Chez Pierre Witte</publisher>
-                     <date>1733</date>
-                  </imprint>
-                  <extent>4 p. l., 170 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:494457670"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494457670">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -164,6 +177,11 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494457376">

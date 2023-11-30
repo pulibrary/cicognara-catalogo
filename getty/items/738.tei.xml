@@ -24,9 +24,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Des Marcus Vitruvius Pollio Baukunst [microform] / aus der römischen Urschrift übersetzt von August Rode.</title>
+            <title>Des Marcus Vitruvius Pollio Baukunst</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>Heidelberg University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -35,36 +35,41 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Rode, August, 1751-1837.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985192133506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/dk3s13</idno>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-17219</idno>
+            <idno type="URI">http://portal.getty.edu/api/cc8k40</idno>
             <idno type="cico">738</idno>
             <idno type="dcl">dcw</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Des Marcus Vitruvius Pollio Baukunst [microform] / aus der römischen Urschrift übersetzt von August Rode.</title>
-                  <respStmt>
-                     <persName>Vitruvius Pollio.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
+                  <title>Des Marcus Vitruvius Pollio Baukunst</title>
                   <textLang>German</textLang>
                   <imprint>
-                     <publisher>Leipzig : Bey Georg Joachim Göschen</publisher>
+                     <date>1796</date>
                      <date>1796</date>
                   </imprint>
-                  <extent>2 v.</extent>
-                  <extent>11 microfiche : positive.</extent>
+                  <extent>XXIV, 284 S.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/10093755-88d1-4d31-91f2-25f977eb0fed/manifest"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1796a/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Vitruvius</term>
+               <term>Vitruvius / De architectura</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/10093755-88d1-4d31-91f2-25f977eb0fed/manifest">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1796a/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -104,6 +109,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Vitruvius</term>
+               <term>Vitruvius / De architectura</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1796b/manifest.json">
@@ -115,9 +132,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Des Marcus Vitruvius Pollio Baukunst</title>
+            <title>Des Marcus Vitruvius Pollio Baukunst [microform] / aus der römischen Urschrift übersetzt von August Rode.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -126,29 +143,43 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-17219</idno>
-            <idno type="URI">http://portal.getty.edu/api/cc8k40</idno>
+            <authority>Rode, August, 1751-1837.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985192133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dk3s13</idno>
             <idno type="cico">738</idno>
             <idno type="dcl">dcw</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Des Marcus Vitruvius Pollio Baukunst</title>
+                  <title>Des Marcus Vitruvius Pollio Baukunst [microform] / aus der römischen Urschrift übersetzt von August Rode.</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>German</textLang>
                   <imprint>
-                     <date>1796</date>
+                     <publisher>Leipzig : Bey Georg Joachim Göschen</publisher>
                      <date>1796</date>
                   </imprint>
-                  <extent>XXIV, 284 S.</extent>
+                  <extent>2 v.</extent>
+                  <extent>11 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1796a/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/10093755-88d1-4d31-91f2-25f977eb0fed/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1796a/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/10093755-88d1-4d31-91f2-25f977eb0fed/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

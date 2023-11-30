@@ -24,57 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Heinr. Matth. Aug. Cramers ... Nachrichten zur Geschichte der Herculanischen Entdeckungen</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Cramer, Heinrich Matthias August, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-275675</idno>
-            <idno type="URI">http://portal.getty.edu/api/w0944j</idno>
-            <idno type="cico">2667</idno>
-            <idno type="dcl">q8c</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Heinr. Matth. Aug. Cramers ... Nachrichten zur Geschichte der Herculanischen Entdeckungen</title>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <pubPlace>Herculaneum</pubPlace>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Italien</pubPlace>
-                     <pubPlace>Herculaneum</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>40.80569 14.34799</pubPlace>
-                     <date>1773</date>
-                     <date>1773</date>
-                  </imprint>
-                  <extent>207 S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/cramer1773/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/cramer1773/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Heinr. Matth. Aug. Cramers, Adiunctus ... Nachrichten zur Geschichte der herculanischen Entdeckungen [microform] / mit einer Vorrede begleitet von Johann Jacob Rambach ....</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,6 +63,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Herculaneum (Extinct city) -- Discovery and exploration -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b35dca1a-401f-4961-a5a3-1fa3fb9299cf/manifest">

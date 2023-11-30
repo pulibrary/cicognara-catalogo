@@ -64,9 +64,70 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7d5b434c-3f0a-43bf-b362-c2826290d5e0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quinti Horatii Flacci Opera [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pine, John, 1690-1756.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246543506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8f8k1j</idno>
+            <idno type="cico">1102</idno>
+            <idno type="dcl">65s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Quinti Horatii Flacci Opera [microform].</title>
+                  <respStmt>
+                     <persName>Horace.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>Londini : Aeneis tabulis incidit Iohannes Pine</publisher>
+                     <date>1733-1737</date>
+                     <date>1733</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c869f0e3-1f3f-454c-a511-dea5c30c99f0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c869f0e3-1f3f-454c-a511-dea5c30c99f0/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -117,6 +178,21 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Epistolary poetry, Latin.</term>
+               <term>Laudatory poetry, Latin.</term>
+               <term>Verse satire, Latin.</term>
+               <term>Rome -- Poetry.</term>
+               <term>Epistolary poetry, Latin.</term>
+               <term>Laudatory poetry, Latin.</term>
+               <term>Verse satire, Latin.</term>
+               <term>Rome (Empire)</term>
+               <term>PA6393 .A2 1733b</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dc9e09ea-917c-4831-8711-1447301bb8cb">
@@ -125,57 +201,6 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a7434bd5-41c6-4acd-a37c-69cde1bbc920">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quinti Horatii Flacci Opera [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Pine, John, 1690-1756.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246543506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8f8k1j</idno>
-            <idno type="cico">1102</idno>
-            <idno type="dcl">65s</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Quinti Horatii Flacci Opera [microform].</title>
-                  <respStmt>
-                     <persName>Horace.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <publisher>Londini : Aeneis tabulis incidit Iohannes Pine</publisher>
-                     <date>1733-1737</date>
-                     <date>1733</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c869f0e3-1f3f-454c-a511-dea5c30c99f0/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c869f0e3-1f3f-454c-a511-dea5c30c99f0/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

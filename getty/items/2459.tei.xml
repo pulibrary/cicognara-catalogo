@@ -25,51 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Della Fisonomia Dell'Hvomo Dell Signor Gio. Battista Dalla Porta Napolitano. Libri Sei: Tradotti di Latino in volgare, e dall'istesso Auttore accresciuti di figure, &amp; di passi necessarij à diuerse parti dell'opera: Et hora in quest'vltima Editione migliorati in più di mille luoghi, che nella stampa di Napoli si leggeuano scorettisimi, &amp; aggiontaui la Fisonomia Naturale di Monsignor Giouanni Ingegneri</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Della Porta, Giambattista, Author</authority>
-            <authority>Ingegneri, Giovanni, Editor</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-260136</idno>
-            <idno type="URI">http://portal.getty.edu/api/0x7v64</idno>
-            <idno type="cico">2459</idno>
-            <idno type="dcl">xft</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Della Fisonomia Dell'Hvomo Dell Signor Gio. Battista Dalla Porta Napolitano. Libri Sei: Tradotti di Latino in volgare, e dall'istesso Auttore accresciuti di figure, &amp; di passi necessarij à diuerse parti dell'opera: Et hora in quest'vltima Editione migliorati in più di mille luoghi, che nella stampa di Napoli si leggeuano scorettisimi, &amp; aggiontaui la Fisonomia Naturale di Monsignor Giouanni Ingegneri</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <date>1615</date>
-                     <date>1615</date>
-                  </imprint>
-                  <extent>[8], 219, [5] Bl., 60 S., [2] Bl.</extent>
-                  <extent>zahlr. Ill. (Holzschnitte)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/dellaporta1615/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/dellaporta1615/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Della fisonomia dell'huomo del signor Gio. Battista dalla Porta .. [microform] : libri sei / tradotti di Latino in volgare, e dall'istesso auttore accresciuti di figure [et] passi necessarij à diuerse parti dell' opera ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -108,6 +63,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Physiognomy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/20bd5f5f-f0cc-46f4-8d36-acecfd34d502/manifest">

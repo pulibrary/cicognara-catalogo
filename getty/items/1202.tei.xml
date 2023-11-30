@@ -21,4 +21,59 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raccolta di lettere sulla pittura, scultura ed architettura scritte da'più celebri personaggi che in dette arti fiorirono dal secolo XV. al XVII ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bottari, Giovanni Gaetano, 1689-1775</authority>
+            <authority>Crespi, Luigi, 1709-1779.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991113633504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/b39k0z</idno>
+            <idno>(OCoLC)973453973</idno>
+            <idno type="cico">1202</idno>
+            <idno type="cico">1143</idno>
+            <idno type="dcl">45r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Raccolta di lettere sulla pittura, scultura ed architettura scritte da'più celebri personaggi che in dette arti fiorirono dal secolo XV. al XVII ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma, Appresso Niccolò e Marco Pagliarini</publisher>
+                     <date>1757-73</date>
+                     <date>1757</date>
+                  </imprint>
+                  <extent>7 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991113633504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Early works to 1800</term>
+               <term>Provenance -- Trissino (Leonardo)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991113633504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

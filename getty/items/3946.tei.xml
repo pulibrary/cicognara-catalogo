@@ -63,9 +63,69 @@ in foglio nel 1734. Tutti gli scritti di questo autore dottissimo sono preziosi.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c50c7d2c-48a3-4ce4-8b62-6d90b2721691/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Versi e prose di monsignor Bernardino Baldi da Urbino, abbate di Guastalla ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99777193504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/z1556s</idno>
+            <idno>(OCoLC)10977472</idno>
+            <idno type="cico">1007</idno>
+            <idno type="cico">3946</idno>
+            <idno type="dcl">tbs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Versi e prose di monsignor Bernardino Baldi da Urbino, abbate di Guastalla ...</title>
+                  <respStmt>
+                     <persName>Baldi, Bernardino, 1553-1617.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia, Appresso Francesco de' Franceschi</publisher>
+                     <date>1590</date>
+                  </imprint>
+                  <extent>6 p. l., 9-614, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99777193504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>PQ4605 .B3 1590</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99777193504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

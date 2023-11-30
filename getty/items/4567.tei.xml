@@ -22,57 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Catalogue des tableaux, marbres, bronzes, vases précieux, porcelaines anciennes, meubles de Boulle, et autres articles curieux : composant le cabinet de feu M. Dutartre, ancien trésorier des bâtimens / par Alexandre Paillet ...</title>
-            <respStmt>
-               <orgName>Frick Art Reference Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bizet, M.</authority>
-            <idno type="URI">http://portal.getty.edu/books/frick_1149925561</idno>
-            <idno type="URI">http://portal.getty.edu/api/nt0d9z</idno>
-            <idno>(OCoLC)1149925561</idno>
-            <idno type="cico">4567</idno>
-            <idno type="dcl">bcw</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Catalogue des tableaux, marbres, bronzes, vases précieux, porcelaines anciennes, meubles de Boulle, et autres articles curieux : composant le cabinet de feu M. Dutartre, ancien trésorier des bâtimens / par Alexandre Paillet ...</title>
-                  <respStmt>
-                     <persName>Paillet, A. J. (Alexandre Joseph)</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris : Chez Alex. Paillet</publisher>
-                     <pubPlace>France</pubPlace>
-                     <pubPlace>France.</pubPlace>
-                     <date>[1804?]</date>
-                     <date>1804</date>
-                  </imprint>
-                  <extent>1 online resource (iv, 43 pages)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072002716043"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072002716043">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Catalogue des tableaux, marbres, bronzes, vases précieux, porcelaines anciennes, meubles de Boulle, et autres articles curieux [microform] : composant le cabinet de feu M. Dutartre, ancien trésorier des bâtimens / par Alexandre Paillet ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +63,86 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Decorative arts -- Catalogs.</term>
+               <term>Painting -- France -- Catalogs.</term>
+               <term>Sculpture -- France -- Catalogs.</term>
+               <term>Private collections -- France -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/25ca8937-fe2b-4309-b1d6-24aa9388e3d5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des tableaux, marbres, bronzes, vases précieux, porcelaines anciennes, meubles de Boulle, et autres articles curieux : composant le cabinet de feu M. Dutartre, ancien trésorier des bâtimens / par Alexandre Paillet ...</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bizet, M.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1149925561</idno>
+            <idno type="URI">http://portal.getty.edu/api/nt0d9z</idno>
+            <idno>(OCoLC)1149925561</idno>
+            <idno type="cico">4567</idno>
+            <idno type="dcl">bcw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des tableaux, marbres, bronzes, vases précieux, porcelaines anciennes, meubles de Boulle, et autres articles curieux : composant le cabinet de feu M. Dutartre, ancien trésorier des bâtimens / par Alexandre Paillet ...</title>
+                  <respStmt>
+                     <persName>Paillet, A. J. (Alexandre Joseph)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Alex. Paillet</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <date>[1804?]</date>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>1 online resource (iv, 43 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072002716043"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dutartre -- Art collections -- Catalogs.</term>
+               <term>Painting -- France -- Catalogs.</term>
+               <term>Sculpture -- France -- Catalogs.</term>
+               <term>Decorative arts -- Catalogs.</term>
+               <term>Private collections -- France -- Catalogs.</term>
+               <term>Art -- Private collections.</term>
+               <term>Decorative arts.</term>
+               <term>Painting.</term>
+               <term>Sculpture.</term>
+               <term>France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072002716043">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

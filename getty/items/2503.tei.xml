@@ -23,6 +23,64 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Simulacro di nuova venere [microform]/ illustrato da Adamo Fabbroni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985463013506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gw1w1g</idno>
+            <idno type="cico">2503</idno>
+            <idno type="dcl">pfw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Simulacro di nuova venere [microform]/ illustrato da Adamo Fabbroni.</title>
+                  <respStmt>
+                     <persName>Fabbroni, Adamo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Per Gaet. Cambiagi stamp, gran Ducale</publisher>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>VIII, 85, [3] p., [1] folded leaf of plates</extent>
+                  <extent>2 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b7110e05-c50f-430b-88c7-ebb6e770debe/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seduction in art -- Early works to 1800.</term>
+               <term>Lamia (Greek mythology)</term>
+               <term>Leda (Greek deity)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b7110e05-c50f-430b-88c7-ebb6e770debe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Simulacro di nuova venere / illustrato da Adamo Fabbroni ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -62,58 +120,21 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Seduction in art -- Early works to 1800.</term>
+               <term>Leda (Greek mythology) -- Early works to 1800.</term>
+               <term>Lamia (Greek mythology) -- Early works to 1800.</term>
+               <term>Lamia (Greek mythology)</term>
+               <term>Leda (Greek mythology)</term>
+               <term>Seduction in art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/56688568-83ba-4ed6-a4ce-ca73d2d45c0a">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Simulacro di nuova venere [microform]/ illustrato da Adamo Fabbroni.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985463013506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/gw1w1g</idno>
-            <idno type="cico">2503</idno>
-            <idno type="dcl">pfw</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Simulacro di nuova venere [microform]/ illustrato da Adamo Fabbroni.</title>
-                  <respStmt>
-                     <persName>Fabbroni, Adamo.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Firenze : Per Gaet. Cambiagi stamp, gran Ducale</publisher>
-                     <date>1796</date>
-                  </imprint>
-                  <extent>VIII, 85, [3] p., [1] folded leaf of plates</extent>
-                  <extent>2 microfiches : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/b7110e05-c50f-430b-88c7-ebb6e770debe/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b7110e05-c50f-430b-88c7-ebb6e770debe/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -164,6 +185,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tacitus, Cornelius -- Criticism and interpretation.</term>
+               <term>Rome -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b4ee1072-ed23-4841-acb7-04f2ef702a8f/manifest">

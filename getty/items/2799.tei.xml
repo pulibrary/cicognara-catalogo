@@ -28,54 +28,6 @@ soggetto sulle stesse tavole intagliato.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Recueil de trois cent têtes et sujets de composition / gravés par Mr. le comte de Caÿlus d'après les pierres gravées antiques du Cabinet du roi.</title>
-            <respStmt>
-               <orgName>Frick Art Reference Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/frick_1145340113</idno>
-            <idno type="URI">http://portal.getty.edu/api/x55873</idno>
-            <idno>(OCoLC)1145340113</idno>
-            <idno type="cico">2799</idno>
-            <idno type="dcl">f2q</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Recueil de trois cent têtes et sujets de composition / gravés par Mr. le comte de Caÿlus d'après les pierres gravées antiques du Cabinet du roi.</title>
-                  <respStmt>
-                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>[Place of publication not identified] : publisher not identified]</publisher>
-                     <date>date of publication not identified [circa 1770]</date>
-                     <date>1770</date>
-                  </imprint>
-                  <extent>1 online resource (1 volume (unpaged))</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072003602077"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072003602077">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Recueil de trois cent têtes et sujets de composition [microform] / gravés par Mr. le comte de Caijlus d'après les pierres gravées antiques du Cabinet du roi.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -117,9 +69,142 @@ soggetto sulle stesse tavole intagliato.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bibliothèque nationale (France). Département des médailles et antiques</term>
+               <term>Gems -- Early works to 1800.</term>
+               <term>Gems -- France -- Paris -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6dbbd6ad-8be0-4b6f-81bd-0a16ab690268/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de trois cent têtes et sujets de composition / gravés par Mr. le comte de Caijlus d'après les pierres gravées antiques du Cabinet du roi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bibliothèque nationale (France). Département des médailles et antiques.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99702543504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/33651h</idno>
+            <idno>(OCoLC)476443027</idno>
+            <idno type="cico">2799</idno>
+            <idno type="dcl">f2q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de trois cent têtes et sujets de composition / gravés par Mr. le comte de Caijlus d'après les pierres gravées antiques du Cabinet du roi.</title>
+                  <respStmt>
+                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Paris : Basan]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[1775?]</date>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>[4] p., [150] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99702543504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bibliothèque nationale (France). Département des médailles et antiques.</term>
+               <term>Gems -- Early works to 1800.</term>
+               <term>Gems -- France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99702543504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de trois cent têtes et sujets de composition / gravés par Mr. le comte de Caÿlus d'après les pierres gravées antiques du Cabinet du roi.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/frick_1145340113</idno>
+            <idno type="URI">http://portal.getty.edu/api/x55873</idno>
+            <idno>(OCoLC)1145340113</idno>
+            <idno type="cico">2799</idno>
+            <idno type="dcl">f2q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de trois cent têtes et sujets de composition / gravés par Mr. le comte de Caÿlus d'après les pierres gravées antiques du Cabinet du roi.</title>
+                  <respStmt>
+                     <persName>Caylus, Anne Claude Philippe, comte de, 1692-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[Place of publication not identified] : publisher not identified]</publisher>
+                     <date>date of publication not identified [circa 1770]</date>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>1 online resource (1 volume (unpaged))</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072003602077"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems, Classical -- Pictorial works.</term>
+               <term>Portraits, Roman -- Pictorial works.</term>
+               <term>Intaglios, Classical -- Pictorial works.</term>
+               <term>Louis XV, King of France, 1710-1774 -- Art collections.</term>
+               <term>Bibliothèque nationale (France). Département des médailles et antiques.</term>
+               <term>Louis XV, King of France, 1710-1774.</term>
+               <term>Bibliothèque nationale (France). Département des médailles et antiques.</term>
+               <term>Art -- Private collections.</term>
+               <term>Gems, Classical.</term>
+               <term>Intaglios, Classical.</term>
+               <term>Portraits, Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072003602077">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -62,9 +62,70 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d78857e1-28d8-485a-ad67-57f991c401f7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La peinture : poëme en trois chants / par M. Le Mierre.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cochin, Charles Nicolas, 1715-1790.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992150823504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/b52m50</idno>
+            <idno>(OCoLC)06151898</idno>
+            <idno type="cico">1002</idno>
+            <idno type="dcl">500</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La peinture : poëme en trois chants / par M. Le Mierre.</title>
+                  <respStmt>
+                     <persName>Le Mierre, M. (Antoine-Marin), 1723-1793.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez le Jay, libraire</publisher>
+                     <date>[1769]</date>
+                     <date>1769</date>
+                  </imprint>
+                  <extent>[2], x, 102 p., [3] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992150823504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Poetry -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992150823504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -25,60 +25,6 @@ con buona critica.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Del palazzo de' Cesari [microform] : opera postuma / di Monsignor Francesco Bianchini Veronese.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bianchini, Giuseppe, 1704-1764.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985418843506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fv9p63</idno>
-            <idno type="cico">3618</idno>
-            <idno type="dcl">d8p</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Del palazzo de' Cesari [microform] : opera postuma / di Monsignor Francesco Bianchini Veronese.</title>
-                  <respStmt>
-                     <persName>Bianchini, Francesco, 1662-1729.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>In Verona : Per Pierantonio Berno Stampatore</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Palatine Hill (Rome, Italy)</pubPlace>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <date>1738</date>
-                  </imprint>
-                  <extent>[12], 304 p., XX leaves of plates</extent>
-                  <extent>16 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6d2e2d36-8db1-40f6-a9c6-4fefee13388a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6d2e2d36-8db1-40f6-a9c6-4fefee13388a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Del palazzo de' Cesari. Opera postuma di Monsignor Francesco Bianchini ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -129,9 +75,90 @@ con buona critica.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Domus Augustana (Rome, Italy) -- Early works to 1800.</term>
+               <term>Domus Augustana (Rome, Italy) -- Pictorial works.</term>
+               <term>Palaces -- Italy -- Rome.</term>
+               <term>Rome (Italy) -- Description and travel.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+               <term>Domus Augustana (Rome, Italy)</term>
+               <term>Antiquities.</term>
+               <term>Palaces.</term>
+               <term>Travel.</term>
+               <term>Italy -- Rome.</term>
+               <term>NA320 .B6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5c9d15af-e4cc-42c6-801d-58d533876c64">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del palazzo de' Cesari [microform] : opera postuma / di Monsignor Francesco Bianchini Veronese.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bianchini, Giuseppe, 1704-1764.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fv9p63</idno>
+            <idno type="cico">3618</idno>
+            <idno type="dcl">d8p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del palazzo de' Cesari [microform] : opera postuma / di Monsignor Francesco Bianchini Veronese.</title>
+                  <respStmt>
+                     <persName>Bianchini, Francesco, 1662-1729.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Verona : Per Pierantonio Berno Stampatore</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Palatine Hill (Rome, Italy)</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1738</date>
+                  </imprint>
+                  <extent>[12], 304 p., XX leaves of plates</extent>
+                  <extent>16 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6d2e2d36-8db1-40f6-a9c6-4fefee13388a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Roman -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Palaces -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Palatine Hill (Rome, Italy) -- Buildings, structures, etc.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6d2e2d36-8db1-40f6-a9c6-4fefee13388a/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

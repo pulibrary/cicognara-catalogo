@@ -27,101 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L'art de peindre [microform] : poëme : avec des réflexions sur les différentes parties de la peinture / par M. Watelet ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985300673506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/pq8w51</idno>
-            <idno type="URI">http://portal.getty.edu/api/2s3v24</idno>
-            <idno type="URI">http://portal.getty.edu/api/w9804g</idno>
-            <idno type="cico">1003</idno>
-            <idno type="dcl">7g8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'art de peindre [microform] : poëme : avec des réflexions sur les différentes parties de la peinture / par M. Watelet ...</title>
-                  <respStmt>
-                     <persName>Watelet, Claude-Henri, 1718-1786.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : De l'imprimerie de H.L. Guerin &amp; L.F. Delatour</publisher>
-                     <date>1760</date>
-                  </imprint>
-                  <extent>xix, [1], 144 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6a6f4027-8cf5-45ae-a031-37b0256e5c53/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a6f4027-8cf5-45ae-a031-37b0256e5c53/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>L' art de peindre: poëme ; avec des réflexions sur les différentes parties de la peinture</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Watelet, Claude Henri, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-151449</idno>
-            <idno type="URI">http://portal.getty.edu/api/tn525k</idno>
-            <idno type="cico">1003</idno>
-            <idno type="dcl">7g8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L' art de peindre: poëme ; avec des réflexions sur les différentes parties de la peinture</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <date>1760</date>
-                     <date>1760</date>
-                  </imprint>
-                  <extent>XX, 152 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/watelet1760/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/watelet1760/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>L'art de peindre. Poëme. Avec des réflexions sur les différentes parties de la peinture. Par M. Watelet.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -162,9 +67,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Poetry.</term>
+               <term>Painting.</term>
+               <term>PQ2147.W4 A8 1760</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bebd310b-205f-44d3-8cf0-41f895454d91">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'art de peindre [microform] : poëme : avec des réflexions sur les différentes parties de la peinture / par M. Watelet ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985300673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pq8w51</idno>
+            <idno type="URI">http://portal.getty.edu/api/2s3v24</idno>
+            <idno type="URI">http://portal.getty.edu/api/w9804g</idno>
+            <idno type="cico">1003</idno>
+            <idno type="dcl">7g8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'art de peindre [microform] : poëme : avec des réflexions sur les différentes parties de la peinture / par M. Watelet ...</title>
+                  <respStmt>
+                     <persName>Watelet, Claude-Henri, 1718-1786.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de H.L. Guerin &amp; L.F. Delatour</publisher>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>xix, [1], 144 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6a6f4027-8cf5-45ae-a031-37b0256e5c53/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Poetry -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a6f4027-8cf5-45ae-a031-37b0256e5c53/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

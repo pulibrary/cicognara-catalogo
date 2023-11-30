@@ -25,6 +25,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>De vera mensurarum po[n]derúmque ratione [microform] : opus de integro instauratu[m] / à reuere[n]do in Christo patre Roberto Cenali ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0v009t</idno>
+            <idno type="cico">1621</idno>
+            <idno type="dcl">zfh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De vera mensurarum po[n]derúmque ratione [microform] : opus de integro instauratu[m] / à reuere[n]do in Christo patre Roberto Cenali ...</title>
+                  <respStmt>
+                     <persName>Ceneau, Robert, 1483-1560.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Parisiis : Apud Ioannem Roigny</publisher>
+                     <date>1547</date>
+                  </imprint>
+                  <extent>16, [40], 173 p., [1] folded leaf</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/28d586be-ad50-4a5a-8571-17e573422b43/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Ancient.</term>
+               <term>Weights and measures, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/28d586be-ad50-4a5a-8571-17e573422b43/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>De vera mensurarum poderúmque ratione : opus de integro instauratu / à reueredo in Christo patre Roberto Cenali ...</title>
             <respStmt>
                <orgName>Harvard Library</orgName>
@@ -65,57 +121,21 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Weights and measures, Ancient</term>
+               <term>Coins, Ancient</term>
+               <term>Poids et mesures anciens.</term>
+               <term>Monnaies antiques.</term>
+               <term>Coins, Ancient</term>
+               <term>Weights and measures, Ancient</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494256408">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De vera mensurarum po[n]derúmque ratione [microform] : opus de integro instauratu[m] / à reuere[n]do in Christo patre Roberto Cenali ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985334083506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/0v009t</idno>
-            <idno type="cico">1621</idno>
-            <idno type="dcl">zfh</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De vera mensurarum po[n]derúmque ratione [microform] : opus de integro instauratu[m] / à reuere[n]do in Christo patre Roberto Cenali ...</title>
-                  <respStmt>
-                     <persName>Ceneau, Robert, 1483-1560.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Parisiis : Apud Ioannem Roigny</publisher>
-                     <date>1547</date>
-                  </imprint>
-                  <extent>16, [40], 173 p., [1] folded leaf</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/28d586be-ad50-4a5a-8571-17e573422b43/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/28d586be-ad50-4a5a-8571-17e573422b43/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

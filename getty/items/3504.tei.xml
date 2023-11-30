@@ -24,56 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Aeliosi considerazioni e congetture sopra una dubbia statua del Museo Capitolino / di Adamo Fabbroni ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bridgewater, Francis Henry Egerton, Earl of, 1756-1829, former owner.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9965459873506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/35790c</idno>
-            <idno type="cico">3504</idno>
-            <idno type="dcl">bcq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Aeliosi considerazioni e congetture sopra una dubbia statua del Museo Capitolino / di Adamo Fabbroni ...</title>
-                  <respStmt>
-                     <persName>Fabbroni, Adamo, 1748-1816.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Firenze : Nella stamperia Granducale</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy Florence.</pubPlace>
-                     <date>MDCCIC [1801]</date>
-                     <date>1801</date>
-                  </imprint>
-                  <extent>[6], 76, [2], [1] folded leaf</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1bd7eb2c-66a8-41ba-9584-baac61970ee9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1bd7eb2c-66a8-41ba-9584-baac61970ee9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Aeliosi considerazioni e congetture sopra una dubbia statua del Museo Capitolino [microform] / di Adamo Fabbroni ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +63,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Apollo (Deity) -- Art.</term>
+               <term>Musei capitolini (Rome, Italy)</term>
+               <term>Sculpture -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/66be9c2c-06c9-4da0-ad48-ddb2cb767fbb/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aeliosi considerazioni e congetture sopra una dubbia statua del Museo Capitolino / di Adamo Fabbroni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bridgewater, Francis Henry Egerton, Earl of, 1756-1829, former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9965459873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/35790c</idno>
+            <idno type="cico">3504</idno>
+            <idno type="dcl">bcq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Aeliosi considerazioni e congetture sopra una dubbia statua del Museo Capitolino / di Adamo Fabbroni ...</title>
+                  <respStmt>
+                     <persName>Fabbroni, Adamo, 1748-1816.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Nella stamperia Granducale</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCCIC [1801]</date>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>[6], 76, [2], [1] folded leaf</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1bd7eb2c-66a8-41ba-9584-baac61970ee9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Apollo (Deity) -- Art.</term>
+               <term>Sculpture -- Italy -- Rome.</term>
+               <term>Musei capitolini (Rome, Italy).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1bd7eb2c-66a8-41ba-9584-baac61970ee9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

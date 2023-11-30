@@ -25,49 +25,6 @@ essendone mai stata intrapresa una seconda edizione, che costerebbe un grave dis
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Athanasii Kircheri ... Oedipvs Aegyptiacvs, Hoc Est Vniuersalis Hieroglyphicae Veterum Doctrinae temporum iniuria abolitae Instavratio: Opus ex omni Orientalium doctrina &amp; sapientia conditum, nec non viginti diuersarum linguarum authoritate stabilitum</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-54472</idno>
-            <idno type="URI">http://portal.getty.edu/api/gv1c9r</idno>
-            <idno type="cico">2527</idno>
-            <idno type="dcl">s2f</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Athanasii Kircheri ... Oedipvs Aegyptiacvs, Hoc Est Vniuersalis Hieroglyphicae Veterum Doctrinae temporum iniuria abolitae Instavratio: Opus ex omni Orientalium doctrina &amp; sapientia conditum, nec non viginti diuersarum linguarum authoritate stabilitum</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1652</date>
-                     <date>1652</date>
-                  </imprint>
-                  <extent>[48] Bl., 424 S., [20] Bl.</extent>
-                  <extent>Ill., Kt.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/kircher1652bd1/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/kircher1652bd1/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Athanasii Kircheri e Soc. Iesv, Oedipus aegyptiacus [microform] : hoc est Vniuersalis hierolglyphicae veterum doctrinae temporum iniuria abolitae instauratio : opus ex omni orientalium doctrina &amp; sapientia conditum, nec non viginti diuersarium linguarum, authoritate stabilitum, felicibus auspicijs Ferdinandi III, Austriaci sapientissimi &amp; inuictissimi Romanorum imperatoris semper Augusti è tenebris erutum, atque bono reipublicae literariae consecratum.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -107,6 +64,16 @@ essendone mai stata intrapresa una seconda edizione, che costerebbe un grave dis
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Egyptian language -- Writing, Hieroglyphic.</term>
+               <term>Egypt -- Description and travel -- Early works to 1800.</term>
+               <term>Egypt -- History.</term>
+               <term>Egypt -- Religion.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b0181093-dcf6-4d74-955d-4f3b623c5315/manifest">

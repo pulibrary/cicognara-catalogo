@@ -26,9 +26,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L'architettura di M. Vitruvio Pollione [microform] / colla traduzione italiana e comento del Berardo Galiani ...</title>
+            <title>L' Architettura Di M. Vitruvio Pollione</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>Heidelberg University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -37,37 +37,44 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Galiani, Berardo, marchese, 1724-1774.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985188493506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tg0x22</idno>
+            <authority>Vitruvius, Author</authority>
+            <authority>Galiani, Berardo, Translator</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-17206</idno>
+            <idno type="URI">http://portal.getty.edu/api/r02k8x</idno>
             <idno type="cico">733</idno>
             <idno type="dcl">jkd</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>L'architettura di M. Vitruvio Pollione [microform] / colla traduzione italiana e comento del Berardo Galiani ...</title>
-                  <respStmt>
-                     <persName>Vitruvius Pollio.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
+                  <title>L' Architettura Di M. Vitruvio Pollione</title>
                   <textLang>Italian</textLang>
-                  <textLang>Latin</textLang>
                   <imprint>
-                     <publisher>In Napoli : Nella Stamperia Simoniana</publisher>
+                     <date>1758</date>
                      <date>1758</date>
                   </imprint>
-                  <extent>[8], xxxii, 462 p., XXV leaves of plates</extent>
-                  <extent>11 microfiche : positive.</extent>
+                  <extent>XXXI, 462 S.</extent>
+                  <extent>XXV Taf.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5445614c-464d-417a-bb7c-431cd9e4b5c9/manifest"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1758/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Vitruvius</term>
+               <term>Vitruvius / De architectura</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5445614c-464d-417a-bb7c-431cd9e4b5c9/manifest">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1758/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -118,6 +125,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vitruvius Pollio.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Vitruvius Pollio</term>
+               <term>Architecture</term>
+               <term>NA2517 .V75</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4bc6ebf6-7135-434d-9b1c-67dd9f8afdc9">
@@ -129,9 +147,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L' Architettura Di M. Vitruvio Pollione</title>
+            <title>L'architettura di M. Vitruvio Pollione [microform] / colla traduzione italiana e comento del Berardo Galiani ...</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -140,32 +158,44 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Vitruvius, Author</authority>
-            <authority>Galiani, Berardo, Translator</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-17206</idno>
-            <idno type="URI">http://portal.getty.edu/api/r02k8x</idno>
+            <authority>Galiani, Berardo, marchese, 1724-1774.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985188493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tg0x22</idno>
             <idno type="cico">733</idno>
             <idno type="dcl">jkd</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>L' Architettura Di M. Vitruvio Pollione</title>
+                  <title>L'architettura di M. Vitruvio Pollione [microform] / colla traduzione italiana e comento del Berardo Galiani ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Italian</textLang>
+                  <textLang>Latin</textLang>
                   <imprint>
-                     <date>1758</date>
+                     <publisher>In Napoli : Nella Stamperia Simoniana</publisher>
                      <date>1758</date>
                   </imprint>
-                  <extent>XXXI, 462 S.</extent>
-                  <extent>XXV Taf.</extent>
+                  <extent>[8], xxxii, 462 p., XXV leaves of plates</extent>
+                  <extent>11 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1758/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5445614c-464d-417a-bb7c-431cd9e4b5c9/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1758/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5445614c-464d-417a-bb7c-431cd9e4b5c9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

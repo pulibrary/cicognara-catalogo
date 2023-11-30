@@ -27,9 +27,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pianta, e spaccato del nuovo teatro d'Imola: architettura del Cavalier Cosimo Morelli ; Dedicato a Sua Eccellenza la Signora Marchesa Lilla Cambiaso</title>
+            <title>Pianta, e spaccato del nuovo teatro d'Imola / architettura del cavalier Cosimo Morelli.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -38,32 +38,52 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Morelli, Cosimo, Author</authority>
-            <authority>Cambiaso, Lilla, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-266440</idno>
-            <idno type="URI">http://portal.getty.edu/api/2r3f75</idno>
+            <authority>Antonini, Carlo, approximately 1740-</authority>
+            <authority>Casaletti, Arcangelo</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925120600001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/ts6c14</idno>
+            <idno>(OCoLC)8330398</idno>
             <idno type="cico">768</idno>
             <idno type="dcl">2s7</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Pianta, e spaccato del nuovo teatro d'Imola: architettura del Cavalier Cosimo Morelli ; Dedicato a Sua Eccellenza la Signora Marchesa Lilla Cambiaso</title>
+                  <title>Pianta, e spaccato del nuovo teatro d'Imola / architettura del cavalier Cosimo Morelli.</title>
+                  <respStmt>
+                     <persName>Morelli, Cosimo, 1732-1812</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <date>1780</date>
+                     <publisher>In Roma : Nella stamperia del Casaletti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Imola (Italy)</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>MDCCLXXX [1780]</date>
                      <date>1780</date>
                   </imprint>
-                  <extent>[16] Bl.</extent>
-                  <extent>überwiegend Ill., graph. Darst.</extent>
+                  <extent>[12] p., [16] leaves of plates</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/morelli1780/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f5054691-03e8-442f-a0d9-8e1584c5df9e"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Teatro d'Imola (Imola, Italy)</term>
+               <term>Theaters -- Italy -- Imola -- Early works to 1800.</term>
+               <term>Imola (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Buildings</term>
+               <term>Theaters</term>
+               <term>Italy -- Imola</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/morelli1780/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f5054691-03e8-442f-a0d9-8e1584c5df9e">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -111,62 +131,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Teatro d'Imola.</term>
+               <term>Theaters -- Italy -- Designs and plans -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a26fb023-09f4-401a-a300-038febbbf8be/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Pianta, e spaccato del nuovo teatro d'Imola / architettura del cavalier Cosimo Morelli.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Antonini, Carlo, approximately 1740-</authority>
-            <authority>Casaletti, Arcangelo</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925120600001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/ts6c14</idno>
-            <idno>(OCoLC)8330398</idno>
-            <idno type="cico">768</idno>
-            <idno type="dcl">2s7</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Pianta, e spaccato del nuovo teatro d'Imola / architettura del cavalier Cosimo Morelli.</title>
-                  <respStmt>
-                     <persName>Morelli, Cosimo, 1732-1812</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Nella stamperia del Casaletti</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Imola (Italy)</pubPlace>
-                     <pubPlace>Italy Rome.</pubPlace>
-                     <date>MDCCLXXX [1780]</date>
-                     <date>1780</date>
-                  </imprint>
-                  <extent>[12] p., [16] leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f5054691-03e8-442f-a0d9-8e1584c5df9e"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f5054691-03e8-442f-a0d9-8e1584c5df9e">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

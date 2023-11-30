@@ -26,51 +26,6 @@ sanguine pubblicae venerationi exposita</title>, editio repetita, <pubPlace>Roma
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Roma Ex Ethnica Sacra Sanctorvm  Petri, Et Pavli  Apostolica Praedicatione Profcso  Sangvine</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Martinelli, Fioravante, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-267105</idno>
-            <idno type="URI">http://portal.getty.edu/api/dd293c</idno>
-            <idno type="cico">3782</idno>
-            <idno type="dcl">3w9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Roma Ex Ethnica Sacra Sanctorvm  Petri, Et Pavli  Apostolica Praedicatione Profcso  Sangvine</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Rom</pubPlace>
-                     <date>1668</date>
-                     <date>1668</date>
-                  </imprint>
-                  <extent>[6] Bl., 452 S., [30] Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/martinelli1668/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/martinelli1668/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Roma ex ethnica sacra sanctorum Petri, et Pauli apostolica praedicatione profuso sanguine [microform] / a Floravante [sic] Martinello, romano ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -110,6 +65,13 @@ sanguine pubblicae venerationi exposita</title>, editio repetita, <pubPlace>Roma
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6199c07a-4859-4ad8-a1fc-d1c558c75456/manifest">

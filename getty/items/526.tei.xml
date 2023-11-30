@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Architettura civile [microform] : opera postuma / del padre d. Guarino Guarini.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985295963506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/4m2h4h</idno>
-            <idno type="cico">526</idno>
-            <idno type="dcl">mzb</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Architettura civile [microform] : opera postuma / del padre d. Guarino Guarini.</title>
-                  <respStmt>
-                     <persName>Guarini, Guarino, 1624-1683.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Torino : Appresso Gianfrancesco Mairesse</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1737</date>
-                  </imprint>
-                  <extent>[8], 307, [1] p., [80] leaves of plates</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/10c028fe-8d05-4ada-9757-ce41ca055d87/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/10c028fe-8d05-4ada-9757-ce41ca055d87/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Architettura civile, del padre d. Guarino Guarini cherico regolare : opera postuma.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -117,9 +68,83 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Pictorial works -- Early works to 1800.</term>
+               <term>Italy -- Buildings, structures, etc. -- Pictorial works -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>Architecture -- Orders.</term>
+               <term>Buildings.</term>
+               <term>Italy.</term>
+               <term>NA2515 .D37R</term>
+               <term>NA1123 .G83 1737</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cf86d290-8885-41ac-a379-75be7c0603e0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Architettura civile [microform] : opera postuma / del padre d. Guarino Guarini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985295963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4m2h4h</idno>
+            <idno type="cico">526</idno>
+            <idno type="dcl">mzb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Architettura civile [microform] : opera postuma / del padre d. Guarino Guarini.</title>
+                  <respStmt>
+                     <persName>Guarini, Guarino, 1624-1683.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Torino : Appresso Gianfrancesco Mairesse</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>[8], 307, [1] p., [80] leaves of plates</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/10c028fe-8d05-4ada-9757-ce41ca055d87/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Turin.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/10c028fe-8d05-4ada-9757-ce41ca055d87/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -26,6 +26,66 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>La vie de St. Bruno, fondateur de l'Ordre des Chartreux, peinte au cloistre de la Chartreuse de Paris par Eustache Le Sueur ... \ gravée par François Chavueau ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991715143504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/qr7v8x</idno>
+            <idno>(OCoLC)84236026</idno>
+            <idno type="cico">2112</idno>
+            <idno type="dcl">vz8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La vie de St. Bruno, fondateur de l'Ordre des Chartreux, peinte au cloistre de la Chartreuse de Paris par Eustache Le Sueur ... \ gravée par François Chavueau ...</title>
+                  <respStmt>
+                     <persName>Chauveau, François, 1613-1676.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez René Cousinet</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>[166-]</date>
+                     <date>1660</date>
+                  </imprint>
+                  <extent>22 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991715143504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bruno, Saint, approximately 1030-1101 -- Art.</term>
+               <term>Le Sueur, Eustache, 1616-1655. Life of St. Bruno</term>
+               <term>Chartreuse de Paris</term>
+               <term>Christian saints -- France -- Biography -- Portraits.</term>
+               <term>Provenance -- Marays (G.)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991715143504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>La vie de St. Bruno, fondateur de l'Orde des Chartreux, peinte au cloistre de la Chartreuse de Paris [microform] / par Eustache Le Sueur ... gravée par François Chavueau ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,6 +126,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bruno, Saint, approximately 1030-1101 -- Art.</term>
+               <term>Chartreuse de Paris.</term>
+               <term>Christian saints -- France -- Biography -- Portraits.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb187019-6d64-40a0-8132-34ee89277060/manifest">

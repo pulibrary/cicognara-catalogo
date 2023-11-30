@@ -29,9 +29,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Traicté des cinq ordres d'architecture, desquels se sont seruy les anciens / traduit du Palladio ; augmenté de nouuelles inuentions pour L'art de bien bastir ; par le sr. Le Muet.</title>
+            <title>Traicté des cinq ordres d'architecture, desquels se sont seruy les anciens. Tradvit dv Palladio. Augmenté de nouuelles inuentions pour l'art de bien bastir. Par le sr. Le Mvet.</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -40,37 +40,44 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Le Muet, Pierre, 1591-1669. Traicté des galléries, entrées, salles, antichambres, &amp; chambres.</authority>
-            <authority>Palladio, Andrea, 1508-1580. Quattro libri dell'architettura. Selections. French</authority>
-            <authority>Huret, Grégoire, 1606-1670</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923826610001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/vv8v6b</idno>
-            <idno>(OCoLC)3422770</idno>
+            <authority>Palladio, Andrea, 1508-1580.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920288293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/491966</idno>
+            <idno>(OCoLC)03422770</idno>
             <idno type="cico">573</idno>
             <idno type="dcl">xfk</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Traicté des cinq ordres d'architecture, desquels se sont seruy les anciens / traduit du Palladio ; augmenté de nouuelles inuentions pour L'art de bien bastir ; par le sr. Le Muet.</title>
+                  <title>Traicté des cinq ordres d'architecture, desquels se sont seruy les anciens. Tradvit dv Palladio. Augmenté de nouuelles inuentions pour l'art de bien bastir. Par le sr. Le Mvet.</title>
                   <respStmt>
-                     <persName>Le Muet, Pierre, 1591-1669</persName>
+                     <persName>Le Muet, Pierre, 1591-1669.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <publisher>A Paris : Chez F. Langlois, dit Chartres</publisher>
+                     <publisher>A Paris, Chez F. Langlois dit Chartres</publisher>
                      <date>1645</date>
                   </imprint>
-                  <extent>1 v. (various pagings)</extent>
+                  <extent>230 (i.e. 252 p.)</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a8713445-0533-488e-81ed-95c2940b275c"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1f7d4fcf-4f0e-40fc-aabd-a3f83d38a16b/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders.</term>
+               <term>Architecture -- Details.</term>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a8713445-0533-488e-81ed-95c2940b275c">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1f7d4fcf-4f0e-40fc-aabd-a3f83d38a16b/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -117,9 +124,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9f14f743-75b5-4029-8899-9e01fe4bb061/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traicté des cinq ordres d'architecture, desquels se sont seruy les anciens / traduit du Palladio ; augmenté de nouuelles inuentions pour L'art de bien bastir ; par le sr. Le Muet.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Muet, Pierre, 1591-1669. Traicté des galléries, entrées, salles, antichambres, &amp; chambres.</authority>
+            <authority>Palladio, Andrea, 1508-1580. Quattro libri dell'architettura. Selections. French</authority>
+            <authority>Huret, Grégoire, 1606-1670</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923826610001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vv8v6b</idno>
+            <idno>(OCoLC)3422770</idno>
+            <idno type="cico">573</idno>
+            <idno type="dcl">xfk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traicté des cinq ordres d'architecture, desquels se sont seruy les anciens / traduit du Palladio ; augmenté de nouuelles inuentions pour L'art de bien bastir ; par le sr. Le Muet.</title>
+                  <respStmt>
+                     <persName>Le Muet, Pierre, 1591-1669</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez F. Langlois, dit Chartres</publisher>
+                     <date>1645</date>
+                  </imprint>
+                  <extent>1 v. (various pagings)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a8713445-0533-488e-81ed-95c2940b275c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders.</term>
+               <term>Architecture -- Details.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Details</term>
+               <term>Architecture -- Orders</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a8713445-0533-488e-81ed-95c2940b275c">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -63,59 +63,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coinage -- Italy -- Ferrara -- Early works to 1800.</term>
+               <term>Numismatics -- Italy -- Ferrara -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/edd006e1-9125-4a5a-bb82-aec8ccfdecaf/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Delle monete di Ferrara [microform] / trattato di Vincenzo Bellini.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985408113506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/w15j2d</idno>
-            <idno type="cico">2763</idno>
-            <idno type="dcl">565</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Delle monete di Ferrara [microform] / trattato di Vincenzo Bellini.</title>
-                  <respStmt>
-                     <persName>Bellini, Vincenzo, 1708-1783.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Ferrara : Per Giuseppe Rinaldi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1761</date>
-                  </imprint>
-                  <extent>326 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fac804fe-5ec8-42fa-b39b-c904ad5c2094/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fac804fe-5ec8-42fa-b39b-c904ad5c2094/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -163,9 +121,78 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Italy -- Ferrara.</term>
+               <term>Coinage -- Italy -- Ferrara.</term>
+               <term>Coinage.</term>
+               <term>Numismatics.</term>
+               <term>Italy -- Ferrara.</term>
+               <term>CJ2928.F5 B4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/7aa7cf59-e6d5-417f-b2e4-aedabf21b5a4">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Delle monete di Ferrara [microform] / trattato di Vincenzo Bellini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985408113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/w15j2d</idno>
+            <idno type="cico">2763</idno>
+            <idno type="dcl">565</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle monete di Ferrara [microform] / trattato di Vincenzo Bellini.</title>
+                  <respStmt>
+                     <persName>Bellini, Vincenzo, 1708-1783.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Ferrara : Per Giuseppe Rinaldi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1761</date>
+                  </imprint>
+                  <extent>326 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fac804fe-5ec8-42fa-b39b-c904ad5c2094/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Italy -- Ferrara -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fac804fe-5ec8-42fa-b39b-c904ad5c2094/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

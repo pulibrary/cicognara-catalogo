@@ -29,6 +29,60 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Orlando furioso [microform] / di Lodovico Ariosto.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p80m1m</idno>
+            <idno type="cico">1080</idno>
+            <idno type="dcl">r54</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orlando furioso [microform] / di Lodovico Ariosto.</title>
+                  <respStmt>
+                     <persName>Ariosto, Lodovico, 1474-1533.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Birmingham : Da' torchij di G. Baskerville, per P. Molini ... e G. Molini</publisher>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>29 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6e4d5b83-2346-43ea-bbe2-4c3e3780b773/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6e4d5b83-2346-43ea-bbe2-4c3e3780b773/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Orlando furioso / di Lodovico Ariosto.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -73,6 +127,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Ariosto, Lodovico, 1474-1533.</term>
+               <term>Ariosto, Lodovico, 1474-1533</term>
+               <term>PQ4567 .A2 1773</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/eb0ef295-36a6-4111-93d8-40ee5fc74513">
@@ -91,55 +154,6 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e779da3b-7fe0-4c6a-ae75-1624b99a56cf">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Orlando furioso [microform] / di Lodovico Ariosto.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246313506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/p80m1m</idno>
-            <idno type="cico">1080</idno>
-            <idno type="dcl">r54</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Orlando furioso [microform] / di Lodovico Ariosto.</title>
-                  <respStmt>
-                     <persName>Ariosto, Lodovico, 1474-1533.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Birmingham : Da' torchij di G. Baskerville, per P. Molini ... e G. Molini</publisher>
-                     <date>1773</date>
-                  </imprint>
-                  <extent>4 v.</extent>
-                  <extent>29 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/6e4d5b83-2346-43ea-bbe2-4c3e3780b773/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6e4d5b83-2346-43ea-bbe2-4c3e3780b773/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

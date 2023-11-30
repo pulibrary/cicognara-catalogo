@@ -61,9 +61,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architectural drawing -- Early works to 1800.</term>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8f20d5b7-ce99-438f-ae6b-0dd96c7b8417/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La perspective pratique de l'architecture. Contenant par leçons une maniere nouvelle, courte et aisʹee pour reprʹesenter en perspective les ordonnances d'architecture &amp; les places fortifiʹees. Ouvrage tres-utile aux peintres, architectes, ingʹenieurs, &amp; autres dessinateurs. Par Louis Bretez.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99890363504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/ff8w7d</idno>
+            <idno>(OCoLC)81777038</idno>
+            <idno type="cico">822</idno>
+            <idno type="dcl">4d2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La perspective pratique de l'architecture. Contenant par leçons une maniere nouvelle, courte et aisʹee pour reprʹesenter en perspective les ordonnances d'architecture &amp; les places fortifiʹees. Ouvrage tres-utile aux peintres, architectes, ingʹenieurs, &amp; autres dessinateurs. Par Louis Bretez.</title>
+                  <respStmt>
+                     <persName>Bretez, Louis, -1738.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris, Chez Charles-Antoine Jombert</publisher>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>[4], [58] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99890363504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800</term>
+               <term>Architectural drawing -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99890363504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

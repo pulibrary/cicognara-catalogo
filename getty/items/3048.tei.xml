@@ -24,56 +24,6 @@ pubblicati</title>, <pubPlace>Perugia</pubPlace> <date>1816</date>, in 4, fig.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Della zecca e delle monete perugine : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990054799450203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/8k152j</idno>
-            <idno>(OCoLC)21378543</idno>
-            <idno type="cico">3048</idno>
-            <idno type="dcl">9gj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Della zecca e delle monete perugine : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
-                  <respStmt>
-                     <persName>Vermiglioli, Giovanni Battista, 1769-1848, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Perugia : Dalla Tipografia di Francesco Baduel</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy.</pubPlace>
-                     <date>MDCCCXVI [1816]</date>
-                     <date>1816</date>
-                  </imprint>
-                  <extent>xi, 171, 74 pages, 3 unnumbered leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481957085"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481957085">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Della zecca e delle monete perugine [microform] : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +64,80 @@ pubblicati</title>, <pubPlace>Perugia</pubPlace> <date>1816</date>, in 4, fig.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coinage -- Italy.</term>
+               <term>Mints -- Italy -- Perugia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ab757627-5f92-4e07-942e-a4977edf4f6c/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della zecca e delle monete perugine : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990054799450203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/8k152j</idno>
+            <idno>(OCoLC)21378543</idno>
+            <idno type="cico">3048</idno>
+            <idno type="dcl">9gj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della zecca e delle monete perugine : memorie e documenti inediti / raccolti e pubblicati da Gio. Battista Vermiglioli.</title>
+                  <respStmt>
+                     <persName>Vermiglioli, Giovanni Battista, 1769-1848, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia : Dalla Tipografia di Francesco Baduel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>MDCCCXVI [1816]</date>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>xi, 171, 74 pages, 3 unnumbered leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481957085"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mints -- Italy -- Perugia.</term>
+               <term>Coinage -- Italy.</term>
+               <term>Coinage</term>
+               <term>Mints</term>
+               <term>Italy</term>
+               <term>Italy -- Perugia</term>
+               <term>CJ2929.P4 V4x</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481957085">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

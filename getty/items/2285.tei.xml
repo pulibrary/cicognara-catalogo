@@ -25,6 +25,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Tables historiques et chronologiques des plus fameux peintres anciens et modernes / par Antoine Frédéric Harms.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928776700001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/t3141q</idno>
+            <idno>(OCoLC)11798939</idno>
+            <idno type="cico">2285</idno>
+            <idno type="dcl">gnv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Tables historiques et chronologiques des plus fameux peintres anciens et modernes / par Antoine Frédéric Harms.</title>
+                  <respStmt>
+                     <persName>Harms, Antoine Frédéric.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Bronsvic : Imprimées par Frédéric Guillaume Meyer</publisher>
+                     <date>1742</date>
+                  </imprint>
+                  <extent>[100] pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c4887d8f-56a0-47f8-9e2d-e5a0daa821ed"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Biography -- Early works to 1800.</term>
+               <term>Painters.</term>
+               <term>ND34 .H365 1742</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c4887d8f-56a0-47f8-9e2d-e5a0daa821ed">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Tables historiques et chronologiques des plus fameux peintres anciens et modernes [microform] / par Antoine Frédéric Harms.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -63,56 +119,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6d0dd441-a463-4659-b6bb-461e907cc768/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Tables historiques et chronologiques des plus fameux peintres anciens et modernes / par Antoine Frédéric Harms.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9928776700001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/t3141q</idno>
-            <idno>(OCoLC)11798939</idno>
-            <idno type="cico">2285</idno>
-            <idno type="dcl">gnv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Tables historiques et chronologiques des plus fameux peintres anciens et modernes / par Antoine Frédéric Harms.</title>
-                  <respStmt>
-                     <persName>Harms, Antoine Frédéric.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Bronsvic : Imprimées par Frédéric Guillaume Meyer</publisher>
-                     <date>1742</date>
-                  </imprint>
-                  <extent>[100] pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c4887d8f-56a0-47f8-9e2d-e5a0daa821ed"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c4887d8f-56a0-47f8-9e2d-e5a0daa821ed">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

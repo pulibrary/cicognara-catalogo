@@ -21,4 +21,68 @@ a quella del Formaleoni. Francesco Zucchi fu l’intagliatore.</note>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sito, et antichita della citta di Pozzvolo, e del svo amenissimo distretto con la descrittione di tvtti i luoghi notabili, e degni di memoria, e di Cuma, e di Baia, e di Miseno, e de gli altri luoghi conuicini ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920323033506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/c08p0d</idno>
+            <idno>(OCoLC)03754613</idno>
+            <idno type="cico">4381</idno>
+            <idno type="cico">1</idno>
+            <idno type="dcl">0kh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Sito, et antichita della citta di Pozzvolo, e del svo amenissimo distretto con la descrittione di tvtti i luoghi notabili, e degni di memoria, e di Cuma, e di Baia, e di Miseno, e de gli altri luoghi conuicini ...</title>
+                  <respStmt>
+                     <persName>Mazzella, Scipione.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Napoli, Nella stamparía dello Stigliola</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Possvolo (Italy)</pubPlace>
+                     <pubPlace>Cumae (Extinct city)</pubPlace>
+                     <pubPlace>Baia (Italy)</pubPlace>
+                     <date>1595</date>
+                  </imprint>
+                  <extent>8 l., 291 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/523b2f19-187f-4f31-a3a5-139117bafe2d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Geology -- Italy.</term>
+               <term>Possvolo (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Possvolo (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Cumae (Extinct city)</term>
+               <term>Baia (Italy)</term>
+               <term>DG70.P788</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/523b2f19-187f-4f31-a3a5-139117bafe2d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

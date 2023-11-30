@@ -27,6 +27,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Regole della prospettiva prattica [microform] / di m. Jacopo Barozzi da Vignola ; con i commentari del Rev. Padre m. Egnatio Danti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Danti, Ignazio, 1536-1586.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985226163506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/503b64</idno>
+            <idno type="cico">812</idno>
+            <idno type="dcl">cw3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regole della prospettiva prattica [microform] / di m. Jacopo Barozzi da Vignola ; con i commentari del Rev. Padre m. Egnatio Danti.</title>
+                  <respStmt>
+                     <persName>Vignola, 1507-1573.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appress Pietro Bassaglia ;</publisher>
+                     <date>1743</date>
+                  </imprint>
+                  <extent>[8], 79, [3] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2c90a793-104c-4382-a54d-eebbc2a34e0d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2c90a793-104c-4382-a54d-eebbc2a34e0d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Regole della prospettiva prattica di M. Jacopo Barozzi da Vignola / con i commentari del Rev. Padre M . Egnatio Danti ... ; ora in questa edizione diligentemente migliorata.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -67,58 +123,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Perspective</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d58b8e0d-3c0a-4ab8-af65-582462df6b68">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Regole della prospettiva prattica [microform] / di m. Jacopo Barozzi da Vignola ; con i commentari del Rev. Padre m. Egnatio Danti.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Danti, Ignazio, 1536-1586.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985226163506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/503b64</idno>
-            <idno type="cico">812</idno>
-            <idno type="dcl">cw3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Regole della prospettiva prattica [microform] / di m. Jacopo Barozzi da Vignola ; con i commentari del Rev. Padre m. Egnatio Danti.</title>
-                  <respStmt>
-                     <persName>Vignola, 1507-1573.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venezia : Appress Pietro Bassaglia ;</publisher>
-                     <date>1743</date>
-                  </imprint>
-                  <extent>[8], 79, [3] p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/2c90a793-104c-4382-a54d-eebbc2a34e0d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2c90a793-104c-4382-a54d-eebbc2a34e0d/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

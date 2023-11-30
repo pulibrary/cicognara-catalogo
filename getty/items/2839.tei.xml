@@ -24,51 +24,6 @@ reperta, omnia collecta, et illustrata a Nicolao Galetti</title>, <pubPlace>Roma
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Francisci Ficoronii Gemmae antiquae litteratae aliaequae rariores</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Ficoroni, Francesco de', Author</authority>
-            <authority>Galeotti, Niccolo, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-281692</idno>
-            <idno type="URI">http://portal.getty.edu/api/hs2s90</idno>
-            <idno type="cico">2839</idno>
-            <idno type="dcl">wfq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Francisci Ficoronii Gemmae antiquae litteratae aliaequae rariores</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1757</date>
-                     <date>1757</date>
-                  </imprint>
-                  <extent>XII, 160 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/ficoroni1757/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/ficoroni1757/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Francisci Ficoronii Reg. Lond. Acad. Socii Gemmae antiquae litteratae, aliaequae rariores [microform] : accesserunt vetera monumenta ejusdem aetate reperta quorum ipse is suis commentariis mentioemt facit : omnia collecta adnotationibus et declarationibus / illustrata a p. Nicolao Galeotti ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -108,6 +63,14 @@ reperta, omnia collecta, et illustrata a Nicolao Galetti</title>, <pubPlace>Roma
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems -- Early works to 1800.</term>
+               <term>Glyptics -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/470fe65b-703c-4205-b499-5e8d0508dfcc/manifest">

@@ -22,56 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Della pittura friulana : saggio storico / di monsignor conte Girolamo de Renaldis ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fratelli Pecile.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925327390001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/178t41</idno>
-            <idno>(OCoLC)22315192</idno>
-            <idno type="cico">2355</idno>
-            <idno type="dcl">cp3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Della pittura friulana : saggio storico / di monsignor conte Girolamo de Renaldis ...</title>
-                  <respStmt>
-                     <persName>De' Renaldis, Girolamo, conte, 1724-1803</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Udine : Nella nuova stamperia delli Fratelli Pecile</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy Udine.</pubPlace>
-                     <date>1798</date>
-                  </imprint>
-                  <extent>106, [2] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/05ff745e-7d49-401a-a274-9abeb2462688"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/05ff745e-7d49-401a-a274-9abeb2462688">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Della pittura friulana : [microform] saggio storico / di monsignor conte Girolamo de' Renaldis ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +61,79 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Italy -- Friuli (Province) -- Early works to 1800.</term>
+               <term>Painting, Italian -- Italy -- Friuli (Province) -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1e6a25c1-21e8-45eb-b86a-b9402fecd0f9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della pittura friulana : saggio storico / di monsignor conte Girolamo de Renaldis ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fratelli Pecile.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925327390001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/178t41</idno>
+            <idno>(OCoLC)22315192</idno>
+            <idno type="cico">2355</idno>
+            <idno type="dcl">cp3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della pittura friulana : saggio storico / di monsignor conte Girolamo de Renaldis ...</title>
+                  <respStmt>
+                     <persName>De' Renaldis, Girolamo, conte, 1724-1803</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Udine : Nella nuova stamperia delli Fratelli Pecile</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Udine.</pubPlace>
+                     <date>1798</date>
+                  </imprint>
+                  <extent>106, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/05ff745e-7d49-401a-a274-9abeb2462688"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, Italian -- Italy -- Friuli -- Early works to 1800.</term>
+               <term>Painters -- Italy -- Friuli -- Early works to 1800.</term>
+               <term>Painters.</term>
+               <term>Painting, Italian.</term>
+               <term>Italy -- Friuli</term>
+               <term>ND619 .F92 R39 1798</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/05ff745e-7d49-401a-a274-9abeb2462688">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

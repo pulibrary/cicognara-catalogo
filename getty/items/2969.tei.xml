@@ -24,6 +24,64 @@ expressa: epistola</title>, <pubPlace>Venetiis</pubPlace> <date>1683</date>, in 
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>De phoenice, in numismate imp. Antonini Caracallae expressa : epistola Gabrielidis Carolae Patinae.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923153360001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/w35p3x</idno>
+            <idno>(OCoLC)145863855</idno>
+            <idno type="cico">2969</idno>
+            <idno type="dcl">p87</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De phoenice, in numismate imp. Antonini Caracallae expressa : epistola Gabrielidis Carolae Patinae.</title>
+                  <respStmt>
+                     <persName>Patin, Gabrielle Charlotte, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Apud Io. Franciscum Valuasensem</publisher>
+                     <date>1683</date>
+                  </imprint>
+                  <extent>[1], pages 154-172</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/bb28372d-4c87-4dce-973a-e2c24a79fc4a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Roman -- Early works to 1800.</term>
+               <term>Phoenix (Mythical bird)</term>
+               <term>Coins, Roman.</term>
+               <term>Phoenix (Mythical bird)</term>
+               <term>CJ1003 .P381 1683</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bb28372d-4c87-4dce-973a-e2c24a79fc4a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>De phoenice, in numismate imp. Antonini Caracallae expressa [microform] : epistola Gabrielidis Carolae Patinae ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -62,56 +120,17 @@ expressa: epistola</title>, <pubPlace>Venetiis</pubPlace> <date>1683</date>, in 
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Roman.</term>
+               <term>Phoenix (Mythical bird)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/20145c30-b23c-4296-bb1b-8c19cda145fc/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De phoenice, in numismate imp. Antonini Caracallae expressa : epistola Gabrielidis Carolae Patinae.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923153360001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/w35p3x</idno>
-            <idno>(OCoLC)145863855</idno>
-            <idno type="cico">2969</idno>
-            <idno type="dcl">p87</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De phoenice, in numismate imp. Antonini Caracallae expressa : epistola Gabrielidis Carolae Patinae.</title>
-                  <respStmt>
-                     <persName>Patin, Gabrielle Charlotte, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Venetiis : Apud Io. Franciscum Valuasensem</publisher>
-                     <date>1683</date>
-                  </imprint>
-                  <extent>[1], pages 154-172</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/bb28372d-4c87-4dce-973a-e2c24a79fc4a"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bb28372d-4c87-4dce-973a-e2c24a79fc4a">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

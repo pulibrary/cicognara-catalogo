@@ -24,6 +24,63 @@ suburbani incise a bulino in 80 rami</title>, <pubPlace>Roma</pubPlace>, in 4 ob
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Galleria delle più insigni statve, bvsti, bassi-rilievi, ed altro / incisa da Gio. Batt. Cipriani co' disegni del Sig. Filippo Ferrari.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ferrari, Filippo</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993193193504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/s04s11</idno>
+            <idno>(OCoLC)801395755</idno>
+            <idno>(OCoLC)64037702</idno>
+            <idno type="cico">3675</idno>
+            <idno type="dcl">433</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Galleria delle più insigni statve, bvsti, bassi-rilievi, ed altro / incisa da Gio. Batt. Cipriani co' disegni del Sig. Filippo Ferrari.</title>
+                  <respStmt>
+                     <persName>Cipriani, Giovanni Battista, 1766-1839</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : [Co' tipi del Salviucci]</publisher>
+                     <date>1821</date>
+                  </imprint>
+                  <extent>[30] p., [122] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993193193504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Greco-Roman</term>
+               <term>Provenance -- Sisson (Marshall)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993193193504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Galleria delle più insigni statue, busti, bassi-rilievi, ed altro incisa [microform] / da Gio. Batt. Cipriani co'disegni del Sig. Filippo Ferrari.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -63,6 +120,13 @@ suburbani incise a bulino in 80 rami</title>, <pubPlace>Roma</pubPlace>, in 4 ob
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Greco-Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1d3eff87-d96d-4bb2-bda3-eef8a0615819/manifest">

@@ -23,54 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vita di Gregorio Lazzarini / scritta da Vincenzo Da Canal.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925872420001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/pj2g6x</idno>
-            <idno>(OCoLC)62603874</idno>
-            <idno type="cico">2224</idno>
-            <idno type="dcl">9s3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vita di Gregorio Lazzarini / scritta da Vincenzo Da Canal.</title>
-                  <respStmt>
-                     <persName>Da Canal, Vincenzo.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Vinegia : Dalla stamperia Palese</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1809</date>
-                  </imprint>
-                  <extent>LXXVII pages, [1] leaf of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6b4bcc2e-028a-419a-bd93-2ab13fa53756"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6b4bcc2e-028a-419a-bd93-2ab13fa53756">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Vita di Gregorio Lazzarini [microform] / scritta da Vincenzo da Canal ; pubblicata la prima volta nelle nozze da Mula-Lavagnoli.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,9 +61,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lazzarini, Gregorio, 1655-1730.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3006f229-b9bb-49b7-a6d6-60ed61661ba0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Gregorio Lazzarini / scritta da Vincenzo Da Canal.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925872420001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pj2g6x</idno>
+            <idno>(OCoLC)62603874</idno>
+            <idno type="cico">2224</idno>
+            <idno type="dcl">9s3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Gregorio Lazzarini / scritta da Vincenzo Da Canal.</title>
+                  <respStmt>
+                     <persName>Da Canal, Vincenzo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Vinegia : Dalla stamperia Palese</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>LXXVII pages, [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6b4bcc2e-028a-419a-bd93-2ab13fa53756"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lazzarini, Gregorio, 1655-1730.</term>
+               <term>Painters -- Italy -- Biography.</term>
+               <term>Painters</term>
+               <term>Italy</term>
+               <term>ND623.L38 D33 1809</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6b4bcc2e-028a-419a-bd93-2ab13fa53756">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

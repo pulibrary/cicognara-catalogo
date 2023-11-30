@@ -22,4 +22,62 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lux claustri = La lumiere du cloistre / representées par figures emblematiques dessignées &amp; grauées par Iacques Callot.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991654373504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/m90f7n</idno>
+            <idno>(OCoLC)78930606</idno>
+            <idno type="cico">1866</idno>
+            <idno type="cico">1911</idno>
+            <idno type="dcl">ck7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lux claustri = La lumiere du cloistre / representées par figures emblematiques dessignées &amp; grauées par Iacques Callot.</title>
+                  <respStmt>
+                     <persName>Callot, Jacques, 1592-1635.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez François Langlois, dict Chartres</publisher>
+                     <date>1646</date>
+                  </imprint>
+                  <extent>[2], 27, [1] leaves (last leaf blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991654373504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Carthusians.</term>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>BX3303 .L8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991654373504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

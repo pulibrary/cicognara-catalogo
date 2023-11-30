@@ -27,50 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Andreae Vesalii Brvxellensis ... De Hvmani Corporis Fabrica Libri Septem: Cum Indice rerum &amp; uerborum memorabilium locupletißimo</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vesalius, Andreas, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-129406</idno>
-            <idno type="URI">http://portal.getty.edu/api/861s6b</idno>
-            <idno type="cico">367</idno>
-            <idno type="dcl">qjq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Andreae Vesalii Brvxellensis ... De Hvmani Corporis Fabrica Libri Septem: Cum Indice rerum &amp; uerborum memorabilium locupletißimo</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1568</date>
-                     <date>1568</date>
-                  </imprint>
-                  <extent>[6] Bl., 510 S., [23] Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vesalius1568/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vesalius1568/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Andreae Vesalii Bruxellensis invictissimi Caroli V. ... De humani corporis fabrica libri septem [microform] / cum indice rerum &amp; uerborum memorabilium locupletissimo.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -108,9 +64,70 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Human anatomy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fd072142-1977-4b5e-92e7-c2a7f79549d3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreae Vesalii Brvxellensis ... De Hvmani Corporis Fabrica Libri Septem: Cum Indice rerum &amp; uerborum memorabilium locupletißimo</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vesalius, Andreas, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-129406</idno>
+            <idno type="URI">http://portal.getty.edu/api/861s6b</idno>
+            <idno type="cico">367</idno>
+            <idno type="dcl">qjq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Andreae Vesalii Brvxellensis ... De Hvmani Corporis Fabrica Libri Septem: Cum Indice rerum &amp; uerborum memorabilium locupletißimo</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <date>1568</date>
+                     <date>1568</date>
+                  </imprint>
+                  <extent>[6] Bl., 510 S., [23] Bl.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vesalius1568/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Anatomie</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Elementi, Proporzioni, Anatomia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vesalius1568/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

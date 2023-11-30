@@ -25,52 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De Triclinio Sive De modo convivandi apud priscos Romanos, &amp; de conviviorum apparatu</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Chacon, Pedro, Author</authority>
-            <authority>Orsini, Fulvio, Author</authority>
-            <authority>Mercuriale, Girolamo, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-65245</idno>
-            <idno type="URI">http://portal.getty.edu/api/4t5p52</idno>
-            <idno type="cico">1625</idno>
-            <idno type="dcl">nrn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De Triclinio Sive De modo convivandi apud priscos Romanos, &amp; de conviviorum apparatu</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1664</date>
-                     <date>1664</date>
-                  </imprint>
-                  <extent>[6] Bl., 445, [1] S., [11] Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/chacon1664/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/chacon1664/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Petrus Ciacconius Toletanus De triclinio [microform] : sive de modo convivandi apud priscos Romanos [et] de conviviorum apparatu ; accedit FulvI Ursini appendix &amp; Hier. Mercurialis De accubitus in cena antiquorum origine dissertatio ; in his scriptores veteres quamplurimi explicantur [et] emendantur nec non res ipsae adjectis aencis figuris illustrantur.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,6 +65,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gastronomy -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Social life and customs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/be8554cd-410a-4db2-aa9e-1a15e6fe0f4f/manifest">

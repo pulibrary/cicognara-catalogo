@@ -27,9 +27,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gvlielmi Philandri Castilionii Galli Civis Ro. In Decem Libros M. Vitruuii Pollionis de architectura Annotationes</title>
+            <title>Gvlielmi Philandri Castilionii Galli civis Ro. In decem libros M. Vitruuii Pollionis de architectura annotationes : cum indicibus graeco &amp; latino locupletissimis.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -38,31 +38,46 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Philandrier, Guillaume, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-14256</idno>
-            <idno type="URI">http://portal.getty.edu/api/qk884z</idno>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924498830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jg8t47</idno>
+            <idno>(OCoLC)3655663</idno>
             <idno type="cico">708</idno>
             <idno type="dcl">gw0</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Gvlielmi Philandri Castilionii Galli Civis Ro. In Decem Libros M. Vitruuii Pollionis de architectura Annotationes</title>
+                  <title>Gvlielmi Philandri Castilionii Galli civis Ro. In decem libros M. Vitruuii Pollionis de architectura annotationes : cum indicibus graeco &amp; latino locupletissimis.</title>
+                  <respStmt>
+                     <persName>Philandrier, Guillaume, 1505-1565</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Latin</textLang>
                   <imprint>
-                     <date>1544</date>
+                     <publisher>Impressum Romae : Apud Io. Andream Dossena Thaurineñ</publisher>
+                     <date>anno domini M D XLIIII [1544]</date>
                      <date>1544</date>
                   </imprint>
-                  <extent>[8] Bl., 369 S., [19] Bl.</extent>
-                  <extent>Ill.</extent>
+                  <extent>[16], 369, [39] p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/philandrier1544/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6faf4e81-c731-4187-b490-37ac6e17d7b6"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vitruvius Pollio. De architectura</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>De architectura (Vitruvius Pollio)</term>
+               <term>Architecture</term>
+               <term>NA2515 .P5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/philandrier1544/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6faf4e81-c731-4187-b490-37ac6e17d7b6">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -109,57 +124,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vitruvius Pollio. De architectura.</term>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/27af55f4-eae5-4d24-b78a-199d98935d18/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Gvlielmi Philandri Castilionii Galli civis Ro. In decem libros M. Vitruuii Pollionis de architectura annotationes : cum indicibus graeco &amp; latino locupletissimis.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9924498830001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/jg8t47</idno>
-            <idno>(OCoLC)3655663</idno>
-            <idno type="cico">708</idno>
-            <idno type="dcl">gw0</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Gvlielmi Philandri Castilionii Galli civis Ro. In decem libros M. Vitruuii Pollionis de architectura annotationes : cum indicibus graeco &amp; latino locupletissimis.</title>
-                  <respStmt>
-                     <persName>Philandrier, Guillaume, 1505-1565</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Impressum Romae : Apud Io. Andream Dossena Thaurineñ</publisher>
-                     <date>anno domini M D XLIIII [1544]</date>
-                     <date>1544</date>
-                  </imprint>
-                  <extent>[16], 369, [39] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6faf4e81-c731-4187-b490-37ac6e17d7b6"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6faf4e81-c731-4187-b490-37ac6e17d7b6">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

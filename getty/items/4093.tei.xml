@@ -25,7 +25,7 @@ fig.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Recueil d'antiquités trouvées a Avenches a Culm et en d'autres lieux de la Suisse [microform] / par Mr. Schmidt ...</title>
+            <title>Recueil d'antiquités trouvées a Avenches a Culm et en d'autres lieux de la Suisse, par Mr. Schmidt ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
@@ -36,37 +36,42 @@ fig.
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985442323506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/85955t</idno>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9957640913506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/13102d</idno>
+            <idno>(OCoLC)170970220</idno>
             <idno type="cico">4093</idno>
             <idno type="dcl">mk8</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Recueil d'antiquités trouvées a Avenches a Culm et en d'autres lieux de la Suisse [microform] / par Mr. Schmidt ...</title>
+                  <title>Recueil d'antiquités trouvées a Avenches a Culm et en d'autres lieux de la Suisse, par Mr. Schmidt ...</title>
                   <respStmt>
                      <persName>Schmidt, Friedrich Samuel von, 1737-1796.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <publisher>A Berne : Chez Abraham Wagner, fils</publisher>
+                     <publisher>A Berne, Chez Abraham Wagner, fils</publisher>
                      <pubPlace>Switzerland</pubPlace>
                      <date>1760</date>
                   </imprint>
-                  <extent>118 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
+                  <extent>1 p. l. 118, [10] p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0ada339a-fdaf-435b-8ac9-ff545df07d6f/manifest"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/70a3c0a5-4794-4e1c-9077-37b1ae8b5aae/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Switzerland -- Antiquities, Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0ada339a-fdaf-435b-8ac9-ff545df07d6f/manifest">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/70a3c0a5-4794-4e1c-9077-37b1ae8b5aae/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -115,9 +120,76 @@ fig.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Avenches (Switzerland) -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Kulm (Switzerland : Bezirk) -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Classical antiquities.</term>
+               <term>Switzerland -- Avenches.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/fb1a3ebc-a476-4fe1-8b3d-3f17a3f06031">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil d'antiquités trouvées a Avenches a Culm et en d'autres lieux de la Suisse [microform] / par Mr. Schmidt ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985442323506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/85955t</idno>
+            <idno type="cico">4093</idno>
+            <idno type="dcl">mk8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil d'antiquités trouvées a Avenches a Culm et en d'autres lieux de la Suisse [microform] / par Mr. Schmidt ...</title>
+                  <respStmt>
+                     <persName>Schmidt, Friedrich Samuel von, 1737-1796.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Berne : Chez Abraham Wagner, fils</publisher>
+                     <pubPlace>Switzerland</pubPlace>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>118 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0ada339a-fdaf-435b-8ac9-ff545df07d6f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Switzerland -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0ada339a-fdaf-435b-8ac9-ff545df07d6f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

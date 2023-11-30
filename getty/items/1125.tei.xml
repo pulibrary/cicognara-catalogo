@@ -26,6 +26,63 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Fables choisies [microform] / mises en vers par J. de La Fontaine.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246723506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ns3h73</idno>
+            <idno type="cico">1125</idno>
+            <idno type="dcl">8zt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Fables choisies [microform] / mises en vers par J. de La Fontaine.</title>
+                  <respStmt>
+                     <persName>La Fontaine, Jean de, 1621-1695.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Desaint &amp; Saillant ... :</publisher>
+                     <date>1755-1759</date>
+                     <date>1755</date>
+                  </imprint>
+                  <extent>4 v.</extent>
+                  <extent>23 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5df714ff-30a5-47ac-b279-87cbe2725bde/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fables, French.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5df714ff-30a5-47ac-b279-87cbe2725bde/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Fables choisies, mises en vers / par J. de La Fontaine.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -98,59 +155,22 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>La Fontaine, Jean de, 1621-1695</term>
+               <term>Aesop</term>
+               <term>Oudry, Jean-Baptiste, 1686-1755 -- Portraits.</term>
+               <term>Aesop  http://id.worldcat.org//fst00074268  http://dbpedia.org/resource/Aesop_Rock</term>
+               <term>La Fontaine, Jean de, 1621-1695  http://id.worldcat.org//fst00039661  http://dbpedia.org/resource/Jean_de_La_Fontaine</term>
+               <term>Oudry, Jean-Baptiste, 1686-1755  http://id.worldcat.org//fst00107902</term>
+               <term>PQ1808 .A1 1755</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/216679b7-a2d5-48b0-bb76-e7683f75349c">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Fables choisies [microform] / mises en vers par J. de La Fontaine.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246723506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ns3h73</idno>
-            <idno type="cico">1125</idno>
-            <idno type="dcl">8zt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Fables choisies [microform] / mises en vers par J. de La Fontaine.</title>
-                  <respStmt>
-                     <persName>La Fontaine, Jean de, 1621-1695.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Desaint &amp; Saillant ... :</publisher>
-                     <date>1755-1759</date>
-                     <date>1755</date>
-                  </imprint>
-                  <extent>4 v.</extent>
-                  <extent>23 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5df714ff-30a5-47ac-b279-87cbe2725bde/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5df714ff-30a5-47ac-b279-87cbe2725bde/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

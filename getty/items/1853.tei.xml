@@ -26,9 +26,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Iani Iacobi Boissardi Vesvntini Emblematum liber</title>
+            <title>Iani Iacobi Boissardi Vesvntini emblematum liber. Ipsa emblemata ab auctore delineata: a Theodoro de Bry sculpta &amp; nunc recens in lucem edita.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -37,31 +37,44 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Boissard, Jean Jacques, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-282600</idno>
-            <idno type="URI">http://portal.getty.edu/api/988t5r</idno>
+            <authority>Bry, Theodor de, 1528-1598</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926056520001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2x6k26</idno>
+            <idno>(OCoLC)32368150</idno>
             <idno type="cico">1853</idno>
             <idno type="dcl">qjx</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Iani Iacobi Boissardi Vesvntini Emblematum liber</title>
+                  <title>Iani Iacobi Boissardi Vesvntini emblematum liber. Ipsa emblemata ab auctore delineata: a Theodoro de Bry sculpta &amp; nunc recens in lucem edita.</title>
+                  <respStmt>
+                     <persName>Boissard, Jean Jacques, 1528-1602.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Latin</textLang>
                   <imprint>
-                     <date>1593</date>
+                     <publisher>Francofurti ad Moenum [Place of publication not identified]</publisher>
                      <date>1593</date>
                   </imprint>
-                  <extent>[8] Bl., 103 S.</extent>
-                  <extent>zahlr. Ill. (Kupferst.)</extent>
+                  <extent>7 preliminary leaves, 103 pages</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/boissard1593/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/93226e00-9860-4963-a295-bb564b6bda7f"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems.</term>
+               <term>Emblems</term>
+               <term>PA8477 .B536</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/boissard1593/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/93226e00-9860-4963-a295-bb564b6bda7f">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -108,57 +121,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2d83dfe2-f713-4b0d-b01b-2a76dc380c20/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Iani Iacobi Boissardi Vesvntini emblematum liber. Ipsa emblemata ab auctore delineata: a Theodoro de Bry sculpta &amp; nunc recens in lucem edita.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bry, Theodor de, 1528-1598</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926056520001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/2x6k26</idno>
-            <idno>(OCoLC)32368150</idno>
-            <idno type="cico">1853</idno>
-            <idno type="dcl">qjx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Iani Iacobi Boissardi Vesvntini emblematum liber. Ipsa emblemata ab auctore delineata: a Theodoro de Bry sculpta &amp; nunc recens in lucem edita.</title>
-                  <respStmt>
-                     <persName>Boissard, Jean Jacques, 1528-1602.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Francofurti ad Moenum [Place of publication not identified]</publisher>
-                     <date>1593</date>
-                  </imprint>
-                  <extent>7 preliminary leaves, 103 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/93226e00-9860-4963-a295-bb564b6bda7f"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/93226e00-9860-4963-a295-bb564b6bda7f">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

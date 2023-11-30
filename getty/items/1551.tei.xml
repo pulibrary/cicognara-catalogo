@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Trattato di scientia d'arme [microform] : con vn dialogo di filosofia / di Camillo Aggrippa Milanese ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985302643506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/86909p</idno>
-            <idno type="cico">1551</idno>
-            <idno type="dcl">4s7</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Trattato di scientia d'arme [microform] : con vn dialogo di filosofia / di Camillo Aggrippa Milanese ...</title>
-                  <respStmt>
-                     <persName>Agrippa, Camillo, -1595?</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Per Antonio Blado</publisher>
-                     <date>1553</date>
-                  </imprint>
-                  <extent>LXX leaves</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/72cc5106-0e12-4755-863d-3cf4edcd50b2/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/72cc5106-0e12-4755-863d-3cf4edcd50b2/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Trattato di scientia d'arme : con vn dialogo di filosofia / di Camillo Aggrippa milanese ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -113,9 +65,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fencing -- Early works to 1800.</term>
+               <term>Swordplay -- Early works to 1800.</term>
+               <term>Fencing</term>
+               <term>Swordplay</term>
+               <term>U860 .A27</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a5aff6f4-41c5-45e9-b85f-3689b8c2b0fd">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato di scientia d'arme [microform] : con vn dialogo di filosofia / di Camillo Aggrippa Milanese ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302643506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/86909p</idno>
+            <idno type="cico">1551</idno>
+            <idno type="dcl">4s7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato di scientia d'arme [microform] : con vn dialogo di filosofia / di Camillo Aggrippa Milanese ...</title>
+                  <respStmt>
+                     <persName>Agrippa, Camillo, -1595?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Antonio Blado</publisher>
+                     <date>1553</date>
+                  </imprint>
+                  <extent>LXX leaves</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/72cc5106-0e12-4755-863d-3cf4edcd50b2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dueling -- Early works to 1800.</term>
+               <term>Fencing -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/72cc5106-0e12-4755-863d-3cf4edcd50b2/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

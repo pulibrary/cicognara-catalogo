@@ -66,9 +66,78 @@ in fol., fig.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>History, Ancient -- Portraits.</term>
+               <term>Mythology, Classical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bdb108b6-4c9f-4c59-890e-6b19bd474616/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iconografia, cioè, disegni d'imagini de famosisimi monarchi, regi, filosofi, poeti ed oratori dell'antichità, cauati da Giovan Angelo Canini ; a frammenti de marmi antichi, e di gioie, medaglie, d'argento, d'oro, e simili metalli, con le proue dell'istesso autenticate da più classici autori di quei medesimi secoli. Data in luce con aggiunta di alcune annotationi, da Marc Antonio Canini fratello dell'autore.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Canini, Marco Antonio, active 17th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992826523504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/hg5v1w</idno>
+            <idno>(OCoLC)436093883</idno>
+            <idno>(OCoLC)10176957</idno>
+            <idno type="cico">2791</idno>
+            <idno type="dcl">3pf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Iconografia, cioè, disegni d'imagini de famosisimi monarchi, regi, filosofi, poeti ed oratori dell'antichità, cauati da Giovan Angelo Canini ; a frammenti de marmi antichi, e di gioie, medaglie, d'argento, d'oro, e simili metalli, con le proue dell'istesso autenticate da più classici autori di quei medesimi secoli. Data in luce con aggiunta di alcune annotationi, da Marc Antonio Canini fratello dell'autore.</title>
+                  <respStmt>
+                     <persName>Canini, Giovanni Angelo, 1617-1666.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Roma : I. de' Lazari</publisher>
+                     <date>1669</date>
+                  </imprint>
+                  <extent>133 numb. leaves, [114] plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992826523504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>History, Ancient -- Portraits.</term>
+               <term>Mythology, Classical.</term>
+               <term>Portraits, Ancient.</term>
+               <term>Provenance -- Foucault (Nicolas-Joseph)</term>
+               <term>Provenance -- Macclesfield North Library.</term>
+               <term>N7580 .C2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992826523504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

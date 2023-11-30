@@ -25,56 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Emblemata anniversaria Academiae Altorfinae [microform] : studiorum iuuentutis exercitandorum causa proposita et variorum orationibus exposita.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985336963506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/mp795b</idno>
-            <idno type="cico">1886</idno>
-            <idno type="dcl">gvn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Emblemata anniversaria Academiae Altorfinae [microform] : studiorum iuuentutis exercitandorum causa proposita et variorum orationibus exposita.</title>
-                  <respStmt>
-                     <persName>Universität Altdorf.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Norimbergae : Impensis Leuini Hulsy</publisher>
-                     <pubPlace>Germany.</pubPlace>
-                     <pubPlace>Germany</pubPlace>
-                     <date>1597</date>
-                  </imprint>
-                  <extent>[6], 153, [3] numb. leaves</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f131c72e-2428-42ba-84ee-cb31dd921b93/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f131c72e-2428-42ba-84ee-cb31dd921b93/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Emblemata anniversaria Academiae Altorfinae : stvdiorvm ivventvtis exercitandorvm cavsa proposita et variorvm orationibvs exposita.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +64,85 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Academia Altorfina -- Medals -- Early works to 1800.</term>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Academic decorations of honor -- Early works to 1800.</term>
+               <term>Engraving, German -- 16th century.</term>
+               <term>Academia Altorfina</term>
+               <term>Academic decorations of honor</term>
+               <term>Emblems</term>
+               <term>Engraving, German</term>
+               <term>Medals</term>
+               <term>LF3194.A44 A65 1597</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/178e0da2-6de9-470e-a254-9b371dff0ef2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emblemata anniversaria Academiae Altorfinae [microform] : studiorum iuuentutis exercitandorum causa proposita et variorum orationibus exposita.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mp795b</idno>
+            <idno type="cico">1886</idno>
+            <idno type="dcl">gvn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata anniversaria Academiae Altorfinae [microform] : studiorum iuuentutis exercitandorum causa proposita et variorum orationibus exposita.</title>
+                  <respStmt>
+                     <persName>Universität Altdorf.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Norimbergae : Impensis Leuini Hulsy</publisher>
+                     <pubPlace>Germany.</pubPlace>
+                     <pubPlace>Germany</pubPlace>
+                     <date>1597</date>
+                  </imprint>
+                  <extent>[6], 153, [3] numb. leaves</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f131c72e-2428-42ba-84ee-cb31dd921b93/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Universität Altdorf -- Medals.</term>
+               <term>Academic decorations of honor -- Germany.</term>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Medals -- Germany -- Altdorf -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f131c72e-2428-42ba-84ee-cb31dd921b93/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

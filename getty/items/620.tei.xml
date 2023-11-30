@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Songe de Poliphile, traduction libre de l'italien, par J.G. Legrand ...</title>
-            <respStmt>
-               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Legrand, J. G. (Jacques Guillaume), 1743-1807, translator.</authority>
-            <idno type="URI">http://portal.getty.edu/books/hulitatti_990030424490203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/9h7c15</idno>
-            <idno>(OCoLC)6964833</idno>
-            <idno type="cico">620</idno>
-            <idno type="dcl">vr9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Songe de Poliphile, traduction libre de l'italien, par J.G. Legrand ...</title>
-                  <respStmt>
-                     <persName>Colonna, Francesco, -1527.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris, Impr. de P. Didot l'aîné, an XIII--</publisher>
-                     <date>1804</date>
-                  </imprint>
-                  <extent>2 volumes in 1.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:448815754"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:448815754">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Songe de Poliphile [microform] / traduction libre de l'italien, par J. G. Legrand.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +65,70 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9ae576ea-385a-4128-801f-5f67d2eedb44/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Songe de Poliphile, traduction libre de l'italien, par J.G. Legrand ...</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Legrand, J. G. (Jacques Guillaume), 1743-1807, translator.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990030424490203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/9h7c15</idno>
+            <idno>(OCoLC)6964833</idno>
+            <idno type="cico">620</idno>
+            <idno type="dcl">vr9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Songe de Poliphile, traduction libre de l'italien, par J.G. Legrand ...</title>
+                  <respStmt>
+                     <persName>Colonna, Francesco, -1527.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Impr. de P. Didot l'aîné, an XIII--</publisher>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>2 volumes in 1.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:448815754"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>789.78 C7, G4</term>
+               <term>PQ4619.C9 F7 E04</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:448815754">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

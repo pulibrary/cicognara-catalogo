@@ -23,54 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De origine et usu obeliscorum .. [microform] / auctore Georgio Zoega Dano.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985404043506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/nr9s4h</idno>
-            <idno type="cico">2551</idno>
-            <idno type="dcl">f5p</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De origine et usu obeliscorum .. [microform] / auctore Georgio Zoega Dano.</title>
-                  <respStmt>
-                     <persName>Zoega, Georg, 1755-1809.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Romae : Typis Lazzarinii</publisher>
-                     <date>1797</date>
-                  </imprint>
-                  <extent>viii, xl, 655 p.</extent>
-                  <extent>31 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f562044d-77c8-415d-b82b-adfc32cac9f8/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f562044d-77c8-415d-b82b-adfc32cac9f8/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>De origine et usu obeliscorum ... / auctore Georgio Zoega Dano.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -113,9 +65,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Obelisks -- Early works to 1800.</term>
+               <term>Inscriptions, Egyptian -- Early works to 1800.</term>
+               <term>Inscriptions, Egyptian.</term>
+               <term>Obelisks.</term>
+               <term>DT62.O2 Z6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e3a10ef9-00ac-473a-b63e-398011ce25d1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De origine et usu obeliscorum .. [microform] / auctore Georgio Zoega Dano.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nr9s4h</idno>
+            <idno type="cico">2551</idno>
+            <idno type="dcl">f5p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De origine et usu obeliscorum .. [microform] / auctore Georgio Zoega Dano.</title>
+                  <respStmt>
+                     <persName>Zoega, Georg, 1755-1809.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Lazzarinii</publisher>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>viii, xl, 655 p.</extent>
+                  <extent>31 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/f562044d-77c8-415d-b82b-adfc32cac9f8/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Egyptian.</term>
+               <term>Obelisks -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f562044d-77c8-415d-b82b-adfc32cac9f8/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

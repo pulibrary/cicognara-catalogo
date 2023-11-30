@@ -25,6 +25,65 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Ornamenti d'architettura : architectonische Verzierungen aus verschiedenen ... Gebaeuden in und ausser Rom zusammen getragen und den Studierenden der Architectur auch andern Liebhabern / mitgetheilet von Joh. Justin Preisler.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_992456903504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/pn883q</idno>
+            <idno>(OCoLC)84664871</idno>
+            <idno type="cico">623</idno>
+            <idno type="dcl">3s3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ornamenti d'architettura : architectonische Verzierungen aus verschiedenen ... Gebaeuden in und ausser Rom zusammen getragen und den Studierenden der Architectur auch andern Liebhabern / mitgetheilet von Joh. Justin Preisler.</title>
+                  <respStmt>
+                     <persName>Preissler, Johann Justin, 1698-1771.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>[Nuremberg] : Zu finden bey Georg Martin Preisler in Nürnberg</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1734</date>
+                  </imprint>
+                  <extent>15 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992456903504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Doorways -- Early works to 1800.</term>
+               <term>Decoration and ornament, Architectural -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Provenance -- Tuscher (Marco)</term>
+               <term>Provenance -- Classen (Johan Frederik)</term>
+               <term>Provenance -- Gullev (Christian)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992456903504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Ornamenti d'architettura [microform] : architectorische Verzierungen aus verschiedenen ... Gebäuden in und ausser Rom zusammen getragen ... den Studierenden der Architectur auch andern Liebhabern / mitgetheilet von Joh. Justin Preisler.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -64,6 +123,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Decoration and ornament, Architectural -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/dc4c3d30-273a-42f9-94f6-fda4e56ad8b3/manifest">

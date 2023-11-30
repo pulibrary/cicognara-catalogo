@@ -25,54 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Il primo [-secondo] libro d'architettura / di Sabastiano Serlio Bolognese... = Le premier [-second] liure d'architecture de Sebastian Serlio, Bolognois ; mis en langue francoyse par Iehan Martin...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Martin, Ian, -approximately 1553</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9924262950001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/156g89</idno>
-            <idno>(OCoLC)3460671</idno>
-            <idno type="cico">666</idno>
-            <idno type="dcl">zrp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Il primo [-secondo] libro d'architettura / di Sabastiano Serlio Bolognese... = Le premier [-second] liure d'architecture de Sebastian Serlio, Bolognois ; mis en langue francoyse par Iehan Martin...</title>
-                  <respStmt>
-                     <persName>Serlio, Sebastiano, 1475-1554</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>A Paris : [De l'Imprimerie de Iehan Barbé]</publisher>
-                     <date>1545</date>
-                  </imprint>
-                  <extent>2 v. in 1 ([4], 74 leaves (some folded))</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/058ba062-caea-4a9d-8737-11d2dd35f86a"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/058ba062-caea-4a9d-8737-11d2dd35f86a">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Il primo[-secondo] libro d'architettura di Sabastiano Serlio, Bolognese = Le premier[-second] liure d'architecture de Sebastian Serlio, bolognois [microform] / mis en langue francoyse, par Iehan Martin ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -110,9 +62,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Geometry -- Early works to 1800.</term>
+               <term>Perspective -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cb873f29-567a-4f0f-85d3-56282f108290/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il primo [-secondo] libro d'architettura / di Sabastiano Serlio Bolognese... = Le premier [-second] liure d'architecture de Sebastian Serlio, Bolognois ; mis en langue francoyse par Iehan Martin...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Martin, Ian, -approximately 1553</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924262950001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/156g89</idno>
+            <idno>(OCoLC)3460671</idno>
+            <idno type="cico">666</idno>
+            <idno type="dcl">zrp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Il primo [-secondo] libro d'architettura / di Sabastiano Serlio Bolognese... = Le premier [-second] liure d'architecture de Sebastian Serlio, Bolognois ; mis en langue francoyse par Iehan Martin...</title>
+                  <respStmt>
+                     <persName>Serlio, Sebastiano, 1475-1554</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>A Paris : [De l'Imprimerie de Iehan Barbé]</publisher>
+                     <date>1545</date>
+                  </imprint>
+                  <extent>2 v. in 1 ([4], 74 leaves (some folded))</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/058ba062-caea-4a9d-8737-11d2dd35f86a"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Geometry.</term>
+               <term>Perspective.</term>
+               <term>Geometry</term>
+               <term>Perspective</term>
+               <term>NA2517 .S55 1545 Rosenwald Coll.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/058ba062-caea-4a9d-8737-11d2dd35f86a">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -158,6 +177,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture.</term>
+               <term>Architecture -- Orders.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Orders</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/49e945f3-b7ba-4b2a-a451-c65c0cd025fb">

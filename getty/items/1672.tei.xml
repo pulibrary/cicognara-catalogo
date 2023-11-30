@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Funerailles &amp; diuerses manieres d'enseuelir des Rommains, Grecs, &amp; autres nations, tant anciennes que modernes [microform] / escrites par Claude Guichard ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985334473506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/t12d5g</idno>
-            <idno type="cico">1672</idno>
-            <idno type="dcl">jjx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Funerailles &amp; diuerses manieres d'enseuelir des Rommains, Grecs, &amp; autres nations, tant anciennes que modernes [microform] / escrites par Claude Guichard ...</title>
-                  <respStmt>
-                     <persName>Guichard, Claude, 1545-1607.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Lyon : Par Iean de Tournes</publisher>
-                     <date>1581</date>
-                  </imprint>
-                  <extent>546 p.</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/49096898-aa0c-49f0-a21f-4238b2e62d29/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49096898-aa0c-49f0-a21f-4238b2e62d29/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Funerailles, &amp; diuerses manieres d'enseuelir des Rommains, Grecs, &amp; autres nations, tant anciennes que modernes / descrites par Claude Guichard ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +66,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Funeral rites and ceremonies -- Early works to 1800.</term>
+               <term>Funeral rites and ceremonies.</term>
+               <term>GT3150 .G8 1581</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2ac4c044-4e82-4544-b417-3c9bca4ee7a5">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Funerailles &amp; diuerses manieres d'enseuelir des Rommains, Grecs, &amp; autres nations, tant anciennes que modernes [microform] / escrites par Claude Guichard ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t12d5g</idno>
+            <idno type="cico">1672</idno>
+            <idno type="dcl">jjx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Funerailles &amp; diuerses manieres d'enseuelir des Rommains, Grecs, &amp; autres nations, tant anciennes que modernes [microform] / escrites par Claude Guichard ...</title>
+                  <respStmt>
+                     <persName>Guichard, Claude, 1545-1607.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Lyon : Par Iean de Tournes</publisher>
+                     <date>1581</date>
+                  </imprint>
+                  <extent>546 p.</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/49096898-aa0c-49f0-a21f-4238b2e62d29/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Burial -- Early works to 1800.</term>
+               <term>Funeral rites and ceremonies -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49096898-aa0c-49f0-a21f-4238b2e62d29/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

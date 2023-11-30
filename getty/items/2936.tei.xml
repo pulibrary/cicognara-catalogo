@@ -29,54 +29,6 @@ dal Bellorio. Libretto non comune e da tenersi in pregio.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Scelta de medaglioni piu rari nella bibliotheca dell'eminentiss. et reverendiss. principe, il signor Cardinale Gasparo Carpegna, vicario di nostro signore.</title>
-            <respStmt>
-               <orgName>National Gallery of Art Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/nga_991827553504896</idno>
-            <idno type="URI">http://portal.getty.edu/api/4w8r8s</idno>
-            <idno>(OCoLC)973455887</idno>
-            <idno type="cico">2936</idno>
-            <idno type="dcl">w5c</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Scelta de medaglioni piu rari nella bibliotheca dell'eminentiss. et reverendiss. principe, il signor Cardinale Gasparo Carpegna, vicario di nostro signore.</title>
-                  <respStmt>
-                     <persName>Monterchi, Gioseppe.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>In Roma : Per Gio: Battista Bussotti</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1679</date>
-                  </imprint>
-                  <extent>84, [4] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991827553504896.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991827553504896.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Scelta de medaglioni piu rari nella bibliotheca dell' ... Cardinale Gasparo Carpegna .. [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -116,9 +68,77 @@ dal Bellorio. Libretto non comune e da tenersi in pregio.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Carpegna, Gaspero, Cardinal, 1625-1714 -- Coin collections.</term>
+               <term>Medals, Greek -- Early works to 1800.</term>
+               <term>Medals, Roman -- Early works to 1800.</term>
+               <term>Private collections -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/88dc4cd1-6f83-4dd3-af87-ba0dff8e1c67/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scelta de medaglioni piu rari nella bibliotheca dell'eminentiss. et reverendiss. principe, il signor Cardinale Gasparo Carpegna, vicario di nostro signore.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991827553504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/4w8r8s</idno>
+            <idno>(OCoLC)973455887</idno>
+            <idno type="cico">2936</idno>
+            <idno type="dcl">w5c</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Scelta de medaglioni piu rari nella bibliotheca dell'eminentiss. et reverendiss. principe, il signor Cardinale Gasparo Carpegna, vicario di nostro signore.</title>
+                  <respStmt>
+                     <persName>Monterchi, Gioseppe.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Gio: Battista Bussotti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1679</date>
+                  </imprint>
+                  <extent>84, [4] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991827553504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Carpegna, Gaspero, Cardinal, 1625-1714 -- Coin collections.</term>
+               <term>Medals, Roman -- Early works to 1800.</term>
+               <term>Medals, Greek -- Early works to 1800.</term>
+               <term>Private collections -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991827553504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

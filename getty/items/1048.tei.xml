@@ -26,53 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Del bello; ragionamenti.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9930437230001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/zq0m76</idno>
-            <idno>(OCoLC)932622</idno>
-            <idno type="cico">1048</idno>
-            <idno type="dcl">5vx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Del bello; ragionamenti.</title>
-                  <respStmt>
-                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Firenze, Molini, Landi</publisher>
-                     <date>1808</date>
-                  </imprint>
-                  <extent>xiv, 221 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6598d4e7-e4e4-4a34-b92a-4c224ba2c09e"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6598d4e7-e4e4-4a34-b92a-4c224ba2c09e">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Del bello [microform] : ragionamenti / di Leopoldo Cicognara.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +66,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/229daeff-05b9-45b5-9cfd-1f07a1d2960a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del bello; ragionamenti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930437230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zq0m76</idno>
+            <idno>(OCoLC)932622</idno>
+            <idno type="cico">1048</idno>
+            <idno type="dcl">5vx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Del bello; ragionamenti.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, Conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze, Molini, Landi</publisher>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>xiv, 221 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/6598d4e7-e4e4-4a34-b92a-4c224ba2c09e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics.</term>
+               <term>Aesthetics</term>
+               <term>BH39 .C53</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6598d4e7-e4e4-4a34-b92a-4c224ba2c09e">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

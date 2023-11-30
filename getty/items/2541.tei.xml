@@ -29,112 +29,6 @@ Francia. Tutto il primo volume è consecrato al testo: il secondo alle tavole in
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Travels in Egypt and Nubia</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-40203</idno>
-            <idno type="URI">http://portal.getty.edu/api/db4g8d</idno>
-            <idno type="cico">2541</idno>
-            <idno type="dcl">3cr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Travels in Egypt and Nubia</title>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <pubPlace>Kairo</pubPlace>
-                     <pubPlace>Alexandria</pubPlace>
-                     <pubPlace>Alexandria</pubPlace>
-                     <pubPlace>Afrika</pubPlace>
-                     <pubPlace>Ägypten</pubPlace>
-                     <pubPlace>Africa</pubPlace>
-                     <pubPlace>Egypt</pubPlace>
-                     <pubPlace>Kairo</pubPlace>
-                     <pubPlace>Cairo</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>31.20176 29.91582</pubPlace>
-                     <pubPlace>30.06263 31.24967</pubPlace>
-                     <date>1757</date>
-                     <date>1757</date>
-                  </imprint>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/norden1757bd2/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/norden1757bd2/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Travels in Egypt and Nubia</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-40234</idno>
-            <idno type="URI">http://portal.getty.edu/api/n89k8k</idno>
-            <idno type="cico">2541</idno>
-            <idno type="dcl">3cr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Travels in Egypt and Nubia</title>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <pubPlace>Kairo</pubPlace>
-                     <pubPlace>Alexandria</pubPlace>
-                     <pubPlace>Kairo</pubPlace>
-                     <pubPlace>Afrika</pubPlace>
-                     <pubPlace>Ägypten</pubPlace>
-                     <pubPlace>Cairo</pubPlace>
-                     <pubPlace>Africa</pubPlace>
-                     <pubPlace>Egypt</pubPlace>
-                     <pubPlace>Alexandria</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>30.06263 31.24967</pubPlace>
-                     <pubPlace>31.20176 29.91582</pubPlace>
-                     <date>1757</date>
-                     <date>1757</date>
-                  </imprint>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/norden1757bd1/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/norden1757bd1/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Travels in Egypt and Nubia [microform] / by Frederick Lewis Norden ... ; translated from the original ... and enlarged with observations from ancient and modern authors, that have written on the antiquites of Egypt, by Peter Templeman.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -179,6 +73,15 @@ Francia. Tutto il primo volume è consecrato al testo: il secondo alle tavole in
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Egypt -- Antiquities -- Early works to 1800.</term>
+               <term>Egypt -- Description and travel -- Early works to 1800.</term>
+               <term>Nubia -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/21933c71-0318-4ef3-a2d5-49f06c7a5d56/manifest">

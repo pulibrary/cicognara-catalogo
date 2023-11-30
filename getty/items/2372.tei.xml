@@ -24,9 +24,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
+            <title>Vite de' pittori, scultori, ed architetti genovesi, di Raffaello Soprani.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -35,75 +35,63 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-440151</idno>
-            <idno type="URI">http://portal.getty.edu/api/ss6566</idno>
+            <authority>Stamperia Casamara.</authority>
+            <authority>Ratti, Carlo Giuseppe, 1735?-1795.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928280800001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/0j813f</idno>
+            <idno type="URI">http://portal.getty.edu/api/db6387</idno>
+            <idno>(OCoLC)2868730</idno>
             <idno type="cico">2372</idno>
             <idno type="dcl">sg3</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
+                  <title>Vite de' pittori, scultori, ed architetti genovesi, di Raffaello Soprani.</title>
+                  <respStmt>
+                     <persName>Soprani, Raffaele, 1612-1672.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <pubPlace>Genua</pubPlace>
-                     <date>1768</date>
+                     <publisher>Genova, Nella stamperia Casamara</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Genoa (Italy)</pubPlace>
+                     <pubPlace>Italy Genoa.</pubPlace>
+                     <date>1768-69</date>
                      <date>1768</date>
                   </imprint>
-                  <extent>VIII, 482 S.</extent>
-                  <extent>Ill.</extent>
+                  <extent>2 volumes</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1768bd1/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f159dc69-2798-4457-b228-7655b65b63b2https://media.getty.edu/iiif/manifest/f499b9c7-d1dc-4f52-95ad-be5531c15057"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Genoa -- Biography -- Portraits.</term>
+               <term>Artists -- Italy -- Genoa -- Biography.</term>
+               <term>Architects -- Italy -- Genoa -- Biography.</term>
+               <term>Architects -- Italy -- Genoa -- Biography -- Portraits.</term>
+               <term>Art -- Italy -- Genoa.</term>
+               <term>Genoa (Italy) -- Biography.</term>
+               <term>Architects</term>
+               <term>Art</term>
+               <term>Artists</term>
+               <term>Italy -- Genoa</term>
+               <term>N6921.G4 S73</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1768bd1/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f159dc69-2798-4457-b228-7655b65b63b2">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-440163</idno>
-            <idno type="URI">http://portal.getty.edu/api/qh0c23</idno>
-            <idno type="cico">2372</idno>
-            <idno type="dcl">sg3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <pubPlace>Genua</pubPlace>
-                     <date>1769</date>
-                     <date>1769</date>
-                  </imprint>
-                  <extent>395 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1769bd2/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1769bd2/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f499b9c7-d1dc-4f52-95ad-be5531c15057">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -152,6 +140,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Italy -- Genoa -- Biography -- Early works to 1800.</term>
+               <term>Artists -- Italy -- Genoa -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cd6bb157-95d2-4249-b4b6-dae17655dbff/manifest">
@@ -163,9 +159,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vite de' pittori, scultori, ed architetti genovesi, di Raffaello Soprani.</title>
+            <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>Heidelberg University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -174,46 +170,99 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Stamperia Casamara.</authority>
-            <authority>Ratti, Carlo Giuseppe, 1735?-1795.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9928280800001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/0j813f</idno>
-            <idno type="URI">http://portal.getty.edu/api/db6387</idno>
-            <idno>(OCoLC)2868730</idno>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-440163</idno>
+            <idno type="URI">http://portal.getty.edu/api/qh0c23</idno>
             <idno type="cico">2372</idno>
             <idno type="dcl">sg3</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Vite de' pittori, scultori, ed architetti genovesi, di Raffaello Soprani.</title>
-                  <respStmt>
-                     <persName>Soprani, Raffaele, 1612-1672.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
+                  <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <publisher>Genova, Nella stamperia Casamara</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Genoa (Italy)</pubPlace>
-                     <pubPlace>Italy Genoa.</pubPlace>
-                     <date>1768-69</date>
-                     <date>1768</date>
+                     <pubPlace>Genua</pubPlace>
+                     <date>1769</date>
+                     <date>1769</date>
                   </imprint>
-                  <extent>2 volumes</extent>
+                  <extent>395 S.</extent>
+                  <extent>Ill.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f159dc69-2798-4457-b228-7655b65b63b2https://media.getty.edu/iiif/manifest/f499b9c7-d1dc-4f52-95ad-be5531c15057"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1769bd2/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Künstler</term>
+               <term>Biografie</term>
+               <term>Kunst</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Biografia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f159dc69-2798-4457-b228-7655b65b63b2">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1769bd2/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-440151</idno>
+            <idno type="URI">http://portal.getty.edu/api/ss6566</idno>
+            <idno type="cico">2372</idno>
+            <idno type="dcl">sg3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori, scultori, ed architetti Genovesi</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <pubPlace>Genua</pubPlace>
+                     <date>1768</date>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>VIII, 482 S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1768bd1/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Künstler</term>
+               <term>Biografie</term>
+               <term>Kunst</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Biografia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f499b9c7-d1dc-4f52-95ad-be5531c15057">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/soprani1768bd1/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

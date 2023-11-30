@@ -21,56 +21,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Catalogue des bronzes et autres curiosités antiques [microform] : tant egyptiennes que greques, romaines &amp; gauloises ... du cabinet de feu M. de Valois, antiquaire du roi &amp; pensionnaire de l'Académie des belle-lettres ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984939223506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/pq5b3s</idno>
-            <idno>(OCoLC)196969109</idno>
-            <idno type="cico">4410</idno>
-            <idno type="dcl">b33</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Catalogue des bronzes et autres curiosités antiques [microform] : tant egyptiennes que greques, romaines &amp; gauloises ... du cabinet de feu M. de Valois, antiquaire du roi &amp; pensionnaire de l'Académie des belle-lettres ...</title>
-                  <respStmt>
-                     <persName>Gersaint, E. F. (Edme-François), -1750.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez P. Prault ... Jacques Barrois</publisher>
-                     <date>1748</date>
-                  </imprint>
-                  <extent>22, [2] p.</extent>
-                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c278438c-c389-4f11-8a7e-60d4246b22cb/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c278438c-c389-4f11-8a7e-60d4246b22cb/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Catalogue des bronzes et autres curiosités antiques : tant egyptiennes que greques, romaines &amp; gauloises ... du cabinet
                 de feu M. de Valois, antiquaire du roi &amp; pensionnaire de l'Académie des
                 belle-lettres : dont la vente se fera vers la fin du Carême de la présente année
@@ -117,9 +67,79 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Valois, Charles de, 1671-1747 -- Art collections -- Catalogs.</term>
+               <term>Art -- Private collections -- France -- Paris -- Catalogs.</term>
+               <term>Bronzes, Ancient -- Catalogs.</term>
+               <term>Art -- Private collections</term>
+               <term>Bronzes, Ancient.</term>
+               <term>France -- Paris</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:451270647">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue des bronzes et autres curiosités antiques [microform] : tant egyptiennes que greques, romaines &amp; gauloises ... du cabinet de feu M. de Valois, antiquaire du roi &amp; pensionnaire de l'Académie des belle-lettres ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984939223506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/pq5b3s</idno>
+            <idno>(OCoLC)196969109</idno>
+            <idno type="cico">4410</idno>
+            <idno type="dcl">b33</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue des bronzes et autres curiosités antiques [microform] : tant egyptiennes que greques, romaines &amp; gauloises ... du cabinet de feu M. de Valois, antiquaire du roi &amp; pensionnaire de l'Académie des belle-lettres ...</title>
+                  <respStmt>
+                     <persName>Gersaint, E. F. (Edme-François), -1750.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez P. Prault ... Jacques Barrois</publisher>
+                     <date>1748</date>
+                  </imprint>
+                  <extent>22, [2] p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c278438c-c389-4f11-8a7e-60d4246b22cb/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Valois, Charles de, 1671-1747 -- Art collections -- Catalogs.</term>
+               <term>Bronzes, Ancient -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c278438c-c389-4f11-8a7e-60d4246b22cb/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

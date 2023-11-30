@@ -24,55 +24,6 @@ per riconoscere con certezza quest’anonimo erudito.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Description des Bas-Reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Musée de Cluny.</authority>
-            <idno type="URI">http://portal.getty.edu/books/hul_990046657410203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/326b3f</idno>
-            <idno>(OCoLC)27257436</idno>
-            <idno type="cico">3998</idno>
-            <idno type="dcl">s2j</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Description des Bas-Reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris.</title>
-                  <respStmt>
-                     <persName>Baudelot de Dairval, Charles-César, 1648-1722, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Pierre Cot, imprimeur-libraire ordinaire de l'Académie royale des inscriptions &amp; médailles</publisher>
-                     <date>M.DCC.XI [1711]</date>
-                     <date>1711</date>
-                  </imprint>
-                  <extent>39 pages, 2 unnumbered pages, 1 unnumbered folded leaf of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481794176"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481794176">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Description des bas-reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,9 +63,78 @@ per riconoscere con certezza quest’anonimo erudito.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bas-relief.</term>
+               <term>Sculpture, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fac1566a-a691-447c-b1a6-0bb85f0615a3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des Bas-Reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Musée de Cluny.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990046657410203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/326b3f</idno>
+            <idno>(OCoLC)27257436</idno>
+            <idno type="cico">3998</idno>
+            <idno type="dcl">s2j</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des Bas-Reliefs anciens, trouvez depuis peu dans l'Église Cathédrale de Paris.</title>
+                  <respStmt>
+                     <persName>Baudelot de Dairval, Charles-César, 1648-1722, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Pierre Cot, imprimeur-libraire ordinaire de l'Académie royale des inscriptions &amp; médailles</publisher>
+                     <date>M.DCC.XI [1711]</date>
+                     <date>1711</date>
+                  </imprint>
+                  <extent>39 pages, 2 unnumbered pages, 1 unnumbered folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481794176"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bas-relief.</term>
+               <term>Sculpture, Ancient.</term>
+               <term>Bas-relief</term>
+               <term>Sculpture, Ancient</term>
+               <term>Sculpture, French -- Paris. fal</term>
+               <term>BS1545 .W45 1728s bw/4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481794176">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

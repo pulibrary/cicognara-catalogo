@@ -24,55 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>I riti funebri di Roma pagana [microform] / descritti da Francesco Eugenio Guasco ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985334393506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8n5506</idno>
-            <idno type="cico">1668</idno>
-            <idno type="dcl">2w6</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>I riti funebri di Roma pagana [microform] / descritti da Francesco Eugenio Guasco ...</title>
-                  <respStmt>
-                     <persName>Guasco, Francesco Eugenio, 1725-1798.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Lucca : Per Filippo Maria Benedini</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1758</date>
-                  </imprint>
-                  <extent>xxiii, 160, xix p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/988c8564-9fc2-4d1f-b63f-52b8537343dd/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/988c8564-9fc2-4d1f-b63f-52b8537343dd/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>I riti funebri di Roma pagana / descritti da Francesco Eugenio Guasco ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +65,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Funeral rites and ceremonies -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Social life and customs -- Early works to 1800.</term>
+               <term>Funeral rites and ceremonies</term>
+               <term>Manners and customs</term>
+               <term>Italy -- Rome</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/02f1646b-3e8e-4709-b4dc-50c3fb1f43f2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I riti funebri di Roma pagana [microform] / descritti da Francesco Eugenio Guasco ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985334393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8n5506</idno>
+            <idno type="cico">1668</idno>
+            <idno type="dcl">2w6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I riti funebri di Roma pagana [microform] / descritti da Francesco Eugenio Guasco ...</title>
+                  <respStmt>
+                     <persName>Guasco, Francesco Eugenio, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Lucca : Per Filippo Maria Benedini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1758</date>
+                  </imprint>
+                  <extent>xxiii, 160, xix p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/988c8564-9fc2-4d1f-b63f-52b8537343dd/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Burial -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Funeral rites and ceremonies, Ancient -- Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/988c8564-9fc2-4d1f-b63f-52b8537343dd/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -27,50 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Della architettura di Leon Battista Alberti libri 10, della pittura libri 3 e della statua libro 1 / The architecture of Leon Battista Alberti in ten books, of painting in three books and of statuary in one book (uebers. von Cosimo Bartoli und Giacomo Le</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Alberti, Leon Battista, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-15570</idno>
-            <idno type="URI">http://portal.getty.edu/api/2f7w5m</idno>
-            <idno type="cico">378</idno>
-            <idno type="dcl">tz4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Della architettura di Leon Battista Alberti libri 10, della pittura libri 3 e della statua libro 1 / The architecture of Leon Battista Alberti in ten books, of painting in three books and of statuary in one book (uebers. von Cosimo Bartoli und Giacomo Le</title>
-                  <textLang>Italian</textLang>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <date>1726</date>
-                     <date>1726</date>
-                  </imprint>
-                  <extent>[103] Bl.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/alberti1726/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/alberti1726/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>The architecture of Leon Battista Alberti [microform] : in ten books of painting, in three books and of statuary in one book / translated into Italian by Cosimo Bartoli and now first into English and divided into three volumes by James Leoni.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,6 +67,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/123ff209-59ff-4098-bfd4-19414b513c3f/manifest">

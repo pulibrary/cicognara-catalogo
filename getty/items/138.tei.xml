@@ -27,55 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Comentarios de la pintura [microform] / que escribio don Felipe de Guevara ... se publican por la primera vez con un discurso preliminar y algunas notas de don Antonio Ponz ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Ponz, Antonio, 1725-1792.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985247833506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/n75k4h</idno>
-            <idno type="cico">138</idno>
-            <idno type="dcl">vrb</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Comentarios de la pintura [microform] / que escribio don Felipe de Guevara ... se publican por la primera vez con un discurso preliminar y algunas notas de don Antonio Ponz ...</title>
-                  <respStmt>
-                     <persName>Guevara, Felipe de, -1564?</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Spanish; Castilian</textLang>
-                  <imprint>
-                     <publisher>Madrid : Por Don Geronimo Ortega, hijos de Ibarra y compañia</publisher>
-                     <date>1788</date>
-                  </imprint>
-                  <extent>xiv, 254 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0640610d-ba0d-4bca-b7fa-7c3aedafd88b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0640610d-ba0d-4bca-b7fa-7c3aedafd88b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Comentarios de la pintura / que escribio Don Felipe de Guevara, gentil-hombre de boca del Señor emperador Carlos quinto, rey de España ; se publican por la primera vez con un discurso preliminar y algunas notas de Don Antonio Ponz ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -116,9 +67,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, Ancient -- Early works to 1800.</term>
+               <term>Painting, Ancient</term>
+               <term>ND100 .G8</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/3b2df640-52d0-4116-9f15-eaa480b21d8f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comentarios de la pintura [microform] / que escribio don Felipe de Guevara ... se publican por la primera vez con un discurso preliminar y algunas notas de don Antonio Ponz ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ponz, Antonio, 1725-1792.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247833506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n75k4h</idno>
+            <idno type="cico">138</idno>
+            <idno type="dcl">vrb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Comentarios de la pintura [microform] / que escribio don Felipe de Guevara ... se publican por la primera vez con un discurso preliminar y algunas notas de don Antonio Ponz ...</title>
+                  <respStmt>
+                     <persName>Guevara, Felipe de, -1564?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Spanish; Castilian</textLang>
+                  <imprint>
+                     <publisher>Madrid : Por Don Geronimo Ortega, hijos de Ibarra y compañia</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>xiv, 254 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0640610d-ba0d-4bca-b7fa-7c3aedafd88b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0640610d-ba0d-4bca-b7fa-7c3aedafd88b/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

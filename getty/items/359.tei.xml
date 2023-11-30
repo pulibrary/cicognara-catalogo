@@ -27,53 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Studio del disegno [microform] : recavato dall'estremita delle figure del celebre quadro della transfigurazione di Raffaelle / delineato dal Vincenzo Camuccini ; inciso da Giovanni Folo ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Camuccini, Vincenzo, 1771-1844.</authority>
-            <authority>Folo, Giovanni, 1764-1836.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985290513506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/613090</idno>
-            <idno type="cico">359</idno>
-            <idno type="dcl">0s5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Studio del disegno [microform] : recavato dall'estremita delle figure del celebre quadro della transfigurazione di Raffaelle / delineato dal Vincenzo Camuccini ; inciso da Giovanni Folo ...</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Rome? : s.n]</publisher>
-                     <date>[1808?]</date>
-                     <date>1808</date>
-                  </imprint>
-                  <extent>XXXI p.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d76e1cc7-9bc0-4709-b275-9389f28cff6d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d76e1cc7-9bc0-4709-b275-9389f28cff6d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Studio del disegno : ricavato dall'estremita delle figure del celebre quadro della Transfigurazione di Raffaelle / delineato dal Sr. cavalier Vincenzo Camuccini ; inciso da Giovanni Folo, e dedicato a Sua Eccellenza il Sigr. Giuseppe Emanuelle Pinto di Sousa commendator del Reale ordine di Cristo del consiglio di sua maesta' federalissima e suo inviato extraordinario e ministro plenipotenziario presso la S. sede apostolica &amp;c.&amp;c.&amp;c.</title>
             <respStmt>
                <orgName>Harvard Library</orgName>
@@ -112,9 +65,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520</term>
+               <term>Raphael, 1483-1520. Transfiguration</term>
+               <term>Raphael, 1483-1520</term>
+               <term>Transfiguration (Raphael)</term>
+               <term>4465</term>
+               <term>ND623.R2 C37</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:483125131">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studio del disegno [microform] : recavato dall'estremita delle figure del celebre quadro della transfigurazione di Raffaelle / delineato dal Vincenzo Camuccini ; inciso da Giovanni Folo ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Camuccini, Vincenzo, 1771-1844.</authority>
+            <authority>Folo, Giovanni, 1764-1836.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985290513506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/613090</idno>
+            <idno type="cico">359</idno>
+            <idno type="dcl">0s5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Studio del disegno [microform] : recavato dall'estremita delle figure del celebre quadro della transfigurazione di Raffaelle / delineato dal Vincenzo Camuccini ; inciso da Giovanni Folo ...</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Rome? : s.n]</publisher>
+                     <date>[1808?]</date>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>XXXI p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d76e1cc7-9bc0-4709-b275-9389f28cff6d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520 -- Individual works -- Transfiguration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d76e1cc7-9bc0-4709-b275-9389f28cff6d/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

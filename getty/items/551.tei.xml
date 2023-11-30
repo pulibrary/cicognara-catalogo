@@ -26,53 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Studio degli ordini di architettura / esposto da G. Alessandro Manetti.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929614530001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/3q9p4q</idno>
-            <idno>(OCoLC)146009588</idno>
-            <idno type="cico">551</idno>
-            <idno type="dcl">p00</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Studio degli ordini di architettura / esposto da G. Alessandro Manetti.</title>
-                  <respStmt>
-                     <persName>Manetti, Alessandro, 1787-1865.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Firenze : Presso Molini, Landi, e comp</publisher>
-                     <date>1808</date>
-                  </imprint>
-                  <extent>36, XXV pages, 25 leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a1e32daa-5d10-4c0e-ad65-29579eccc6c1"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a1e32daa-5d10-4c0e-ad65-29579eccc6c1">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Studio degli ordini di architettura [microform] / esposto da G. Alessandro Manetti.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +64,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a3588977-b904-4232-be23-75acdea1d948/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studio degli ordini di architettura / esposto da G. Alessandro Manetti.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929614530001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/3q9p4q</idno>
+            <idno>(OCoLC)146009588</idno>
+            <idno type="cico">551</idno>
+            <idno type="dcl">p00</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Studio degli ordini di architettura / esposto da G. Alessandro Manetti.</title>
+                  <respStmt>
+                     <persName>Manetti, Alessandro, 1787-1865.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Presso Molini, Landi, e comp</publisher>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>36, XXV pages, 25 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a1e32daa-5d10-4c0e-ad65-29579eccc6c1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Orders.</term>
+               <term>Architecture -- Orders.</term>
+               <term>NA2815 .M36 1808</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a1e32daa-5d10-4c0e-ad65-29579eccc6c1">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

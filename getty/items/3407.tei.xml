@@ -63,9 +63,77 @@ Charles le Brun</title>, <pubPlace>Paris</pubPlace> <date>1753</date>, in 8.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Le Brun, Charles, 1619-1690 -- Individual works -- Versailles (France). Château de Versailles.</term>
+               <term>Château de Versailles (Versailles, France) -- Early works to 1800.</term>
+               <term>Mural painting and decoration -- 17th century -- France -- Versailles.</term>
+               <term>Mural painting and decoration, French -- France -- Versailles -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1ef06144-64a2-4245-a7c3-0133d019e829/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La grande galerie de Versailles et les deux salons qui l'accompagnent, peints par Charles Le Brun premier peintre de Louis XIV / dessinés par Jean-Baptiste Massé ... et gravés sous ses yeux par les meilleurs maîtres du tems.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991473553504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/7g5g9b</idno>
+            <idno>(OCoLC)920663325</idno>
+            <idno type="cico">3407</idno>
+            <idno type="dcl">p89</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La grande galerie de Versailles et les deux salons qui l'accompagnent, peints par Charles Le Brun premier peintre de Louis XIV / dessinés par Jean-Baptiste Massé ... et gravés sous ses yeux par les meilleurs maîtres du tems.</title>
+                  <respStmt>
+                     <persName>Massé, Jean-Baptiste, 1687-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : [s.n.]</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1753</date>
+                  </imprint>
+                  <extent>vi, 60 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991473553504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Le Brun, Charles, 1619-1690 -- Criticism and interpretation.</term>
+               <term>Château de Versailles (Versailles, France) -- Early works to 1800.</term>
+               <term>Mural painting and decoration, French -- France -- Versailles -- Early works to 1800.</term>
+               <term>Mural painting and decoration -- 17th century -- France -- Versailles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991473553504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

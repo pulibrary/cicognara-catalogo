@@ -18,9 +18,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Del Museo Capitolino Tomo ...: Contenente Immagini D'Vomini Illustri</title>
+            <title>Del Museo Capitolino .. [microform].</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -29,28 +29,56 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-266656</idno>
-            <idno type="URI">http://portal.getty.edu/api/zr2d9p</idno>
+            <authority>Bottari, Giovanni Gaetano, 1689-1775.</authority>
+            <authority>Foggini, N. (Nicolao)</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <authority>Musei capitolini (Rome, Italy)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985434903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gp4t43</idno>
+            <idno type="URI">http://portal.getty.edu/api/wv5w2v</idno>
+            <idno type="URI">http://portal.getty.edu/api/z20m3p</idno>
+            <idno type="URI">http://portal.getty.edu/api/4t0m00</idno>
+            <idno type="URI">http://portal.getty.edu/api/sm275w</idno>
+            <idno type="URI">http://portal.getty.edu/api/2p1h88</idno>
+            <idno type="URI">http://portal.getty.edu/api/rt5266</idno>
+            <idno type="URI">http://portal.getty.edu/api/396815</idno>
+            <idno type="URI">http://portal.getty.edu/api/w42p4v</idno>
+            <idno type="URI">http://portal.getty.edu/api/tw8q43</idno>
+            <idno type="URI">http://portal.getty.edu/api/09432x</idno>
             <idno type="cico">3416</idno>
             <idno type="dcl">k8b</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Del Museo Capitolino Tomo ...: Contenente Immagini D'Vomini Illustri</title>
+                  <title>Del Museo Capitolino .. [microform].</title>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <date>1741</date>
+                     <publisher>Roma : Si vende alla Calcografia camerale ak ouede de narni</publisher>
+                     <pubPlace>Rome</pubPlace>
+                     <date>1741-82</date>
                      <date>1741</date>
                   </imprint>
+                  <extent>4 v. in 5.</extent>
+                  <extent>63 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/bottari1741bd1/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7e8bb4cb-bf8f-428c-a1e5-c4a0ae7e00c3/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emperors -- Rome -- Portraits.</term>
+               <term>Portraits, Roman.</term>
+               <term>Sculpture, Greco-Roman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/bottari1741bd1/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7e8bb4cb-bf8f-428c-a1e5-c4a0ae7e00c3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -137,6 +165,24 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Musei capitolini (Rome, Italy) -- Catalogs.</term>
+               <term>Sculpture, Roman -- History -- Pictorial works -- Early works to 1800.</term>
+               <term>Emperors -- Rome -- Portraits -- Early works to 1800.</term>
+               <term>Busts, Roman -- History -- Pictorial works -- Early works to 1800.</term>
+               <term>Sculpture, Classical -- Pictorial works -- Early works to 1800.</term>
+               <term>Musei capitolini (Rome, Italy)</term>
+               <term>Busts, Roman.</term>
+               <term>Emperors.</term>
+               <term>Sculpture, Classical.</term>
+               <term>Sculpture, Roman.</term>
+               <term>Rome (Empire)</term>
+               <term>N2830 .M87 1741</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a3047e96-bc66-435b-893b-409cd1c4eb3f">
@@ -160,66 +206,6 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/39b4ea35-a702-4ea2-97cd-5258f7de5309">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Del Museo Capitolino .. [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bottari, Giovanni Gaetano, 1689-1775.</authority>
-            <authority>Foggini, N. (Nicolao)</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <authority>Musei capitolini (Rome, Italy)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985434903506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/gp4t43</idno>
-            <idno type="URI">http://portal.getty.edu/api/wv5w2v</idno>
-            <idno type="URI">http://portal.getty.edu/api/z20m3p</idno>
-            <idno type="URI">http://portal.getty.edu/api/4t0m00</idno>
-            <idno type="URI">http://portal.getty.edu/api/sm275w</idno>
-            <idno type="URI">http://portal.getty.edu/api/2p1h88</idno>
-            <idno type="URI">http://portal.getty.edu/api/rt5266</idno>
-            <idno type="URI">http://portal.getty.edu/api/396815</idno>
-            <idno type="URI">http://portal.getty.edu/api/w42p4v</idno>
-            <idno type="URI">http://portal.getty.edu/api/tw8q43</idno>
-            <idno type="URI">http://portal.getty.edu/api/09432x</idno>
-            <idno type="cico">3416</idno>
-            <idno type="dcl">k8b</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Del Museo Capitolino .. [microform].</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma : Si vende alla Calcografia camerale ak ouede de narni</publisher>
-                     <pubPlace>Rome</pubPlace>
-                     <date>1741-82</date>
-                     <date>1741</date>
-                  </imprint>
-                  <extent>4 v. in 5.</extent>
-                  <extent>63 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7e8bb4cb-bf8f-428c-a1e5-c4a0ae7e00c3/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7e8bb4cb-bf8f-428c-a1e5-c4a0ae7e00c3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

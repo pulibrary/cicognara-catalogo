@@ -24,58 +24,6 @@ accoglierli in questa collezione, sebbene per il loro titolo non sembri a prima 
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dissertatio juridica De lamiis earumqve processu criminali / quam ... sub praesidio ... Dn. Ernesti Friderici Schröter ... ; publicae eruditorum censurae subjicit, Michael Paris Walburger ...</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Walburger, Michael Paris respondent.</authority>
-            <authority>Bauhöfer, Johann Jakob, -1692? printer.</authority>
-            <idno type="URI">http://portal.getty.edu/books/hul_990072393580203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/p6037r</idno>
-            <idno>(OCoLC)183911633</idno>
-            <idno type="cico">3334</idno>
-            <idno type="dcl">cp7</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertatio juridica De lamiis earumqve processu criminali / quam ... sub praesidio ... Dn. Ernesti Friderici Schröter ... ; publicae eruditorum censurae subjicit, Michael Paris Walburger ...</title>
-                  <respStmt>
-                     <persName>Schröter, Ernst Friedrich, 1621-1676 praeses.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Jenæ : Literis Joh. Jacobi Bauhoferi</publisher>
-                     <pubPlace>Holy Roman Empire</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Germany Jena.</pubPlace>
-                     <date>1670</date>
-                  </imprint>
-                  <extent>128, 4 unnumbered pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493441922"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493441922">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dissertatio juridica De lamiis earumqve processu criminali [microform] / quam ... sub praesidio ... Dn. Ernesti Friderici Schröter ... ; publicae eruditorum censurae subjicit, Michael Paris Walburger ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -117,9 +65,84 @@ accoglierli in questa collezione, sebbene per il loro titolo non sembri a prima 
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Criminal law -- Germany -- Early works to 1800.</term>
+               <term>Criminal procedure -- Germany -- Early works to 1800.</term>
+               <term>Witchcraft -- Germany -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/47d4e27f-1199-403c-9f06-95769f13d3b1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertatio juridica De lamiis earumqve processu criminali / quam ... sub praesidio ... Dn. Ernesti Friderici Schröter ... ; publicae eruditorum censurae subjicit, Michael Paris Walburger ...</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Walburger, Michael Paris respondent.</authority>
+            <authority>Bauhöfer, Johann Jakob, -1692? printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990072393580203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/p6037r</idno>
+            <idno>(OCoLC)183911633</idno>
+            <idno type="cico">3334</idno>
+            <idno type="dcl">cp7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertatio juridica De lamiis earumqve processu criminali / quam ... sub praesidio ... Dn. Ernesti Friderici Schröter ... ; publicae eruditorum censurae subjicit, Michael Paris Walburger ...</title>
+                  <respStmt>
+                     <persName>Schröter, Ernst Friedrich, 1621-1676 praeses.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Jenæ : Literis Joh. Jacobi Bauhoferi</publisher>
+                     <pubPlace>Holy Roman Empire</pubPlace>
+                     <pubPlace>Europe</pubPlace>
+                     <pubPlace>Germany Jena.</pubPlace>
+                     <date>1670</date>
+                  </imprint>
+                  <extent>128, 4 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:493441922"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Witchcraft -- Early works to 1800</term>
+               <term>Criminal law -- Holy Roman Empire</term>
+               <term>Criminal procedure -- Holy Roman Empire</term>
+               <term>Criminal procedure</term>
+               <term>Criminal law</term>
+               <term>Witchcraft</term>
+               <term>Europe -- Holy Roman Empire</term>
+               <term>Witchcraft. hou</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:493441922">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -32,52 +32,6 @@ avevano di già servito ad antiche opere precedenti, In f. obl.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Veteris Latii antiqua vestigia, urbis moenia : pontes, templa, piscinae, balnea, villae, aliaque rudera praecipue tyburtina, tusculana, et setina aeneis tabulis eleganter incisa, atque in lucem edita.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927938140001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/zr3s0v</idno>
-            <idno>(OCoLC)80461354</idno>
-            <idno type="cico">3909</idno>
-            <idno type="dcl">8pj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Veteris Latii antiqua vestigia, urbis moenia : pontes, templa, piscinae, balnea, villae, aliaque rudera praecipue tyburtina, tusculana, et setina aeneis tabulis eleganter incisa, atque in lucem edita.</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Romae : Typis Joannis Generosi Salomoni, praesidum facultate :</publisher>
-                     <pubPlace>Lazio (Italy)</pubPlace>
-                     <pubPlace>Campagna di Roma (Italy)</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1751</date>
-                  </imprint>
-                  <extent>[6] p., [58] leaves of plates (3 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/0b7bbf44-cdf9-4a2d-be8f-c34ca40e4710"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0b7bbf44-cdf9-4a2d-be8f-c34ca40e4710">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Veteris Latii antiqua vestigia, urbis moenia [microform] : pontes, templa, piscinae, balnea, villae, aliaque rudera praecipue tyburtina, tusculana, et setina aeneis tabulis eleganter incisa, atque in lucem edita.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +68,75 @@ avevano di già servito ad antiche opere precedenti, In f. obl.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lazio (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Rome -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/09be6058-e316-4574-8b03-21198feb1a63/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veteris Latii antiqua vestigia, urbis moenia : pontes, templa, piscinae, balnea, villae, aliaque rudera praecipue tyburtina, tusculana, et setina aeneis tabulis eleganter incisa, atque in lucem edita.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927938140001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/zr3s0v</idno>
+            <idno>(OCoLC)80461354</idno>
+            <idno type="cico">3909</idno>
+            <idno type="dcl">8pj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veteris Latii antiqua vestigia, urbis moenia : pontes, templa, piscinae, balnea, villae, aliaque rudera praecipue tyburtina, tusculana, et setina aeneis tabulis eleganter incisa, atque in lucem edita.</title>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Typis Joannis Generosi Salomoni, praesidum facultate :</publisher>
+                     <pubPlace>Lazio (Italy)</pubPlace>
+                     <pubPlace>Campagna di Roma (Italy)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1751</date>
+                  </imprint>
+                  <extent>[6] p., [58] leaves of plates (3 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/0b7bbf44-cdf9-4a2d-be8f-c34ca40e4710"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lazio (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Campagna di Roma (Italy) -- Antiquities.</term>
+               <term>Antiquities.</term>
+               <term>Italy -- Campagna di Roma.</term>
+               <term>Italy -- Lazio.</term>
+               <term>NA310 .V4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0b7bbf44-cdf9-4a2d-be8f-c34ca40e4710">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

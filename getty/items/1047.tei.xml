@@ -23,53 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ricerca filosofica sull' origine delle nostre idee intorno al sublime ed al bello : con un discorso sopra il gusto e diverse altre aggiunte : opera tradotta dall' inglese.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9929662510001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/n96n6r</idno>
-            <idno>(OCoLC)145954200</idno>
-            <idno type="cico">1047</idno>
-            <idno type="dcl">xfn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Ricerca filosofica sull' origine delle nostre idee intorno al sublime ed al bello : con un discorso sopra il gusto e diverse altre aggiunte : opera tradotta dall' inglese.</title>
-                  <respStmt>
-                     <persName>Burke, Edmund, 1729-1797</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Milano : Dalla tipografia di Francesco Sonzogno di Gio. Battista</publisher>
-                     <date>1804</date>
-                  </imprint>
-                  <extent>xvi, 191 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/14cce57a-e77e-4953-a8c6-d1c767f6a40c"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/14cce57a-e77e-4953-a8c6-d1c767f6a40c">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Ricerca filosofica sull' origine delle nostre idee intorno al sublime ed al bello [microform] : con un discorso sopra il gusto e diverse altre aggiunte / opera tradotta dall'inglese.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,9 +62,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics.</term>
+               <term>Sublime, The.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/78721a94-d0fe-42ac-b837-b493882336ae/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricerca filosofica sull' origine delle nostre idee intorno al sublime ed al bello : con un discorso sopra il gusto e diverse altre aggiunte : opera tradotta dall' inglese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9929662510001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/n96n6r</idno>
+            <idno>(OCoLC)145954200</idno>
+            <idno type="cico">1047</idno>
+            <idno type="dcl">xfn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ricerca filosofica sull' origine delle nostre idee intorno al sublime ed al bello : con un discorso sopra il gusto e diverse altre aggiunte : opera tradotta dall' inglese.</title>
+                  <respStmt>
+                     <persName>Burke, Edmund, 1729-1797</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Dalla tipografia di Francesco Sonzogno di Gio. Battista</publisher>
+                     <date>1804</date>
+                  </imprint>
+                  <extent>xvi, 191 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/14cce57a-e77e-4953-a8c6-d1c767f6a40c"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Sublime, The.</term>
+               <term>Aesthetics</term>
+               <term>Sublime, The.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/14cce57a-e77e-4953-a8c6-d1c767f6a40c">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

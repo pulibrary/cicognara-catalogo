@@ -18,4 +18,63 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione della Cappella di S. Antonino, arcivescovo di Firenze... dedicata al medesimo santo dalla famiglia de' Salviati... nella chiesa di San Marco di Firenze...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Salviati, Alamanno, Cardinal, 1668-1733.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991367463504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/tr125q</idno>
+            <idno>(OCoLC)993725550</idno>
+            <idno type="cico">4086</idno>
+            <idno type="cico">4020</idno>
+            <idno type="dcl">ng3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione della Cappella di S. Antonino, arcivescovo di Firenze... dedicata al medesimo santo dalla famiglia de' Salviati... nella chiesa di San Marco di Firenze...</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze, Stamperia di B. Paperini</publisher>
+                     <pubPlace>Florence (Italy)</pubPlace>
+                     <date>1728</date>
+                  </imprint>
+                  <extent>lxxii p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991367463504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Antoninus, Saint, Archbishop of Florence, 1389-1459.</term>
+               <term>Cappella di Sant'Antonino (San Marco (Church : Florence, Italy))</term>
+               <term>Florence (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991367463504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

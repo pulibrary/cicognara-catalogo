@@ -26,6 +26,67 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Discorsi accademici / del conte Castone della Torre di Rezzonico, segretario perpetvo della R. Accademia delle belle arti.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bodoni, Giambattista, 1740-1813</authority>
+            <authority>Bossi, Benigno, 1727-1792</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99378513504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/st605n</idno>
+            <idno>(OCoLC)973470728</idno>
+            <idno type="cico">1343</idno>
+            <idno type="dcl">58r</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discorsi accademici / del conte Castone della Torre di Rezzonico, segretario perpetvo della R. Accademia delle belle arti.</title>
+                  <respStmt>
+                     <persName>Torre di Rezzonico, Carlo Castone della, 1742-1796</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Dalla Stamperia Reale</publisher>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>viii, 80 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99378513504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Frugoni, Carlo Innocenzo, 1692-1768</term>
+               <term>Scutellari, Giulio.</term>
+               <term>Accademia di belle arti (Parma, Italy).</term>
+               <term>Drawing -- Early works to 1800.</term>
+               <term>Engraving -- Early works to 1800.</term>
+               <term>Provenance -- Almagià (Roberto)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99378513504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Versi sciolti e rimati di Dorillo Dafneio .. [microform]</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -64,6 +125,11 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/84abb09d-da9d-4cdb-8177-fa2689ae92fa/manifest">

@@ -23,51 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Eduardi Corsini ... De Minnisari aliorumque Armeniae regum nummis et Arsacidarum epocha dissertatio</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Corsini, Edoardo, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-308990</idno>
-            <idno type="URI">http://portal.getty.edu/api/200h52</idno>
-            <idno type="cico">2810</idno>
-            <idno type="dcl">7kc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Eduardi Corsini ... De Minnisari aliorumque Armeniae regum nummis et Arsacidarum epocha dissertatio</title>
-                  <textLang>Greek, Ancient (to 1453)</textLang>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1754</date>
-                     <date>1754</date>
-                  </imprint>
-                  <extent>VIII, 72 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/corsini1754/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/corsini1754/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Eduardi Corsini cl. reg. scholarum piarum ... De Minnisari aliorumque Armeniae regum nummis et Arsacidarum epocha dissertatio [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -110,6 +65,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Armenian -- Early works to 1800.</term>
+               <term>Coins, Parthian -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc2630af-fa34-4995-9bfa-e562c4bc3ba9/manifest">
@@ -163,6 +126,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Coins, Armenian -- Early works to 1800.</term>
+               <term>Coins, Parthian -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fc2630af-fa34-4995-9bfa-e562c4bc3ba9/manifest">

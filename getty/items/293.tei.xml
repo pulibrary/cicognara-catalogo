@@ -27,55 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cipriani's rudiments of drawing [microform] / engraved by F. Bartolozzi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985340003506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/b89h65</idno>
-            <idno type="cico">293</idno>
-            <idno type="dcl">3w6</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Cipriani's rudiments of drawing [microform] / engraved by F. Bartolozzi.</title>
-                  <respStmt>
-                     <persName>Bartolozzi, Francesco, 1727-1815.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>London : Pubd. as the act directs ... G. Bartolozzi</publisher>
-                     <date>1796</date>
-                  </imprint>
-                  <extent>[1] leaf, [9] leaves of plates, XVIII p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/963ea30f-fb62-40ac-a343-8290a103fbdc/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/963ea30f-fb62-40ac-a343-8290a103fbdc/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Cipriani's Rudiments of drawing / engraved by F. Bartolozzi.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +65,134 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cipriani, Giovanni Battista, 1727-1785</term>
+               <term>Human figure in art -- Early works to 1800.</term>
+               <term>Drawing -- Technique -- Early works to 1800.</term>
+               <term>Cipriani, Giovanni Battista, 1727-1785  http://id.worldcat.org//fst00257299</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5b418108-94f2-465d-bfc3-cb3a5bcd4f6e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cipriani's rudiments of drawing  / engraved by F. Bartolozzi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_992030923504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/775b57</idno>
+            <idno>(OCoLC)81350492</idno>
+            <idno type="cico">293</idno>
+            <idno type="dcl">3w6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cipriani's rudiments of drawing  / engraved by F. Bartolozzi.</title>
+                  <respStmt>
+                     <persName>Bartolozzi, Francesco, 1727-1815</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>London : Pubd. as the act directs by G. Bartolozzi</publisher>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>[1] leaf, [9] leaves of plates, XVIII p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992030923504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cipriani, Giovanni Battista, 1727-1785.</term>
+               <term>Human figure in art -- Early works to 1800.</term>
+               <term>Drawing -- Technique -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992030923504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cipriani's rudiments of drawing [microform] / engraved by F. Bartolozzi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985340003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b89h65</idno>
+            <idno type="cico">293</idno>
+            <idno type="dcl">3w6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cipriani's rudiments of drawing [microform] / engraved by F. Bartolozzi.</title>
+                  <respStmt>
+                     <persName>Bartolozzi, Francesco, 1727-1815.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>London : Pubd. as the act directs ... G. Bartolozzi</publisher>
+                     <date>1796</date>
+                  </imprint>
+                  <extent>[1] leaf, [9] leaves of plates, XVIII p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/963ea30f-fb62-40ac-a343-8290a103fbdc/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cipriani, Giovanni Battista, 1727-1785.</term>
+               <term>Human figure in art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/963ea30f-fb62-40ac-a343-8290a103fbdc/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

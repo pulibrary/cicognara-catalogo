@@ -28,6 +28,63 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>L'architettura di Marco Vitruvio Pollione [microform] / tradotta e comentata dal marchese Berardo Galiani ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Galiani, Berardo, marchese, 1724-1774.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985189933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/1k2w52</idno>
+            <idno type="cico">735</idno>
+            <idno type="dcl">197</idno>
+            <idno type="dcl">735</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'architettura di Marco Vitruvio Pollione [microform] / tradotta e comentata dal marchese Berardo Galiani ...</title>
+                  <respStmt>
+                     <persName>Vitruvius Pollio.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Napoli : Presso i fratelli terres</publisher>
+                     <date>1790</date>
+                  </imprint>
+                  <extent>[2], xx, 272 p., XXV leaves of plates</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ccdd49c-044a-49f9-8628-269a8a36cea1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ccdd49c-044a-49f9-8628-269a8a36cea1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>L'architettura di Marco Vitruvio Pollione / tradotta e comentata dal marchese Berardo Galiani ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -69,59 +126,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>NA2517 .V5 1790</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ada93e12-9b48-4f0a-87f7-d68c2bb12c86">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>L'architettura di Marco Vitruvio Pollione [microform] / tradotta e comentata dal marchese Berardo Galiani ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Galiani, Berardo, marchese, 1724-1774.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985189933506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/1k2w52</idno>
-            <idno type="cico">735</idno>
-            <idno type="dcl">197</idno>
-            <idno type="dcl">735</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'architettura di Marco Vitruvio Pollione [microform] / tradotta e comentata dal marchese Berardo Galiani ...</title>
-                  <respStmt>
-                     <persName>Vitruvius Pollio.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Napoli : Presso i fratelli terres</publisher>
-                     <date>1790</date>
-                  </imprint>
-                  <extent>[2], xx, 272 p., XXV leaves of plates</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ccdd49c-044a-49f9-8628-269a8a36cea1/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ccdd49c-044a-49f9-8628-269a8a36cea1/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

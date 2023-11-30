@@ -22,56 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Trattato completo, formale e materiale del teatro [microform] / di Francesco Milizia.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985202613506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/3f291n</idno>
-            <idno type="URI">http://portal.getty.edu/api/pb8h2d</idno>
-            <idno type="URI">http://portal.getty.edu/api/064w43</idno>
-            <idno type="cico">765</idno>
-            <idno type="dcl">wcc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Trattato completo, formale e materiale del teatro [microform] / di Francesco Milizia.</title>
-                  <respStmt>
-                     <persName>Milizia, Francesco, 1725-1798.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venezia : Stamperia di Pietro &amp; Gio: Batt. Pasquali</publisher>
-                     <date>1794</date>
-                  </imprint>
-                  <extent>204 [i.e. 104] p., VI leaves of plates</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/475d2d71-4f40-4c19-b3ba-19fb6306e604/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/475d2d71-4f40-4c19-b3ba-19fb6306e604/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Trattato completo, formale e materiale del teatro / di Francesco Milizia.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -112,9 +62,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Theater -- Early works to 1800.</term>
+               <term>Drama -- Philosophy -- Early works to 1800.</term>
+               <term>Opera -- Early works to 1800.</term>
+               <term>Drama</term>
+               <term>Opera</term>
+               <term>Theater</term>
+               <term>PN1654 .M55 1794</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c53810e4-fbf5-4f41-b60d-e3832887c5c8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato completo, formale e materiale del teatro [microform] / di Francesco Milizia.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985202613506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3f291n</idno>
+            <idno type="URI">http://portal.getty.edu/api/pb8h2d</idno>
+            <idno type="URI">http://portal.getty.edu/api/064w43</idno>
+            <idno type="cico">765</idno>
+            <idno type="dcl">wcc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato completo, formale e materiale del teatro [microform] / di Francesco Milizia.</title>
+                  <respStmt>
+                     <persName>Milizia, Francesco, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Stamperia di Pietro &amp; Gio: Batt. Pasquali</publisher>
+                     <date>1794</date>
+                  </imprint>
+                  <extent>204 [i.e. 104] p., VI leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/475d2d71-4f40-4c19-b3ba-19fb6306e604/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Drama -- Philosophy -- Early works to 1800.</term>
+               <term>Opera -- Early works to 1800.</term>
+               <term>Theater -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/475d2d71-4f40-4c19-b3ba-19fb6306e604/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

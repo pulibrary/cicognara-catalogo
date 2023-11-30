@@ -24,55 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De vasi murrini ragionamento [microform] / d'Ignazio Paterno Castello.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985456893506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/t33349</idno>
-            <idno type="cico">1750</idno>
-            <idno type="dcl">wz4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De vasi murrini ragionamento [microform] / d'Ignazio Paterno Castello.</title>
-                  <respStmt>
-                     <persName>Paternò Castello, Ignazio, principe di Biscari, 1719-1786.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Firenze] : Accademico della Crusca</publisher>
-                     <date>1781</date>
-                  </imprint>
-                  <extent>39 p., II leaves of plates</extent>
-                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e0b65c76-1297-41d8-957f-c89b3708fa43/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e0b65c76-1297-41d8-957f-c89b3708fa43/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>De vasi murrini ragionamento / d'Ignazio Paternò Castello, principe di Biscari &amp;c. &amp;c. ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -111,9 +62,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Stone vases -- Early works to 1800.</term>
+               <term>Stone vases.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/0c99d3a1-632f-4d39-ba22-051542da4fec">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De vasi murrini ragionamento [microform] / d'Ignazio Paterno Castello.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456893506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t33349</idno>
+            <idno type="cico">1750</idno>
+            <idno type="dcl">wz4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De vasi murrini ragionamento [microform] / d'Ignazio Paterno Castello.</title>
+                  <respStmt>
+                     <persName>Paternò Castello, Ignazio, principe di Biscari, 1719-1786.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Firenze] : Accademico della Crusca</publisher>
+                     <date>1781</date>
+                  </imprint>
+                  <extent>39 p., II leaves of plates</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e0b65c76-1297-41d8-957f-c89b3708fa43/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Stone vases -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e0b65c76-1297-41d8-957f-c89b3708fa43/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

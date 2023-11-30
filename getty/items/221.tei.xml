@@ -58,9 +58,68 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Drawing -- Technique -- Early works to 1800.</term>
+               <term>Miniature painting -- Technique -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6b0761e8-433f-4586-bd3e-047c2cc135bc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato del disegno, e della pittura in miniatura : aggiuntivi ancora i Trattenimenti sulla pittura, o sia, La verissima maniera di diventar pittore in tre sole ore / traduzione dal francese.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991094013504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/m6585x</idno>
+            <idno>(OCoLC)25054532</idno>
+            <idno type="cico">221</idno>
+            <idno type="dcl">qfs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato del disegno, e della pittura in miniatura : aggiuntivi ancora i Trattenimenti sulla pittura, o sia, La verissima maniera di diventar pittore in tre sole ore / traduzione dal francese.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Appresso Antonio Locatelli</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>32, 128 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991094013504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Drawing -- Technique -- Early works to 1800.</term>
+               <term>Miniature painting -- Technique -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991094013504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -26,49 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La Carta Del Navegar Pitoresco: Dialogo Tra vn Senator venetian deletante, e vn professor de Pitura, soto nome d'Ecelenza, e de Compare ; Comparti In Oto Venti ...</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Boschini, Marco, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-287578</idno>
-            <idno type="URI">http://portal.getty.edu/api/gw7b0c</idno>
-            <idno type="cico">976</idno>
-            <idno type="dcl">065</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La Carta Del Navegar Pitoresco: Dialogo Tra vn Senator venetian deletante, e vn professor de Pitura, soto nome d'Ecelenza, e de Compare ; Comparti In Oto Venti ...</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <date>1660</date>
-                     <date>1660</date>
-                  </imprint>
-                  <extent>12 Bl., 690 S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/boschini1660/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/boschini1660/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>La carta del navegar pitoresco [microform] : dialogo tra vn senator venetian deletante, e vn professor de pitura, soto nome d'ecelenza, e de compare ... / Marco Boschini ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -107,6 +64,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Italy -- Venice.</term>
+               <term>Painting, Italian -- Italy -- Venice.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a39ab5b-8936-420a-8d69-855044409150/manifest">

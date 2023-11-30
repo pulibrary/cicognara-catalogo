@@ -23,6 +23,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Vita di Domenico Maria Viani pittor bolognesi / scritta da Gioseffo Guidalotti Franchini.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zanotti, Giampietro, 1674-1765.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99942223504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/8f585c</idno>
+            <idno>(OCoLC)83336875</idno>
+            <idno type="cico">2284</idno>
+            <idno type="dcl">660</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Domenico Maria Viani pittor bolognesi / scritta da Gioseffo Guidalotti Franchini.</title>
+                  <respStmt>
+                     <persName>Franchini, Gioseffo Guidalotti.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Constnatino Pisarri</publisher>
+                     <date>1716</date>
+                  </imprint>
+                  <extent>38 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99942223504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Viani, Domenico Maria, 1668-1711.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99942223504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Vita di Domenico Maria Viani pittor bolognese [microform] / scritta da Gioseffo Guidalotti Franchini.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -60,6 +115,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Viani, Domenico Maria, 1668-1711.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5ad0cbff-d36d-4056-80ce-3e93fe8415bc/manifest">

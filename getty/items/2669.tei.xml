@@ -26,57 +26,6 @@ vi sono 14 tavole in rame.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Les ruines de Paestum, ou Posidonia [microform] : ancienne ville de la Grande-Grèce, a vingt-dieux lieues de Naples dans le golfe de Salerne / levées, mesurées et dessinées sur les lieux en l'an II par C.M. Delagardette ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985406053506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ss4p5v</idno>
-            <idno type="cico">2669</idno>
-            <idno type="dcl">864</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Les ruines de Paestum, ou Posidonia [microform] : ancienne ville de la Grande-Grèce, a vingt-dieux lieues de Naples dans le golfe de Salerne / levées, mesurées et dessinées sur les lieux en l'an II par C.M. Delagardette ...</title>
-                  <respStmt>
-                     <persName>Delagardette, C. M. (Claude Mathieu), 1762-1805.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez l'auteur ... et Chez H. Barbou</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Paestum (Italy)</pubPlace>
-                     <date>An VII [1798/1799]</date>
-                     <date>1798</date>
-                  </imprint>
-                  <extent>viij, 76 p., xlv leaves of plates</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/be0d1369-b2c6-4f2e-84a9-b410a9c1d520/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/be0d1369-b2c6-4f2e-84a9-b410a9c1d520/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Les ruines de Paestum ou Posidonia, ancienne ville de la Grande Grèce: a vingt-deux Lieues de Naples, dans le Golfe de Salerne, levées, mesurées et dessinées sur les lieux, en l'an II</title>
             <respStmt>
                <orgName>Heidelberg University Library</orgName>
@@ -121,9 +70,79 @@ vi sono 14 tavole in rame.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Tempelbau</term>
+               <term>Cicognara</term>
+               <term>Parte Seconda</term>
+               <term>Antichità Greche, Greco-Italiche, ed Ercolanensi</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/lagardette1799/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les ruines de Paestum, ou Posidonia [microform] : ancienne ville de la Grande-Grèce, a vingt-dieux lieues de Naples dans le golfe de Salerne / levées, mesurées et dessinées sur les lieux en l'an II par C.M. Delagardette ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985406053506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ss4p5v</idno>
+            <idno type="cico">2669</idno>
+            <idno type="dcl">864</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les ruines de Paestum, ou Posidonia [microform] : ancienne ville de la Grande-Grèce, a vingt-dieux lieues de Naples dans le golfe de Salerne / levées, mesurées et dessinées sur les lieux en l'an II par C.M. Delagardette ...</title>
+                  <respStmt>
+                     <persName>Delagardette, C. M. (Claude Mathieu), 1762-1805.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez l'auteur ... et Chez H. Barbou</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Paestum (Italy)</pubPlace>
+                     <date>An VII [1798/1799]</date>
+                     <date>1798</date>
+                  </imprint>
+                  <extent>viij, 76 p., xlv leaves of plates</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/be0d1369-b2c6-4f2e-84a9-b410a9c1d520/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Greek -- Italy -- Paestum.</term>
+               <term>Paestum (Italy) -- Antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/be0d1369-b2c6-4f2e-84a9-b410a9c1d520/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

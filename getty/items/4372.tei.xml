@@ -22,57 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Guida per l'Isola di Murano [microform] / descritta da Giannantonio Moschini.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985432403506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tg1x7k</idno>
-            <idno type="cico">4372</idno>
-            <idno type="dcl">4pq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Guida per l'Isola di Murano [microform] / descritta da Giannantonio Moschini.</title>
-                  <respStmt>
-                     <persName>Moschini, Giannantonio, 1773-1840.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venezia : Dalla stamperia Palese</publisher>
-                     <pubPlace>Murano (Italy)</pubPlace>
-                     <pubPlace>San Giorgio Maggiore Island (Italy)</pubPlace>
-                     <date>1808</date>
-                  </imprint>
-                  <extent>130, [10], 36 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3a836c7a-66bf-4b13-acfc-12f09d83df43/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3a836c7a-66bf-4b13-acfc-12f09d83df43/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Guida per l'Isola di Murano / descritta da Giannantonio Moschini.</title>
             <respStmt>
                <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
@@ -114,9 +63,79 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Murano (Italy) -- Guidebooks.</term>
+               <term>San Giorgio Maggiore Island (Italy) -- Guidebooks.</term>
+               <term>Italy -- Murano.</term>
+               <term>Italy -- San Giorgio Maggiore Island</term>
+               <term>DG975.M95 M89g 1808</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:451270269">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guida per l'Isola di Murano [microform] / descritta da Giannantonio Moschini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985432403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tg1x7k</idno>
+            <idno type="cico">4372</idno>
+            <idno type="dcl">4pq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Guida per l'Isola di Murano [microform] / descritta da Giannantonio Moschini.</title>
+                  <respStmt>
+                     <persName>Moschini, Giannantonio, 1773-1840.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Dalla stamperia Palese</publisher>
+                     <pubPlace>Murano (Italy)</pubPlace>
+                     <pubPlace>San Giorgio Maggiore Island (Italy)</pubPlace>
+                     <date>1808</date>
+                  </imprint>
+                  <extent>130, [10], 36 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3a836c7a-66bf-4b13-acfc-12f09d83df43/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Murano (Italy) -- Guidebooks.</term>
+               <term>San Giorgio Maggiore Island (Italy) -- Guidebooks.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3a836c7a-66bf-4b13-acfc-12f09d83df43/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

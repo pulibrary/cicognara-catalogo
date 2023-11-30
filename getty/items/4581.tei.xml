@@ -23,6 +23,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Catalogo delle opere d'intaglio di Raffaello Morghen / raccolte ed illustrate da Niccolò Palmerini.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9952888583506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t2541k</idno>
+            <idno>(OCoLC)10924995</idno>
+            <idno type="cico">4581</idno>
+            <idno type="dcl">dw0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogo delle opere d'intaglio di Raffaello Morghen / raccolte ed illustrate da Niccolò Palmerini.</title>
+                  <respStmt>
+                     <persName>Palmerini, Niccolò.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Presso Molini, Landi</publisher>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>64, xviii p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d526c56d-cfef-42ef-9e29-94b2d2545fae/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Morghen, Raffaello, 1761-1833 -- Catalogs.</term>
+               <term>NE662.M6 A4 1810 Rosenwald Coll</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d526c56d-cfef-42ef-9e29-94b2d2545fae/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Catalogo delle opere d'intaglio di Raffaello Morghen [microform] / raccolte ed illustrate da Niccolò Palmerini.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -61,6 +116,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Morghen, Raffaello, 1761-1833.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/908a0f80-ec6d-4136-bb10-4e80f3d67481/manifest">

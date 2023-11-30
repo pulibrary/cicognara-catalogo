@@ -25,9 +25,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L' art de la peinture sur verre et de la vitrerie</title>
+            <title>L'art de la peinture sur verre et de la vitrerie [microform] / par feu M. Le Vieil.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -36,31 +36,44 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>LeVieil, Pierre, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-82490</idno>
-            <idno type="URI">http://portal.getty.edu/api/fg636w</idno>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941873506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tp572f</idno>
             <idno type="cico">230</idno>
             <idno type="dcl">vrf</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>L' art de la peinture sur verre et de la vitrerie</title>
+                  <title>L'art de la peinture sur verre et de la vitrerie [microform] / par feu M. Le Vieil.</title>
+                  <respStmt>
+                     <persName>Le Vieil, Pierre, 1708-1772.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1774</date>
+                     <publisher>[S.l. : s.n.]</publisher>
+                     <pubPlace>France.</pubPlace>
                      <date>1774</date>
                   </imprint>
-                  <extent>XIV, 245 S., XIII Bl.</extent>
-                  <extent>Ill.</extent>
+                  <extent>xiv, 245 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/levieil1774/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e7657d16-5a84-4ddc-bc44-c69520420928/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Glass painting and staining.</term>
+               <term>Glass trade -- France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/levieil1774/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e7657d16-5a84-4ddc-bc44-c69520420928/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -109,58 +122,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Glass painting and staining.</term>
+               <term>Glass painting and staining</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f8136894-47a1-4a00-9afe-37378f303371">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>L'art de la peinture sur verre et de la vitrerie [microform] / par feu M. Le Vieil.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984941873506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tp572f</idno>
-            <idno type="cico">230</idno>
-            <idno type="dcl">vrf</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'art de la peinture sur verre et de la vitrerie [microform] / par feu M. Le Vieil.</title>
-                  <respStmt>
-                     <persName>Le Vieil, Pierre, 1708-1772.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>[S.l. : s.n.]</publisher>
-                     <pubPlace>France.</pubPlace>
-                     <date>1774</date>
-                  </imprint>
-                  <extent>xiv, 245 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e7657d16-5a84-4ddc-bc44-c69520420928/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e7657d16-5a84-4ddc-bc44-c69520420928/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -21,6 +21,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Descrizione delle pitture di S. Pietro di Perugia ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920877493506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/zk419n</idno>
+            <idno>(OCoLC)40162050</idno>
+            <idno type="cico">4302</idno>
+            <idno type="dcl">9w6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione delle pitture di S. Pietro di Perugia ...</title>
+                  <respStmt>
+                     <persName>Galassi, Francesco Maria.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Perugia, M. Riginaldi</publisher>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>106 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/580a34a9-0449-42e4-82f8-29e7456310e1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perugia (Italy). San Pietro de' Cassinensi (Church)</term>
+               <term>Perugia (Italy). San Pietro de' Cassinensi (Benedictine Monastery)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/580a34a9-0449-42e4-82f8-29e7456310e1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Descrizione delle pitture di S. Pietro di Perugia, chiesa de' Monaci neri di S. Benedetto [microform] : e di quanto si vede in essa di più singolare, colle notizie de' loro autori.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -60,6 +115,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>S. Pietro (Church : Perguia, Italy)</term>
+               <term>Painting -- Italy -- Perugia -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d265f98f-dfc5-42b1-a009-05de2c7e4be9/manifest">

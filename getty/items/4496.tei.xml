@@ -23,56 +23,6 @@ M. ***</title>, <pubPlace>Paris</pubPlace> <date>1783</date>, in 8.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Catalogue d'une collection de dessins des trois écoles, gouaches, migniatures, estampes, et autres curiosités : provenant du cabinet de M.***... / par M. Le Brun le Jeune.</title>
-            <respStmt>
-               <orgName>Frick Art Reference Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Le Brun, Jean-Baptiste-Pierre, 1748-1813.</authority>
-            <authority>Boileau, L. F. J. (Louis François Jacques), auctioneer.</authority>
-            <authority>Prault, Louis-François, 1734-1806, printer.</authority>
-            <idno type="URI">http://portal.getty.edu/books/frick_1157287601</idno>
-            <idno type="URI">http://portal.getty.edu/api/s73997</idno>
-            <idno>(OCoLC)1157287601</idno>
-            <idno type="cico">4496</idno>
-            <idno type="dcl">rcc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Catalogue d'une collection de dessins des trois écoles, gouaches, migniatures, estampes, et autres curiosités : provenant du cabinet de M.***... / par M. Le Brun le Jeune.</title>
-                  <respStmt>
-                     <persName>Lebrun, le jeune, -1802, auctioneer.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris : Se distribue chez M. Boileau et Le Brun</publisher>
-                     <date>1783</date>
-                  </imprint>
-                  <extent>1 online resource (91 pages)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072003829811"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072003829811">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Catalogue d'une collection de dessins des trois écoles, gouaches, migniatures [!], estampes et autres curiosités [microform] : provenant du cabinet de M.***.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,9 +63,69 @@ M. ***</title>, <pubPlace>Paris</pubPlace> <date>1783</date>, in 8.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e452e159-44a2-4d5e-8a3d-c114c75cb2f9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue d'une collection de dessins des trois écoles, gouaches, migniatures, estampes, et autres curiosités : provenant du cabinet de M.***... / par M. Le Brun le Jeune.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Le Brun, Jean-Baptiste-Pierre, 1748-1813.</authority>
+            <authority>Boileau, L. F. J. (Louis François Jacques), auctioneer.</authority>
+            <authority>Prault, Louis-François, 1734-1806, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287601</idno>
+            <idno type="URI">http://portal.getty.edu/api/s73997</idno>
+            <idno>(OCoLC)1157287601</idno>
+            <idno type="cico">4496</idno>
+            <idno type="dcl">rcc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogue d'une collection de dessins des trois écoles, gouaches, migniatures, estampes, et autres curiosités : provenant du cabinet de M.***... / par M. Le Brun le Jeune.</title>
+                  <respStmt>
+                     <persName>Lebrun, le jeune, -1802, auctioneer.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Se distribue chez M. Boileau et Le Brun</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>1 online resource (91 pages)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072003829811"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072003829811">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

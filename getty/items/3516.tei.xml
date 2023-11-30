@@ -26,50 +26,6 @@ in tal occasione.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Per l'aspettato arrivo di Canova in Bologna : poesie / [Pietro Giordani ...].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Giordani, Pietro.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_99100854273506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/n57v13</idno>
-            <idno>(OCoLC)314509666</idno>
-            <idno type="cico">3516</idno>
-            <idno type="dcl">tc6</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Per l'aspettato arrivo di Canova in Bologna : poesie / [Pietro Giordani ...].</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Bologna : Masi</publisher>
-                     <date>1810</date>
-                  </imprint>
-                  <extent>1 Mikrofiche : 24x.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/87cd6aac-2000-46c7-876e-71b4b3dbb4df/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/87cd6aac-2000-46c7-876e-71b4b3dbb4df/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Per l'aspettato arrivo di Canova in Bologna : poesie.</title>
             <respStmt>
                <orgName>Harvard Library</orgName>
@@ -107,9 +63,69 @@ in tal occasione.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822 -- Poetry.</term>
+               <term>Canova, Antonio, 1757-1822</term>
+               <term>NB623.C2 P4 1810</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481964473">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Per l'aspettato arrivo di Canova in Bologna : poesie / [Pietro Giordani ...].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Giordani, Pietro.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_99100854273506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n57v13</idno>
+            <idno>(OCoLC)314509666</idno>
+            <idno type="cico">3516</idno>
+            <idno type="dcl">tc6</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Per l'aspettato arrivo di Canova in Bologna : poesie / [Pietro Giordani ...].</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Masi</publisher>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>1 Mikrofiche : 24x.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/87cd6aac-2000-46c7-876e-71b4b3dbb4df/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>NB623.C2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/87cd6aac-2000-46c7-876e-71b4b3dbb4df/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

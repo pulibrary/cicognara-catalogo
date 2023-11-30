@@ -28,6 +28,64 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Saggio sopra il bello di proporzione in architettura / di Alessandro Barca.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Noale, Antonio, 1776-approximately 1837.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930449030001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/hm6x6m</idno>
+            <idno>(OCoLC)8139896</idno>
+            <idno type="cico">413</idno>
+            <idno type="dcl">prz</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio sopra il bello di proporzione in architettura / di Alessandro Barca.</title>
+                  <respStmt>
+                     <persName>Barca, Alessandro, 1741-1814.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bassano : Tipografia Remondiniana</publisher>
+                     <date>1806</date>
+                  </imprint>
+                  <extent>xx, 74 p., 5 folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c21b16ab-1fa3-4250-980f-8545af7b60a0"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Composition, proportion, etc.</term>
+               <term>Aesthetics.</term>
+               <term>Aesthetics</term>
+               <term>Architecture -- Composition, proportion, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c21b16ab-1fa3-4250-980f-8545af7b60a0">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Saggio sopra il bello di proporzione in architettura [microform] / di Alessandro Barca.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,57 +124,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics.</term>
+               <term>Architecture -- Composition, proportion, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff6e94f4-671c-479e-8c8a-444f18e3334f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Saggio sopra il bello di proporzione in architettura / di Alessandro Barca.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Noale, Antonio, 1776-approximately 1837.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9930449030001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/hm6x6m</idno>
-            <idno>(OCoLC)8139896</idno>
-            <idno type="cico">413</idno>
-            <idno type="dcl">prz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Saggio sopra il bello di proporzione in architettura / di Alessandro Barca.</title>
-                  <respStmt>
-                     <persName>Barca, Alessandro, 1741-1814.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Bassano : Tipografia Remondiniana</publisher>
-                     <date>1806</date>
-                  </imprint>
-                  <extent>xx, 74 p., 5 folded leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c21b16ab-1fa3-4250-980f-8545af7b60a0"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c21b16ab-1fa3-4250-980f-8545af7b60a0">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

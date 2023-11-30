@@ -40,8 +40,8 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16055</idno>
-            <idno type="URI">http://portal.getty.edu/api/qz3x02</idno>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16013</idno>
+            <idno type="URI">http://portal.getty.edu/api/gg964z</idno>
             <idno type="cico">487</idno>
             <idno type="dcl">p54</idno>
          </publicationStmt>
@@ -51,18 +51,84 @@
                   <title>Fürstlicher Baumeister, Oder Architectura Civilis: Wie Grosser Fürsten und Herren Palläste, mit ihren Höfen, Lusthäusern, Gärten, Grotten, Orangerien, und anderen darzu gehörigen Gebäuden füglich anzulegen, und nach heutiger Art auszuzieren ; Zusamt den Grund-Rissen und Durchschnitten, auch vornehmsten G</title>
                   <textLang>German</textLang>
                   <imprint>
-                     <date>1716</date>
-                     <date>1716</date>
+                     <date>1713</date>
+                     <date>1713</date>
                   </imprint>
-                  <extent>[1] Bl., [2] Taf., Taf. 2 - 8, [2] Taf., Taf. 9 - 17, [1] Taf., Taf. 18, [1] Taf., Taf. 19 - 30</extent>
+                  <extent>[1] Bl., [40] Taf.</extent>
+                  <extent>Ill.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1716/manifest.json"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1713/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Palast</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1716/manifest.json">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1713/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fürstlicher Baumeister, Oder Architectura Civilis: Wie Grosser Fürsten und Herren Palläste, mit ihren Höfen, Lusthäusern, Gärten, Grotten, Orangerien, und anderen darzu gehörigen Gebäuden füglich anzulegen, und nach heutiger Art auszuzieren ; Zusamt den Grund-Rissen und Durchschnitten, auch vornehmsten G</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16004</idno>
+            <idno type="URI">http://portal.getty.edu/api/f74q3h</idno>
+            <idno type="cico">487</idno>
+            <idno type="dcl">p54</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Fürstlicher Baumeister, Oder Architectura Civilis: Wie Grosser Fürsten und Herren Palläste, mit ihren Höfen, Lusthäusern, Gärten, Grotten, Orangerien, und anderen darzu gehörigen Gebäuden füglich anzulegen, und nach heutiger Art auszuzieren ; Zusamt den Grund-Rissen und Durchschnitten, auch vornehmsten G</title>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <date>1711</date>
+                     <date>1711</date>
+                  </imprint>
+                  <extent>[6] Bl., 59, [1] Taf.</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1711/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Palast</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1711/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -109,6 +175,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Decoration and ornament, Architectural -- Early works to 1800.</term>
+               <term>Landscape architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/021d5976-3bc3-46dc-8e46-9800faae683a/manifest">
@@ -131,8 +206,8 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16004</idno>
-            <idno type="URI">http://portal.getty.edu/api/f74q3h</idno>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16055</idno>
+            <idno type="URI">http://portal.getty.edu/api/qz3x02</idno>
             <idno type="cico">487</idno>
             <idno type="dcl">p54</idno>
          </publicationStmt>
@@ -142,62 +217,29 @@
                   <title>Fürstlicher Baumeister, Oder Architectura Civilis: Wie Grosser Fürsten und Herren Palläste, mit ihren Höfen, Lusthäusern, Gärten, Grotten, Orangerien, und anderen darzu gehörigen Gebäuden füglich anzulegen, und nach heutiger Art auszuzieren ; Zusamt den Grund-Rissen und Durchschnitten, auch vornehmsten G</title>
                   <textLang>German</textLang>
                   <imprint>
-                     <date>1711</date>
-                     <date>1711</date>
+                     <date>1716</date>
+                     <date>1716</date>
                   </imprint>
-                  <extent>[6] Bl., 59, [1] Taf.</extent>
-                  <extent>zahlr. Ill.</extent>
+                  <extent>[1] Bl., [2] Taf., Taf. 2 - 8, [2] Taf., Taf. 9 - 17, [1] Taf., Taf. 18, [1] Taf., Taf. 19 - 30</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1711/manifest.json"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1716/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Palast</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1711/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Fürstlicher Baumeister, Oder Architectura Civilis: Wie Grosser Fürsten und Herren Palläste, mit ihren Höfen, Lusthäusern, Gärten, Grotten, Orangerien, und anderen darzu gehörigen Gebäuden füglich anzulegen, und nach heutiger Art auszuzieren ; Zusamt den Grund-Rissen und Durchschnitten, auch vornehmsten G</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-16013</idno>
-            <idno type="URI">http://portal.getty.edu/api/gg964z</idno>
-            <idno type="cico">487</idno>
-            <idno type="dcl">p54</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Fürstlicher Baumeister, Oder Architectura Civilis: Wie Grosser Fürsten und Herren Palläste, mit ihren Höfen, Lusthäusern, Gärten, Grotten, Orangerien, und anderen darzu gehörigen Gebäuden füglich anzulegen, und nach heutiger Art auszuzieren ; Zusamt den Grund-Rissen und Durchschnitten, auch vornehmsten G</title>
-                  <textLang>German</textLang>
-                  <imprint>
-                     <date>1713</date>
-                     <date>1713</date>
-                  </imprint>
-                  <extent>[1] Bl., [40] Taf.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1713/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1713/manifest.json">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/decker1716/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

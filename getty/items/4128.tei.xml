@@ -21,57 +21,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Memorie intorno alle pubbliche fabbriche piu insigni della Città di Brescia [microform] / raccolte da Baldassarre Zamboni ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985427843506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/5v6m2c</idno>
-            <idno type="cico">4128</idno>
-            <idno type="dcl">pzp</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Memorie intorno alle pubbliche fabbriche piu insigni della Città di Brescia [microform] / raccolte da Baldassarre Zamboni ...</title>
-                  <respStmt>
-                     <persName>Zamboni, Baldassarre.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Brescia : Per Pietro Vescovi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Brescia (Italy)</pubPlace>
-                     <date>1778</date>
-                  </imprint>
-                  <extent>viii, 163 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/993771cf-662c-4329-8a13-a7c501e79a0f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/993771cf-662c-4329-8a13-a7c501e79a0f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Memorie intorno alle pubbliche fabbriche piu insigni della città di Brescia / raccolte da Baldassarre Zamboni arciprete di Calvisano.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -117,9 +66,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Brescia (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Architecture -- Italy -- Brescia.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>Buildings.</term>
+               <term>Italy -- Brescia.</term>
+               <term>NA1121.B83 Z343</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ad3e2921-a9c4-467d-8e8a-24a62a5907d1">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie intorno alle pubbliche fabbriche piu insigni della Città di Brescia [microform] / raccolte da Baldassarre Zamboni ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985427843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5v6m2c</idno>
+            <idno type="cico">4128</idno>
+            <idno type="dcl">pzp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie intorno alle pubbliche fabbriche piu insigni della Città di Brescia [microform] / raccolte da Baldassarre Zamboni ...</title>
+                  <respStmt>
+                     <persName>Zamboni, Baldassarre.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Brescia : Per Pietro Vescovi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Brescia (Italy)</pubPlace>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>viii, 163 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/993771cf-662c-4329-8a13-a7c501e79a0f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Brescia -- Early works to 1800.</term>
+               <term>Brescia (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/993771cf-662c-4329-8a13-a7c501e79a0f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

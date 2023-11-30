@@ -27,55 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Discussione ragionata di due quistioni architettoniche tratte dal libro terzo di Marco Vitruvio Pollione [microform] : dall'ingegnere, ed architetto collegiato di Milano / Pietro Giovanni Piacenza.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vitruvius Pollio.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985137413506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/n40t4v</idno>
-            <idno type="cico">610</idno>
-            <idno type="dcl">22v</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Discussione ragionata di due quistioni architettoniche tratte dal libro terzo di Marco Vitruvio Pollione [microform] : dall'ingegnere, ed architetto collegiato di Milano / Pietro Giovanni Piacenza.</title>
-                  <respStmt>
-                     <persName>Piacenza, Pietro Giovanni.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Milano : Nella stamperia di Francesco Pulini</publisher>
-                     <date>1795</date>
-                  </imprint>
-                  <extent>[2], vi, 38, [2] p., [4] leaves of plates</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a9d811cc-b381-4c19-ae38-14d447332116/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a9d811cc-b381-4c19-ae38-14d447332116/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Discussione ragionata di due quistioni architettoniche : tratte dal libro terzo di Marco Vitruvio Pollione / dall'ingegnere, ed architetto collegiato di Milano Pietro Giovanni Piacenza.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,9 +66,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vitruvius Pollio. De architectura. Libro 3.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>De architectura (Vitruvius Pollio)</term>
+               <term>Architecture.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/331acf72-3c39-4776-bbb4-162c42910853">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discussione ragionata di due quistioni architettoniche tratte dal libro terzo di Marco Vitruvio Pollione [microform] : dall'ingegnere, ed architetto collegiato di Milano / Pietro Giovanni Piacenza.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vitruvius Pollio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985137413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n40t4v</idno>
+            <idno type="cico">610</idno>
+            <idno type="dcl">22v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Discussione ragionata di due quistioni architettoniche tratte dal libro terzo di Marco Vitruvio Pollione [microform] : dall'ingegnere, ed architetto collegiato di Milano / Pietro Giovanni Piacenza.</title>
+                  <respStmt>
+                     <persName>Piacenza, Pietro Giovanni.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Nella stamperia di Francesco Pulini</publisher>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>[2], vi, 38, [2] p., [4] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a9d811cc-b381-4c19-ae38-14d447332116/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a9d811cc-b381-4c19-ae38-14d447332116/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

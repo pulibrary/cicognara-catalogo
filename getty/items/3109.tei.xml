@@ -22,55 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Spiegazione di due antichissime iscrizioni greche ... / da Odoardo Corsini.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926935830001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/wr4h4k</idno>
-            <idno>(OCoLC)10445069</idno>
-            <idno type="cico">3109</idno>
-            <idno type="dcl">82v</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Spiegazione di due antichissime iscrizioni greche ... / da Odoardo Corsini.</title>
-                  <respStmt>
-                     <persName>Corsini, Edoardo, 1702-1765</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Nella stamperia di Giovanni Zempel</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy Rome.</pubPlace>
-                     <date>1756</date>
-                  </imprint>
-                  <extent>xvi pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/88e31bad-e24c-49f8-9f01-8e90d2bf70e2"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/88e31bad-e24c-49f8-9f01-8e90d2bf70e2">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Spiegazione di due antichissime iscrizioni greche .. [microform] / da Odoardo Corsini ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,9 +60,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Greek -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2ebf18d0-fc88-49d5-b6e9-399680489a93/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiegazione di due antichissime iscrizioni greche ... / da Odoardo Corsini.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926935830001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/wr4h4k</idno>
+            <idno>(OCoLC)10445069</idno>
+            <idno type="cico">3109</idno>
+            <idno type="dcl">82v</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Spiegazione di due antichissime iscrizioni greche ... / da Odoardo Corsini.</title>
+                  <respStmt>
+                     <persName>Corsini, Edoardo, 1702-1765</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamperia di Giovanni Zempel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>xvi pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/88e31bad-e24c-49f8-9f01-8e90d2bf70e2"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vezzosi, Antonio Francesco, 1708-1783</term>
+               <term>Inscriptions, Greek -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Inscriptions, Greek.</term>
+               <term>Italy -- Rome.</term>
+               <term>CN395 .C67 1756</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/88e31bad-e24c-49f8-9f01-8e90d2bf70e2">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

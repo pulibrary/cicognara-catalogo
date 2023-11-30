@@ -22,56 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vite de' pittori, scultori, ed architetti moderni [microform] / scritte ... da Lione Pascoli.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985403313506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/9p075p</idno>
-            <idno type="cico">2342</idno>
-            <idno type="dcl">xz5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vite de' pittori, scultori, ed architetti moderni [microform] / scritte ... da Lione Pascoli.</title>
-                  <respStmt>
-                     <persName>Pascoli, Lione, 1674-1744.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Per Antonio de' Rossi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1730-1736</date>
-                     <date>1730</date>
-                  </imprint>
-                  <extent>2 v.</extent>
-                  <extent>15 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cffa7c6b-fb1f-455a-8e3c-eebb401777f4/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cffa7c6b-fb1f-455a-8e3c-eebb401777f4/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Vite de' pittori, scultori, ed architetti moderni / scritte ... da Lione Pascoli.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,6 +65,19 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Biography -- Early works to 1800.</term>
+               <term>Artists.</term>
+               <term>Italy.</term>
+               <term>Biografie.</term>
+               <term>Künstler.</term>
+               <term>Italien. http://d-nb.info//4027833-5</term>
+               <term>N6922 .P3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/eac61fd9-f737-45f2-b26e-9af8928baa53">
@@ -123,6 +86,63 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6b66c0b4-9246-4092-b461-b6476602b132">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vite de' pittori, scultori, ed architetti moderni [microform] / scritte ... da Lione Pascoli.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403313506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9p075p</idno>
+            <idno type="cico">2342</idno>
+            <idno type="dcl">xz5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vite de' pittori, scultori, ed architetti moderni [microform] / scritte ... da Lione Pascoli.</title>
+                  <respStmt>
+                     <persName>Pascoli, Lione, 1674-1744.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Antonio de' Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1730-1736</date>
+                     <date>1730</date>
+                  </imprint>
+                  <extent>2 v.</extent>
+                  <extent>15 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cffa7c6b-fb1f-455a-8e3c-eebb401777f4/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- Italy -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cffa7c6b-fb1f-455a-8e3c-eebb401777f4/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

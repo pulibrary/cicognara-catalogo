@@ -26,106 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Scheletri Cumani / dilucidati dal canonico Andrea de Jorio.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9930095690001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/6t960v</idno>
-            <idno>(OCoLC)8735833</idno>
-            <idno type="cico">144</idno>
-            <idno type="dcl">crv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Scheletri Cumani / dilucidati dal canonico Andrea de Jorio.</title>
-                  <respStmt>
-                     <persName>Jorio, Andrea de, 1769-1851.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Napoli : Nella Stamperia Simoniana</publisher>
-                     <pubPlace>Cumae (Extinct city)</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1810</date>
-                  </imprint>
-                  <extent>72 pages, 5 leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/029e9f7f-cfb5-4685-a4a1-e2b0405bef92"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/029e9f7f-cfb5-4685-a4a1-e2b0405bef92">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Scheletri Cumani dilucidati</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Jorio, Andrea de, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-239338</idno>
-            <idno type="URI">http://portal.getty.edu/api/42552c</idno>
-            <idno type="cico">144</idno>
-            <idno type="dcl">crv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Scheletri Cumani dilucidati</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Italien</pubPlace>
-                     <pubPlace>Cumae</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>40.84953 14.05126</pubPlace>
-                     <date>1810</date>
-                     <date>1810</date>
-                  </imprint>
-                  <extent>72 S., V Bl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/jorio1810/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/jorio1810/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Scheletri Cumani [microform] : dilucidati / dal canonico Andrea de Jorio.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -165,9 +65,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cumae (Extinct city)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2fb7f15e-c135-4244-9c0d-905fb78ebd15/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scheletri Cumani / dilucidati dal canonico Andrea de Jorio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930095690001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/6t960v</idno>
+            <idno>(OCoLC)8735833</idno>
+            <idno type="cico">144</idno>
+            <idno type="dcl">crv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Scheletri Cumani / dilucidati dal canonico Andrea de Jorio.</title>
+                  <respStmt>
+                     <persName>Jorio, Andrea de, 1769-1851.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Napoli : Nella Stamperia Simoniana</publisher>
+                     <pubPlace>Cumae (Extinct city)</pubPlace>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1810</date>
+                  </imprint>
+                  <extent>72 pages, 5 leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/029e9f7f-cfb5-4685-a4a1-e2b0405bef92"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cumae (Extinct city) -- Antiquities.</term>
+               <term>Antiquities</term>
+               <term>Italy -- Cumae (Extinct city).</term>
+               <term>DG70.C9 J67 1810</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/029e9f7f-cfb5-4685-a4a1-e2b0405bef92">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

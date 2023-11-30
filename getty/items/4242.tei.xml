@@ -25,6 +25,67 @@ dal testo.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Descrizione di Milano [microform] : ornata con molti disegni in rame delle fabbriche più cospicue, che si trovano in questa metropoli / raccolta ed ordinata da Serviliano Latuada.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985430393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sr372n</idno>
+            <idno type="URI">http://portal.getty.edu/api/qw4j73</idno>
+            <idno type="cico">4242</idno>
+            <idno type="dcl">3gv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione di Milano [microform] : ornata con molti disegni in rame delle fabbriche più cospicue, che si trovano in questa metropoli / raccolta ed ordinata da Serviliano Latuada.</title>
+                  <respStmt>
+                     <persName>Latuada, Serviliano.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Milano : Nella Regio-Ducal Corte, a spese de Giuseppe Cairoli</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1737-38</date>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+                  <extent>35 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fbd9ddc7-464e-467c-9929-43cda720243b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Milan -- Early works to 1800.</term>
+               <term>Milan (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Milan (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fbd9ddc7-464e-467c-9929-43cda720243b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Descrizione di Milano : ornata con molti disegni in rame delle fabbriche più cospicue che si trovano in questa metropoli / raccolta ed ordinata da Serviliano Latuada sacerdote milanese tomo primo[-quinto].</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -74,6 +135,20 @@ dal testo.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Milan -- Early works to 1800.</term>
+               <term>Milan (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Historic buildings -- Italy -- Milan -- Early works to 1800.</term>
+               <term>Historic buildings.</term>
+               <term>Travel.</term>
+               <term>Architecture.</term>
+               <term>Italy -- Milan.</term>
+               <term>NA1121.M6 L36</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/33783279-efbe-4838-8163-2b8927c4c8c0">
@@ -97,58 +172,6 @@ dal testo.</note>
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dda977f8-0d4c-407f-9625-a56ffa98febc">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Descrizione di Milano [microform] : ornata con molti disegni in rame delle fabbriche più cospicue, che si trovano in questa metropoli / raccolta ed ordinata da Serviliano Latuada.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985430393506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sr372n</idno>
-            <idno type="URI">http://portal.getty.edu/api/qw4j73</idno>
-            <idno type="cico">4242</idno>
-            <idno type="dcl">3gv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Descrizione di Milano [microform] : ornata con molti disegni in rame delle fabbriche più cospicue, che si trovano in questa metropoli / raccolta ed ordinata da Serviliano Latuada.</title>
-                  <respStmt>
-                     <persName>Latuada, Serviliano.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Milano : Nella Regio-Ducal Corte, a spese de Giuseppe Cairoli</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1737-38</date>
-                     <date>1737</date>
-                  </imprint>
-                  <extent>5 v.</extent>
-                  <extent>35 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/fbd9ddc7-464e-467c-9929-43cda720243b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fbd9ddc7-464e-467c-9929-43cda720243b/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

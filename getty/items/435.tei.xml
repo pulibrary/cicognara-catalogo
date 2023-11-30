@@ -30,6 +30,60 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-15676</idno>
+            <idno type="URI">http://portal.getty.edu/api/xc9p65</idno>
+            <idno type="cico">434</idno>
+            <idno type="dcl">03d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <date>1698</date>
+                     <date>1698</date>
+                  </imprint>
+                  <extent>[9] Bl., S. 313 - 799, [1] S.</extent>
+                  <extent>Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698c/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Architekturtheorie</term>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Trattati dell’Architettura</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698c/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>De la distribution des maisons de plaisance, et de la decoration des edifices en general. Par Jacques-François Blondel. Ouvrage enrichi de cent soixante planches en taille-douce, gravées par l'auteur ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -73,6 +127,22 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Domestic -- Early works to 1800.</term>
+               <term>Landscape gardening -- Early works to 1800.</term>
+               <term>Interior decoration -- Early works to 1800.</term>
+               <term>Architecture -- 17e siècle -- France.</term>
+               <term>Décoration et ornement architecturaux -- France.</term>
+               <term>Jardins -- Architecture -- France.</term>
+               <term>Architecture, Domestic.</term>
+               <term>Interior decoration.</term>
+               <term>Landscape gardening.</term>
+               <term>NA7580 .B6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/bfdeea38-c8db-4e96-b76e-69b6debf21a6">
@@ -81,92 +151,6 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1ef9c1e4-ce73-4716-ad53-f691f6f5bcc7">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De la distribution des maisons de plaisance et de la décoration des édifices en général</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-21711</idno>
-            <idno type="URI">http://portal.getty.edu/api/hq3s1m</idno>
-            <idno type="cico">435</idno>
-            <idno type="dcl">03d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De la distribution des maisons de plaisance et de la décoration des édifices en général</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <date>1737</date>
-                     <date>1737</date>
-                  </imprint>
-                  <extent>XVI, 198 S., 44 Doppels.</extent>
-                  <extent>Ill., graph. Darst.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1737/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1737/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-15676</idno>
-            <idno type="URI">http://portal.getty.edu/api/xc9p65</idno>
-            <idno type="cico">434</idno>
-            <idno type="dcl">03d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Cours D'Architecture Enseigné Dans L'Academie Royale D'Architecture</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <date>1698</date>
-                     <date>1698</date>
-                  </imprint>
-                  <extent>[9] Bl., S. 313 - 799, [1] S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698c/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/blondel1698c/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

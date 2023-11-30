@@ -25,55 +25,6 @@ guida del viaggiatore è troppo copiosa ed incomoda.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Compendio della Verona illustrata principalmente ad uso de' forestieri [microform] : coll'aggiunta del Museo lapidario e d'altre notizie importanti e nuovi rami.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Maffei, Scipione, marchese, 1675-1755.</authority>
-            <authority>Tommaselli, Giuseppe, 1733-1818. Museo veronese.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985442483506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/dq521j</idno>
-            <idno type="cico">4385</idno>
-            <idno type="dcl">hcd</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Compendio della Verona illustrata principalmente ad uso de' forestieri [microform] : coll'aggiunta del Museo lapidario e d'altre notizie importanti e nuovi rami.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Verona : Nella stamperia Moroni</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Verona (Italy)</pubPlace>
-                     <date>1795</date>
-                  </imprint>
-                  <extent>2 v. (206 ; 239 p.)</extent>
-                  <extent>9 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c3c50102-0a66-4e56-a446-747c5866651a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c3c50102-0a66-4e56-a446-747c5866651a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Compendio della Verona illustrata principalmente ad uso de' forestieri : coll'aggiunta del Museo lapidario e d'altre notizie importanti e nuovi rami.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,6 +66,17 @@ guida del viaggiatore è troppo copiosa ed incomoda.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Verona (Italy) -- History.</term>
+               <term>Verona (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Travel</term>
+               <term>Italy -- Verona</term>
+               <term>DG975.V49 M18</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/3c08ebe6-c7c5-48dd-9ff9-ca8df077f650">
@@ -123,6 +85,65 @@ guida del viaggiatore è troppo copiosa ed incomoda.</note>
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/dafecd11-62b5-4eff-b84e-f2478bb39033">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compendio della Verona illustrata principalmente ad uso de' forestieri [microform] : coll'aggiunta del Museo lapidario e d'altre notizie importanti e nuovi rami.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Maffei, Scipione, marchese, 1675-1755.</authority>
+            <authority>Tommaselli, Giuseppe, 1733-1818. Museo veronese.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985442483506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/dq521j</idno>
+            <idno type="cico">4385</idno>
+            <idno type="dcl">hcd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Compendio della Verona illustrata principalmente ad uso de' forestieri [microform] : coll'aggiunta del Museo lapidario e d'altre notizie importanti e nuovi rami.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Verona : Nella stamperia Moroni</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Verona (Italy)</pubPlace>
+                     <date>1795</date>
+                  </imprint>
+                  <extent>2 v. (206 ; 239 p.)</extent>
+                  <extent>9 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c3c50102-0a66-4e56-a446-747c5866651a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Museo maffeiano.</term>
+               <term>Inscriptions -- Italy -- Early works to 1800.</term>
+               <term>Verona (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Verona (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c3c50102-0a66-4e56-a446-747c5866651a/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

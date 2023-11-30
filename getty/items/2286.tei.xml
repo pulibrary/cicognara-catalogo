@@ -23,6 +23,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Vie de Michel-Ange Buonarroti, peintre, sculpteur et architecte de Florence / par M. l'abbé Hauchecorne.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/hul_990050611030203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/vt920t</idno>
+            <idno>(OCoLC)9669787</idno>
+            <idno type="cico">2286</idno>
+            <idno type="dcl">xbt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vie de Michel-Ange Buonarroti, peintre, sculpteur et architecte de Florence / par M. l'abbé Hauchecorne.</title>
+                  <respStmt>
+                     <persName>Hauchecorne, abbé, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez L. Cellot, Impr.-Libr., gendre &amp; successeur de Ch.-Ant. Jombert, Son beaupere, libraire du Roi pour l'artillerie &amp; le génie</publisher>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>4 unnumbered pages, 429 pages, 3 unnumbered pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482847243"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Michelangelo Buonarroti, 1475-1564.</term>
+               <term>Michelangelo Buonarroti, 1475-1564</term>
+               <term>N6923.B9 H327</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482847243">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Vie de Michel-Ange Buonarroti, peintre, sculpteur et architecte de Florence [microform] / par M. l'abbé Hauchecorne.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -60,56 +116,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Michelangelo Buonarroti, 1475-1564.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2c7cfecb-38eb-4f69-8daa-abee7dac73e0/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Vie de Michel-Ange Buonarroti, peintre, sculpteur et architecte de Florence / par M. l'abbé Hauchecorne.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hul_990050611030203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/vt920t</idno>
-            <idno>(OCoLC)9669787</idno>
-            <idno type="cico">2286</idno>
-            <idno type="dcl">xbt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vie de Michel-Ange Buonarroti, peintre, sculpteur et architecte de Florence / par M. l'abbé Hauchecorne.</title>
-                  <respStmt>
-                     <persName>Hauchecorne, abbé, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez L. Cellot, Impr.-Libr., gendre &amp; successeur de Ch.-Ant. Jombert, Son beaupere, libraire du Roi pour l'artillerie &amp; le génie</publisher>
-                     <date>1783</date>
-                  </imprint>
-                  <extent>4 unnumbered pages, 429 pages, 3 unnumbered pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:482847243"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:482847243">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -31,54 +31,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Traité de la méthode antique de graver en pierres fines [microform] : comparée avec la méthode moderne et expliquée en diverses planches / par Laurent Natter ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985278963506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/8r606p</idno>
-            <idno type="cico">284</idno>
-            <idno type="dcl">rfq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Traité de la méthode antique de graver en pierres fines [microform] : comparée avec la méthode moderne et expliquée en diverses planches / par Laurent Natter ...</title>
-                  <respStmt>
-                     <persName>Natter, Lorenz, 1705-1763.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>à Londres : De l'Imprimerie de J. Haberkorn &amp; Comp. :</publisher>
-                     <date>1754</date>
-                  </imprint>
-                  <extent>xxxix, 54 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bb449379-08e6-4c91-8260-deec4f5ab008/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb449379-08e6-4c91-8260-deec4f5ab008/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Traité de la méthode antique de graver en pierres fines : comparée avec la méthode moderne, et expliquée en diverses planches / par Laurent Natter, graveur en pierres fines.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -117,9 +69,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems -- History -- Early works to 1800.</term>
+               <term>Glyptics -- Early works to 1800.</term>
+               <term>AC4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b49199fc-80d0-41c2-a28a-0df717077bd5/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de la méthode antique de graver en pierres fines [microform] : comparée avec la méthode moderne et expliquée en diverses planches / par Laurent Natter ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985278963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/8r606p</idno>
+            <idno type="cico">284</idno>
+            <idno type="dcl">rfq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de la méthode antique de graver en pierres fines [microform] : comparée avec la méthode moderne et expliquée en diverses planches / par Laurent Natter ...</title>
+                  <respStmt>
+                     <persName>Natter, Lorenz, 1705-1763.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>à Londres : De l'Imprimerie de J. Haberkorn &amp; Comp. :</publisher>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>xxxix, 54 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/bb449379-08e6-4c91-8260-deec4f5ab008/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Precious stones -- Early works to 1800.</term>
+               <term>Precious stones -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb449379-08e6-4c91-8260-deec4f5ab008/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

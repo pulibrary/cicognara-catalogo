@@ -21,55 +21,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>I pregi del regio palazzo di Modena / descritti da Giambatista Dall'Olio.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925439090001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/jr8n8r</idno>
-            <idno>(OCoLC)19584885</idno>
-            <idno type="cico">4257</idno>
-            <idno type="dcl">pk2</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>I pregi del regio palazzo di Modena / descritti da Giambatista Dall'Olio.</title>
-                  <respStmt>
-                     <persName>Dall'Olio, Giambatista, 1739-1823</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Modena : G. Vincenzi e Comp</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Modena (Italy)</pubPlace>
-                     <date>1811</date>
-                  </imprint>
-                  <extent>[4], 82 pages, [1] folded leaf of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a04a6397-c24f-43ec-b08c-6622abd1fb53"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a04a6397-c24f-43ec-b08c-6622abd1fb53">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>I pregi del regio palazzo di Modena [microform] / descritti da Giambatista dall'Olio.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -110,9 +61,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo ducale di Modena.</term>
+               <term>Palaces -- Italy -- Modena.</term>
+               <term>Modena (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0e69bcf4-4c40-41d0-8d5a-1aa542a9e730/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I pregi del regio palazzo di Modena / descritti da Giambatista Dall'Olio.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925439090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/jr8n8r</idno>
+            <idno>(OCoLC)19584885</idno>
+            <idno type="cico">4257</idno>
+            <idno type="dcl">pk2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>I pregi del regio palazzo di Modena / descritti da Giambatista Dall'Olio.</title>
+                  <respStmt>
+                     <persName>Dall'Olio, Giambatista, 1739-1823</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Modena : G. Vincenzi e Comp</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Modena (Italy)</pubPlace>
+                     <date>1811</date>
+                  </imprint>
+                  <extent>[4], 82 pages, [1] folded leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a04a6397-c24f-43ec-b08c-6622abd1fb53"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo ducale (Modena, Italy)</term>
+               <term>Modena (Italy) -- Buildings, structures, etc.</term>
+               <term>Architecture -- Italy -- Modena.</term>
+               <term>Architecture.</term>
+               <term>Buildings.</term>
+               <term>Italy -- Modena.</term>
+               <term>NA7756.M63 D35 1811</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a04a6397-c24f-43ec-b08c-6622abd1fb53">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

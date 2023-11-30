@@ -25,6 +25,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Essai sur les gravures [microform] / par William Gilpin ; traduit de l'anglais sur la quatrieme edition par le B.on de B.***</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/5j351s</idno>
+            <idno type="cico">261</idno>
+            <idno type="dcl">gzg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Essai sur les gravures [microform] / par William Gilpin ; traduit de l'anglais sur la quatrieme edition par le B.on de B.***</title>
+                  <respStmt>
+                     <persName>Gilpin, William, 1724-1804.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Breslau : de l'imprimerie de Guillaume Theophile Korn</publisher>
+                     <date>1800</date>
+                  </imprint>
+                  <extent>167, [1] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d924e4d7-58c2-491a-b7c9-187616e4f9a0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Engravers.</term>
+               <term>Engraving.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d924e4d7-58c2-491a-b7c9-187616e4f9a0/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Essai sur les gravures / par Mr. William Gilpin, chanoine de Salisbury, etc. etc. ; traduit de l'anglais sur la quatrième édition par le Bon. de B***.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -63,57 +119,20 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Engraving -- Early works to 1800.</term>
+               <term>Engravers -- Early works to 1800.</term>
+               <term>Engravers</term>
+               <term>Engraving</term>
+               <term>NE840 .G4814 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a45fd6a4-67e5-460b-9b71-c1a82065054f">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Essai sur les gravures [microform] / par William Gilpin ; traduit de l'anglais sur la quatrieme edition par le B.on de B.***</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984941903506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/5j351s</idno>
-            <idno type="cico">261</idno>
-            <idno type="dcl">gzg</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Essai sur les gravures [microform] / par William Gilpin ; traduit de l'anglais sur la quatrieme edition par le B.on de B.***</title>
-                  <respStmt>
-                     <persName>Gilpin, William, 1724-1804.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Breslau : de l'imprimerie de Guillaume Theophile Korn</publisher>
-                     <date>1800</date>
-                  </imprint>
-                  <extent>167, [1] p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d924e4d7-58c2-491a-b7c9-187616e4f9a0/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d924e4d7-58c2-491a-b7c9-187616e4f9a0/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

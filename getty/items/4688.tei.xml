@@ -24,54 +24,6 @@ Colle tavole in legno.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Seconda Novissima Editione Delle Imagini De Gli Dei Delli Antichi Di Vicenzo Cartari Reggiano</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Cartari, Vincenzo, Author</authority>
-            <authority>Pignoria, Lorenzo, Other</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-41966</idno>
-            <idno type="URI">http://portal.getty.edu/api/xv6c5n</idno>
-            <idno type="cico">4688</idno>
-            <idno type="dcl">m8k</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Seconda Novissima Editione Delle Imagini De Gli Dei Delli Antichi Di Vicenzo Cartari Reggiano</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <pubPlace>Griechenland &lt;Altertum&gt;</pubPlace>
-                     <pubPlace>Rom</pubPlace>
-                     <pubPlace>Indien</pubPlace>
-                     <date>1626</date>
-                     <date>1626</date>
-                  </imprint>
-                  <extent>[20] Bl., 587 S., [1] Faltbl.</extent>
-                  <extent>zahlr. Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/cartari1626/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/cartari1626/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Seconda nouissima editione delle Imagini de gli dei delli antichi [microform] / di Vicenzo Cartari reggiano ; ridotte ... da Lorenzo Pignoria Padouano. ; aggionteui le annotationi del medesimo sopra tutta l'opera, &amp; vn discorso intorno le deità dell'Indie Orientali, &amp; Occidentali ... ; con le allegorie sopra le Imagini di Cesare Malfatti Padouano, migliorate, &amp; accresciute nouamente et vn catalogo di cento più famosi dei della gentilità ; con l'aggiunta d'vn'altro catalogo de gl'autori antichi, &amp; moderni ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -112,6 +64,13 @@ Colle tavole in legno.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mythology, Classical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8729c319-d97d-4234-bb99-5a3953080959/manifest">

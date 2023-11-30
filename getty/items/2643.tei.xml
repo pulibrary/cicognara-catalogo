@@ -27,50 +27,6 @@ sono aggiunte le due opere seguenti dello stesso.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Leonis Allatii, De Mensvra Temporvm Antiqvorvm et praecipue Graecorvm, Exercitatio</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Allacci, Leone, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-309861</idno>
-            <idno type="URI">http://portal.getty.edu/api/1r8b3p</idno>
-            <idno type="cico">2643</idno>
-            <idno type="dcl">nzn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Leonis Allatii, De Mensvra Temporvm Antiqvorvm et praecipue Graecorvm, Exercitatio</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Römisches Reich</pubPlace>
-                     <date>1645</date>
-                     <date>1645</date>
-                  </imprint>
-                  <extent>[4] Bl., 239 S</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1645a/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1645a/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Leonis Allatii De mensura temporum antiquorum &amp; praecipue Graecorum exercitatio [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,54 +65,17 @@ sono aggiunte le due opere seguenti dello stesso.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chronology, Greek -- Early works to 1800.</term>
+               <term>Time measurements -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3f2d8d21-b27a-4dcb-9598-91e175590a4a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De Templis Graecorvm Recentioribvs , Ad Ioannem Morinum, De Narthece Ecclesiae Veteris, Ad Gasparem de Simeonibus, Nec Non De Graecorvm Hodie Qvorvndam Opinationibvs , Ad Paullum Zacchiam</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Allacci, Leone, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-11105</idno>
-            <idno type="URI">http://portal.getty.edu/api/1f7c56</idno>
-            <idno type="cico">2643</idno>
-            <idno type="dcl">c8n</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De Templis Graecorvm Recentioribvs , Ad Ioannem Morinum, De Narthece Ecclesiae Veteris, Ad Gasparem de Simeonibus, Nec Non De Graecorvm Hodie Qvorvndam Opinationibvs , Ad Paullum Zacchiam</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Griechenland &lt;Altertum&gt;</pubPlace>
-                     <date>1645</date>
-                     <date>1645</date>
-                  </imprint>
-                  <extent>[10] Bl., 184 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1645/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1645/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -204,6 +123,14 @@ sono aggiunte le due opere seguenti dello stesso.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Orthodoxos Ekklēsia tēs Hellados.</term>
+               <term>Temples -- Greece -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0d0dd75d-e87c-4928-b186-0cc1ea4ce9ea/manifest">
@@ -254,53 +181,16 @@ sono aggiunte le due opere seguenti dello stesso.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Joan (Legendary Pope)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49ddd348-e69d-4503-9a92-011e79c095b5/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Leonis Allatii Confvtatio Fabvlae De Ioanna Papissa: Ex Monumentis Graecis</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Allacci, Leone, Author</authority>
-            <authority>Nihus, Barthold, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-316998</idno>
-            <idno type="URI">http://portal.getty.edu/api/nw0r5q</idno>
-            <idno type="cico">2643</idno>
-            <idno type="dcl">kc7</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Leonis Allatii Confvtatio Fabvlae De Ioanna Papissa: Ex Monumentis Graecis</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1645</date>
-                     <date>1645</date>
-                  </imprint>
-                  <extent>112 S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1645b/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/allacci1645b/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

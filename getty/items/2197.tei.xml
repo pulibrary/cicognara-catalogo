@@ -25,9 +25,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vita del caualiere Gio. Lorenzo Bernino, scultore, architetto, e pittore / scritta da Filippo Baldinucci fiorentino ; alla sacra e reale Maestà di Cristina Regina di Suezia.</title>
+            <title>Vita del cavaliere Gio. Lorenzo Bernino, scultore, architetto, e pittore / scritta da Filippo Baldinucci Fiorentino ...</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -36,42 +36,42 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Vangelisti, Vincenzio, printer.</authority>
-            <authority>Christina, Queen of Sweden, 1626-1689, dedicatee.</authority>
-            <authority>Degaulle, Jean-Baptiste, 1732-1810, illustrator.</authority>
-            <authority>Westerhout, Arnold van, 1651-1725, engraver.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9924278870001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/hj9m22</idno>
-            <idno>(OCoLC)2470057</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_99664573504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/fm1q91</idno>
+            <idno>(OCoLC)02470057</idno>
             <idno type="cico">2197</idno>
             <idno type="dcl">75t</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Vita del caualiere Gio. Lorenzo Bernino, scultore, architetto, e pittore / scritta da Filippo Baldinucci fiorentino ; alla sacra e reale Maestà di Cristina Regina di Suezia.</title>
+                  <title>Vita del cavaliere Gio. Lorenzo Bernino, scultore, architetto, e pittore / scritta da Filippo Baldinucci Fiorentino ...</title>
                   <respStmt>
                      <persName>Baldinucci, Filippo, 1625-1696.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <publisher>In Firenze : Nella Stamperia di Vincenzio Vangelisti</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy.</pubPlace>
-                     <pubPlace>Italy Florence.</pubPlace>
-                     <date>MDCLXXXII [1682]</date>
+                     <publisher>In Firenze : Nella stamperia di Vincenzio Vangelisti</publisher>
                      <date>1682</date>
                   </imprint>
-                  <extent>[12], 111, [1] p., [9] leaves of plates (4 folded)</extent>
+                  <extent>[10], 111, [1] p., [10] leaves of plates (4 folded)</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/2f21763c-e2a6-4370-b455-42b841fb31b7"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99664573504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bernini, Gian Lorenzo, 1598-1680.</term>
+               <term>N6923.B5 B3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2f21763c-e2a6-4370-b455-42b841fb31b7">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99664573504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -117,9 +117,83 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bernini, Gian Lorenzo, 1598-1680.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/069f1076-6b51-457a-828a-84d70bc818f3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita del caualiere Gio. Lorenzo Bernino, scultore, architetto, e pittore / scritta da Filippo Baldinucci fiorentino ; alla sacra e reale Maestà di Cristina Regina di Suezia.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vangelisti, Vincenzio, printer.</authority>
+            <authority>Christina, Queen of Sweden, 1626-1689, dedicatee.</authority>
+            <authority>Degaulle, Jean-Baptiste, 1732-1810, illustrator.</authority>
+            <authority>Westerhout, Arnold van, 1651-1725, engraver.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924278870001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/hj9m22</idno>
+            <idno>(OCoLC)2470057</idno>
+            <idno type="cico">2197</idno>
+            <idno type="dcl">75t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita del caualiere Gio. Lorenzo Bernino, scultore, architetto, e pittore / scritta da Filippo Baldinucci fiorentino ; alla sacra e reale Maestà di Cristina Regina di Suezia.</title>
+                  <respStmt>
+                     <persName>Baldinucci, Filippo, 1625-1696.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella Stamperia di Vincenzio Vangelisti</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy.</pubPlace>
+                     <pubPlace>Italy Florence.</pubPlace>
+                     <date>MDCLXXXII [1682]</date>
+                     <date>1682</date>
+                  </imprint>
+                  <extent>[12], 111, [1] p., [9] leaves of plates (4 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/2f21763c-e2a6-4370-b455-42b841fb31b7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bernini, Gian Lorenzo, 1598-1680.</term>
+               <term>Artists -- Italy -- Biography -- Early works to 1800.</term>
+               <term>Bernini, Gian Lorenzo, 1598-1680</term>
+               <term>Artists.</term>
+               <term>Italy.</term>
+               <term>N6923.B5 B3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2f21763c-e2a6-4370-b455-42b841fb31b7">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

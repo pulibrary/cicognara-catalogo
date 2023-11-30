@@ -25,56 +25,6 @@ fra il testo. Volume di 600 pagine.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Devoti, Fabio.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927940330001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/208z17</idno>
-            <idno>(OCoLC)9718013</idno>
-            <idno type="cico">3803</idno>
-            <idno type="dcl">mzq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta.</title>
-                  <respStmt>
-                     <persName>Nerini, Felix Marius, 1705-1787</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Romae : Ex typog. Apollinea :</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <date>1752</date>
-                  </imprint>
-                  <extent>XXXI, [1], 600, [12] p., XIII leaves of plates (7 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b379dfd5-2c87-4ad5-95b3-aff4af6250e1"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b379dfd5-2c87-4ad5-95b3-aff4af6250e1">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -116,9 +66,87 @@ fra il testo. Volume di 600 pagine.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>SS. Bonifacio e Alessio all'Aventino (Church : Rome, Italy)</term>
+               <term>Church buildings -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Rome (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d529b5a5-d33a-4d65-91f5-0e3ac5ac2436/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Devoti, Fabio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927940330001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/208z17</idno>
+            <idno>(OCoLC)9718013</idno>
+            <idno type="cico">3803</idno>
+            <idno type="dcl">mzq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>D. Felicis Nerinii, abbatis Hieronymiani, De templo et coenobio sanctorum Bonifacii et Alexii historica monumenta.</title>
+                  <respStmt>
+                     <persName>Nerini, Felix Marius, 1705-1787</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Romae : Ex typog. Apollinea :</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>XXXI, [1], 600, [12] p., XIII leaves of plates (7 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b379dfd5-2c87-4ad5-95b3-aff4af6250e1"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chiesa dei Santi Bonifacio e Alessio (Rome, Italy)</term>
+               <term>Church buildings -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Rome (Italy) -- History.</term>
+               <term>Rome (Italy) -- Antiquities.</term>
+               <term>Chiesa dei Santi Bonifacio e Alessio (Rome, Italy)</term>
+               <term>Antiquities.</term>
+               <term>Buildings.</term>
+               <term>Church buildings.</term>
+               <term>Italy -- Rome.</term>
+               <term>NA5620.S24 N47 1752</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b379dfd5-2c87-4ad5-95b3-aff4af6250e1">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

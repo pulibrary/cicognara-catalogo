@@ -66,9 +66,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/68a64cb1-bdd5-4eb1-881e-f20d8e71aec7/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Costituzioni della Reale Accademia di pittura, scultura, ed architettura, instituita in Parma sotto i felicissimi auspicj reali.</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Frugoni, Carlo Innocenzo, 1692-1768.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_932304330</idno>
+            <idno type="URI">http://portal.getty.edu/api/qb7c18</idno>
+            <idno>(OCoLC)932304330</idno>
+            <idno type="cico">105</idno>
+            <idno type="dcl">wbr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Costituzioni della Reale Accademia di pittura, scultura, ed architettura, instituita in Parma sotto i felicissimi auspicj reali.</title>
+                  <respStmt>
+                     <persName>Reale Accademia delle belle arti (Parma, Italy)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Parma?] : [publisher not identified]</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>[1760?]</date>
+                     <date>1760</date>
+                  </imprint>
+                  <extent>1 online resource (52 pages, 2 unnumbered leaves of plates)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072000999468"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art schools -- Italy.</term>
+               <term>Art schools.</term>
+               <term>Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072000999468">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -119,59 +185,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Reale Accademia delle belle arti (Parma, Italy) -- Constitution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb74f065-4856-4fe6-a806-22cc47308f24/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Costituzioni della Reale Accademia di pittura, scultura, ed architettura, instituita in Parma sotto i felicissimi auspicj reali.</title>
-            <respStmt>
-               <orgName>Frick Art Reference Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Frugoni, Carlo Innocenzo, 1692-1768.</authority>
-            <idno type="URI">http://portal.getty.edu/books/frick_932304330</idno>
-            <idno type="URI">http://portal.getty.edu/api/qb7c18</idno>
-            <idno>(OCoLC)932304330</idno>
-            <idno type="cico">105</idno>
-            <idno type="dcl">wbr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Costituzioni della Reale Accademia di pittura, scultura, ed architettura, instituita in Parma sotto i felicissimi auspicj reali.</title>
-                  <respStmt>
-                     <persName>Reale Accademia delle belle arti (Parma, Italy)</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Parma?] : [publisher not identified]</publisher>
-                     <pubPlace>Italy.</pubPlace>
-                     <date>[1760?]</date>
-                     <date>1760</date>
-                  </imprint>
-                  <extent>1 online resource (52 pages, 2 unnumbered leaves of plates)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072000999468"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072000999468">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

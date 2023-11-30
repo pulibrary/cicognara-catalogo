@@ -26,6 +26,59 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Le philotechne français, ou, Recueil d'éloges, de critiques et d'anecdotes remarquables, sur les artistes qui sont distingués dans ce siécle / par Mr. B***y</title>
+            <respStmt>
+               <orgName>Metropolitan Museum of Art</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_41876</idno>
+            <idno type="dcl">sfr</idno>
+            <idno type="cico">1194</idno>
+            <idno type="URI">http://portal.getty.edu/api/j51c2z</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le philotechne français, ou, Recueil d'éloges, de critiques et d'anecdotes remarquables, sur les artistes qui sont distingués dans ce siécle / par Mr. B***y</title>
+                  <respStmt>
+                     <persName>Boily, Louis.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>La Haye ;Paris : Chez Durand</publisher>
+                  </imprint>
+                  <extent>[4], 188 pages, [1] leaf of plates : ill. ; 21 cm</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/41876/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Artists -- France -- Biography -- Early works to 1800</term>
+               <term>Art -- France -- Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/41876/manifest.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Le philotechne français, ou, Recueil d'éloges, de critiques et d'anecdotes remarquables sur les artistes qui sont distingués dans ce siécle [microform] / par mr. B***y.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -61,54 +114,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, French -- 18th century.</term>
+               <term>Artists -- France -- 18th century.</term>
+               <term>France -- Intellectual life -- 18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0f480224-08c2-49f0-8818-54e9ce620203/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Le philotechne français, ou, Recueil d'éloges, de critiques et d'anecdotes remarquables, sur les artistes qui sont distingués dans ce siécle / par Mr. B***y</title>
-            <respStmt>
-               <orgName>Metropolitan Museum of Art</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_41876</idno>
-            <idno type="dcl">sfr</idno>
-            <idno type="cico">1194</idno>
-            <idno type="URI">http://portal.getty.edu/api/j51c2z</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le philotechne français, ou, Recueil d'éloges, de critiques et d'anecdotes remarquables, sur les artistes qui sont distingués dans ce siécle / par Mr. B***y</title>
-                  <respStmt>
-                     <persName>Boily, Louis.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>La Haye ;Paris : Chez Durand</publisher>
-                  </imprint>
-                  <extent>[4], 188 pages, [1] leaf of plates : ill. ; 21 cm</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/41876/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/41876/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

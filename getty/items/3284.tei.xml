@@ -22,55 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Maniliani Bononiensis monumenti historico-mystica lectio [microform] / interprete Alexandro Nigro Jo. Francisci Filio ..</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985452843506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/p06s16</idno>
-            <idno type="cico">3284</idno>
-            <idno type="dcl">z8d</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Maniliani Bononiensis monumenti historico-mystica lectio [microform] / interprete Alexandro Nigro Jo. Francisci Filio ..</title>
-                  <respStmt>
-                     <persName>Negri, Alessandro, -1661.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Bononiae : Typis HH. de Duccijs</publisher>
-                     <date>1661</date>
-                  </imprint>
-                  <extent>37 p., 1 leaf of plates</extent>
-                  <extent>1 microfiches : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8cd4d93c-2732-4100-876d-33d356572cd6/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8cd4d93c-2732-4100-876d-33d356572cd6/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Maniliani Bononiensis monumenti historico-mystica lectio / interprete Alexandro Nigro Io. Francisci filio I.V.D. perinsig. Coll. eccl. Bonon. canonico protonot. apostolico.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -110,9 +61,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Stele (Archaeology) -- Italy -- Bologna -- Early works to 1800.</term>
+               <term>Sepulchral monuments -- Italy -- Bologna -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Italy -- Bologna.</term>
+               <term>Mythology, Classical, in art -- Early works to 1800.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Mythology, Classical, in art.</term>
+               <term>Sepulchral monuments</term>
+               <term>Stele (Archaeology)</term>
+               <term>Italy -- Bologna</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4417aa69-a48d-453a-a5e6-4448d1f9fd3c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maniliani Bononiensis monumenti historico-mystica lectio [microform] / interprete Alexandro Nigro Jo. Francisci Filio ..</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985452843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p06s16</idno>
+            <idno type="cico">3284</idno>
+            <idno type="dcl">z8d</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Maniliani Bononiensis monumenti historico-mystica lectio [microform] / interprete Alexandro Nigro Jo. Francisci Filio ..</title>
+                  <respStmt>
+                     <persName>Negri, Alessandro, -1661.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Bononiae : Typis HH. de Duccijs</publisher>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>37 p., 1 leaf of plates</extent>
+                  <extent>1 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8cd4d93c-2732-4100-876d-33d356572cd6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Manlius, Quintus.</term>
+               <term>Mythology, Classical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8cd4d93c-2732-4100-876d-33d356572cd6/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

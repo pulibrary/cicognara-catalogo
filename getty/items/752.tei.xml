@@ -29,55 +29,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pianta e spaccato del nuovo teatro di Bologna .. [microform] / da Lorenzo Capponi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985199173506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/nd7x8p</idno>
-            <idno type="cico">752</idno>
-            <idno type="dcl">wzm</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Pianta e spaccato del nuovo teatro di Bologna .. [microform] / da Lorenzo Capponi.</title>
-                  <respStmt>
-                     <persName>Capponi, Lorenzo, 1733-</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Per Lelio dalla Volpe</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1771</date>
-                  </imprint>
-                  <extent>[6] p., [5] leaves of plates</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/34c6f61c-3dd6-4f0f-a1d6-3dc45a1f6925/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34c6f61c-3dd6-4f0f-a1d6-3dc45a1f6925/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Pianta e spaccato del nuovo teatro di Bologna ... / da Lorenzo Capponi.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -118,9 +69,79 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Teatro comunale (Bologna, Italy)</term>
+               <term>Theaters -- Italy -- Bologna -- Designs and plans.</term>
+               <term>Teatro comunale (Bologna, Italy)</term>
+               <term>Theaters</term>
+               <term>Italy -- Bologna</term>
+               <term>NA6840.I82 B67 1771</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2db7b3c7-c51f-40d2-8590-966efefd6a14">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pianta e spaccato del nuovo teatro di Bologna .. [microform] / da Lorenzo Capponi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985199173506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/nd7x8p</idno>
+            <idno type="cico">752</idno>
+            <idno type="dcl">wzm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pianta e spaccato del nuovo teatro di Bologna .. [microform] / da Lorenzo Capponi.</title>
+                  <respStmt>
+                     <persName>Capponi, Lorenzo, 1733-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Lelio dalla Volpe</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>[6] p., [5] leaves of plates</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/34c6f61c-3dd6-4f0f-a1d6-3dc45a1f6925/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Galli Bibiena, Antonio, 1700-1774 -- Individual works -- Bologna (Italy). Teatro comunale.</term>
+               <term>Teatro comunale (Bologna, Italy) -- Designs and plans.</term>
+               <term>Theaters -- Italy -- Bologna -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/34c6f61c-3dd6-4f0f-a1d6-3dc45a1f6925/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

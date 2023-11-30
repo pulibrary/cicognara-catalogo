@@ -37,6 +37,64 @@ più completa di quella. Tirata al numero di soli 100 esemplari.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Recueil de peintures antiques trouvées à Rome; imitées fidélement, pour les couleurs et le trait, d'après les dessins coloriés par Pietro-Sante Bartoli, et autres dessinateurs.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Caylus, Anne Claude Philippe, comte de, 1692-1765.</authority>
+            <authority>Mariette, Pierre Jean, 1694-1774.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99964493504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/cn6113</idno>
+            <idno>(OCoLC)973464229</idno>
+            <idno type="cico">3598</idno>
+            <idno type="dcl">gcj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de peintures antiques trouvées à Rome; imitées fidélement, pour les couleurs et le trait, d'après les dessins coloriés par Pietro-Sante Bartoli, et autres dessinateurs.</title>
+                  <respStmt>
+                     <persName>Bartoli, Pietro Santi, 1635-1700.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris: Didot l'Aîné</publisher>
+                     <pubPlace>Italy.</pubPlace>
+                     <date>1783</date>
+                  </imprint>
+                  <extent>2 v. in 1</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99964493504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, Roman.</term>
+               <term>Mural painting and decoration, Roman -- Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99964493504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Recueil de peintures antiques trouvées à Rome [microform] : imitées fidelement, pour les couleurs et le trait / d'après les dessins coloriés par Pietro-Sante Bartoli, et autres dessinateurs.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -78,6 +136,14 @@ più completa di quella. Tirata al numero di soli 100 esemplari.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mural painting and decoration, Roman -- Italy -- Early works to 1800.</term>
+               <term>Painting, Roman -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1cfdd9e7-5463-468b-a89f-817d333e4c78/manifest">

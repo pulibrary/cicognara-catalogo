@@ -23,6 +23,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Vies des premiers-peintres du roi, depuis M. Le Brun, jusquà̓ présent.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920475923506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/wc0j3p</idno>
+            <idno>(OCoLC)06638622</idno>
+            <idno type="cico">2301</idno>
+            <idno type="dcl">9s4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vies des premiers-peintres du roi, depuis M. Le Brun, jusquà̓ présent.</title>
+                  <respStmt>
+                     <persName>Lépicié, François Bernard, 1698-1755.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Durand [etc.]</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <date>1752</date>
+                  </imprint>
+                  <extent>2 v. in 1.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/12974997-fd0c-4645-a32d-7df3b9147c86/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- France.</term>
+               <term>ND546 .L6</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/12974997-fd0c-4645-a32d-7df3b9147c86/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Vies des premiers-peintres du roi [microform] : depuis M. Le Brun, jusqu'a présent.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -61,6 +117,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- France -- Biography -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8b802a67-035b-4550-b8e1-3a267010c4a1/manifest">

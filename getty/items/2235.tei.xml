@@ -28,6 +28,62 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Vita di S. Lazzaro, monaco e pittore : preceduta da alcune osservazioni sulla bibliomania.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Baldi, Lazzaro, ca. 1623-1703. Breve compendio della vita e morte di San Lazzaro.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991124443504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/zm2r03</idno>
+            <idno>(OCoLC)837642870</idno>
+            <idno type="cico">2235</idno>
+            <idno type="dcl">wrc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di S. Lazzaro, monaco e pittore : preceduta da alcune osservazioni sulla bibliomania.</title>
+                  <respStmt>
+                     <persName>Cicognara, Leopoldo, conte, 1767-1834.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Brescia : Per Nicolò Bettoni</publisher>
+                     <date>1807</date>
+                  </imprint>
+                  <extent>65 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991124443504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lazarus, of Bethany, Saint.</term>
+               <term>Bibliomania.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991124443504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Vita di S. Lazzaro, monaco e pittore [microform] : preceduta da alcune osservazioni sulla bibliomania.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,57 +122,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lazarus, of Bethany, Saint</term>
+               <term>Bibliomania.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bd7fce9d-9a25-4002-a4d0-e90cac25446d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Vita di S. Lazzaro, monaco e pittore : preceduta da alcune osservazioni sulla bibliomania.</title>
-            <respStmt>
-               <orgName>National Gallery of Art Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Baldi, Lazzaro, ca. 1623-1703. Breve compendio della vita e morte di San Lazzaro.</authority>
-            <idno type="URI">http://portal.getty.edu/books/nga_991124443504896</idno>
-            <idno type="URI">http://portal.getty.edu/api/zm2r03</idno>
-            <idno>(OCoLC)837642870</idno>
-            <idno type="cico">2235</idno>
-            <idno type="dcl">wrc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vita di S. Lazzaro, monaco e pittore : preceduta da alcune osservazioni sulla bibliomania.</title>
-                  <respStmt>
-                     <persName>Cicognara, Leopoldo, conte, 1767-1834.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Brescia : Per Nicolò Bettoni</publisher>
-                     <date>1807</date>
-                  </imprint>
-                  <extent>65 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991124443504896.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991124443504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

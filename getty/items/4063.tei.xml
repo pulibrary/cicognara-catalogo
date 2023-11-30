@@ -28,9 +28,9 @@ difficilmente si trova in Italia anche nelle primarie pubbliche biblioteche.</no
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Monumentorum Sveo-Gothicorum liber primus, Uplandiae partem primariam Thiundiam continens [microform] : cum antiquitatibus ac inscriptionibus quae cippis &amp; rupibus, vel tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / operâ Johannis PeringskioldI ...</title>
+            <title>Monumentorum sveo-gothicorum : liber primus : Uplandiae partem primariam thiundiam : continens cum antiquitatibus ac inscriptionibus quae Cippis &amp; Rupibus, vel Tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / opera Johannis PeringskioldI.</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -39,17 +39,16 @@ difficilmente si trova in Italia anche nelle primarie pubbliche biblioteche.</no
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985441673506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/968p93</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_991705773504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/nz1204</idno>
+            <idno>(OCoLC)09144628</idno>
             <idno type="cico">4063</idno>
             <idno type="dcl">w2h</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Monumentorum Sveo-Gothicorum liber primus, Uplandiae partem primariam Thiundiam continens [microform] : cum antiquitatibus ac inscriptionibus quae cippis &amp; rupibus, vel tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / operâ Johannis PeringskioldI ...</title>
+                  <title>Monumentorum sveo-gothicorum : liber primus : Uplandiae partem primariam thiundiam : continens cum antiquitatibus ac inscriptionibus quae Cippis &amp; Rupibus, vel Tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / opera Johannis PeringskioldI.</title>
                   <respStmt>
                      <persName>Peringskiöld, Johan, 1654-1720.</persName>
                      <resp>creator</resp>
@@ -57,21 +56,30 @@ difficilmente si trova in Italia anche nelle primarie pubbliche biblioteche.</no
                   <textLang>Latin</textLang>
                   <textLang>Swedish</textLang>
                   <imprint>
-                     <publisher>Stockholmiae : Sumtibus Regiis impressit Olavus Enaeus</publisher>
-                     <pubPlace>Upland (Sweden)</pubPlace>
-                     <date>1710-1719</date>
+                     <publisher>Stockholmiae : Sumtibus Regiis impressit Olavus Enaeus, Regii antiquitatum archivi typographus</publisher>
+                     <pubPlace>Sweden</pubPlace>
+                     <pubPlace>Uppland (Sweden)</pubPlace>
                      <date>1710</date>
                   </imprint>
-                  <extent>[8], 306, 352 p.</extent>
-                  <extent>12 microfiche : positive.</extent>
+                  <extent>[8], 306 p., [9] leaves of plates (5 folding)</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/716c8e72-0c85-4454-83c5-9f2797dc315f/manifest"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991705773504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Swedish -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Sweden -- Upland -- Early works to 1800.</term>
+               <term>Uppland (Sweden) -- History.</term>
+               <term>Uppland (Sweden) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/716c8e72-0c85-4454-83c5-9f2797dc315f/manifest">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991705773504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -119,9 +127,76 @@ difficilmente si trova in Italia anche nelle primarie pubbliche biblioteche.</no
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monuments -- Uppland, Sweden. hou</term>
+               <term>Upland (Sweden) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494458190">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumentorum Sveo-Gothicorum liber primus, Uplandiae partem primariam Thiundiam continens [microform] : cum antiquitatibus ac inscriptionibus quae cippis &amp; rupibus, vel tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / operâ Johannis PeringskioldI ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985441673506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/968p93</idno>
+            <idno type="cico">4063</idno>
+            <idno type="dcl">w2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumentorum Sveo-Gothicorum liber primus, Uplandiae partem primariam Thiundiam continens [microform] : cum antiquitatibus ac inscriptionibus quae cippis &amp; rupibus, vel tumbis incisae passim reperiuntur : justa delineatione, brevique commentario illustratae / operâ Johannis PeringskioldI ...</title>
+                  <respStmt>
+                     <persName>Peringskiöld, Johan, 1654-1720.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <textLang>Swedish</textLang>
+                  <imprint>
+                     <publisher>Stockholmiae : Sumtibus Regiis impressit Olavus Enaeus</publisher>
+                     <pubPlace>Upland (Sweden)</pubPlace>
+                     <date>1710-1719</date>
+                     <date>1710</date>
+                  </imprint>
+                  <extent>[8], 306, 352 p.</extent>
+                  <extent>12 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/716c8e72-0c85-4454-83c5-9f2797dc315f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Upland (Sweden) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/716c8e72-0c85-4454-83c5-9f2797dc315f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -168,9 +243,74 @@ difficilmente si trova in Italia anche nelle primarie pubbliche biblioteche.</no
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Monuments -- Uppland, Sweden. hou</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:494458523">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monumenta Ullerakerensia cum Upsalia nova illustrata, eller, Ulleråkers häradz minnings-merken, med nya Upsala, uti Uplands första del Thiundaland / antecknade af kongl. secreteraren och antiquarien Johan Peringskiöld.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991705783504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/dt2606</idno>
+            <idno>(OCoLC)973427068</idno>
+            <idno type="cico">4063</idno>
+            <idno type="dcl">9ks</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Monumenta Ullerakerensia cum Upsalia nova illustrata, eller, Ulleråkers häradz minnings-merken, med nya Upsala, uti Uplands första del Thiundaland / antecknade af kongl. secreteraren och antiquarien Johan Peringskiöld.</title>
+                  <respStmt>
+                     <persName>Peringskiöld, Johan, 1654-1720.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Swedish</textLang>
+                  <imprint>
+                     <publisher>I Stockholm : Med kongl. omkostnad uplagde hos Joh. L. Horrn</publisher>
+                     <pubPlace>Sweden</pubPlace>
+                     <pubPlace>Uppsala (Sweden)</pubPlace>
+                     <date>1719</date>
+                  </imprint>
+                  <extent>[6], 352 p., [31] leaves of plates (19 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991705783504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sepulchral monuments -- Sweden -- Uppsala -- Early works to 1800.</term>
+               <term>Epitaphs -- Sweden -- Uppsala -- Early works to 1800.</term>
+               <term>Uppsala (Sweden) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991705783504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

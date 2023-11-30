@@ -24,6 +24,66 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Catalogus numismaticus Musei Lefroyani [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985450263506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r04985</idno>
+            <idno type="cico">2797</idno>
+            <idno type="dcl">7zx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Catalogus numismaticus Musei Lefroyani [microform].</title>
+                  <respStmt>
+                     <persName>Lefroy, Antony.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Liburni : Apud Marci Cultellini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1763]</date>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>180 p.</extent>
+                  <extent>3 microfiches : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c6249334-65e2-4e14-b08e-555d003fd1d3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lefroy, Antony -- Coin collections -- Catalogs -- Early works to 1800.</term>
+               <term>Numismatics -- Early works to 1800.</term>
+               <term>Private collections -- Italy -- Livorno -- Catalogs -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c6249334-65e2-4e14-b08e-555d003fd1d3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Catalogus numismaticus Musei Lefroyani.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -65,60 +125,23 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lefroy, Antony -- Numismatic collections -- Catalogs.</term>
+               <term>Lefroy, Antony</term>
+               <term>Numismatics, Ancient -- Private collections -- Italy -- Livorno -- Catalogs.</term>
+               <term>Sculpture, Ancient -- Early works to 1800.</term>
+               <term>Coins -- Private collections.</term>
+               <term>Numismatics -- Private collections.</term>
+               <term>Sculpture, Ancient.</term>
+               <term>Italy -- Livorno.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d5dd2e62-c25f-4427-a58c-ec57f9afd8f1">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Catalogus numismaticus Musei Lefroyani [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985450263506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/r04985</idno>
-            <idno type="cico">2797</idno>
-            <idno type="dcl">7zx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Catalogus numismaticus Musei Lefroyani [microform].</title>
-                  <respStmt>
-                     <persName>Lefroy, Antony.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Liburni : Apud Marci Cultellini</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>[1763]</date>
-                     <date>1763</date>
-                  </imprint>
-                  <extent>180 p.</extent>
-                  <extent>3 microfiches : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c6249334-65e2-4e14-b08e-555d003fd1d3/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c6249334-65e2-4e14-b08e-555d003fd1d3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

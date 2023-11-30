@@ -24,58 +24,6 @@ pregiatissima pel merito della dotta esposizione.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le Forche Caudine Illustrate</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Daniel, Franziskus, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-68714</idno>
-            <idno type="URI">http://portal.getty.edu/api/c10f2s</idno>
-            <idno type="cico">3995</idno>
-            <idno type="dcl">bvz</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le Forche Caudine Illustrate</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <pubPlace>Valle Caudina</pubPlace>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Italien</pubPlace>
-                     <pubPlace>Valle Caudina</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>41.05 14.6</pubPlace>
-                     <date>1778</date>
-                     <date>1778</date>
-                  </imprint>
-                  <extent>[1] Bl., XXVI, [1] S., [5] Faltbl.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/daniele1778/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/daniele1778/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le forche caudine [microform] : illustrate con due appendici.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -121,6 +69,13 @@ pregiatissima pel merito della dotta esposizione.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Forche Caudine Region (Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/19cf86af-68fd-4825-ab7a-15d6aeac9b9b/manifest">

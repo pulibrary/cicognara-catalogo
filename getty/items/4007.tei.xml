@@ -24,57 +24,6 @@ topografiche, <pb type="cico" n="240"/> piante, alzati ec. a’ luoghi riferiti 
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Histoire de la ville de Paris [microform] / composée par D. Michel Felibien ; reveue, augmentee et mise aujour par D. Guy-Alexis Lobineau ... justifiée par des preuves autentiques, &amp; enrichie de plans, de figures, &amp; d'une carte topographique : divisée en cinq volumes in folio.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Lobineau, Guy-Alexis, 1666-1727.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985442933506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/r05d3n</idno>
-            <idno type="cico">4007</idno>
-            <idno type="dcl">rrx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Histoire de la ville de Paris [microform] / composée par D. Michel Felibien ; reveue, augmentee et mise aujour par D. Guy-Alexis Lobineau ... justifiée par des preuves autentiques, &amp; enrichie de plans, de figures, &amp; d'une carte topographique : divisée en cinq volumes in folio.</title>
-                  <respStmt>
-                     <persName>Félibien, Michel, 1665-1719.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Guillaume Desprez ... et Jean Desessartz</publisher>
-                     <pubPlace>Paris (France)</pubPlace>
-                     <date>1725</date>
-                  </imprint>
-                  <extent>5 v.</extent>
-                  <extent>189 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81305107-8ad1-481c-a8e8-8d44dbcc4688/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81305107-8ad1-481c-a8e8-8d44dbcc4688/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Histoire de la ville de Paris, composée par D. Michel Felibien, rev., augm, et mise au jour par D. Guy-Alexis Lobineau ... Justifiée par des preuves autentiques, &amp; enrichie de plans, de figures, &amp; d'une carte topographique. Divise'e en cinq volumes in folio ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -118,6 +67,15 @@ topografiche, <pb type="cico" n="240"/> piante, alzati ec. a’ luoghi riferiti 
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Paris (France) -- History.</term>
+               <term>France -- Paris.</term>
+               <term>DC707 .F5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/16cb4503-11c2-4526-8ae6-fa5c04ae83c8">
@@ -141,6 +99,64 @@ topografiche, <pb type="cico" n="240"/> piante, alzati ec. a’ luoghi riferiti 
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/30880397-5742-4e84-8452-0a7cd22db69c">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Histoire de la ville de Paris [microform] / composée par D. Michel Felibien ; reveue, augmentee et mise aujour par D. Guy-Alexis Lobineau ... justifiée par des preuves autentiques, &amp; enrichie de plans, de figures, &amp; d'une carte topographique : divisée en cinq volumes in folio.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Lobineau, Guy-Alexis, 1666-1727.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985442933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r05d3n</idno>
+            <idno type="cico">4007</idno>
+            <idno type="dcl">rrx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Histoire de la ville de Paris [microform] / composée par D. Michel Felibien ; reveue, augmentee et mise aujour par D. Guy-Alexis Lobineau ... justifiée par des preuves autentiques, &amp; enrichie de plans, de figures, &amp; d'une carte topographique : divisée en cinq volumes in folio.</title>
+                  <respStmt>
+                     <persName>Félibien, Michel, 1665-1719.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Guillaume Desprez ... et Jean Desessartz</publisher>
+                     <pubPlace>Paris (France)</pubPlace>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>5 v.</extent>
+                  <extent>189 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/81305107-8ad1-481c-a8e8-8d44dbcc4688/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Paris (France) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/81305107-8ad1-481c-a8e8-8d44dbcc4688/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

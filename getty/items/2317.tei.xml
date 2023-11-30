@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Notizie intorno ad Isotta da Rimino / scritte dal conte Giammaria Mazzuchelli.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9922609800001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/pt0z0d</idno>
-            <idno>(OCoLC)145867158</idno>
-            <idno type="cico">2317</idno>
-            <idno type="dcl">160</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Notizie intorno ad Isotta da Rimino / scritte dal conte Giammaria Mazzuchelli.</title>
-                  <respStmt>
-                     <persName>Mazzuchelli, Giammaria, conte, 1707-1765.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Brescia : Dalle stampe di Giambatista Bossini</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Rimini (Italy)</pubPlace>
-                     <date>1759</date>
-                  </imprint>
-                  <extent>46, [2] pages, [3] leaves of plates (2 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4a7ae034-6c04-459c-87ef-ce1fb8645136"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4a7ae034-6c04-459c-87ef-ce1fb8645136">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Notizie intorno ad Isotta da Rimino [microform] / scritte dal conte Giammaria Mazzuchelli.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -115,9 +66,82 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Isotta degli Atti, d. 1470.</term>
+               <term>Malatesta, Sigismondo Pandolfo, signore di Rimini, 1417-1468.</term>
+               <term>Mistresses -- Italy -- Rimini -- Biography.</term>
+               <term>Rimini (Italy) -- History -- 15th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5986f640-9743-44df-8aec-50482a69f8be/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizie intorno ad Isotta da Rimino / scritte dal conte Giammaria Mazzuchelli.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922609800001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pt0z0d</idno>
+            <idno>(OCoLC)145867158</idno>
+            <idno type="cico">2317</idno>
+            <idno type="dcl">160</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizie intorno ad Isotta da Rimino / scritte dal conte Giammaria Mazzuchelli.</title>
+                  <respStmt>
+                     <persName>Mazzuchelli, Giammaria, conte, 1707-1765.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Brescia : Dalle stampe di Giambatista Bossini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Rimini (Italy)</pubPlace>
+                     <date>1759</date>
+                  </imprint>
+                  <extent>46, [2] pages, [3] leaves of plates (2 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/4a7ae034-6c04-459c-87ef-ce1fb8645136"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Isotta degli Atti, -1470.</term>
+               <term>Malatesta, Sigismondo Pandolfo, signore di Rimini, 1417-1468.</term>
+               <term>Mistresses -- Italy -- Rimini -- Biography.</term>
+               <term>Rimini (Italy) -- History -- 15th century.</term>
+               <term>Malatesta, Sigismondo Pandolfo, signore di Rimini, 1417-1468</term>
+               <term>Mistresses</term>
+               <term>Italy -- Rimini</term>
+               <term>DG975.R5 M39 1759</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/4a7ae034-6c04-459c-87ef-ce1fb8645136">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

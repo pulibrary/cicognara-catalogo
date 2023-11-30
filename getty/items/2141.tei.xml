@@ -94,6 +94,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jesus Christ -- Art.</term>
+               <term>Jesus Christ -- Iconography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c918d24a-2bcc-453e-a492-7f84e480a11c/manifest">
@@ -144,6 +152,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible. Acts -- Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/49a898d9-813f-4904-abe0-dc0a26edbde9/manifest">
@@ -194,6 +209,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible. Old Testament -- Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eff57d33-02c0-455b-9e51-0fd732565d2f/manifest">
@@ -244,59 +266,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible. Genesis -- Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c5cc995b-39db-4557-99ab-d1b3b119ecf2/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Boni et mali scienta &amp; quid ex horum cognitione a condito mundo succraeuerit declaratio / Sadler ...</title>
-            <respStmt>
-               <orgName>Frick Art Reference Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vos, Maarten de, 1532-1603.</authority>
-            <authority>Collaert, Adriaen, -1618.</authority>
-            <idno type="URI">http://portal.getty.edu/books/frick_1157287521</idno>
-            <idno type="URI">http://portal.getty.edu/api/hv690n</idno>
-            <idno>(OCoLC)1157287521</idno>
-            <idno type="cico">2141</idno>
-            <idno type="dcl">bvr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Boni et mali scienta &amp; quid ex horum cognitione a condito mundo succraeuerit declaratio / Sadler ...</title>
-                  <respStmt>
-                     <persName>Sadeler, Jan, 1550-1600.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[S.l. : publisher not identified]</publisher>
-                     <date>[1583]</date>
-                     <date>1583</date>
-                  </imprint>
-                  <extent>1 online resource (1 volumes, 47 pages of plates)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072001222969"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072001222969">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -344,9 +323,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible. Genesis -- Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e794eab0-c943-430a-9639-cc9084749907/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Boni et mali scienta &amp; quid ex horum cognitione a condito mundo succraeuerit declaratio / Sadler ...</title>
+            <respStmt>
+               <orgName>Frick Art Reference Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vos, Maarten de, 1532-1603.</authority>
+            <authority>Collaert, Adriaen, -1618.</authority>
+            <idno type="URI">http://portal.getty.edu/books/frick_1157287521</idno>
+            <idno type="URI">http://portal.getty.edu/api/hv690n</idno>
+            <idno>(OCoLC)1157287521</idno>
+            <idno type="cico">2141</idno>
+            <idno type="dcl">bvr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Boni et mali scienta &amp; quid ex horum cognitione a condito mundo succraeuerit declaratio / Sadler ...</title>
+                  <respStmt>
+                     <persName>Sadeler, Jan, 1550-1600.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l. : publisher not identified]</publisher>
+                     <date>[1583]</date>
+                     <date>1583</date>
+                  </imprint>
+                  <extent>1 online resource (1 volumes, 47 pages of plates)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://imagesdigitalcollections.frick.org/compare/barcode/31072001222969"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible. Genesis -- Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072001222969">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -393,6 +436,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bible. Acts -- Illustrations.</term>
+               <term>Christian art and symbolism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7d2e3cc1-02d6-44ac-89d3-f40450d27c6b/manifest">

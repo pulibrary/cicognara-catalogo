@@ -19,4 +19,62 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orazione [microform] / di Gio. Batista Niccolini, segretario dell'Imperiale Accademia delle belle arti di Firenze, per la distribuzione dei premi nel solenne concorso triennale.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985456343506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/p07s1b</idno>
+            <idno type="cico">1334</idno>
+            <idno type="dcl">9gb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Orazione [microform] / di Gio. Batista Niccolini, segretario dell'Imperiale Accademia delle belle arti di Firenze, per la distribuzione dei premi nel solenne concorso triennale.</title>
+                  <respStmt>
+                     <persName>Niccolini, G. B. (Giovanni Battista), 1782-1861.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : Appresso Carli e Comp0</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1809</date>
+                  </imprint>
+                  <extent>xvi p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9b10edeb-6922-4502-833c-5741bf45ca1d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di belle arti (Florence, Italy) -- Awards.</term>
+               <term>Art -- Awards -- Italy -- Florence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9b10edeb-6922-4502-833c-5741bf45ca1d/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

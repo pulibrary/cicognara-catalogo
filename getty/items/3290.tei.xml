@@ -23,57 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le nozze di Paride ed Elena : rappresentate in un vaso antico del museo del signor Tommaso Jenkins, gentiluomo inglese.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Zempel, Giovanni, active 1730-1795</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926540220001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/8h1406</idno>
-            <idno>(OCoLC)81049043</idno>
-            <idno type="cico">3290</idno>
-            <idno type="dcl">432</idno>
-            <idno type="dcl">xk1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le nozze di Paride ed Elena : rappresentate in un vaso antico del museo del signor Tommaso Jenkins, gentiluomo inglese.</title>
-                  <respStmt>
-                     <persName>Visconti, Ennio Quirino, 1751-1818</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma : Nella stamperia di G. Zempel</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy Rome.</pubPlace>
-                     <date>1775</date>
-                  </imprint>
-                  <extent>[4], 27, [1] pages, [2] leaves of plates (1 folded)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/69afd6f7-6d50-491d-9383-22794e2a9eb7"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/69afd6f7-6d50-491d-9383-22794e2a9eb7">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le nozze di Paride ed Elena rappresentate in un vaso antico del museo del signor Tommaso Jenkins .. [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -113,6 +62,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Helen, of Troy, Queen of Sparta -- Art.</term>
+               <term>Paris (Mythological character) -- Art.</term>
+               <term>Vases, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a4d6409-2425-40d8-8339-efe4b6397c9e/manifest">
@@ -164,6 +122,23 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jenkins, Thomas, 1722-1798 -- Art collections.</term>
+               <term>Vases, Classical -- Private collections -- Italy -- Rome.</term>
+               <term>Relief (Sculpture), Classical -- Private collections -- Italy -- Rome.</term>
+               <term>Marble sculpture, Classical -- Private collections -- Italy -- Rome.</term>
+               <term>Paris (Legendary character) -- Art.</term>
+               <term>Helen, of Troy, Queen of Sparta -- Art.</term>
+               <term>Jenkins, Thomas, 1722-1798</term>
+               <term>Helen, of Troy, Queen of Sparta</term>
+               <term>Paris (Legendary character)</term>
+               <term>Art -- Private collections.</term>
+               <term>Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/69afd6f7-6d50-491d-9383-22794e2a9eb7">
@@ -214,9 +189,86 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Helen, of Troy, Queen of Sparta -- Art.</term>
+               <term>Paris (Mythological character) -- Art.</term>
+               <term>Vases, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8a4d6409-2425-40d8-8339-efe4b6397c9e/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le nozze di Paride ed Elena : rappresentate in un vaso antico del museo del signor Tommaso Jenkins, gentiluomo inglese.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Zempel, Giovanni, active 1730-1795</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926540220001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8h1406</idno>
+            <idno>(OCoLC)81049043</idno>
+            <idno type="cico">3290</idno>
+            <idno type="dcl">432</idno>
+            <idno type="dcl">xk1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le nozze di Paride ed Elena : rappresentate in un vaso antico del museo del signor Tommaso Jenkins, gentiluomo inglese.</title>
+                  <respStmt>
+                     <persName>Visconti, Ennio Quirino, 1751-1818</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : Nella stamperia di G. Zempel</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Rome.</pubPlace>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>[4], 27, [1] pages, [2] leaves of plates (1 folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/69afd6f7-6d50-491d-9383-22794e2a9eb7"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jenkins, Thomas, 1722-1798 -- Art collections.</term>
+               <term>Vases, Classical -- Private collections -- Italy -- Rome.</term>
+               <term>Relief (Sculpture), Classical -- Private collections -- Italy -- Rome.</term>
+               <term>Marble sculpture, Classical -- Private collections -- Italy -- Rome.</term>
+               <term>Paris (Legendary character) -- Art.</term>
+               <term>Helen, of Troy, Queen of Sparta -- Art.</term>
+               <term>Jenkins, Thomas, 1722-1798</term>
+               <term>Helen, of Troy, Queen of Sparta</term>
+               <term>Paris (Legendary character)</term>
+               <term>Art -- Private collections.</term>
+               <term>Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/69afd6f7-6d50-491d-9383-22794e2a9eb7">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

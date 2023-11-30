@@ -24,50 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lodi al Signor Guido Reni : raccolte dall'Imperfetto Accad. Conf.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9928720990001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/vn4h10</idno>
-            <idno>(OCoLC)194444487</idno>
-            <idno type="cico">2305</idno>
-            <idno type="dcl">1pf</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Lodi al Signor Guido Reni : raccolte dall'Imperfetto Accad. Conf.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Per Nicolò Tebaldini, MDCXXXII</publisher>
-                     <date>[1632]</date>
-                     <date>1632</date>
-                  </imprint>
-                  <extent>[vii], 96 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/464b2b15-1bca-4d89-9ef5-16bd4746ce51"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/464b2b15-1bca-4d89-9ef5-16bd4746ce51">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Lodi al Signor Guido Reni [microform] : raccolte dall'Imperfetto Accad. Conf.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -101,9 +57,69 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Reni, Guido, 1575-1642.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb005600-77c0-4d63-b9ea-6b7cc0c2e81a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lodi al Signor Guido Reni : raccolte dall'Imperfetto Accad. Conf.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928720990001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/vn4h10</idno>
+            <idno>(OCoLC)194444487</idno>
+            <idno type="cico">2305</idno>
+            <idno type="dcl">1pf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lodi al Signor Guido Reni : raccolte dall'Imperfetto Accad. Conf.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Nicolò Tebaldini, MDCXXXII</publisher>
+                     <date>[1632]</date>
+                     <date>1632</date>
+                  </imprint>
+                  <extent>[vii], 96 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/464b2b15-1bca-4d89-9ef5-16bd4746ce51"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Reni, Guido, 1575-1642</term>
+               <term>Reni, Guido, 1575-1642</term>
+               <term>ND623.R6 L63 1632</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/464b2b15-1bca-4d89-9ef5-16bd4746ce51">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

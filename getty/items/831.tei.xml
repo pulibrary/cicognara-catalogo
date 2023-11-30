@@ -28,54 +28,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Traité de la perspective pratique [microform] : avec des remarques sur l'architecture : suivies de quelques edifices considerables mis en perspective &amp; de l'invention de l'auteur ... / par le Sieur Courtonne ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985297863506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tg4590</idno>
-            <idno type="cico">831</idno>
-            <idno type="dcl">k8h</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Traité de la perspective pratique [microform] : avec des remarques sur l'architecture : suivies de quelques edifices considerables mis en perspective &amp; de l'invention de l'auteur ... / par le Sieur Courtonne ...</title>
-                  <respStmt>
-                     <persName>Courtonne, Jean, 1671-1739.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Jacques Vincent</publisher>
-                     <date>1725</date>
-                  </imprint>
-                  <extent>[14], 116 p., [34] leaves of plates (chiefly folded)</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0a5866b4-c746-411a-8164-28b4d1834115/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a5866b4-c746-411a-8164-28b4d1834115/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Traité de la perspective pratique : avec des remarques sur l'architecture : suivies de quelques edifices considerables mis en perspective &amp; de l'invention de l'auteur : ouvrage très-utile aux amateurs de l'architecture &amp; de la peinture / par le Sieur Courtonne, architecte.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -113,9 +65,78 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Theaters -- Stage-setting and scenery -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Perspective</term>
+               <term>Theaters -- Stage-setting and scenery</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/38c6a5f5-e657-4569-8b0d-94c2280ad7b3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traité de la perspective pratique [microform] : avec des remarques sur l'architecture : suivies de quelques edifices considerables mis en perspective &amp; de l'invention de l'auteur ... / par le Sieur Courtonne ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985297863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tg4590</idno>
+            <idno type="cico">831</idno>
+            <idno type="dcl">k8h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traité de la perspective pratique [microform] : avec des remarques sur l'architecture : suivies de quelques edifices considerables mis en perspective &amp; de l'invention de l'auteur ... / par le Sieur Courtonne ...</title>
+                  <respStmt>
+                     <persName>Courtonne, Jean, 1671-1739.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Jacques Vincent</publisher>
+                     <date>1725</date>
+                  </imprint>
+                  <extent>[14], 116 p., [34] leaves of plates (chiefly folded)</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0a5866b4-c746-411a-8164-28b4d1834115/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Perspective -- Early works to 1800.</term>
+               <term>Theaters -- Stage-setting and scenery -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a5866b4-c746-411a-8164-28b4d1834115/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -32,9 +32,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Les Images Ov Tableavx De Platte Peintvre Des Deux Philostrates Sophistes Grecs Et Des Statves De Callistrate</title>
+            <title>Les images ou tableaux de platte peinture des deux Philostrates sophistes grecs, et Les statues de Callistrate / mis en francois par Blaise de Vigenere bourbonnois, enrichis d'arguments et annotations.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -43,35 +43,53 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Philostratus, Flavius, Editor</authority>
-            <authority>Philostratus &lt;Iunior&gt;, Editor</authority>
-            <authority>Callistratus &lt;Sophista&gt;, Editor</authority>
-            <authority>Vigenère, Blaise de, Translator</authority>
-            <authority>Artus, Thomas, Translator</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-276970</idno>
-            <idno type="URI">http://portal.getty.edu/api/552b82</idno>
+            <authority>Vigenère, Blaise de, 1523-1596</authority>
+            <authority>Artus, Thomas, sieur d'Embry.</authority>
+            <authority>Isaac, Jaspar, -1654.</authority>
+            <authority>Philostratus, the Lemnian, active 3rd century. Imagines. French. 1609.</authority>
+            <authority>Callistratus, active 3rd century-4th century. Descriptions. French. 1609.</authority>
+            <authority>Caron, Antoine, 1521-1599.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991705573504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/k6567n</idno>
+            <idno>(OCoLC)973447352</idno>
             <idno type="cico">1933</idno>
-            <idno type="dcl">mrw</idno>
+            <idno type="dcl">65z</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Les Images Ov Tableavx De Platte Peintvre Des Deux Philostrates Sophistes Grecs Et Des Statves De Callistrate</title>
+                  <title>Les images ou tableaux de platte peinture des deux Philostrates sophistes grecs, et Les statues de Callistrate / mis en francois par Blaise de Vigenere bourbonnois, enrichis d'arguments et annotations.</title>
+                  <respStmt>
+                     <persName>Philostratus, the Athenian, active 2nd century-3rd century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
+                  <textLang>Greek, Ancient (to 1453)</textLang>
                   <imprint>
-                     <date>1629</date>
-                     <date>1629</date>
+                     <publisher>A Paris : Chez la veufue Abel l'Angelier ... et la veufue M. Guillemot</publisher>
+                     <date>[1615]</date>
+                     <date>1615</date>
                   </imprint>
-                  <extent>9 Bl., 921 S., 22 Bl.</extent>
-                  <extent>Ill.</extent>
+                  <extent>[18], 921, [47] p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/artus1629/manifest.json"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991705573504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Mythology, Classical, in art.</term>
+               <term>Greek literature -- Translations into French.</term>
+               <term>French literature -- Translations from Greek.</term>
+               <term>Provenance -- Holmes (Daniel Henry)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/artus1629/manifest.json">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991705573504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -121,6 +139,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Mythology, Classical, in art.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/da612206-d130-417a-90f9-88e58c84ba8e/manifest">

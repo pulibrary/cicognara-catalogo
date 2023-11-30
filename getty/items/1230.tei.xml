@@ -64,9 +64,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/284bed1d-8927-4156-93a0-d4e1baa424dc/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuova descrittione non più uscita alle stampe : con esattissimo trasporto nell' Italiano Linguaggio procurata da vecchi esemplari manuscritti in Francese, delli due principalissimi Quadri di Raffaelle Sancio da Urbino ... l'uno espressivo della natività di Giesù ... l'altro della regia adorazione de magi ... / da Giacomo delli Ascanii.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99845263504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/x99c58</idno>
+            <idno>(OCoLC)84313098</idno>
+            <idno type="cico">1230</idno>
+            <idno type="dcl">mrp</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nuova descrittione non più uscita alle stampe : con esattissimo trasporto nell' Italiano Linguaggio procurata da vecchi esemplari manuscritti in Francese, delli due principalissimi Quadri di Raffaelle Sancio da Urbino ... l'uno espressivo della natività di Giesù ... l'altro della regia adorazione de magi ... / da Giacomo delli Ascanii.</title>
+                  <respStmt>
+                     <persName>Ascanii, Giacomo delli, active 18th century.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Bologna : Peri all' Angelo Custode</publisher>
+                     <date>1720</date>
+                  </imprint>
+                  <extent>137, [19] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99845263504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Raphael, 1483-1520.</term>
+               <term>Provenance -- Couissinier (B.)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99845263504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

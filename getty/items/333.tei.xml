@@ -65,9 +65,70 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1d0062fd-200e-479a-b7de-9d5118dd23e2/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoria sui varj giri di testa ad uso del disegno / [Luigi Malaspina di Sannazaro].</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_994245627904896</idno>
+            <idno type="URI">http://portal.getty.edu/api/z2226s</idno>
+            <idno>(OCoLC)863352907</idno>
+            <idno type="cico">333</idno>
+            <idno type="dcl">xjs</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoria sui varj giri di testa ad uso del disegno / [Luigi Malaspina di Sannazaro].</title>
+                  <respStmt>
+                     <persName>Malaspina di Sannazaro, Luigi, marchese, 1754-1835 author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pavia : Da G. Giovanni Capelli</publisher>
+                     <date>1812</date>
+                  </imprint>
+                  <extent>23, [1] pages, [2] folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/994245627904896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Head in art</term>
+               <term>Figure drawing -- Technique</term>
+               <term>Perspective</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/994245627904896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -44,54 +44,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[Engravings of people, vases, cartouches and fountains] [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Blondel, Michelle.</authority>
-            <authority>Bouchardon, Jacques-Philippe, 1711-1753.</authority>
-            <authority>Lajoue, Jacques de, 1686 or 1687-1761.</authority>
-            <authority>Vanloo, Carle, 1705-1765.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985403803506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/fg607c</idno>
-            <idno type="cico">1601</idno>
-            <idno type="dcl">h8b</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>[Engravings of people, vases, cartouches and fountains] [microform].</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>[S.l. : s.n]</publisher>
-                     <date>1737</date>
-                  </imprint>
-                  <extent>[127] leaves</extent>
-                  <extent>10 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d32fc349-4164-47a4-9bd6-3da93e4f1750/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d32fc349-4164-47a4-9bd6-3da93e4f1750/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Premier[-Second] livre de vases / inventes par Edme Bouchardon, sculpteur du roy.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -132,9 +84,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vases -- France.</term>
+               <term>Decoration and ornament -- France.</term>
+               <term>Decoration and ornament.</term>
+               <term>Vases.</term>
+               <term>France.</term>
+               <term>NK4620 .B68 1737</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/32132978-d039-4c4c-ae77-6b0f295b8c0f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Engravings of people, vases, cartouches and fountains] [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Blondel, Michelle.</authority>
+            <authority>Bouchardon, Jacques-Philippe, 1711-1753.</authority>
+            <authority>Lajoue, Jacques de, 1686 or 1687-1761.</authority>
+            <authority>Vanloo, Carle, 1705-1765.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985403803506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/fg607c</idno>
+            <idno type="cico">1601</idno>
+            <idno type="dcl">h8b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Engravings of people, vases, cartouches and fountains] [microform].</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>1737</date>
+                  </imprint>
+                  <extent>[127] leaves</extent>
+                  <extent>10 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d32fc349-4164-47a4-9bd6-3da93e4f1750/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cartouches, Ornamental (Decorative arts)</term>
+               <term>Children in art -- Early works to 1800.</term>
+               <term>Engraving, French -- 18th century.</term>
+               <term>Fountains in art -- Early works to 1800.</term>
+               <term>Vases in art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d32fc349-4164-47a4-9bd6-3da93e4f1750/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

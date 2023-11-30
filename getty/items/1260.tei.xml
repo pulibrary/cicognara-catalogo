@@ -23,6 +23,60 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Explication des peintures, sculptures, et autres ouvrages de messieurs de l'académie royale : dont l'exposition a été ordonnée suivant l'intention de Sa Majesté / par M. Orry ... à commencer le jour de S. Loüis 25. aoust 1742, pour finir le jour de S. Mathieu 21. septembre suivant.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_992336563504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/1k8n9z</idno>
+            <idno>(OCoLC)973434192</idno>
+            <idno type="cico">1260</idno>
+            <idno type="dcl">wjj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Explication des peintures, sculptures, et autres ouvrages de messieurs de l'académie royale : dont l'exposition a été ordonnée suivant l'intention de Sa Majesté / par M. Orry ... à commencer le jour de S. Loüis 25. aoust 1742, pour finir le jour de S. Mathieu 21. septembre suivant.</title>
+                  <respStmt>
+                     <persName>Salon (Exhibition : Paris, France) (1742)</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Impr. de J.J.E. Collombat</publisher>
+                     <date>1742</date>
+                  </imprint>
+                  <extent>34 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992336563504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Salon (Exhibition : Paris, France) (1742).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992336563504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Explication des peintures, sculptures, et autres ouvrages de messieurs de l'Académie royale [microform] : dont l'exposition a été ordonnée suivant l'intention de Sa Majesté, par M. Orry ... dans le grand Salon du Louvre ... a commencer le jour de S. Loüis 25. Aoust 1742. pour finir le jour de S. Matthieu 21. Septembre suivant.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -64,6 +118,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- France -- Paris -- Exhibitions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb054bc9-e333-4770-b1a9-7866fc5cb240/manifest">

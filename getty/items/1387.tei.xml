@@ -25,56 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Torneo fatto sotto il Castello d'Argio da' SS. caualieri Bolognesi il di IX. febraio 1578 [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vizani, Pompeo, 1540-1607.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985302133506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/bh4c52</idno>
-            <idno type="cico">1387</idno>
-            <idno type="dcl">jg1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Torneo fatto sotto il Castello d'Argio da' SS. caualieri Bolognesi il di IX. febraio 1578 [microform]</title>
-                  <respStmt>
-                     <persName>Garisendi, Antenor.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Bologna : Per Giouanni Rossi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1578</date>
-                  </imprint>
-                  <extent>112 p.</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/89c9fa38-10d9-4f0a-b066-f821415e83c3/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/89c9fa38-10d9-4f0a-b066-f821415e83c3/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Torneo fatto sotto il Castello d'Argio da' SS. caualieri Bolognesi il di IX. febraio 1578.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +64,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Festivals -- Italy -- Bologna -- Early works to 1800.</term>
+               <term>Tournaments, Medieval -- Italy -- Bologna -- Early works to 1800.</term>
+               <term>Bologna (Italy) -- Social life and customs -- Early works to 1800.</term>
+               <term>Festivals</term>
+               <term>Manners and customs</term>
+               <term>Tournaments, Medieval</term>
+               <term>Italy -- Bologna</term>
+               <term>DG975.B62 G27 1578</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b8579368-bf45-42fa-a2a0-a4fc21a0f152">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Torneo fatto sotto il Castello d'Argio da' SS. caualieri Bolognesi il di IX. febraio 1578 [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Vizani, Pompeo, 1540-1607.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302133506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/bh4c52</idno>
+            <idno type="cico">1387</idno>
+            <idno type="dcl">jg1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Torneo fatto sotto il Castello d'Argio da' SS. caualieri Bolognesi il di IX. febraio 1578 [microform]</title>
+                  <respStmt>
+                     <persName>Garisendi, Antenor.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Per Giouanni Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1578</date>
+                  </imprint>
+                  <extent>112 p.</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/89c9fa38-10d9-4f0a-b066-f821415e83c3/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Tournaments -- Italy -- Bologna.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/89c9fa38-10d9-4f0a-b066-f821415e83c3/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

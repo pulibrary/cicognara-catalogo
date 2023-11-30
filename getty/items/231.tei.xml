@@ -64,9 +64,74 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/221863c6-90d4-48f2-9cdc-bea540941063/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Traitté de la peinture / de Leonard de Vinci ; donné au public et traduit d'italien en françois par R.F. S. D.C.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fréart, Roland, sieur de Chambray, 1606-1676.</authority>
+            <authority>Callot, Jacques, 1592-1635.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99164673504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/rc8s9s</idno>
+            <idno>(OCoLC)973426694</idno>
+            <idno type="cico">231</idno>
+            <idno type="dcl">0s7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Traitté de la peinture / de Leonard de Vinci ; donné au public et traduit d'italien en françois par R.F. S. D.C.</title>
+                  <respStmt>
+                     <persName>Leonardo, da Vinci, 1452-1519.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : De l'imprimerie de Iacques Langlois</publisher>
+                     <date>1651</date>
+                  </imprint>
+                  <extent>[20], 128 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99164673504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Provenance -- Smith, J.</term>
+               <term>Provenance -- Gallatin.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99164673504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

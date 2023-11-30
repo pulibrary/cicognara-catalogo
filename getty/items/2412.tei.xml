@@ -27,56 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Della pittura veneziana e delle opere pubbliche de' veneziani maestri libri V.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Albrizzi, Giovanni Battista, 1698-1777</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9924555320001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/8b0124</idno>
-            <idno>(OCoLC)23634868</idno>
-            <idno type="cico">2412</idno>
-            <idno type="dcl">4cv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Della pittura veneziana e delle opere pubbliche de' veneziani maestri libri V.</title>
-                  <respStmt>
-                     <persName>Zanetti, Antonio Maria, 1706-1778.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venezia : Nella stamperia di Giambatista Albrizzi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <pubPlace>Italy Venice.</pubPlace>
-                     <date>1771</date>
-                  </imprint>
-                  <extent>[2], VII-XVI, 628 p., [1] leaf of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a19cc7c8-a85d-481a-b437-fd5bfb350fe3"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a19cc7c8-a85d-481a-b437-fd5bfb350fe3">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Della pittura veneziana e delle opere pubbliche de' veneziani maestri libri V [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -116,9 +66,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Italy -- Venice -- Early works to 1800.</term>
+               <term>Painting, Italian -- Italy -- Venice -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7187ab60-e65b-40a8-af35-5ca5ef968ba4/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Della pittura veneziana e delle opere pubbliche de' veneziani maestri libri V.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Albrizzi, Giovanni Battista, 1698-1777</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9924555320001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/8b0124</idno>
+            <idno>(OCoLC)23634868</idno>
+            <idno type="cico">2412</idno>
+            <idno type="dcl">4cv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Della pittura veneziana e delle opere pubbliche de' veneziani maestri libri V.</title>
+                  <respStmt>
+                     <persName>Zanetti, Antonio Maria, 1706-1778.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venezia : Nella stamperia di Giambatista Albrizzi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>[2], VII-XVI, 628 p., [1] leaf of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/a19cc7c8-a85d-481a-b437-fd5bfb350fe3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Italy -- Venice.</term>
+               <term>Painting, Italian.</term>
+               <term>Painters -- Italy -- Venice.</term>
+               <term>Painters</term>
+               <term>Painting</term>
+               <term>Painting, Italian</term>
+               <term>Italy -- Venice</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a19cc7c8-a85d-481a-b437-fd5bfb350fe3">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

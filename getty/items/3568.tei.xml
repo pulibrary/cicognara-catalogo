@@ -25,57 +25,6 @@ montagne</title>, <pubPlace>Roma</pubPlace> <date>1584</date>, in 4.</bibl>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Trattato di Camillo Agrippa milanese di trasportar la guglia in su la piazza di San Pietro .. [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fossani, Agapito.</authority>
-            <authority>Fossani, Fabritio.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985419243506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/mc8k6x</idno>
-            <idno type="cico">3568</idno>
-            <idno type="dcl">92t</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Trattato di Camillo Agrippa milanese di trasportar la guglia in su la piazza di San Pietro .. [microform].</title>
-                  <respStmt>
-                     <persName>Agrippa, Camillo, -1595?</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Per Francesco Zanetti</publisher>
-                     <date>1583</date>
-                  </imprint>
-                  <extent>47 p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7fcb7c32-6567-4db4-bbca-2ebe49249aff/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7fcb7c32-6567-4db4-bbca-2ebe49249aff/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Trattato di Camillo Agrippa milanese di trasportar la gvglia in sv la piazza di San Pietro ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -118,9 +67,90 @@ montagne</title>, <pubPlace>Roma</pubPlace> <date>1584</date>, in 4.</bibl>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Agrippa, Camillo, -1595? Trattato di trasportar la gvglia in sv la piazza di San Pietro.</term>
+               <term>Obelisco vaticano (Vatican City) -- Early works to 1800.</term>
+               <term>Obelisks -- Vatican City -- Early works to 1800.</term>
+               <term>Hoisting machinery -- Early works to 1800.</term>
+               <term>Conveying machinery -- Early works to 1800.</term>
+               <term>Mechanical engineering -- Early works to 1800.</term>
+               <term>Vatican City -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>Buildings.</term>
+               <term>Conveying machinery.</term>
+               <term>Hoisting machinery.</term>
+               <term>Mechanical engineering.</term>
+               <term>Obelisks.</term>
+               <term>Vatican City.</term>
+               <term>TJ144 .A45</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f69821e4-d0a1-4ef2-8f97-9e6f4066cdcf">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trattato di Camillo Agrippa milanese di trasportar la guglia in su la piazza di San Pietro .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fossani, Agapito.</authority>
+            <authority>Fossani, Fabritio.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985419243506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mc8k6x</idno>
+            <idno type="cico">3568</idno>
+            <idno type="dcl">92t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Trattato di Camillo Agrippa milanese di trasportar la guglia in su la piazza di San Pietro .. [microform].</title>
+                  <respStmt>
+                     <persName>Agrippa, Camillo, -1595?</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Per Francesco Zanetti</publisher>
+                     <date>1583</date>
+                  </imprint>
+                  <extent>47 p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7fcb7c32-6567-4db4-bbca-2ebe49249aff/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Conveying machinery -- Early works to 1800.</term>
+               <term>Hoisting machinery -- Early works to 1800.</term>
+               <term>Mechanical engineering -- Early works to 1800.</term>
+               <term>Vatican Obelisk (Vatican City) -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7fcb7c32-6567-4db4-bbca-2ebe49249aff/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -167,6 +197,13 @@ montagne</title>, <pubPlace>Roma</pubPlace> <date>1584</date>, in 4.</bibl>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Globes -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a37981d-c9f6-4129-80f7-fcea930d497e/manifest">
@@ -217,6 +254,13 @@ montagne</title>, <pubPlace>Roma</pubPlace> <date>1584</date>, in 4.</bibl>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Scientists -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/f7a3bf6a-c1df-476d-ab4e-a4d412d4bb03/manifest">

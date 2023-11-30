@@ -31,53 +31,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L'architettvra / di Pietro Cataneo senese ; alla quale oltre all'essere stati dall'istesso autore riuisti, meglio ordinati, e di diuersi disegni, e discorsi arricchiti i primi quattro libri per l'adietro stampata, sono aggiunti di piu il quinto, sesto, settimo, e ottauo libro ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9922738820001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/338n1p</idno>
-            <idno>(OCoLC)3333282</idno>
-            <idno type="cico">469</idno>
-            <idno type="dcl">42s</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'architettvra / di Pietro Cataneo senese ; alla quale oltre all'essere stati dall'istesso autore riuisti, meglio ordinati, e di diuersi disegni, e discorsi arricchiti i primi quattro libri per l'adietro stampata, sono aggiunti di piu il quinto, sesto, settimo, e ottauo libro ...</title>
-                  <respStmt>
-                     <persName>Cataneo, Pietro, -1569</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Venetia : [Paolo Manuzio]</publisher>
-                     <date>1567</date>
-                  </imprint>
-                  <extent>[4], 196, [8] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/953d94b1-1bc7-40b8-9194-9b9e0d128530"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/953d94b1-1bc7-40b8-9194-9b9e0d128530">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>L'architettura di Pietro Cataneo, Senese [microform] : alla quale oltre all'essere stati dall'istesso autore riuisti, meglio ordinati, e di diuersi disegni, e discorsi arricchiti i primi quattro libri per l'adietro stampati, sono agguinti di piu il quinto, sesto, settimo, e ottauo libro ....</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -115,9 +68,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fb121ea1-a23c-41c0-8e66-f389ab590397/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'architettvra / di Pietro Cataneo senese ; alla quale oltre all'essere stati dall'istesso autore riuisti, meglio ordinati, e di diuersi disegni, e discorsi arricchiti i primi quattro libri per l'adietro stampata, sono aggiunti di piu il quinto, sesto, settimo, e ottauo libro ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922738820001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/338n1p</idno>
+            <idno>(OCoLC)3333282</idno>
+            <idno type="cico">469</idno>
+            <idno type="dcl">42s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'architettvra / di Pietro Cataneo senese ; alla quale oltre all'essere stati dall'istesso autore riuisti, meglio ordinati, e di diuersi disegni, e discorsi arricchiti i primi quattro libri per l'adietro stampata, sono aggiunti di piu il quinto, sesto, settimo, e ottauo libro ...</title>
+                  <respStmt>
+                     <persName>Cataneo, Pietro, -1569</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : [Paolo Manuzio]</publisher>
+                     <date>1567</date>
+                  </imprint>
+                  <extent>[4], 196, [8] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/953d94b1-1bc7-40b8-9194-9b9e0d128530"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>NA2517 .C35</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/953d94b1-1bc7-40b8-9194-9b9e0d128530">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -163,6 +179,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>NA2517 .C35</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ff4590b3-3eff-4213-999d-b3133378efd4/manifest">

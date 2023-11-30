@@ -23,55 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Elogio della chiara memoria dell' Em̄o e Rm̄o signor cardinale Stefano Borgia / scritto in una lettera dal signor abate Francesco Cancellieri.</title>
-            <respStmt>
-               <orgName>Harvard Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Bodoni, Giambattista, 1740-1813, printer.</authority>
-            <idno type="URI">http://portal.getty.edu/books/hul_990043147380203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/jj375s</idno>
-            <idno>(OCoLC)3419685</idno>
-            <idno type="cico">2226</idno>
-            <idno type="dcl">7gf</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Elogio della chiara memoria dell' Em̄o e Rm̄o signor cardinale Stefano Borgia / scritto in una lettera dal signor abate Francesco Cancellieri.</title>
-                  <respStmt>
-                     <persName>Cancellieri, Francesco, 1751-1826, author.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Parma : Co' tipi Bodoniani</publisher>
-                     <date>MDCCCV [1805]</date>
-                     <date>1805</date>
-                  </imprint>
-                  <extent>20 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481773208"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481773208">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Elogio della chiara memoria dell'E[minentissi]mo e R[everendissi]mo sig. cardinale Stefano Borgia [microform]/ scritto in una lettera dal signor abate Francesco Cancellieri.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -110,9 +61,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Borgia, Stefano, 1731-1804.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ae189fa1-997d-4fab-aebe-c3fbb1da93d6/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio della chiara memoria dell' Em̄o e Rm̄o signor cardinale Stefano Borgia / scritto in una lettera dal signor abate Francesco Cancellieri.</title>
+            <respStmt>
+               <orgName>Harvard Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Bodoni, Giambattista, 1740-1813, printer.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hul_990043147380203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/jj375s</idno>
+            <idno>(OCoLC)3419685</idno>
+            <idno type="cico">2226</idno>
+            <idno type="dcl">7gf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio della chiara memoria dell' Em̄o e Rm̄o signor cardinale Stefano Borgia / scritto in una lettera dal signor abate Francesco Cancellieri.</title>
+                  <respStmt>
+                     <persName>Cancellieri, Francesco, 1751-1826, author.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Parma : Co' tipi Bodoniani</publisher>
+                     <date>MDCCCV [1805]</date>
+                     <date>1805</date>
+                  </imprint>
+                  <extent>20 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:481773208"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Borgia, Stefano, 1731-1804</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481773208">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

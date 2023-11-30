@@ -63,6 +63,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, Italian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4b371684-543c-4e0a-982c-605c5d693194/manifest">
@@ -119,6 +126,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Italy -- History.</term>
+               <term>Painting, Italian.</term>
+               <term>Painting.</term>
+               <term>Italy.</term>
+               <term>Peinture -- Italie -- Histoire. fre</term>
+               <term>ND611 .L3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/747e29b9-4dde-4016-bd8f-521c01f241f1">
@@ -147,6 +166,61 @@
    </facsimile>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/620bb2d8-083e-4e2c-8236-3d3bddf77dcc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogio dell'abate Don Luigi Lanzi [microform] / tratto dalle sue opere, del cavaliere Onofrio Boni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985247043506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/03266z</idno>
+            <idno type="cico">40</idno>
+            <idno type="dcl">55t</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Elogio dell'abate Don Luigi Lanzi [microform] / tratto dalle sue opere, del cavaliere Onofrio Boni.</title>
+                  <respStmt>
+                     <persName>Boni, Onofrio, 1743-1818.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Pisa : Presso Niccolò Capurro</publisher>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>400 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5ee5ce2d-950e-49a7-bbea-618e2c4babe9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lanzi, Luigi, -1810.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5ee5ce2d-950e-49a7-bbea-618e2c4babe9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -193,57 +267,22 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lanzi, Luigi, -1810.</term>
+               <term>Archaeologists -- Italy -- Biography.</term>
+               <term>Art historians -- Italy -- Biography.</term>
+               <term>Lanzi, Luigi, -1810.</term>
+               <term>Archaeologists.</term>
+               <term>Art historians.</term>
+               <term>Italy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://imagesdigitalcollections.frick.org/compare/barcode/31072001805649">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Elogio dell'abate Don Luigi Lanzi [microform] / tratto dalle sue opere, del cavaliere Onofrio Boni.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985247043506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/03266z</idno>
-            <idno type="cico">40</idno>
-            <idno type="dcl">55t</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Elogio dell'abate Don Luigi Lanzi [microform] / tratto dalle sue opere, del cavaliere Onofrio Boni.</title>
-                  <respStmt>
-                     <persName>Boni, Onofrio, 1743-1818.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Pisa : Presso Niccolò Capurro</publisher>
-                     <date>1816</date>
-                  </imprint>
-                  <extent>400 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/5ee5ce2d-950e-49a7-bbea-618e2c4babe9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5ee5ce2d-950e-49a7-bbea-618e2c4babe9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

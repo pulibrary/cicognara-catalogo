@@ -66,9 +66,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/16d8a487-6cb1-48e7-94d8-61fe9219b843/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoires critiques d'architecture : contenans l'idée de la vraye &amp; de la fausse architecture : une instruction sur toutes les tromperies des ouvriers infidels travaillant dans les bâtimens : une dissertation sur la formation des mineraux, leur nature &amp; leur employ, &amp; sur l'abus dans l'usage du plâtre : sur la qualité de la fumée, &amp; des moyens d'y remedier, &amp; sur d'autres matieres non encore éclaircies.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_991498833504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/5n7630</idno>
+            <idno>(OCoLC)225892393</idno>
+            <idno type="cico">564</idno>
+            <idno type="dcl">dcb</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memoires critiques d'architecture : contenans l'idée de la vraye &amp; de la fausse architecture : une instruction sur toutes les tromperies des ouvriers infidels travaillant dans les bâtimens : une dissertation sur la formation des mineraux, leur nature &amp; leur employ, &amp; sur l'abus dans l'usage du plâtre : sur la qualité de la fumée, &amp; des moyens d'y remedier, &amp; sur d'autres matieres non encore éclaircies.</title>
+                  <respStmt>
+                     <persName>Frémin, Michel de</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Charles Saugrain</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1702</date>
+                  </imprint>
+                  <extent>[14], 367, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991498833504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991498833504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -32,54 +32,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Feste nelle nozze del serenissimo Don Francesco Medici gran duca di Toscana et della sereniss. sua consorte la sig. Bianca Cappello [microform] / composte da M. Raffaello Gualterotti ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985302153506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/hn5p6f</idno>
-            <idno type="cico">1388</idno>
-            <idno type="dcl">rvg</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Feste nelle nozze del serenissimo Don Francesco Medici gran duca di Toscana et della sereniss. sua consorte la sig. Bianca Cappello [microform] / composte da M. Raffaello Gualterotti ...</title>
-                  <respStmt>
-                     <persName>Gualterotti, Raffaello, 1543-1638.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Firenze : Nella stamperia de Giunti</publisher>
-                     <date>1579</date>
-                  </imprint>
-                  <extent>58, 24 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/223de465-a49f-45c1-9e70-ebdb93580352/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/223de465-a49f-45c1-9e70-ebdb93580352/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Feste Nelle Nozze Del Serenissimo Don Francesco Medici Gran Dvca Di Toscana; Et della Sereniss. sua Consorte la Sig. Bianca Cappello. Composte da M. Raffaello Gualterotti. Con particolar Descrizione della Sbarra, &amp; apparato di essa nel Palazzo de' Pitti, mantenuta da tre Caualieri Persiani contro a i venturieri loro auuersarij. Con aggiunta, &amp; correzzioni di molti particolari, &amp; con tutti i disegni de' carri, &amp; inuenzioni comparse alla sbarra.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -121,9 +73,78 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Francesco I, Grand-Duke of Tuscany, 1541-1587 -- Marriage.</term>
+               <term>Bianca, Grand-Duchess, consort of Francesco I, Grand-Duke of Tuscany, 1548-1587 -- Marriage.</term>
+               <term>Royal weddings -- Italy -- Florence -- Early works to 1800.</term>
+               <term>Tournaments, Medieval -- Italy -- Florence -- Early works to 1800.</term>
+               <term>Florence (Italy) -- History -- 1421-1737.</term>
+               <term>Italy.</term>
+               <term>DG738.19 .G83 1579</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/cdc6136e-2b7e-439f-8193-80347302724a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Feste nelle nozze del serenissimo Don Francesco Medici gran duca di Toscana et della sereniss. sua consorte la sig. Bianca Cappello [microform] / composte da M. Raffaello Gualterotti ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302153506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/hn5p6f</idno>
+            <idno type="cico">1388</idno>
+            <idno type="dcl">rvg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Feste nelle nozze del serenissimo Don Francesco Medici gran duca di Toscana et della sereniss. sua consorte la sig. Bianca Cappello [microform] / composte da M. Raffaello Gualterotti ...</title>
+                  <respStmt>
+                     <persName>Gualterotti, Raffaello, 1543-1638.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Nella stamperia de Giunti</publisher>
+                     <date>1579</date>
+                  </imprint>
+                  <extent>58, 24 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/223de465-a49f-45c1-9e70-ebdb93580352/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bianca, Grand-Duchess, consort of Francesco I, Grand-Duke of Tuscany, 1548-1587 -- Marriage.</term>
+               <term>Francesco I, Grand-Duke of Tuscany, 1541-1587 -- Marriage.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/223de465-a49f-45c1-9e70-ebdb93580352/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

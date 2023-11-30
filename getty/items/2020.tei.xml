@@ -23,55 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Descrizione del sacro monte della Vernia [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985342363506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sh5236</idno>
-            <idno type="cico">2020</idno>
-            <idno type="dcl">bs2</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Descrizione del sacro monte della Vernia [microform].</title>
-                  <respStmt>
-                     <persName>Moroni, Lino.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>[Florence : s.n]</publisher>
-                     <date>[1612]</date>
-                     <date>1612</date>
-                  </imprint>
-                  <extent>1 v. (unpaged)</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/674e163c-2251-4238-8825-e2c4efa2e599/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/674e163c-2251-4238-8825-e2c4efa2e599/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Descrizione del sacro monte della Vernia.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +65,140 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Francis, of Assisi, Saint, 1182-1226</term>
+               <term>Verna (Monastery) -- Early works to 1800.</term>
+               <term>Verna (Monastery) in art -- Early works to 1800.</term>
+               <term>Francis, of Assisi, Saint, 1182-1226</term>
+               <term>Verna (Monastery)</term>
+               <term>Verna, Mount (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Verna, Mount (Italy) in art -- Early works to 1800.</term>
+               <term>Travel</term>
+               <term>BX2624.V4 M67 1612</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e3ea6f99-c9a4-412a-a321-4325b6c23ed2">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del sacro monte della Vernia.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ligozzi, Jacopo, 1547-1626.</authority>
+            <authority>Falcini, Domenico, active 16th century-17th century.</authority>
+            <authority>Schiaminossi, Raffaello, approximately 1570-approximately 1620.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993168863504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/p3866j</idno>
+            <idno>(OCoLC)808126016</idno>
+            <idno>(OCoLC)30129462</idno>
+            <idno type="cico">2020</idno>
+            <idno type="dcl">bs2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del sacro monte della Vernia.</title>
+                  <respStmt>
+                     <persName>Moroni, Lino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Firenze : s.n]</publisher>
+                     <date>[1612]</date>
+                     <date>1612</date>
+                  </imprint>
+                  <extent>[24] leaves, [26] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993168863504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Francis, of Assisi, Saint, 1182-1226 -- Art -- Early works to 1800.</term>
+               <term>Verna (Monastery) -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993168863504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Descrizione del sacro monte della Vernia [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985342363506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sh5236</idno>
+            <idno type="cico">2020</idno>
+            <idno type="dcl">bs2</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione del sacro monte della Vernia [microform].</title>
+                  <respStmt>
+                     <persName>Moroni, Lino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Florence : s.n]</publisher>
+                     <date>[1612]</date>
+                     <date>1612</date>
+                  </imprint>
+                  <extent>1 v. (unpaged)</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/674e163c-2251-4238-8825-e2c4efa2e599/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Verna (Monastery)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/674e163c-2251-4238-8825-e2c4efa2e599/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -28,6 +28,64 @@ intagliate all’acqua forte.
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Dissertations sur l'origine de la ville de Dijon et sur les antiquités découvertes sous les murs bâtis par Aurélien [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985424943506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9n5r4d</idno>
+            <idno type="cico">4022</idno>
+            <idno type="dcl">vvm</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertations sur l'origine de la ville de Dijon et sur les antiquités découvertes sous les murs bâtis par Aurélien [microform].</title>
+                  <respStmt>
+                     <persName>Le Goux de Gerland, Bénigne de, 1695-1774.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Dijon : Chez Louis-Nicolas Frantin</publisher>
+                     <pubPlace>Dijon (France)</pubPlace>
+                     <date>1771</date>
+                  </imprint>
+                  <extent>xx, [4], 170, [1] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ca34b8eb-21e6-46af-9504-e43f392e832a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dijon (France) -- Antiquities -- Early works to 1800.</term>
+               <term>Dijon (France) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ca34b8eb-21e6-46af-9504-e43f392e832a/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Dissertations sur l'origine de la ville de Dijon : et sur les antiquités découvertes sous les murs bâtis par Aurélien.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -69,59 +127,20 @@ intagliate all’acqua forte.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dijon (France) -- History -- Early works to 1800.</term>
+               <term>Antiquities.</term>
+               <term>France -- Dijon.</term>
+               <term>Dijon (France) -- Antiquities -- Early works to 1800.</term>
+               <term>DC801.D61 L44 1771</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/32033798-8cc7-4c8f-847f-a416e0096550">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Dissertations sur l'origine de la ville de Dijon et sur les antiquités découvertes sous les murs bâtis par Aurélien [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985424943506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/9n5r4d</idno>
-            <idno type="cico">4022</idno>
-            <idno type="dcl">vvm</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertations sur l'origine de la ville de Dijon et sur les antiquités découvertes sous les murs bâtis par Aurélien [microform].</title>
-                  <respStmt>
-                     <persName>Le Goux de Gerland, Bénigne de, 1695-1774.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Dijon : Chez Louis-Nicolas Frantin</publisher>
-                     <pubPlace>Dijon (France)</pubPlace>
-                     <date>1771</date>
-                  </imprint>
-                  <extent>xx, [4], 170, [1] p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ca34b8eb-21e6-46af-9504-e43f392e832a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ca34b8eb-21e6-46af-9504-e43f392e832a/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

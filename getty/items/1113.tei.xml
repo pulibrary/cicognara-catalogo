@@ -26,57 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La Gervsalemme liberata / di Torqvato Tasso ; con le annotationi di Scipion Gentili e di Givlio Guastauini : et li argomenti di Oratio Ariosti.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Ariosto, Orazio, 1555-1593.</authority>
-            <authority>Castello, Bernardo, 1557?-1629.</authority>
-            <authority>Gentili, Scipione, 1563-1616.</authority>
-            <authority>Guastavini, Giulio, active 16th century.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9920644353506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/9d8717</idno>
-            <idno>(OCoLC)15672480</idno>
-            <idno type="cico">1113</idno>
-            <idno type="dcl">srd</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La Gervsalemme liberata / di Torqvato Tasso ; con le annotationi di Scipion Gentili e di Givlio Guastauini : et li argomenti di Oratio Ariosti.</title>
-                  <respStmt>
-                     <persName>Tasso, Torquato, 1544-1595.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Genova : G. Pavoni ad instanza di Bernardo Castello</publisher>
-                     <date>1617</date>
-                  </imprint>
-                  <extent>255, 71, 36 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a02e6a2e-4363-4a83-b526-9c502a70bc4f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a02e6a2e-4363-4a83-b526-9c502a70bc4f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>La Gerusalemme di Torquato Tasso / figurata da Bernardo Castello.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -118,9 +67,77 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Godfrey, of Bouillon, approximately 1060-1100 -- Poetry.</term>
+               <term>Crusades, First, 1096-1099 -- Poetry.</term>
+               <term>Godfrey, of Bouillon, approximately 1060-1100</term>
+               <term>Crusades</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/47b22f66-f2ce-439a-923b-1b26cbf91efc">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Gervsalemme liberata / di Torqvato Tasso ; con le annotationi di Scipion Gentili e di Givlio Guastauini : et li argomenti di Oratio Ariosti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Ariosto, Orazio, 1555-1593.</authority>
+            <authority>Castello, Bernardo, 1557?-1629.</authority>
+            <authority>Gentili, Scipione, 1563-1616.</authority>
+            <authority>Guastavini, Giulio, active 16th century.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920644353506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/9d8717</idno>
+            <idno>(OCoLC)15672480</idno>
+            <idno type="cico">1113</idno>
+            <idno type="dcl">srd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La Gervsalemme liberata / di Torqvato Tasso ; con le annotationi di Scipion Gentili e di Givlio Guastauini : et li argomenti di Oratio Ariosti.</title>
+                  <respStmt>
+                     <persName>Tasso, Torquato, 1544-1595.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Genova : G. Pavoni ad instanza di Bernardo Castello</publisher>
+                     <date>1617</date>
+                  </imprint>
+                  <extent>255, 71, 36 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/a02e6a2e-4363-4a83-b526-9c502a70bc4f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>PQ4638</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/a02e6a2e-4363-4a83-b526-9c502a70bc4f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

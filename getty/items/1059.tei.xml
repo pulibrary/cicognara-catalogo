@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L'analisi della bellezza [microform] : scritta col disegno di fissar l'idee vaghe del gusto / tradotta dall' originale inglese di Guglielmo Hogarth.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246023506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/970w91</idno>
-            <idno type="cico">1059</idno>
-            <idno type="dcl">rbx</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L'analisi della bellezza [microform] : scritta col disegno di fissar l'idee vaghe del gusto / tradotta dall' originale inglese di Guglielmo Hogarth.</title>
-                  <respStmt>
-                     <persName>Hogarth, William, 1697-1764.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Livorno : Per Gio. Paolo Fantechi all'inseg. della Verità in Via grande</publisher>
-                     <date>1761</date>
-                  </imprint>
-                  <extent>209 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/734a095b-99ea-4ccb-9b8a-f346658acdd1/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/734a095b-99ea-4ccb-9b8a-f346658acdd1/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>L'analisi della bellezza : scritta col disegno di fissar l'idee vaghe del gusto / di Guglielmo Hogarth ; tradotta dall' originale inglese.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +65,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Movement, Aesthetics of -- Early works to 1800.</term>
+               <term>Aesthetics</term>
+               <term>Movement, Aesthetics of</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1935889f-d9ec-4537-918f-cc8cacf2189a">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'analisi della bellezza [microform] : scritta col disegno di fissar l'idee vaghe del gusto / tradotta dall' originale inglese di Guglielmo Hogarth.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246023506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/970w91</idno>
+            <idno type="cico">1059</idno>
+            <idno type="dcl">rbx</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>L'analisi della bellezza [microform] : scritta col disegno di fissar l'idee vaghe del gusto / tradotta dall' originale inglese di Guglielmo Hogarth.</title>
+                  <respStmt>
+                     <persName>Hogarth, William, 1697-1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Livorno : Per Gio. Paolo Fantechi all'inseg. della Verità in Via grande</publisher>
+                     <date>1761</date>
+                  </imprint>
+                  <extent>209 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/734a095b-99ea-4ccb-9b8a-f346658acdd1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/734a095b-99ea-4ccb-9b8a-f346658acdd1/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

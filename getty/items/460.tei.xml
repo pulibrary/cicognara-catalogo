@@ -28,9 +28,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le génie de l'architecture ou l'analogie de cet art avec nos sensations</title>
+            <title>Le génie de l'architecture, ou, L'analogie de cet art avec nos sensations [microform] / par M. Le Camus de Mézieres ...</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -39,31 +39,44 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>LeCamus de Mézières, Nicolas, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-266815</idno>
-            <idno type="URI">http://portal.getty.edu/api/29626h</idno>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984944523506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/926m66</idno>
             <idno type="cico">460</idno>
             <idno type="dcl">rbt</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Le génie de l'architecture ou l'analogie de cet art avec nos sensations</title>
+                  <title>Le génie de l'architecture, ou, L'analogie de cet art avec nos sensations [microform] / par M. Le Camus de Mézieres ...</title>
+                  <respStmt>
+                     <persName>Le Camus de Mézières, Nicolas, 1721-1789.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1780</date>
+                     <publisher>A Paris : Chez l'auteur ... :</publisher>
                      <date>1780</date>
                   </imprint>
-                  <extent>VII, 276 S.</extent>
-                  <extent>graph. Darst.</extent>
+                  <extent>vij, 276 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/lecamusmezieres1780/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c1dde516-d0e4-45da-9701-bbece3e06308/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics, French -- 18th century.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Philosophy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/lecamusmezieres1780/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c1dde516-d0e4-45da-9701-bbece3e06308/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -108,57 +121,25 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Composition, proportion, etc.</term>
+               <term>Architecture -- Ouvrages avant 1800.</term>
+               <term>Architecture -- Composition, proportions, etc.</term>
+               <term>Esthétique.</term>
+               <term>Aesthetics.</term>
+               <term>Architecture.</term>
+               <term>Architecture -- Composition, proportion, etc.</term>
+               <term>NA2500 .L4</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/9c3905a2-ff29-44f6-9773-82725dd9cb2c">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Le génie de l'architecture, ou, L'analogie de cet art avec nos sensations [microform] / par M. Le Camus de Mézieres ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984944523506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/926m66</idno>
-            <idno type="cico">460</idno>
-            <idno type="dcl">rbt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le génie de l'architecture, ou, L'analogie de cet art avec nos sensations [microform] / par M. Le Camus de Mézieres ...</title>
-                  <respStmt>
-                     <persName>Le Camus de Mézières, Nicolas, 1721-1789.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez l'auteur ... :</publisher>
-                     <date>1780</date>
-                  </imprint>
-                  <extent>vij, 276 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/c1dde516-d0e4-45da-9701-bbece3e06308/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/c1dde516-d0e4-45da-9701-bbece3e06308/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

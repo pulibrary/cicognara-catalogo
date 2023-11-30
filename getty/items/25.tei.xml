@@ -26,56 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dialoghi sopra le tre arti del disegno [microform] : corretti e accresciuti.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985284293506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/06898r</idno>
-            <idno type="cico">25</idno>
-            <idno type="dcl">wc1</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dialoghi sopra le tre arti del disegno [microform] : corretti e accresciuti.</title>
-                  <respStmt>
-                     <persName>Bottari, Giovanni Gaetano, 1689-1775.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Firenze : [s.n.]</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1770</date>
-                  </imprint>
-                  <extent>viii, 346 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7281f34a-d8ac-4e28-82a9-3aa7b3b7743d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7281f34a-d8ac-4e28-82a9-3aa7b3b7743d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dialoghi sopra le tre arti del disegno.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -117,9 +67,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Sculpture -- Early works to 1800.</term>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Painting</term>
+               <term>Sculpture</term>
+               <term>N7420 .B68 1770</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/6594a298-6e0d-4b72-be69-30a85a5be490">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialoghi sopra le tre arti del disegno [microform] : corretti e accresciuti.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985284293506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/06898r</idno>
+            <idno type="cico">25</idno>
+            <idno type="dcl">wc1</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialoghi sopra le tre arti del disegno [microform] : corretti e accresciuti.</title>
+                  <respStmt>
+                     <persName>Bottari, Giovanni Gaetano, 1689-1775.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Firenze : [s.n.]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>viii, 346 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/7281f34a-d8ac-4e28-82a9-3aa7b3b7743d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Italy -- Early works to 1800.</term>
+               <term>Painting, Italian -- Early works to 1800.</term>
+               <term>Sculpture, Italian -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7281f34a-d8ac-4e28-82a9-3aa7b3b7743d/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

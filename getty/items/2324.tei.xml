@@ -25,53 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le vite de' piv celebri architetti d'ogni nazione e d'ogni tempo precedvte da vn saggio sopra l'architettvra.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9920732383506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/ts7s05</idno>
-            <idno>(OCoLC)26473928</idno>
-            <idno type="cico">2324</idno>
-            <idno type="dcl">sc4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le vite de' piv celebri architetti d'ogni nazione e d'ogni tempo precedvte da vn saggio sopra l'architettvra.</title>
-                  <respStmt>
-                     <persName>Milizia, Francesco, 1725-1798.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma, nella stamperia di P.G. Komarek</publisher>
-                     <date>1768</date>
-                  </imprint>
-                  <extent>viii, 492 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/236c31a8-0ef7-4c38-b85e-a2ba66b42caa/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/236c31a8-0ef7-4c38-b85e-a2ba66b42caa/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le vite de' più celebri architetti d'ogni nazione e d'ogni tempo [microform] : precedute da un saggio sopra l'architettura.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -109,9 +62,73 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Biography -- Early works to 1800.</term>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/5a705c8a-8e55-4315-a18b-32c5edc98482/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le vite de' piv celebri architetti d'ogni nazione e d'ogni tempo precedvte da vn saggio sopra l'architettvra.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920732383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/ts7s05</idno>
+            <idno>(OCoLC)26473928</idno>
+            <idno type="cico">2324</idno>
+            <idno type="dcl">sc4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le vite de' piv celebri architetti d'ogni nazione e d'ogni tempo precedvte da vn saggio sopra l'architettvra.</title>
+                  <respStmt>
+                     <persName>Milizia, Francesco, 1725-1798.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma, nella stamperia di P.G. Komarek</publisher>
+                     <date>1768</date>
+                  </imprint>
+                  <extent>viii, 492 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/236c31a8-0ef7-4c38-b85e-a2ba66b42caa/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architects -- Biography -- Early works to 1800.</term>
+               <term>Architecture.</term>
+               <term>NA40</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/236c31a8-0ef7-4c38-b85e-a2ba66b42caa/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

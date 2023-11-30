@@ -28,9 +28,9 @@ Le tavole sono distribuite ai luoghi citati del testo.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De' dittici degli antichi profani e sacri: libri III ; coll' appendice d'alcuni necrologi, e calendari finora non pubblicati</title>
+            <title>De' dittici degli antichi profani, e sacri libri III [microform] : coll'appendice d'alcuni necrologj, e calendarj finora non pubblicati.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -39,31 +39,40 @@ Le tavole sono distribuite ai luoghi citati del testo.
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Donati, Sebastiano, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-82486</idno>
-            <idno type="URI">http://portal.getty.edu/api/4x946z</idno>
+            <authority>Donati, Sebastiano, 1712-</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985415393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/gh5406</idno>
             <idno type="cico">3215</idno>
             <idno type="dcl">fs3</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>De' dittici degli antichi profani e sacri: libri III ; coll' appendice d'alcuni necrologi, e calendari finora non pubblicati</title>
+                  <title>De' dittici degli antichi profani, e sacri libri III [microform] : coll'appendice d'alcuni necrologj, e calendarj finora non pubblicati.</title>
                   <textLang>Italian</textLang>
                   <imprint>
-                     <date>1753</date>
+                     <publisher>In Lucca : Per Filippo Maria Benedini</publisher>
                      <date>1753</date>
                   </imprint>
-                  <extent>XXXI, 491 [i.e. 291] S.</extent>
-                  <extent>Ill.</extent>
+                  <extent>xxxi, [1], 491, [i.e. 291], [1] p.</extent>
+                  <extent>6 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/donati1753a/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3f48837d-bc0b-4cc9-a75b-d0fa99992b63/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Diptychs -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/donati1753a/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3f48837d-bc0b-4cc9-a75b-d0fa99992b63/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -112,55 +121,24 @@ Le tavole sono distribuite ai luoghi citati del testo.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Diptychs.</term>
+               <term>Classical antiquities.</term>
+               <term>Rome -- Antiquities.</term>
+               <term>Provenance -- Trissino (Leonardo)</term>
+               <term>Antiquities.</term>
+               <term>Classical antiquities.</term>
+               <term>Diptychs.</term>
+               <term>Rome (Empire)</term>
+               <term>DE61.D5 D66 1753</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/2b56e187-53e9-48ec-88e5-c7fbfa07a852">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>De' dittici degli antichi profani, e sacri libri III [microform] : coll'appendice d'alcuni necrologj, e calendarj finora non pubblicati.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Donati, Sebastiano, 1712-</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985415393506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/gh5406</idno>
-            <idno type="cico">3215</idno>
-            <idno type="dcl">fs3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>De' dittici degli antichi profani, e sacri libri III [microform] : coll'appendice d'alcuni necrologj, e calendarj finora non pubblicati.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Lucca : Per Filippo Maria Benedini</publisher>
-                     <date>1753</date>
-                  </imprint>
-                  <extent>xxxi, [1], 491, [i.e. 291], [1] p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3f48837d-bc0b-4cc9-a75b-d0fa99992b63/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3f48837d-bc0b-4cc9-a75b-d0fa99992b63/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -210,6 +188,15 @@ Le tavole sono distribuite ai luoghi citati del testo.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jesus Christ -- Art.</term>
+               <term>Ivories -- Early works to 1800.</term>
+               <term>Ravenna (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/7efae202-56de-4298-a7ee-0d1fbabd1cac/manifest">
@@ -258,6 +245,13 @@ Le tavole sono distribuite ai luoghi citati del testo.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Verona (Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99836683504896.json">

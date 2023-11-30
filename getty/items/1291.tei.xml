@@ -60,9 +60,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Almanacs, Italian.</term>
+               <term>Artists -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/78bb87f3-6690-4646-8130-b59bbc7b78cd/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antialmanacco per l'Almanacco pittorico di Cremona dell'anno 1774 : con le Osservazioni sulle pitture di Cremona / di Coringio Vermagi ; ed una lettera apologetica dell'Antialmanacco.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Aglio, Giuseppe, 1717-1809.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992931263504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/qz9b8x</idno>
+            <idno>(OCoLC)174568712</idno>
+            <idno type="cico">1291</idno>
+            <idno type="dcl">rvf</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Antialmanacco per l'Almanacco pittorico di Cremona dell'anno 1774 : con le Osservazioni sulle pitture di Cremona / di Coringio Vermagi ; ed una lettera apologetica dell'Antialmanacco.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Brescia : Per i figliuoli del qu: Giuseppe Pasini</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Cremona (Italy)</pubPlace>
+                     <date>1774</date>
+                  </imprint>
+                  <extent>79 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992931263504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Italy -- Cremona.</term>
+               <term>Painting, Italian -- Italy -- Cremona -- 18th century.</term>
+               <term>Art, Italian -- Italy -- Cremona -- 18th century.</term>
+               <term>Artists -- Italy -- Cremona -- Early works to 1800.</term>
+               <term>Almanacs, Italian.</term>
+               <term>Cremona (Italy) -- Buildings, structures, etc. -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992931263504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

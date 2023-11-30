@@ -26,57 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Les beaux arts réduits à un même principe [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Delafosse, Jean-Charles, 1734-1789.</authority>
-            <authority>Eisen, Charles, 1720-1778.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985246823506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/f3822w</idno>
-            <idno type="cico">6</idno>
-            <idno type="dcl">0pw</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Les beaux arts réduits à un même principe [microform].</title>
-                  <respStmt>
-                     <persName>Batteux, Charles, 1713-1780.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Durand</publisher>
-                     <date>1747</date>
-                  </imprint>
-                  <extent>[8], xiij, 308 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/079b7002-6f63-44bc-9788-08c81d18899f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/079b7002-6f63-44bc-9788-08c81d18899f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Les beaux arts réduits à un même principe.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -119,9 +68,78 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+               <term>Aesthetics.</term>
+               <term>Kunstbeschouwing.</term>
+               <term>ESTETICA -- OBRAS ANTERIORES A 1800.</term>
+               <term>N63 .B33 1747</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/12eca5b5-23f4-43bf-b67c-018f9f5d4a01">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les beaux arts réduits à un même principe [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Delafosse, Jean-Charles, 1734-1789.</authority>
+            <authority>Eisen, Charles, 1720-1778.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985246823506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/f3822w</idno>
+            <idno type="cico">6</idno>
+            <idno type="dcl">0pw</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Les beaux arts réduits à un même principe [microform].</title>
+                  <respStmt>
+                     <persName>Batteux, Charles, 1713-1780.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Durand</publisher>
+                     <date>1747</date>
+                  </imprint>
+                  <extent>[8], xiij, 308 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/079b7002-6f63-44bc-9788-08c81d18899f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Aesthetics -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/079b7002-6f63-44bc-9788-08c81d18899f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

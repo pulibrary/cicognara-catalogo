@@ -27,6 +27,65 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Regole del chiar-oscuro in architettura / di Carlo Amati.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9927810080001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/pj1b6m</idno>
+            <idno>(OCoLC)10140106</idno>
+            <idno type="cico">806</idno>
+            <idno type="dcl">vc3</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Regole del chiar-oscuro in architettura / di Carlo Amati.</title>
+                  <respStmt>
+                     <persName>Amati, Carlo, 1776-1852.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Milano : Nella Stamperia di Pirotta e Maspero, se ritrovano presso l'autore</publisher>
+                     <date>1802</date>
+                  </imprint>
+                  <extent>[4], xxii p., XII, [1] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/1132bfe3-8fdc-4f9f-a9f4-fc7e71736d40"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Chiaroscuro.</term>
+               <term>Shades and shadows.</term>
+               <term>Architectural rendering.</term>
+               <term>Architectural rendering</term>
+               <term>Chiaroscuro</term>
+               <term>Shades and shadows</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1132bfe3-8fdc-4f9f-a9f4-fc7e71736d40">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Regole del chiar-oscuro in architettura [microform] / di Carlo Amati.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -64,56 +123,18 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architectural rendering.</term>
+               <term>Chiaroscuro.</term>
+               <term>Shades and shadows.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2f945ec2-27c0-442c-aec2-a7af5c636c41/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Regole del chiar-oscuro in architettura / di Carlo Amati.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9927810080001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/pj1b6m</idno>
-            <idno>(OCoLC)10140106</idno>
-            <idno type="cico">806</idno>
-            <idno type="dcl">vc3</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Regole del chiar-oscuro in architettura / di Carlo Amati.</title>
-                  <respStmt>
-                     <persName>Amati, Carlo, 1776-1852.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Milano : Nella Stamperia di Pirotta e Maspero, se ritrovano presso l'autore</publisher>
-                     <date>1802</date>
-                  </imprint>
-                  <extent>[4], xxii p., XII, [1] leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/1132bfe3-8fdc-4f9f-a9f4-fc7e71736d40"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1132bfe3-8fdc-4f9f-a9f4-fc7e71736d40">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

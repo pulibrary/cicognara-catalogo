@@ -24,54 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Emblemata moralia [microform] / scripta quondam hispanice a Johanne de Boria, latinitate autem donata a L.C.C.P.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985336573506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/b24v50</idno>
-            <idno type="cico">1857</idno>
-            <idno type="dcl">4cr</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Emblemata moralia [microform] / scripta quondam hispanice a Johanne de Boria, latinitate autem donata a L.C.C.P.</title>
-                  <respStmt>
-                     <persName>Borja, Juan de, 1533-</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Berolini : Sumptibus Johann. Michael. Rudigeri</publisher>
-                     <date>1697</date>
-                  </imprint>
-                  <extent>[6], 201 p.</extent>
-                  <extent>4 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cad6e31f-7328-426e-af54-b934b117b42c/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cad6e31f-7328-426e-af54-b934b117b42c/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Emblemata moralia, scripta quondam hispanice a Johanne de Boria, latinitate autem donata a L.C.C.P.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +66,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords/>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ee703feb-8eb1-478a-badb-ab15334c0aeb">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Emblemata moralia [microform] / scripta quondam hispanice a Johanne de Boria, latinitate autem donata a L.C.C.P.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985336573506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/b24v50</idno>
+            <idno type="cico">1857</idno>
+            <idno type="dcl">4cr</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata moralia [microform] / scripta quondam hispanice a Johanne de Boria, latinitate autem donata a L.C.C.P.</title>
+                  <respStmt>
+                     <persName>Borja, Juan de, 1533-</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Berolini : Sumptibus Johann. Michael. Rudigeri</publisher>
+                     <date>1697</date>
+                  </imprint>
+                  <extent>[6], 201 p.</extent>
+                  <extent>4 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/cad6e31f-7328-426e-af54-b934b117b42c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Conduct of life -- Early works to 1800.</term>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Exempla -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/cad6e31f-7328-426e-af54-b934b117b42c/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

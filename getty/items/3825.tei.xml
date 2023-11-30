@@ -23,57 +23,6 @@ Tavole 20 originali all’acqua forte in fol. pubblicate in <pubPlace>Roma</pubP
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[Twenty-one reliefs from triumphal arches] [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985440903506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/st1c1w</idno>
-            <idno type="cico">3825</idno>
-            <idno type="dcl">n2n</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>[Twenty-one reliefs from triumphal arches] [microform].</title>
-                  <respStmt>
-                     <persName>Piccioni, Matteo, approximately 1615-1671.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Romae : Gio. Jacomo Rossi</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>[165-?]</date>
-                     <date>1630</date>
-                  </imprint>
-                  <extent>21 leaves</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ad9edec-261d-4221-80d9-bd7daaf09394/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ad9edec-261d-4221-80d9-bd7daaf09394/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>[Bassi rilievi antichi nell'arco di Constantino, e in Campidoglio].</title>
             <respStmt>
                <orgName>National Gallery of Art Library</orgName>
@@ -114,9 +63,78 @@ Tavole 20 originali all’acqua forte in fol. pubblicate in <pubPlace>Roma</pubP
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Relief (Sculpture) -- Italy -- Rome -- Early works to 1800.</term>
+               <term>Arch of Constantine (Rome, Italy) -- Early works to 1800.</term>
+               <term>Capitoline Hill (Italy) -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991567103504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Twenty-one reliefs from triumphal arches] [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985440903506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/st1c1w</idno>
+            <idno type="cico">3825</idno>
+            <idno type="dcl">n2n</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>[Twenty-one reliefs from triumphal arches] [microform].</title>
+                  <respStmt>
+                     <persName>Piccioni, Matteo, approximately 1615-1671.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Romae : Gio. Jacomo Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[165-?]</date>
+                     <date>1630</date>
+                  </imprint>
+                  <extent>21 leaves</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4ad9edec-261d-4221-80d9-bd7daaf09394/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Relief (Sculpture) -- Italy -- Early works to 1800.</term>
+               <term>Triumphal arches -- Italy -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4ad9edec-261d-4221-80d9-bd7daaf09394/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -166,6 +184,13 @@ Tavole 20 originali all’acqua forte in fol. pubblicate in <pubPlace>Roma</pubP
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Vases, Ancient -- Italy -- Rome.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/48a8eb10-5a90-4e63-afda-f8906bd5b4df/manifest">
@@ -212,6 +237,13 @@ Tavole 20 originali all’acqua forte in fol. pubblicate in <pubPlace>Roma</pubP
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Masks -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8022919a-ecef-437e-9da6-baede26b467c/manifest">

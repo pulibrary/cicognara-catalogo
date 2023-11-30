@@ -26,6 +26,71 @@ a contenerne la biblioteca. Quanta parte ne occuperebbero gli edifici d’Italia
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Description historique de l'Hôtel royal des invalides / par M. l'abbé Pérau ... ; avec les plans, coupes, élevations geometrales de cet édifice, &amp; les peintures &amp; sculptures de l'eglise, dessinées et gravées par le Sieur Cochin, graveur du roy, &amp; de l'Academie royale de peinture &amp; sculpture.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Cochin, Charles Nicolas, 1688-1754.</authority>
+            <authority>Desprez, Guillaume-Nicolas, 1713-1795.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993764483504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/tp4478</idno>
+            <idno>(OCoLC)02019539</idno>
+            <idno>(OCoLC)2019539</idno>
+            <idno type="cico">4062</idno>
+            <idno type="dcl">w5h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description historique de l'Hôtel royal des invalides / par M. l'abbé Pérau ... ; avec les plans, coupes, élevations geometrales de cet édifice, &amp; les peintures &amp; sculptures de l'eglise, dessinées et gravées par le Sieur Cochin, graveur du roy, &amp; de l'Academie royale de peinture &amp; sculpture.</title>
+                  <respStmt>
+                     <persName>Pérau, M. l'abbé (Gabriel-Louis-Calabre), 1700-1767.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Guillaume Desprez, imprimeur-libraire ordinaire du Roi &amp; du Clergé de France, rue S. Jacques, à S. Prosper &amp; aux trois vertus</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>Paris (France)</pubPlace>
+                     <date>MDCCLVI [1756]</date>
+                     <date>1756</date>
+                  </imprint>
+                  <extent>[2], xii, 104 p., [139] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993764483504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hôtel royal des invalides (France) -- Early works to 1800.</term>
+               <term>Hôtel des invalides (France) -- History -- 18th century.</term>
+               <term>Dôme des Invalides (Paris, France) -- Early works to 1800.</term>
+               <term>Church decoration and ornament -- France -- Paris -- Early works to 1800.</term>
+               <term>Paris (France) -- Buildings, structures, etc. -- Early works to 1800.</term>
+               <term>NA4510.H6 P2</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993764483504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Description historique de l'Hôtel royal des Invalides [microform] / par M. l'abbé Pérau ... avec les plans, coupes, élevations geométrales de cet édifice, &amp; les peintures &amp; sculptures de l'église, dessinées et gravées par le sieur Cochin ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,6 +131,14 @@ a contenerne la biblioteca. Quanta parte ne occuperebbero gli edifici d’Italia
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Hôtel royal des invalides (France)</term>
+               <term>Paris (France) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8fe274d9-2504-4fee-a03d-66e47aaf008a/manifest">

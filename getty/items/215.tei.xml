@@ -27,55 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La cire allieé avec l'huile, ou, La peinture a huile-cire [microform] : trouvée à Manheim par M. Charles Baron de Taubenheim / expérimentée décrite &amp; dédiée à l'Electeur par Joseph Fratrel ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Taubenheim, Charles, Baron de</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985260843506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/n60764</idno>
-            <idno type="cico">215</idno>
-            <idno type="dcl">0pc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>La cire allieé avec l'huile, ou, La peinture a huile-cire [microform] : trouvée à Manheim par M. Charles Baron de Taubenheim / expérimentée décrite &amp; dédiée à l'Electeur par Joseph Fratrel ...</title>
-                  <respStmt>
-                     <persName>Fratrel, Joseph, 1730-1783.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Manheim : Académie électorale</publisher>
-                     <date>1770</date>
-                  </imprint>
-                  <extent>[25], 265, [6] p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/70f56880-cdfd-41a6-950b-4369eb2bca5f/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/70f56880-cdfd-41a6-950b-4369eb2bca5f/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>La cire alliée avec l'huile, ou, La peinture à huile-cire : trouvée à Manheim par M. Charles Baron de Taubenheim / expérimentée décrite &amp; dédiée à l'Electeur par Le Sr. Joseph Fratrel ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -114,9 +65,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Taubenheim, Charles, Baron de.</term>
+               <term>Caylus, Anne Claude Philippe, comte de, 1692-1765</term>
+               <term>Encaustic painting -- Early works to 1800.</term>
+               <term>Painting -- Technique -- Early works to 1800.</term>
+               <term>Caylus, Anne Claude Philippe, comte de, 1692-1765</term>
+               <term>Taubenheim, Charles, Baron de</term>
+               <term>Encaustic painting.</term>
+               <term>Painting -- Technique.</term>
+               <term>ND2480 .F72</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f313bb55-c923-45ec-bb12-cf1b9abef50e">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La cire allieé avec l'huile, ou, La peinture a huile-cire [microform] : trouvée à Manheim par M. Charles Baron de Taubenheim / expérimentée décrite &amp; dédiée à l'Electeur par Joseph Fratrel ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Taubenheim, Charles, Baron de</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985260843506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/n60764</idno>
+            <idno type="cico">215</idno>
+            <idno type="dcl">0pc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>La cire allieé avec l'huile, ou, La peinture a huile-cire [microform] : trouvée à Manheim par M. Charles Baron de Taubenheim / expérimentée décrite &amp; dédiée à l'Electeur par Joseph Fratrel ...</title>
+                  <respStmt>
+                     <persName>Fratrel, Joseph, 1730-1783.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Manheim : Académie électorale</publisher>
+                     <date>1770</date>
+                  </imprint>
+                  <extent>[25], 265, [6] p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/70f56880-cdfd-41a6-950b-4369eb2bca5f/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Encaustic painting -- Early works to 1800.</term>
+               <term>Painting -- Technique -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/70f56880-cdfd-41a6-950b-4369eb2bca5f/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

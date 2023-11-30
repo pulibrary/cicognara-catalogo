@@ -24,52 +24,6 @@ delle Sicilie</title>, <pubPlace>Napoli</pubPlace> <date>1803</date>, in 8.
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Napoli e suo contorno [microform] : con un appendice.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985428083506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/sb0n4b</idno>
-            <idno type="cico">4264</idno>
-            <idno type="dcl">2sh</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Napoli e suo contorno [microform] : con un appendice.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Napoli : [s.n.]</publisher>
-                     <pubPlace>Naples (Italy)</pubPlace>
-                     <date>1803</date>
-                  </imprint>
-                  <extent>xvi, 348, 28 p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/297d7ccb-792e-4fa3-817e-9389dd15332b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/297d7ccb-792e-4fa3-817e-9389dd15332b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Napoli e suo contorno : con un appendice.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -105,9 +59,72 @@ delle Sicilie</title>, <pubPlace>Napoli</pubPlace> <date>1803</date>, in 8.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Naples (Italy) -- Description and travel.</term>
+               <term>Travel.</term>
+               <term>Italy -- Naples.</term>
+               <term>DG843 .N3 1803</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/5dfa2315-fd97-4190-a445-a0041873d0a9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Napoli e suo contorno [microform] : con un appendice.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985428083506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/sb0n4b</idno>
+            <idno type="cico">4264</idno>
+            <idno type="dcl">2sh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Napoli e suo contorno [microform] : con un appendice.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Napoli : [s.n.]</publisher>
+                     <pubPlace>Naples (Italy)</pubPlace>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>xvi, 348, 28 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/297d7ccb-792e-4fa3-817e-9389dd15332b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Naples (Italy) -- Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/297d7ccb-792e-4fa3-817e-9389dd15332b/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

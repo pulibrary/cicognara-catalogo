@@ -60,9 +60,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo della Venaria Reale (Venaria Reale, Italy)</term>
+               <term>Architecture, Domestic -- Italy -- Venaria Reale -- Early works to 1800.</term>
+               <term>Hunting -- Italy -- Early works to 1800.</term>
+               <term>Palaces -- Conservation and restoration -- Italy -- Venaria Reale.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/33c18254-8104-40bf-abce-6cda5c51ee3f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Venaria reale : palazzo di piacere, e di caccia, ideato dall'Altezza Reale di Carlo Emanuel II, duca di Sauoia, re di Cipro &amp;c. / disegnato, e descritto dal conte Amedeo di Castellamonte. L'anno 1672.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Tasnière, Georges, 1632?-1704</authority>
+            <authority>Miel, Jan, 1599-1663 or 1664</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992552893504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/tt9w4x</idno>
+            <idno>(OCoLC)174970736</idno>
+            <idno>(OCoLC)44832851</idno>
+            <idno type="cico">3982</idno>
+            <idno type="dcl">mk7</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Venaria reale : palazzo di piacere, e di caccia, ideato dall'Altezza Reale di Carlo Emanuel II, duca di Sauoia, re di Cipro &amp;c. / disegnato, e descritto dal conte Amedeo di Castellamonte. L'anno 1672.</title>
+                  <respStmt>
+                     <persName>Castellamonte, Amedeo di, conte, 1610-1683</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Torino : Per Bartolomeo Zapatta</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Venaria Reale (Italy)</pubPlace>
+                     <date>1674</date>
+                  </imprint>
+                  <extent>[10], 99 p., [62] leaves of plates (some folded)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992552893504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palazzo della Venaria Reale (Venaria Reale, Italy)</term>
+               <term>Palaces -- Conservation and restoration -- Italy -- Venaria Reale.</term>
+               <term>Hunting -- Italy -- Early works to 1800.</term>
+               <term>Venaria Reale (Italy) -- Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992552893504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

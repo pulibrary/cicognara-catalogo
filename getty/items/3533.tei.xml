@@ -23,58 +23,6 @@ monumenta francais. Suivi d’un traité historique de la peinture sur verre</ti
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Description historique et chronologique des monumens de sculpture, réunis au Musée des monumens français / par Alexandre Lenoir ... ; suivie d'un traité historique de la peinture sur verre, par le méme auteur.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Musée des monuments français (1795-1816)</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9921809230001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/dt047v</idno>
-            <idno>(OCoLC)3558476</idno>
-            <idno type="cico">3533</idno>
-            <idno type="dcl">svg</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Description historique et chronologique des monumens de sculpture, réunis au Musée des monumens français / par Alexandre Lenoir ... ; suivie d'un traité historique de la peinture sur verre, par le méme auteur.</title>
-                  <respStmt>
-                     <persName>Lenoir, Alexandre, 1761-1839</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Au Musée</publisher>
-                     <pubPlace>France</pubPlace>
-                     <pubPlace>France.</pubPlace>
-                     <pubPlace>France Paris.</pubPlace>
-                     <date>an VI de la République [1797 or 1798]</date>
-                     <date>1797</date>
-                  </imprint>
-                  <extent>[4], 272 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/be5c8a7b-6cd6-408a-8a24-ff5c40cbd7d3"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/be5c8a7b-6cd6-408a-8a24-ff5c40cbd7d3">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Description historique et chronologique des monumens de sculpture, réunis au Musée des monumens français [microform] / par Alexandre Lenoir ; suivie d'un traité historique de la peinture sur verre, par le méme auteur.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -118,9 +66,90 @@ monumenta francais. Suivi d’un traité historique de la peinture sur verre</ti
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Musée des monumens français.</term>
+               <term>Art museums -- France -- Paris.</term>
+               <term>Glass painting and staining -- France.</term>
+               <term>Sculpture -- France -- Paris.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/312ac66b-d2b5-4615-bc30-dd35a1883c1b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description historique et chronologique des monumens de sculpture, réunis au Musée des monumens français / par Alexandre Lenoir ... ; suivie d'un traité historique de la peinture sur verre, par le méme auteur.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Musée des monuments français (1795-1816)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9921809230001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/dt047v</idno>
+            <idno>(OCoLC)3558476</idno>
+            <idno type="cico">3533</idno>
+            <idno type="dcl">svg</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description historique et chronologique des monumens de sculpture, réunis au Musée des monumens français / par Alexandre Lenoir ... ; suivie d'un traité historique de la peinture sur verre, par le méme auteur.</title>
+                  <respStmt>
+                     <persName>Lenoir, Alexandre, 1761-1839</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Au Musée</publisher>
+                     <pubPlace>France</pubPlace>
+                     <pubPlace>France.</pubPlace>
+                     <pubPlace>France Paris.</pubPlace>
+                     <date>an VI de la République [1797 or 1798]</date>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>[4], 272 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/be5c8a7b-6cd6-408a-8a24-ff5c40cbd7d3"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture -- France -- Paris -- Catalogs.</term>
+               <term>Glass painting and staining -- France.</term>
+               <term>Abbaye de Saint-Denis (Saint-Denis, France)</term>
+               <term>Musée des monuments français (1795-1816)</term>
+               <term>Art museums -- France -- Paris.</term>
+               <term>Musée des monuments français (1795-1816)</term>
+               <term>Abbaye de Saint-Denis (Saint-Denis, France)</term>
+               <term>Art museums.</term>
+               <term>Glass painting and staining.</term>
+               <term>Sculpture.</term>
+               <term>France.     -781</term>
+               <term>France -- Paris.</term>
+               <term>NB541 .P3 1798</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/be5c8a7b-6cd6-408a-8a24-ff5c40cbd7d3">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

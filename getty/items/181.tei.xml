@@ -18,9 +18,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Abregé de la vie des peintres: avec des réflexions sur leurs ouvrages</title>
+            <title>Abregé de la vie des peintres, avec des réflexions sur leurs ouvrages. Par M. de Piles ... Nouvelle edition ...</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -29,31 +29,45 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Piles, Roger de, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-278049</idno>
-            <idno type="URI">http://portal.getty.edu/api/qn7209</idno>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926990520001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/kv486d</idno>
+            <idno>(OCoLC)4334275</idno>
             <idno type="cico">181</idno>
             <idno type="dcl">s25</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Abregé de la vie des peintres: avec des réflexions sur leurs ouvrages</title>
+                  <title>Abregé de la vie des peintres, avec des réflexions sur leurs ouvrages. Par M. de Piles ... Nouvelle edition ...</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1767</date>
+                     <publisher>Amsterdam, Arkstée &amp; Merkus;</publisher>
                      <date>1767</date>
                   </imprint>
-                  <extent>484, VIII S.</extent>
-                  <extent>Ill.</extent>
+                  <extent>[8], 484, viii pages</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/piles1767/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/071886a8-28f6-4129-8046-28a39843fb69"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painters.</term>
+               <term>Painters.</term>
+               <term>Painting.</term>
+               <term>ND1130 .P58 1767</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/piles1767/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/071886a8-28f6-4129-8046-28a39843fb69">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -99,56 +113,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/6a6624cc-88c4-4591-9982-63745b4f1c7a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Abregé de la vie des peintres, avec des réflexions sur leurs ouvrages. Par M. de Piles ... Nouvelle edition ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926990520001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/kv486d</idno>
-            <idno>(OCoLC)4334275</idno>
-            <idno type="cico">181</idno>
-            <idno type="dcl">s25</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Abregé de la vie des peintres, avec des réflexions sur leurs ouvrages. Par M. de Piles ... Nouvelle edition ...</title>
-                  <respStmt>
-                     <persName>Piles, Roger de, 1635-1709.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Amsterdam, Arkstée &amp; Merkus;</publisher>
-                     <date>1767</date>
-                  </imprint>
-                  <extent>[8], 484, viii pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/071886a8-28f6-4129-8046-28a39843fb69"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/071886a8-28f6-4129-8046-28a39843fb69">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -195,103 +170,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1e6d2c52-bf14-45c7-baf7-a9692822c5da/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Élémens de peinture pratique</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Piles, Roger de, Author</authority>
-            <authority>Jombert, Charles Antoine, Editor</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-267023</idno>
-            <idno type="URI">http://portal.getty.edu/api/6f7g7t</idno>
-            <idno type="cico">181</idno>
-            <idno type="dcl">fzh</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Élémens de peinture pratique</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <date>1776</date>
-                     <date>1776</date>
-                  </imprint>
-                  <extent>XX, 484 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/piles1776/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/piles1776/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Élémens de peinture pratique [microform] / par M. de Piles ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Jombert, Charles-Antoine, 1712-1784.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985248383506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/395s1t</idno>
-            <idno type="cico">181</idno>
-            <idno type="dcl">fzh</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Élémens de peinture pratique [microform] / par M. de Piles ...</title>
-                  <respStmt>
-                     <persName>Piles, Roger de, 1635-1709.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Amsterdam [etc.] : Arkstée &amp; Merkus</publisher>
-                     <date>1776</date>
-                  </imprint>
-                  <extent>xx, 484</extent>
-                  <extent>8 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4b0a81ff-f105-4a10-bd1d-39331bc94abf/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4b0a81ff-f105-4a10-bd1d-39331bc94abf/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -343,9 +232,191 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Technique.</term>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Proportion (Art) -- Early works to 1800.</term>
+               <term>Proportion (Art)</term>
+               <term>Painting.</term>
+               <term>Painting -- Technique.</term>
+               <term>ND1500 .P54 1776</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/e8569ecb-bec5-45ba-aaa1-c33dc84b41e3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Élémens de peinture pratique [microform] / par M. de Piles ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Jombert, Charles-Antoine, 1712-1784.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985248383506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/395s1t</idno>
+            <idno type="cico">181</idno>
+            <idno type="dcl">fzh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Élémens de peinture pratique [microform] / par M. de Piles ...</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Amsterdam [etc.] : Arkstée &amp; Merkus</publisher>
+                     <date>1776</date>
+                  </imprint>
+                  <extent>xx, 484</extent>
+                  <extent>8 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4b0a81ff-f105-4a10-bd1d-39331bc94abf/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4b0a81ff-f105-4a10-bd1d-39331bc94abf/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de divers ouvrages sur la peinture et le coloris [microform] / par M. de Piles ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985248413506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/3b3w3z</idno>
+            <idno type="cico">181</idno>
+            <idno type="dcl">sbv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de divers ouvrages sur la peinture et le coloris [microform] / par M. de Piles ...</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Cellot &amp; Jombert jeune</publisher>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>xii, 452 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/efdd34b1-f433-440c-851f-3b59da924398/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rubens, Peter Paul, 1577-1640.</term>
+               <term>Color -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/efdd34b1-f433-440c-851f-3b59da924398/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de divers ouvrages sur la peinture et le coloris / par M. de PIles.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786243504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/tc340m</idno>
+            <idno>(OCoLC)09741461</idno>
+            <idno type="cico">181</idno>
+            <idno type="dcl">sbv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Recueil de divers ouvrages sur la peinture et le coloris / par M. de PIles.</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris, Cellot &amp; Jombert jeune</publisher>
+                     <date>1775</date>
+                  </imprint>
+                  <extent>xii,452 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99786243504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rubens, Peter Paul, 1577-1640.</term>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Color -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99786243504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -392,57 +463,22 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rubens, Peter Paul, 1577-1640 -- Early works to 1800.</term>
+               <term>Rubens, Peter Paul, 1577-1640</term>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Color -- Early works to 1800.</term>
+               <term>Color.</term>
+               <term>Painting.</term>
+               <term>ND1130 .P632 1775</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ee0c56b1-79a9-4a95-8a28-347e603c97ef">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Recueil de divers ouvrages sur la peinture et le coloris [microform] / par M. de Piles ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985248413506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/3b3w3z</idno>
-            <idno type="cico">181</idno>
-            <idno type="dcl">sbv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Recueil de divers ouvrages sur la peinture et le coloris [microform] / par M. de Piles ...</title>
-                  <respStmt>
-                     <persName>Piles, Roger de, 1635-1709.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris : Cellot &amp; Jombert jeune</publisher>
-                     <date>1775</date>
-                  </imprint>
-                  <extent>xii, 452 p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/efdd34b1-f433-440c-851f-3b59da924398/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/efdd34b1-f433-440c-851f-3b59da924398/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -491,6 +527,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>PINTURA -- ENSEÑANZA.</term>
+               <term>ND1130 .P54 1791</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/3cdcbf92-5c20-47f8-ae15-838da1a3682d">

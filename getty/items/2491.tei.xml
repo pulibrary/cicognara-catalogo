@@ -26,9 +26,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Germana quaedam Antiquitatis eruditae Monumenta: Quibus Romanorum veterum Ritus varii Tam sacri quam Profani, Tum Graecorum atque Aegyptiorum nonnulli Illustrantur, Romae olim maxima ex parte collecta Ac Dissertationibus jam singulis instructa</title>
+            <title>Germana quaedam antiquitatis eruditae monumenta [microform] : quibus Romanorum veterum ritus varii tam sacri quam profani, tum Graecorum atque Aegyptiorum nonnulli illustrantur / Romae olim maxima ex parte collecta, ac dissertationibus jam singulis instructa, a Conyers Middleton ... ; his appendicis item loco adjuncta est mumiae Cantabrigiensis descriptio.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Princeton University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -37,31 +37,42 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Middleton, Conyers, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-60100</idno>
-            <idno type="URI">http://portal.getty.edu/api/h52166</idno>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985404763506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rp778j</idno>
             <idno type="cico">2491</idno>
             <idno type="dcl">n58</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Germana quaedam Antiquitatis eruditae Monumenta: Quibus Romanorum veterum Ritus varii Tam sacri quam Profani, Tum Graecorum atque Aegyptiorum nonnulli Illustrantur, Romae olim maxima ex parte collecta Ac Dissertationibus jam singulis instructa</title>
+                  <title>Germana quaedam antiquitatis eruditae monumenta [microform] : quibus Romanorum veterum ritus varii tam sacri quam profani, tum Graecorum atque Aegyptiorum nonnulli illustrantur / Romae olim maxima ex parte collecta, ac dissertationibus jam singulis instructa, a Conyers Middleton ... ; his appendicis item loco adjuncta est mumiae Cantabrigiensis descriptio.</title>
+                  <respStmt>
+                     <persName>Middleton, Conyers, 1683-1750.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>Latin</textLang>
                   <imprint>
-                     <date>1745</date>
+                     <publisher>Londini : Apud R. Manby et H.S. Cox</publisher>
                      <date>1745</date>
                   </imprint>
-                  <extent>XII, 266 S.</extent>
-                  <extent>zahlr. Ill.</extent>
+                  <extent>xii, [8], 266 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/middleton1745/manifest.json"/>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3c5d38c4-49a5-4e95-b2cf-663fd52b3e88/manifest"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical antiquities.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/middleton1745/manifest.json">
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3c5d38c4-49a5-4e95-b2cf-663fd52b3e88/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -112,57 +123,27 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Classical antiquities -- Early works to 1800.</term>
+               <term>Middleton, Conyers, 1683-1750.</term>
+               <term>Walpole, Horace, 1717-1797</term>
+               <term>Germany -- Antiquities, Roman.</term>
+               <term>Mummies.</term>
+               <term>Antigüedades.</term>
+               <term>Middleton, Conyers, 1683-1750</term>
+               <term>Walpole, Horace, 1717-1797</term>
+               <term>Classical antiquities</term>
+               <term>Mummies.</term>
+               <term>Germany.</term>
+               <term>DE57 .M53 1745</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1ed83fe5-f251-4a94-bbf5-9fc69bff0655">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Germana quaedam antiquitatis eruditae monumenta [microform] : quibus Romanorum veterum ritus varii tam sacri quam profani, tum Graecorum atque Aegyptiorum nonnulli illustrantur / Romae olim maxima ex parte collecta, ac dissertationibus jam singulis instructa, a Conyers Middleton ... ; his appendicis item loco adjuncta est mumiae Cantabrigiensis descriptio.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985404763506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/rp778j</idno>
-            <idno type="cico">2491</idno>
-            <idno type="dcl">n58</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Germana quaedam antiquitatis eruditae monumenta [microform] : quibus Romanorum veterum ritus varii tam sacri quam profani, tum Graecorum atque Aegyptiorum nonnulli illustrantur / Romae olim maxima ex parte collecta, ac dissertationibus jam singulis instructa, a Conyers Middleton ... ; his appendicis item loco adjuncta est mumiae Cantabrigiensis descriptio.</title>
-                  <respStmt>
-                     <persName>Middleton, Conyers, 1683-1750.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Londini : Apud R. Manby et H.S. Cox</publisher>
-                     <date>1745</date>
-                  </imprint>
-                  <extent>xii, [8], 266 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3c5d38c4-49a5-4e95-b2cf-663fd52b3e88/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3c5d38c4-49a5-4e95-b2cf-663fd52b3e88/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

@@ -29,50 +29,6 @@ portante il titolo Explication du Louvre. Altre 14 tavole con molte vignette son
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Paris et ses monumens</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-240038</idno>
-            <idno type="URI">http://portal.getty.edu/api/hq4d58</idno>
-            <idno type="cico">3948</idno>
-            <idno type="dcl">f8m</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Paris et ses monumens</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <pubPlace>Paris</pubPlace>
-                     <date>1803</date>
-                     <date>1803</date>
-                  </imprint>
-                  <extent>[2] Bl., 49 S., 32, [2]Bl., 4 S., S. [51] - 53</extent>
-                  <extent>zahlr. Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/baltard1803bd1/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/baltard1803bd1/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Paris et ses monumens, mesurés, dessinés et gravés [microform] / par Baltard ... avec des descriptions historiques par ... Amaury-Duval.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -115,9 +71,72 @@ portante il titolo Explication du Louvre. Altre 14 tavole con molte vignette son
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- France -- Paris.</term>
+               <term>Castles -- France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9257f4e7-2438-4ea2-a932-51ac5b0ac0db/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paris et ses monumens</title>
+            <respStmt>
+               <orgName>Heidelberg University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-240038</idno>
+            <idno type="URI">http://portal.getty.edu/api/hq4d58</idno>
+            <idno type="cico">3948</idno>
+            <idno type="dcl">f8m</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Paris et ses monumens</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <date>1803</date>
+                     <date>1803</date>
+                  </imprint>
+                  <extent>[2] Bl., 49 S., 32, [2]Bl., 4 S., S. [51] - 53</extent>
+                  <extent>zahlr. Ill.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/baltard1803bd1/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architektur</term>
+               <term>Stadtentwicklung</term>
+               <term>Cicognara</term>
+               <term>Parte Seconda</term>
+               <term>Vedute di Città e Descrizioni di Monumenti, e Antichità, Templi, Palazzi, ed altri Edificj grandiosi fuori di Roma</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/baltard1803bd1/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

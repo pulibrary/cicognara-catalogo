@@ -27,6 +27,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Epistola seu opusculum Francisci Bocchii de restitutione sacrae testudinis Florentinae ... ad per illustrem Franciscum Niccolinum Romam.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99795463504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/k34g5x</idno>
+            <idno>(OCoLC)84294780</idno>
+            <idno type="cico">1139</idno>
+            <idno type="cico">3959</idno>
+            <idno type="dcl">005</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Epistola seu opusculum Francisci Bocchii de restitutione sacrae testudinis Florentinae ... ad per illustrem Franciscum Niccolinum Romam.</title>
+                  <respStmt>
+                     <persName>Bocchi, Francesco, 1548-1618.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Florentiae, Apud Michaelangelum Sermartellium</publisher>
+                     <date>1604</date>
+                  </imprint>
+                  <extent>23 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99795463504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Santa Maria del Fiore (Cathedral : Florence, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99795463504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Epistola seu opusculum Francisci Bocchii de restitutione sacrae testudinis Florentinae ad per illustrem Franciscum Niccolinum ... [microfilm].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -66,6 +121,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Santa Maria del Fiore (Cathedral : Florence, Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/155c708b-d4f8-4cad-a4df-117e257bfe43/manifest">

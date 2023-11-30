@@ -23,50 +23,6 @@ Metropolis conditor e scriptoribus coaevis et classicis delineatus</title>, <pub
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Nero Claudius Drusus Germanicus Maguntiaci superioris Germaniae metropolis conditor: e scriptoribus coaevis et classicis delineatus</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Würdtwein, Stephan Alexander, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-281449</idno>
-            <idno type="URI">http://portal.getty.edu/api/848570</idno>
-            <idno type="cico">3075</idno>
-            <idno type="dcl">m5c</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Nero Claudius Drusus Germanicus Maguntiaci superioris Germaniae metropolis conditor: e scriptoribus coaevis et classicis delineatus</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1782</date>
-                     <date>1782</date>
-                  </imprint>
-                  <extent>XVI, 66 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/wuerdtwein1782/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/wuerdtwein1782/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Nero Claudius Drusus germanicus maguntiaci superioris Germaniae metropolis [microform] / conditor e scriptoribus coaeuis et classicis delineatur a Stephano Aelxandro Würdtwein.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -105,6 +61,13 @@ Metropolis conditor e scriptoribus coaevis et classicis delineatus</title>, <pub
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Drusus, Nero Claudius, 38 B.C.-9 B.C.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/79f1217e-11af-40f3-9d42-6eb961bfcd49/manifest">

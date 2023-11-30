@@ -27,6 +27,61 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Teoria e pratica di architettura civile : per istruzione della gioventú specialmente romana / [da Girolamo Masi].</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930122000001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/b40b0m</idno>
+            <idno>(OCoLC)13608088</idno>
+            <idno type="cico">562</idno>
+            <idno type="dcl">fc5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Teoria e pratica di architettura civile : per istruzione della gioventú specialmente romana / [da Girolamo Masi].</title>
+                  <respStmt>
+                     <persName>Masi, Girolamo</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Roma : A. Fulgoni</publisher>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>viii, 270 p., xiii folded leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/42485cc1-f3ac-42b3-b909-065a7017b3a8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/42485cc1-f3ac-42b3-b909-065a7017b3a8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Teoria e pratica di architettura civile per istruzione della gioventu specialmente romana .. [microform]</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -65,56 +120,16 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2dc0fa6a-1a77-4728-ae5a-076eb9e5ebe3/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Teoria e pratica di architettura civile : per istruzione della gioventú specialmente romana / [da Girolamo Masi].</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9930122000001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/b40b0m</idno>
-            <idno>(OCoLC)13608088</idno>
-            <idno type="cico">562</idno>
-            <idno type="dcl">fc5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Teoria e pratica di architettura civile : per istruzione della gioventú specialmente romana / [da Girolamo Masi].</title>
-                  <respStmt>
-                     <persName>Masi, Girolamo</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Roma : A. Fulgoni</publisher>
-                     <date>1788</date>
-                  </imprint>
-                  <extent>viii, 270 p., xiii folded leaves of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/42485cc1-f3ac-42b3-b909-065a7017b3a8"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/42485cc1-f3ac-42b3-b909-065a7017b3a8">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

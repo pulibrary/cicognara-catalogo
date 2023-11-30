@@ -30,57 +30,6 @@ artefici. Cose che non trovansi quasi mai nelle opere di questo genere destinate
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dactyliotheca Smithiana / Volumen primum, gemmarum ectypa et Antonii Francisci Gorii enarrationes complectens. [Volumen alterum, historiam glyptographicam auctore, Antonio Francisco Gorio exhibens].</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Smith, Joseph, 1674-1770</authority>
-            <authority>Pre-1801 Imprint Collection (Library of Congress)</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9926971550001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/x10t93</idno>
-            <idno>(OCoLC)2338770</idno>
-            <idno type="cico">2870</idno>
-            <idno type="dcl">3sh</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dactyliotheca Smithiana / Volumen primum, gemmarum ectypa et Antonii Francisci Gorii enarrationes complectens. [Volumen alterum, historiam glyptographicam auctore, Antonio Francisco Gorio exhibens].</title>
-                  <respStmt>
-                     <persName>Gori, Antonio Francesco, 1691-1757</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Venetiis : Ex typographio J.B. Pasqualii</publisher>
-                     <pubPlace>England</pubPlace>
-                     <pubPlace>Italy Venice.</pubPlace>
-                     <date>1767</date>
-                  </imprint>
-                  <extent>2 volumes</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f9546033-3b59-4726-9e4e-cd574341c1c5"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f9546033-3b59-4726-9e4e-cd574341c1c5">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dactyliotheca Smithiana [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -123,9 +72,88 @@ artefici. Cose che non trovansi quasi mai nelle opere di questo genere destinate
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Smith, Joseph, 1682-1770 -- Art collections -- Catalogs.</term>
+               <term>Cameos -- England -- London -- Catalogs.</term>
+               <term>Gems, Ancient -- England -- London -- Catalogs.</term>
+               <term>Glyptics -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0321468b-41ca-42fa-ab70-169feeed5f23/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dactyliotheca Smithiana / Volumen primum, gemmarum ectypa et Antonii Francisci Gorii enarrationes complectens. [Volumen alterum, historiam glyptographicam auctore, Antonio Francisco Gorio exhibens].</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Smith, Joseph, 1674-1770</authority>
+            <authority>Pre-1801 Imprint Collection (Library of Congress)</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9926971550001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/x10t93</idno>
+            <idno>(OCoLC)2338770</idno>
+            <idno type="cico">2870</idno>
+            <idno type="dcl">3sh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dactyliotheca Smithiana / Volumen primum, gemmarum ectypa et Antonii Francisci Gorii enarrationes complectens. [Volumen alterum, historiam glyptographicam auctore, Antonio Francisco Gorio exhibens].</title>
+                  <respStmt>
+                     <persName>Gori, Antonio Francesco, 1691-1757</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Ex typographio J.B. Pasqualii</publisher>
+                     <pubPlace>England</pubPlace>
+                     <pubPlace>Italy Venice.</pubPlace>
+                     <date>1767</date>
+                  </imprint>
+                  <extent>2 volumes</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/f9546033-3b59-4726-9e4e-cd574341c1c5"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Smith, Joseph, 1674-1770 -- Art collections -- Catalogs.</term>
+               <term>Gems -- Private collections -- Catalogs.</term>
+               <term>Gems, Ancient -- Private collections -- England -- London -- Catalogs.</term>
+               <term>Cameos -- Private collections -- England -- London -- Catalogs.</term>
+               <term>Glyptics -- History.</term>
+               <term>Smith, Joseph, 1674-1770</term>
+               <term>Cameos -- Private collections.</term>
+               <term>Art -- Private collections.</term>
+               <term>Gems -- Private collections.</term>
+               <term>Glyptics.</term>
+               <term>England -- London.</term>
+               <term>NK5515 .S3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/f9546033-3b59-4726-9e4e-cd574341c1c5">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

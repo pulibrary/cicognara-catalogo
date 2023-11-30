@@ -26,55 +26,6 @@ luoghi: esemplare in carta distinta.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Jacobi Philippi d'Orville Sicula, quibus Siciae veteris rudera, additis antiquitatum tabulis, illustrantur. Edidit, et commentarium ad numismata Sicula, XX tabulis aeneis incisa, et ad tres inscriptiones majores, Geloam, Tauromenitanam et Rheginam; nec non minorum inscriptionum syllogen, orationem in auctoris obitum, et praefationem adjecit Petrus Burmannus Secundus.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Burmannus, Petrus, 1713-1778.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9924120473506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/398n17</idno>
-            <idno>(OCoLC)17381208</idno>
-            <idno type="cico">2689</idno>
-            <idno type="dcl">c02</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Jacobi Philippi d'Orville Sicula, quibus Siciae veteris rudera, additis antiquitatum tabulis, illustrantur. Edidit, et commentarium ad numismata Sicula, XX tabulis aeneis incisa, et ad tres inscriptiones majores, Geloam, Tauromenitanam et Rheginam; nec non minorum inscriptionum syllogen, orationem in auctoris obitum, et praefationem adjecit Petrus Burmannus Secundus.</title>
-                  <respStmt>
-                     <persName>Orville, Jacques Philippe d', 1696-1751.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Amstelaedami, Apud G. Tielenburg</publisher>
-                     <pubPlace>Sicily (Italy)</pubPlace>
-                     <date>1764</date>
-                  </imprint>
-                  <extent>2 pt. in 1 v.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8cb06a30-8760-46cb-a2e6-b7803ca67437/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8cb06a30-8760-46cb-a2e6-b7803ca67437/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Jacobi Philippi D'Orville Sicula [microform] : quibus Siciliae veteris Rudera, additis antiquitatum tabulis, illustrantur : edidit, et commentarium ad Numismata Sicula, XX tabulis aeneis incisa, et ad tres inscriptiones majores, geloam, tauromenitanam, et rheginam, nec non minorum inscriptionum syllogen, operationem in auctoris obitum, et praefationem : adjecit Petrus Burmannus Secundus ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -116,9 +67,80 @@ luoghi: esemplare in carta distinta.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Orville, Jacques Philippe d', 1696-1751.</term>
+               <term>Inscriptions, Greek -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+               <term>Numismatics -- Italy -- Sicily -- Early works to 1800.</term>
+               <term>Sicily (Italy) -- Antiquities -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/504dc86d-b61e-49ba-a6bd-eaaf11ddbafe/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jacobi Philippi d'Orville Sicula, quibus Siciae veteris rudera, additis antiquitatum tabulis, illustrantur. Edidit, et commentarium ad numismata Sicula, XX tabulis aeneis incisa, et ad tres inscriptiones majores, Geloam, Tauromenitanam et Rheginam; nec non minorum inscriptionum syllogen, orationem in auctoris obitum, et praefationem adjecit Petrus Burmannus Secundus.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Burmannus, Petrus, 1713-1778.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9924120473506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/398n17</idno>
+            <idno>(OCoLC)17381208</idno>
+            <idno type="cico">2689</idno>
+            <idno type="dcl">c02</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Jacobi Philippi d'Orville Sicula, quibus Siciae veteris rudera, additis antiquitatum tabulis, illustrantur. Edidit, et commentarium ad numismata Sicula, XX tabulis aeneis incisa, et ad tres inscriptiones majores, Geloam, Tauromenitanam et Rheginam; nec non minorum inscriptionum syllogen, orationem in auctoris obitum, et praefationem adjecit Petrus Burmannus Secundus.</title>
+                  <respStmt>
+                     <persName>Orville, Jacques Philippe d', 1696-1751.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Amstelaedami, Apud G. Tielenburg</publisher>
+                     <pubPlace>Sicily (Italy)</pubPlace>
+                     <date>1764</date>
+                  </imprint>
+                  <extent>2 pt. in 1 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/8cb06a30-8760-46cb-a2e6-b7803ca67437/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin.</term>
+               <term>Inscriptions, Greek.</term>
+               <term>Sicily (Italy) -- Antiquities.</term>
+               <term>Numismatics, Sicilian.</term>
+               <term>DG55.S5</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/8cb06a30-8760-46cb-a2e6-b7803ca67437/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

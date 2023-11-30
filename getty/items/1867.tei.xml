@@ -29,6 +29,64 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Emblemata amatoria Georgii Camerarii.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Passe, Crispijn van de, approximately 1565-1637. Thronus Cupidinis.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9930469490001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/n04h04</idno>
+            <idno>(OCoLC)501820072</idno>
+            <idno type="cico">1867</idno>
+            <idno type="dcl">6p4</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Emblemata amatoria Georgii Camerarii.</title>
+                  <respStmt>
+                     <persName>Camerarius, Georgius.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Venetiis : Sumpt. P.P. Tozzii :</publisher>
+                     <date>1627</date>
+                  </imprint>
+                  <extent>201, [5] p. (the last 3 blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b92b5a71-674e-423a-bc6b-57bd7abb33e9"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Love in art -- Early works to 1800.</term>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Emblems</term>
+               <term>Love in art.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b92b5a71-674e-423a-bc6b-57bd7abb33e9">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Emblemata amatoria Georgii Camerarii [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -67,57 +125,17 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Emblems -- Early works to 1800.</term>
+               <term>Love in art -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9b4f1f0d-ce86-4051-8b3d-a971e1f2cae0/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Emblemata amatoria Georgii Camerarii.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Passe, Crispijn van de, approximately 1565-1637. Thronus Cupidinis.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9930469490001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/n04h04</idno>
-            <idno>(OCoLC)501820072</idno>
-            <idno type="cico">1867</idno>
-            <idno type="dcl">6p4</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Emblemata amatoria Georgii Camerarii.</title>
-                  <respStmt>
-                     <persName>Camerarius, Georgius.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Venetiis : Sumpt. P.P. Tozzii :</publisher>
-                     <date>1627</date>
-                  </imprint>
-                  <extent>201, [5] p. (the last 3 blank)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/b92b5a71-674e-423a-bc6b-57bd7abb33e9"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/b92b5a71-674e-423a-bc6b-57bd7abb33e9">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

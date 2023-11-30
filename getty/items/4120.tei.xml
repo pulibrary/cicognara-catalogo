@@ -62,9 +62,80 @@ fig.</bibl>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palaces -- Germany -- Ludwigsburg.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/78dd5729-5a4f-45b9-80f9-89ae42059483/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veues et parties principales de Louis-Bourg, à Son Altesse Sre. Monsgr. le Duc Regnent de Wurtemberg ... = Prospect und Theile des Fürstl. Hauses und Gartens Ludwigs-burg, des Durchl. Fürsten und Herrens, Herrens Eberhard Ludwigen Hertzogen zu Wurtemberg und Teck ... / Nette, Major et Directeur.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Wolf, Jeremias, 1663?-1724.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_992697073504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/ss573f</idno>
+            <idno>(OCoLC)256974045</idno>
+            <idno>(OCoLC)81674760</idno>
+            <idno type="cico">4120</idno>
+            <idno type="dcl">7kh</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Veues et parties principales de Louis-Bourg, à Son Altesse Sre. Monsgr. le Duc Regnent de Wurtemberg ... = Prospect und Theile des Fürstl. Hauses und Gartens Ludwigs-burg, des Durchl. Fürsten und Herrens, Herrens Eberhard Ludwigen Hertzogen zu Wurtemberg und Teck ... / Nette, Major et Directeur.</title>
+                  <respStmt>
+                     <persName>Nette, Johann Friedrich, 1673-1714.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <textLang>German</textLang>
+                  <imprint>
+                     <publisher>Augsburg : Jeremias Wolff excudit</publisher>
+                     <pubPlace>Germany</pubPlace>
+                     <pubPlace>Ludwigsburg (Germany)</pubPlace>
+                     <date>[1712?]</date>
+                     <date>1712</date>
+                  </imprint>
+                  <extent>12 leaves</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/992697073504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Palaces -- Germany -- Ludwigsburg -- Pictorial works -- Early works to 1800.</term>
+               <term>Palaces -- Germany -- Ludwigsburg -- Designs and plans -- Early works to 1800.</term>
+               <term>Garden structures -- Germany -- Ludwigsburg -- Design and construction -- Early works to 1800.</term>
+               <term>Gardens -- Germany -- Ludwigsburg -- Design -- Early works to 1800.</term>
+               <term>Ludwigsburg (Germany) -- Buildings, structures, etc. -- Pictorial works -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/992697073504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

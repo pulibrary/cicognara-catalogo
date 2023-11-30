@@ -26,50 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L' Architettura Generale Di Vitruvio: Ridotta In Compendio</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Vitruvius, Author</authority>
-            <authority>Perrault, Claude, Other</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-21839</idno>
-            <idno type="URI">http://portal.getty.edu/api/247v35</idno>
-            <idno type="cico">732</idno>
-            <idno type="dcl">9pj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>L' Architettura Generale Di Vitruvio: Ridotta In Compendio</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <date>1747</date>
-                     <date>1747</date>
-                  </imprint>
-                  <extent>[22] Bl., 213, [1] S., XII, [15] Bl.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1747/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/vitruvius1747/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>L'architettura generale di Vitruvio ridotta in compendio dal Sig. Perrault dell'Accademia delle scienze di Parigi, ed arricchita di tavole in rame. Opera tradotta dal francese, ed incontrata in questa edizione col testo dell'autore, e col commento di Monsig. Barbaro; alla quale in oltre si è aggiunto la tavola e le regole del piedestallo.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -108,6 +64,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>NA2515 .V8 1747</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/a0f1db02-9584-4007-89aa-5b82c1fdabe1">

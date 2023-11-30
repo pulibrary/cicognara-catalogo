@@ -28,6 +28,65 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Festa fatta in Roma alli 25 di febraio MDCXXXIV [microform] / e data in luce da Vitale Mascardi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985302963506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/r15033</idno>
+            <idno type="cico">1440</idno>
+            <idno type="dcl">kjt</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Festa fatta in Roma alli 25 di febraio MDCXXXIV [microform] / e data in luce da Vitale Mascardi.</title>
+                  <respStmt>
+                     <persName>Mascardi, Vitale.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : [s.n</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1635?]</date>
+                     <date>1635</date>
+                  </imprint>
+                  <extent>135 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/26a0f278-6c32-483b-ac69-e8e027bed509/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Barberini, Antonio, 1607-1681.</term>
+               <term>Festivals -- Italy -- Rome -- History -- 17th century.</term>
+               <term>Pageants -- Italy -- Rome -- History -- 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/26a0f278-6c32-483b-ac69-e8e027bed509/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Festa, fatta in Roma, alli 25. di Febraio MDCXXXIV.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -70,103 +129,28 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alexander Charles, Prince of Poland, active 17 century.</term>
+               <term>Barberini, Antonio, 1607-1671.</term>
+               <term>Festivals -- Italy -- Rome.</term>
+               <term>Tournaments, Medieval.</term>
+               <term>Rome (Italy) -- Social life and customs -- 17th century.</term>
+               <term>Pageants -- Italy -- Rome.</term>
+               <term>Barberini, Antonio, 1607-1671</term>
+               <term>Festivals</term>
+               <term>Manners and customs</term>
+               <term>Pageants</term>
+               <term>Tournaments, Medieval</term>
+               <term>Italy -- Rome</term>
+               <term>DG812.4 .B47 1635</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1b72d687-c166-41b3-aaba-792ca8b912b5">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Festa fatta in Roma alli 25 di febraio MDCXXXIV [microform] / e data in luce da Vitale Mascardi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985302963506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/r15033</idno>
-            <idno type="cico">1440</idno>
-            <idno type="dcl">kjt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Festa fatta in Roma alli 25 di febraio MDCXXXIV [microform] / e data in luce da Vitale Mascardi.</title>
-                  <respStmt>
-                     <persName>Mascardi, Vitale.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : [s.n</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>[1635?]</date>
-                     <date>1635</date>
-                  </imprint>
-                  <extent>135 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/26a0f278-6c32-483b-ac69-e8e027bed509/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/26a0f278-6c32-483b-ac69-e8e027bed509/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Festa, Fatta In Roma, Alli 25. di Febraio MDCXXXIV.</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Mascardi, Vitale, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-272995</idno>
-            <idno type="URI">http://portal.getty.edu/api/7g2d5t</idno>
-            <idno type="cico">1440</idno>
-            <idno type="dcl">kjt</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Festa, Fatta In Roma, Alli 25. di Febraio MDCXXXIV.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <date>1635</date>
-                     <date>[1635]</date>
-                  </imprint>
-                  <extent>[4] Bl., 134 S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/mascardi1635/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/mascardi1635/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

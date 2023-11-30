@@ -26,54 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pratica di fabricar scene e machine ne' teatri / di Nicola Sabbattini da Pesaro ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923900880001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/9w134w</idno>
-            <idno>(OCoLC)12051345</idno>
-            <idno type="cico">780</idno>
-            <idno type="dcl">f8q</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Pratica di fabricar scene e machine ne' teatri / di Nicola Sabbattini da Pesaro ...</title>
-                  <respStmt>
-                     <persName>Sabbattini, Nicola, approximately 1575-1654.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Rauenna : Per Pietro de' Paoli e Gio. Battista Giouannelli stampatori</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1638</date>
-                  </imprint>
-                  <extent>12, 168 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/115379eb-643a-4b97-911e-017bcc21790e"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/115379eb-643a-4b97-911e-017bcc21790e">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Pratica di fabricar scene e machine ne' teatri [microform] / di Nicola Sabbattini da Pesaro ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +63,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Theaters -- Stage-setting and scenery -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/2d757294-708d-442d-8d3f-b0d8bc51ae09/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pratica di fabricar scene e machine ne' teatri / di Nicola Sabbattini da Pesaro ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923900880001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/9w134w</idno>
+            <idno>(OCoLC)12051345</idno>
+            <idno type="cico">780</idno>
+            <idno type="dcl">f8q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Pratica di fabricar scene e machine ne' teatri / di Nicola Sabbattini da Pesaro ...</title>
+                  <respStmt>
+                     <persName>Sabbattini, Nicola, approximately 1575-1654.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Rauenna : Per Pietro de' Paoli e Gio. Battista Giouannelli stampatori</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1638</date>
+                  </imprint>
+                  <extent>12, 168 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/115379eb-643a-4b97-911e-017bcc21790e"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Theaters -- Stage-setting and scenery -- Early works to 1800.</term>
+               <term>Theaters -- Stage-setting and scenery -- Italy -- History -- 17th century.</term>
+               <term>Theaters -- Stage-setting and scenery</term>
+               <term>Italy</term>
+               <term>792/.025</term>
+               <term>PN2091.S8 S26 1638</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/115379eb-643a-4b97-911e-017bcc21790e">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

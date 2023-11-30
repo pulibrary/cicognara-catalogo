@@ -22,7 +22,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Saggio sopra l'Accademia di Francia che è in Roma ...</title>
+            <title>Saggio sopra l'opera in musica ...</title>
             <respStmt>
                <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
                <resp>contributor</resp>
@@ -33,30 +33,96 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109603570203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/cm8c77</idno>
-            <idno>(OCoLC)214294490</idno>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990014998190203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/765533</idno>
+            <idno>(OCoLC)16788126</idno>
             <idno type="cico">1288</idno>
             <idno type="dcl">nc0</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Saggio sopra l'Accademia di Francia che è in Roma ...</title>
+                  <title>Saggio sopra l'opera in musica ...</title>
                   <respStmt>
                      <persName>Algarotti, Francesco, conte, 1712-1764.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <imprint>
-                     <publisher>Livorno [Leghorn] : Per Marco Coltellini</publisher>
+                     <publisher>Livorno : Per M. Coltellini</publisher>
                      <date>1763</date>
                   </imprint>
-                  <extent>52 pages</extent>
+                  <extent>157 p.</extent>
                </monogr>
                <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:457774536"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Opera.</term>
+               <term>Opera -- Philosophy and aesthetics -- Early works to 1800.</term>
+               <term>Operas -- Philosophy and aesthetics -- Early works to 1800.</term>
+               <term>ML3858 .A37 1763</term>
+               <term>ML3858 .A37</term>
+               <term>ML3858.A37</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:457774536">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saggio sopra la pittura / [Francesco Algarotti].</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109603560203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/w45w9x</idno>
+            <idno>(OCoLC)464220008</idno>
+            <idno type="cico">1288</idno>
+            <idno type="dcl">nc0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Saggio sopra la pittura / [Francesco Algarotti].</title>
+                  <respStmt>
+                     <persName>Algarotti, Francesco, conte, 1712-1764.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Livorno ... : per Marco Coltellini in via Grande</publisher>
+                     <date>1763</date>
+                  </imprint>
+                  <extent>184, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:457774536"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:457774536">
@@ -106,6 +172,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di Francia (Rome, Italy)</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0a05e680-fb35-4bd3-abd7-bfcd1bf05000/manifest">
@@ -117,7 +191,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Saggio sopra la pittura / [Francesco Algarotti].</title>
+            <title>Saggio sopra l'Accademia di Francia che è in Roma ...</title>
             <respStmt>
                <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
                <resp>contributor</resp>
@@ -128,77 +202,45 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109603560203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/w45w9x</idno>
-            <idno>(OCoLC)464220008</idno>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109603570203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/cm8c77</idno>
+            <idno>(OCoLC)214294490</idno>
             <idno type="cico">1288</idno>
             <idno type="dcl">nc0</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Saggio sopra la pittura / [Francesco Algarotti].</title>
+                  <title>Saggio sopra l'Accademia di Francia che è in Roma ...</title>
                   <respStmt>
                      <persName>Algarotti, Francesco, conte, 1712-1764.</persName>
                      <resp>creator</resp>
                   </respStmt>
                   <imprint>
-                     <publisher>Livorno ... : per Marco Coltellini in via Grande</publisher>
+                     <publisher>Livorno [Leghorn] : Per Marco Coltellini</publisher>
                      <date>1763</date>
                   </imprint>
-                  <extent>184, [2] p.</extent>
+                  <extent>52 pages</extent>
                </monogr>
                <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:457774536"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:457774536">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Saggio sopra l'opera in musica ...</title>
-            <respStmt>
-               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/hulitatti_990014998190203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/765533</idno>
-            <idno>(OCoLC)16788126</idno>
-            <idno type="cico">1288</idno>
-            <idno type="dcl">nc0</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Saggio sopra l'opera in musica ...</title>
-                  <respStmt>
-                     <persName>Algarotti, Francesco, conte, 1712-1764.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <imprint>
-                     <publisher>Livorno : Per M. Coltellini</publisher>
-                     <date>1763</date>
-                  </imprint>
-                  <extent>157 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:457774536"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Accademia di Francia (Rome, Italy)</term>
+               <term>Royal Academy of Arts (Great Britain)</term>
+               <term>Painting, Italian -- Early works to 1800.</term>
+               <term>Painting, French -- Early works to 1800.</term>
+               <term>Accademia di Francia (Rome, Italy)</term>
+               <term>Royal Academy of Arts (Great Britain)</term>
+               <term>Painting, French.</term>
+               <term>Painting, Italian.</term>
+               <term>N332.I83 A43 1763</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:457774536">

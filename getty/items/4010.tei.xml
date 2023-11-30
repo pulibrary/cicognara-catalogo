@@ -22,62 +22,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Monumenta Paderbornensia: Ex Historia Romana, Francica, Saxonica eruta, Novis inscriptionibus, figuris, tabulis geographicis ac notis posthumis Ferdinandi principis Textui passim insertis, illustrata</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fürstenberg, Ferdinand von, Author</authority>
-            <authority>Karl &lt;I., Heiliges Römisches Reich, Kaiser&gt;, Author</authority>
-            <authority>Horrion, Johannes, Author</authority>
-            <authority>Seltmann, Johann Sigismund, Editor</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-282576</idno>
-            <idno type="URI">http://portal.getty.edu/api/k6868c</idno>
-            <idno type="cico">4010</idno>
-            <idno type="dcl">r5q</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Monumenta Paderbornensia: Ex Historia Romana, Francica, Saxonica eruta, Novis inscriptionibus, figuris, tabulis geographicis ac notis posthumis Ferdinandi principis Textui passim insertis, illustrata</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <pubPlace>Paderborn</pubPlace>
-                     <pubPlace>Salem</pubPlace>
-                     <pubPlace>Europa</pubPlace>
-                     <pubPlace>Deutschland</pubPlace>
-                     <pubPlace>Baden-Württemberg</pubPlace>
-                     <pubPlace>Europe</pubPlace>
-                     <pubPlace>Germany</pubPlace>
-                     <pubPlace>WGS 84</pubPlace>
-                     <pubPlace>47.76258 9.29031</pubPlace>
-                     <date>1714</date>
-                     <date>1714</date>
-                  </imprint>
-                  <extent>[22] Bl., 336 S., [10] Bl., 56 S., [8] Bl., 136 S., [4] Bl.</extent>
-                  <extent>Frontispiz, zahlr. Ill., Kt., Portr. (Kupferst.)</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/seltmann1714/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/seltmann1714/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Monumenta paderbornensia [microform] : ex historia romana, francica, saxonica eruta, novis inscriptionibus, figuris, tabulis geographicis ac notis posthumis Ferdinandi principis ... : accedunt Caroli M. Capitulatio de partibus Saxoniae, ex antiquissimo ms. Palatino Bibliothecae Vaticanae, &amp; Panegyricus paderbornesis : subnexa est in fine nova genealogia illustrissmae familiae Fürstenbergicae.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -118,6 +62,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Fürstenberg Family -- Genealogy.</term>
+               <term>Paderborn (Germany) -- Genealogy.</term>
+               <term>Paderborn (Germany) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/069bfaa4-464a-4ad1-9817-c8697b5700cc/manifest">

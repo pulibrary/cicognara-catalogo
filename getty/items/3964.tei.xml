@@ -26,54 +26,6 @@ Velletri.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Liste des principaux objets de sciences et d'arts [microform] : recueillis en Italie par les commissaires du Gouvernement Français.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985461813506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/rd2k56</idno>
-            <idno type="cico">3964</idno>
-            <idno type="cico">4134</idno>
-            <idno type="dcl">nk5</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Liste des principaux objets de sciences et d'arts [microform] : recueillis en Italie par les commissaires du Gouvernement Français.</title>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>[S.l. : s.n]</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>[1797?]</date>
-                     <date>1797</date>
-                  </imprint>
-                  <extent>27 p.</extent>
-                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e6fa0a1c-f5dd-46a9-854f-ca888470379e/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e6fa0a1c-f5dd-46a9-854f-ca888470379e/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Liste des principaux objets de sciences et d'arts recueillis en Italie par les commissaires du gouvernement Français.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -112,9 +64,76 @@ Velletri.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, European -- Catalogs.</term>
+               <term>France -- History -- Revolution, 1789-1799 -- Confiscations and contributions.</term>
+               <term>France -- History -- Revolution, 1789-1799 -- Art and the revolution.</term>
+               <term>Confiscations.</term>
+               <term>Painting, European.</term>
+               <term>France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d10d833a-b5b2-490d-a018-f81ced498877">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liste des principaux objets de sciences et d'arts [microform] : recueillis en Italie par les commissaires du Gouvernement Français.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461813506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/rd2k56</idno>
+            <idno type="cico">3964</idno>
+            <idno type="cico">4134</idno>
+            <idno type="dcl">nk5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Liste des principaux objets de sciences et d'arts [microform] : recueillis en Italie par les commissaires du Gouvernement Français.</title>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1797?]</date>
+                     <date>1797</date>
+                  </imprint>
+                  <extent>27 p.</extent>
+                  <extent>2 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/e6fa0a1c-f5dd-46a9-854f-ca888470379e/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting, European -- Italy -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e6fa0a1c-f5dd-46a9-854f-ca888470379e/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -156,6 +175,14 @@ Velletri.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Museo Borgiano.</term>
+               <term>Art objects -- Italy -- Velletri.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/eca3a85d-9a2c-437c-86ee-2d53525df741/manifest">

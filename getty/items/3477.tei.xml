@@ -27,49 +27,6 @@ porta il nome di Cherubino Alberti fece 1578.<note/>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Antiqvarvm Statvarvm Vrbis Romae, Quae in publicis priuatisque locis visuntur, Icones</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-40374</idno>
-            <idno type="URI">http://portal.getty.edu/api/5d315n</idno>
-            <idno type="cico">3477</idno>
-            <idno type="dcl">wnv</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Antiqvarvm Statvarvm Vrbis Romae, Quae in publicis priuatisque locis visuntur, Icones</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1621</date>
-                     <date>1621</date>
-                  </imprint>
-                  <extent>[40] Bl.</extent>
-                  <extent>nur Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/cavalieri1621bd2/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/cavalieri1621bd2/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Antiquarum statuarum urbis Romae [microform] : que in publicis priuatisque locis visuntur, icones.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -108,6 +65,14 @@ porta il nome di Cherubino Alberti fece 1578.<note/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture, Roman.</term>
+               <term>Statues -- Italy -- Rome -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e5143fe1-f787-46e9-b8f1-89f2710ec421/manifest">

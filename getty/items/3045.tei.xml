@@ -25,6 +25,64 @@ in 4, fig., M. 40.
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Ragionamento sopra un frammento d'un antico diaspro intagliato.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923165540001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2k0p1w</idno>
+            <idno>(OCoLC)145863871</idno>
+            <idno type="cico">3045</idno>
+            <idno type="dcl">s2h</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Ragionamento sopra un frammento d'un antico diaspro intagliato.</title>
+                  <respStmt>
+                     <persName>Venuti, Ridolfino, 1705-1763</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Appresso il Bernabò</publisher>
+                     <date>1747</date>
+                  </imprint>
+                  <extent>xi pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c8cfba7b-3251-490c-8ae0-e79116241ef8"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Lucatelli, Giovanni Pietro, marchese, active 1747-1750 -- Archaeological collections.</term>
+               <term>Intaglios.</term>
+               <term>Archaeology -- Private collections.</term>
+               <term>Intaglios.</term>
+               <term>NK5730 .R34 1747</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c8cfba7b-3251-490c-8ae0-e79116241ef8">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Ragionamento sopra un frammento d'un antico diaspro intagliato [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -63,56 +121,17 @@ in 4, fig., M. 40.
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Gems -- Early works to 1800.</term>
+               <term>Intaglios -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ecd26bf9-13dd-4869-ab3e-cc39da7b9411/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Ragionamento sopra un frammento d'un antico diaspro intagliato.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923165540001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/2k0p1w</idno>
-            <idno>(OCoLC)145863871</idno>
-            <idno type="cico">3045</idno>
-            <idno type="dcl">s2h</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Ragionamento sopra un frammento d'un antico diaspro intagliato.</title>
-                  <respStmt>
-                     <persName>Venuti, Ridolfino, 1705-1763</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Appresso il Bernabò</publisher>
-                     <date>1747</date>
-                  </imprint>
-                  <extent>xi pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/c8cfba7b-3251-490c-8ae0-e79116241ef8"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/c8cfba7b-3251-490c-8ae0-e79116241ef8">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

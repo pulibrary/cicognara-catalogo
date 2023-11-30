@@ -22,4 +22,65 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imprese nobili et ingeniose di diuersi prencipi et d'altri personaggi illvstri nell'arme et nelle lettere : le quali, col disegno loro estrinseco, dimostrano l'animo, et la buona ò mala fortuna de gli autori loro / con le dichiarationi in uersi di M. Lodovico Dolce &amp; d'altri.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pittoni, Battista, approximately 1520-1584</authority>
+            <authority>Porro, Girolamo, 1520-1604</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_993416143504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/8h2155</idno>
+            <idno>(OCoLC)880296219</idno>
+            <idno>(OCoLC)17986084</idno>
+            <idno type="cico">1938</idno>
+            <idno type="dcl">z4w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Imprese nobili et ingeniose di diuersi prencipi et d'altri personaggi illvstri nell'arme et nelle lettere : le quali, col disegno loro estrinseco, dimostrano l'animo, et la buona ò mala fortuna de gli autori loro / con le dichiarationi in uersi di M. Lodovico Dolce &amp; d'altri.</title>
+                  <respStmt>
+                     <persName>Dolce, Lodovico, 1508-1568</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Venetia : Presso Girolamo Porro</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>MDLXXVIII [1578]</date>
+                     <date>1578</date>
+                  </imprint>
+                  <extent>[4] p., [72] leaves of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/993416143504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Devices (Heraldry) -- Early works to 1800.</term>
+               <term>Nobility -- Italy -- Early works to 1800.</term>
+               <term>Provenance -- Vershbow (Arthur)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/993416143504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
 </teiCorpus>

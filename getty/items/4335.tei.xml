@@ -64,9 +64,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Italy -- Siena -- Early works to 1800.</term>
+               <term>Siena (Italy) -- Description and travel -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/57eb193e-fe83-4bd5-a5ae-3f5eeb65b057/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breve relazione delle cose notabili della città di Siena, ampliata e corretta dal sacerdote Giovacchino Faluschi ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Pecci, Giovanni Antonio, 1693-1768. Relazione delle cose più notabili della città di Siena. 1752.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9920396253506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6x0d5t</idno>
+            <idno>(OCoLC)04685125</idno>
+            <idno type="cico">4335</idno>
+            <idno type="dcl">6wc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Breve relazione delle cose notabili della città di Siena, ampliata e corretta dal sacerdote Giovacchino Faluschi ...</title>
+                  <respStmt>
+                     <persName>Faluschi, Giovacchino.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Siena, F. Rossi</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Siena (Italy)</pubPlace>
+                     <date>1784</date>
+                  </imprint>
+                  <extent>xii, 247 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/4302bb79-22a2-48cc-85b3-02ca5ade2412/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Italy -- Siena -- Early works to 1800.</term>
+               <term>Siena (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4302bb79-22a2-48cc-85b3-02ca5ade2412/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

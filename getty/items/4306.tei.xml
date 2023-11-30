@@ -22,6 +22,63 @@ Toscana</title>, <pubPlace>Bologna</pubPlace> <date>1772</date>, in 8.</bibl>
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Descrizione delle sculture, pitture et architetture della città, e sobborghi di Pescia nella Toscana.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99700693504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/s80q64</idno>
+            <idno>(OCoLC)39944270</idno>
+            <idno type="cico">4306</idno>
+            <idno type="dcl">0kv</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Descrizione delle sculture, pitture et architetture della città, e sobborghi di Pescia nella Toscana.</title>
+                  <respStmt>
+                     <persName>Crespi, Luigi, 1709-1779.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Bologna : Nella stamperìa di S. Tommaso d'Aquino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <pubPlace>Pescia (Italy)</pubPlace>
+                     <date>1772</date>
+                  </imprint>
+                  <extent>64 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99700693504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art -- Italy -- Pescia.</term>
+               <term>Pescia (Italy) -- Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99700693504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Descrizione delle sculture, pitture et architetture della città, e sobborghi di Pescia nella Toscana [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -62,6 +119,13 @@ Toscana</title>, <pubPlace>Bologna</pubPlace> <date>1772</date>, in 8.</bibl>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Art, Italian -- Italy -- Pescia -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d6a36151-0789-4e29-9f4c-de44ee0d31a3/manifest">

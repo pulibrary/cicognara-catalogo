@@ -29,6 +29,64 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
+            <title>Delle statue [microform] / di Gio. Andrea Borboni.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985296863506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/0f9v41</idno>
+            <idno type="cico">271</idno>
+            <idno type="dcl">wbq</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Delle statue [microform] / di Gio. Andrea Borboni.</title>
+                  <respStmt>
+                     <persName>Borboni, Giovanni Andrea.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Nella stamparia di Iacomo Fei d'And. F</publisher>
+                     <pubPlace>Rome (Italy)</pubPlace>
+                     <date>1661</date>
+                  </imprint>
+                  <extent>345, [30] p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3858b473-1185-480a-badb-a25b4fc3e379/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture -- Early works to 1800.</term>
+               <term>Statues -- Early works to 1800.</term>
+               <term>Rome (Italy) -- Monuments -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3858b473-1185-480a-badb-a25b4fc3e379/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>Delle statue / di Gio. Andrea Borboni ...</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -68,58 +126,20 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Sculpture -- Early works to 1800.</term>
+               <term>Statues -- Italy -- Rome.</term>
+               <term>Sculpture</term>
+               <term>Statues</term>
+               <term>Italy -- Rome</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/7a43d5bc-6cbf-43d3-8bea-f905f2da66ff">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Delle statue [microform] / di Gio. Andrea Borboni.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985296863506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/0f9v41</idno>
-            <idno type="cico">271</idno>
-            <idno type="dcl">wbq</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Delle statue [microform] / di Gio. Andrea Borboni.</title>
-                  <respStmt>
-                     <persName>Borboni, Giovanni Andrea.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Roma : Nella stamparia di Iacomo Fei d'And. F</publisher>
-                     <pubPlace>Rome (Italy)</pubPlace>
-                     <date>1661</date>
-                  </imprint>
-                  <extent>345, [30] p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3858b473-1185-480a-badb-a25b4fc3e379/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3858b473-1185-480a-badb-a25b4fc3e379/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

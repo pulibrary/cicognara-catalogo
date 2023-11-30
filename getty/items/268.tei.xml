@@ -30,54 +30,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Researches into the history of playing cards [microform] : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984941933506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/6p4w00</idno>
-            <idno type="cico">268</idno>
-            <idno type="dcl">dc9</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Researches into the history of playing cards [microform] : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
-                  <respStmt>
-                     <persName>Singer, Samuel Weller, 1783-1858.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>English</textLang>
-                  <imprint>
-                     <publisher>London : Printed by T. Bensley and Son for Robert Triphook</publisher>
-                     <date>1816</date>
-                  </imprint>
-                  <extent>xvi, 373 p.</extent>
-                  <extent>7 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99ec66dd-8a3a-4924-ac4f-f4c0197c7ff9/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99ec66dd-8a3a-4924-ac4f-f4c0197c7ff9/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Researches into the history of playing cards : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
             <respStmt>
                <orgName>Harvard Library</orgName>
@@ -116,9 +68,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Playing cards -- History.</term>
+               <term>Tarot cards -- History.</term>
+               <term>Playing cards</term>
+               <term>795 Si64</term>
+               <term>GV1233 .S61</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:481957751">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Researches into the history of playing cards [microform] : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984941933506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/6p4w00</idno>
+            <idno type="cico">268</idno>
+            <idno type="dcl">dc9</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Researches into the history of playing cards [microform] : with illustrations of the origin of printing and engraving on wood / by Samuel Weller Singer.</title>
+                  <respStmt>
+                     <persName>Singer, Samuel Weller, 1783-1858.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London : Printed by T. Bensley and Son for Robert Triphook</publisher>
+                     <date>1816</date>
+                  </imprint>
+                  <extent>xvi, 373 p.</extent>
+                  <extent>7 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/99ec66dd-8a3a-4924-ac4f-f4c0197c7ff9/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cards -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/99ec66dd-8a3a-4924-ac4f-f4c0197c7ff9/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

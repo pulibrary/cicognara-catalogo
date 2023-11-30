@@ -26,55 +26,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Andreae Vesalii Bruxellensis, scholae medicorum Patauinae professoris, De humani corporis fabrica libri septem [microform]</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9984943693506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/m42837</idno>
-            <idno type="cico">366</idno>
-            <idno type="dcl">h2f</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Andreae Vesalii Bruxellensis, scholae medicorum Patauinae professoris, De humani corporis fabrica libri septem [microform]</title>
-                  <respStmt>
-                     <persName>Vesalius, Andreas, 1514-1564.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>Basileae : Ex Officina Ioannis Oporini</publisher>
-                     <date>Anno salutis reparatae 1543 mense Iunio</date>
-                     <date>1543</date>
-                  </imprint>
-                  <extent>659 p.</extent>
-                  <extent>11 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/560ee2da-2e58-4c28-92b1-41d918fd700a/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/560ee2da-2e58-4c28-92b1-41d918fd700a/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Andreae Vesalii Bruxellensis, scholae medicorum Patauinae professoris De humani corporis fabrica libri septem.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -115,9 +66,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Human anatomy -- Early works to 1800.</term>
+               <term>Anatomy.</term>
+               <term>Human anatomy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/69e218bb-30e5-4c0a-94ee-e1616153202b">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andreae Vesalii Bruxellensis, scholae medicorum Patauinae professoris, De humani corporis fabrica libri septem [microform]</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9984943693506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/m42837</idno>
+            <idno type="cico">366</idno>
+            <idno type="dcl">h2f</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Andreae Vesalii Bruxellensis, scholae medicorum Patauinae professoris, De humani corporis fabrica libri septem [microform]</title>
+                  <respStmt>
+                     <persName>Vesalius, Andreas, 1514-1564.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>Basileae : Ex Officina Ioannis Oporini</publisher>
+                     <date>Anno salutis reparatae 1543 mense Iunio</date>
+                     <date>1543</date>
+                  </imprint>
+                  <extent>659 p.</extent>
+                  <extent>11 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/560ee2da-2e58-4c28-92b1-41d918fd700a/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Human anatomy -- Early works to 1800.</term>
+               <term>Medicine -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/560ee2da-2e58-4c28-92b1-41d918fd700a/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

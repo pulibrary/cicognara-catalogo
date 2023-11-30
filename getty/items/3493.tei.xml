@@ -64,9 +64,71 @@ all’Imperatrice di Austria.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822 -- Individual works -- Musa Polinnia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/21118af3-7d16-47ee-ad68-3456cd0704e3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettera sulla statua rappresentante la musa polinnia scolpita dal M. Antonio Canova.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>De Rossi, Giovanni Gherardo, 1754-1827</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991014913504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/9z2b11</idno>
+            <idno>(OCoLC)171103768</idno>
+            <idno type="cico">3493</idno>
+            <idno type="dcl">566</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Lettera sulla statua rappresentante la musa polinnia scolpita dal M. Antonio Canova.</title>
+                  <respStmt>
+                     <persName>Canova, Antonio, 1757-1822.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venezia : Picotti</publisher>
+                     <date>1817</date>
+                  </imprint>
+                  <extent>23 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991014913504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canova, Antonio, 1757-1822. Musa Polinnia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991014913504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

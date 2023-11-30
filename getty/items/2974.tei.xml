@@ -25,54 +25,6 @@ impressione.</note> </bibl>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Nouvelles recherches sur la science des médailles, inscriptions, et hiéroglyphes antiques. Par M. Poinsinet de Sivry ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Grand Duchal Library Neustrelitz former owner.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_996529403506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/7v5f39</idno>
-            <idno>(OCoLC)5542435</idno>
-            <idno type="cico">2974</idno>
-            <idno type="dcl">5pc</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Nouvelles recherches sur la science des médailles, inscriptions, et hiéroglyphes antiques. Par M. Poinsinet de Sivry ...</title>
-                  <respStmt>
-                     <persName>Poinsinet de Sivry, Louis, 1733-1804.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Maestricht, J. E. Dufour &amp; P. Roux</publisher>
-                     <date>1778</date>
-                  </imprint>
-                  <extent>vi, 189, [1] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/07316a59-01ba-421d-a817-c5c801d07a9b/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/07316a59-01ba-421d-a817-c5c801d07a9b/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Nouvelles recherches sur la science des médailles, inscriptions, et hiéroglyphes antiques [microform] / par M. Poinsinet de Sivry ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -111,9 +63,78 @@ impressione.</note> </bibl>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Alphabets -- Early works to 1800.</term>
+               <term>Egyptian language -- Inscriptions -- Early works to 1800.</term>
+               <term>Inscriptions, Greek -- Early works to 1800.</term>
+               <term>Medals, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/bb8199f0-f6b8-4f77-bc69-f1c739e3a382/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nouvelles recherches sur la science des médailles, inscriptions, et hiéroglyphes antiques. Par M. Poinsinet de Sivry ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Grand Duchal Library Neustrelitz former owner.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_996529403506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/7v5f39</idno>
+            <idno>(OCoLC)5542435</idno>
+            <idno type="cico">2974</idno>
+            <idno type="dcl">5pc</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Nouvelles recherches sur la science des médailles, inscriptions, et hiéroglyphes antiques. Par M. Poinsinet de Sivry ...</title>
+                  <respStmt>
+                     <persName>Poinsinet de Sivry, Louis, 1733-1804.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Maestricht, J. E. Dufour &amp; P. Roux</publisher>
+                     <date>1778</date>
+                  </imprint>
+                  <extent>vi, 189, [1] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/07316a59-01ba-421d-a817-c5c801d07a9b/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals, Ancient.</term>
+               <term>Inscriptions, Greek.</term>
+               <term>Inscriptions, Egyptian.</term>
+               <term>Alphabets.</term>
+               <term>CJ5595 .P7</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/07316a59-01ba-421d-a817-c5c801d07a9b/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

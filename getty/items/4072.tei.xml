@@ -24,53 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Notizia della scoperta fatta in Padova d'un ponte antico con una romana iscrizione.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Polcastro, Giandomenico, conte, 1710-1787.</authority>
-            <authority>Stratico, Simone, 1733-1824.</authority>
-            <authority>Andreosi, Jo. Bapt.</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9954761113506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/cs050m</idno>
-            <idno>(OCoLC)32830591</idno>
-            <idno type="cico">4072</idno>
-            <idno type="dcl">g5w</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Notizia della scoperta fatta in Padova d'un ponte antico con una romana iscrizione.</title>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Padova, Appresso G. Comino</publisher>
-                     <pubPlace>Italy</pubPlace>
-                     <date>1773</date>
-                  </imprint>
-                  <extent>xxxvi p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0b3e9e7d-d314-47a9-86f4-f569e339fd16/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0b3e9e7d-d314-47a9-86f4-f569e339fd16/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Notizia della scoperta fatta in Padova d'un ponte antico con una romana iscrizione [microform].</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -110,9 +63,71 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bridges -- Early works to 1800.</term>
+               <term>Bridges -- Italy -- Padua -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9b7478e3-21a3-44f5-846b-ec4c700d0d6f/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notizia della scoperta fatta in Padova d'un ponte antico con una romana iscrizione.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Polcastro, Giandomenico, conte, 1710-1787.</authority>
+            <authority>Stratico, Simone, 1733-1824.</authority>
+            <authority>Andreosi, Jo. Bapt.</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9954761113506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/cs050m</idno>
+            <idno>(OCoLC)32830591</idno>
+            <idno type="cico">4072</idno>
+            <idno type="dcl">g5w</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Notizia della scoperta fatta in Padova d'un ponte antico con una romana iscrizione.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Padova, Appresso G. Comino</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>xxxvi p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/0b3e9e7d-d314-47a9-86f4-f569e339fd16/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bridges -- Italy -- Padua -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/0b3e9e7d-d314-47a9-86f4-f569e339fd16/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

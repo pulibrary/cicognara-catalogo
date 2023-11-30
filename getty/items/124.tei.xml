@@ -25,56 +25,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dialoghi familiari sopra la pittura : difesa, ed esaltata / dal P. Fedele da S. Biagio pittore cappucino col sig. avvocato D. Pio Onorato Palermitano ; alla presenza de'suoi allievi nella bell'arte ...</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Onorato, Pio.</authority>
-            <idno type="URI">http://portal.getty.edu/books/gri_9922670140001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/2s6k7f</idno>
-            <idno>(OCoLC)79426512</idno>
-            <idno type="cico">124</idno>
-            <idno type="dcl">g5b</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dialoghi familiari sopra la pittura : difesa, ed esaltata / dal P. Fedele da S. Biagio pittore cappucino col sig. avvocato D. Pio Onorato Palermitano ; alla presenza de'suoi allievi nella bell'arte ...</title>
-                  <respStmt>
-                     <persName>Fedele, da San Biagio, padre, 1717-1801.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Palermo : Per D. Antonio Valenza</publisher>
-                     <pubPlace>Italy Palermo.</pubPlace>
-                     <date>[1788]</date>
-                     <date>1788</date>
-                  </imprint>
-                  <extent>XVI, 280 p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/231abcb2-5ff2-4b4d-a361-bd27e2735e60"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/231abcb2-5ff2-4b4d-a361-bd27e2735e60">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dialoghi familiari sopra la pittura [microform] / difesa, ed esaltata dal P. Fedele da S. Biagio pittore cappucino col sig. avvocato D. Pio Onorato Palermitano alla presenza de' suoi allievi nella bell'arte ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +64,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d70217c8-c667-41b4-861c-24de2607bbf3/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialoghi familiari sopra la pittura : difesa, ed esaltata / dal P. Fedele da S. Biagio pittore cappucino col sig. avvocato D. Pio Onorato Palermitano ; alla presenza de'suoi allievi nella bell'arte ...</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Onorato, Pio.</authority>
+            <idno type="URI">http://portal.getty.edu/books/gri_9922670140001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/2s6k7f</idno>
+            <idno>(OCoLC)79426512</idno>
+            <idno type="cico">124</idno>
+            <idno type="dcl">g5b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialoghi familiari sopra la pittura : difesa, ed esaltata / dal P. Fedele da S. Biagio pittore cappucino col sig. avvocato D. Pio Onorato Palermitano ; alla presenza de'suoi allievi nella bell'arte ...</title>
+                  <respStmt>
+                     <persName>Fedele, da San Biagio, padre, 1717-1801.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Palermo : Per D. Antonio Valenza</publisher>
+                     <pubPlace>Italy Palermo.</pubPlace>
+                     <date>[1788]</date>
+                     <date>1788</date>
+                  </imprint>
+                  <extent>XVI, 280 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/231abcb2-5ff2-4b4d-a361-bd27e2735e60"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painting.</term>
+               <term>ND619.S5 F44 1788</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/231abcb2-5ff2-4b4d-a361-bd27e2735e60">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

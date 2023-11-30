@@ -27,54 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dissertation sur les ouvrages des plus fameux peintres.</title>
-            <respStmt>
-               <orgName>Getty Research Institute</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9925265090001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/4b179r</idno>
-            <idno>(OCoLC)16085154</idno>
-            <idno type="cico">180</idno>
-            <idno type="dcl">mrk</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Dissertation sur les ouvrages des plus fameux peintres.</title>
-                  <respStmt>
-                     <persName>Piles, Roger de, 1635-1709.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>A Paris : Chez Nicolas Langlois</publisher>
-                     <date>[1681]</date>
-                     <date>1681</date>
-                  </imprint>
-                  <extent>140, [4], 38, [2] p.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d5a05e86-882c-4b56-9fd4-56acd781a5fc"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d5a05e86-882c-4b56-9fd4-56acd781a5fc">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Dissertation sur les ouvrages des plus fameux peintres .. [microform]</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -115,6 +67,15 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Richelieu, Armand Jean du Plessis, duc de, 1585-1642 -- Art collections.</term>
+               <term>Rubens, Peter Paul, 1577-1640.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/46709da0-2d24-4bf8-b390-4a73fc1300ac/manifest">
@@ -126,7 +87,67 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dialogue sur le coloris.</title>
+            <title>Dissertation sur les ouvrages des plus fameux peintres ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Piles, Roger de, 1635-1709. Cabinet de monseigneur le duc de Richelieu. 1681.</authority>
+            <authority>Piles, Roger de, 1635-1709. Vie de Rubens. 1681.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786223504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/5x558d</idno>
+            <idno>(OCoLC)171103506</idno>
+            <idno type="cico">180</idno>
+            <idno type="dcl">mrk</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dissertation sur les ouvrages des plus fameux peintres ...</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris : Chez Nicolas Langois, rue S. Jacques, à la Victoire</publisher>
+                     <pubPlace>France</pubPlace>
+                     <date>1681</date>
+                  </imprint>
+                  <extent>140, 38, [6] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99786223504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rubens, Peter Paul, 1577-1640.</term>
+               <term>Richelieu, Armand Jean du Plessis, duc de, 1585-1642 -- Art collections.</term>
+               <term>Private collections -- France -- Paris -- Catalogs.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99786223504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dissertation sur les ouvrages des plus fameux peintres.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
@@ -137,16 +158,16 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9928979620001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/5g266d</idno>
-            <idno>(OCoLC)11886171</idno>
+            <idno type="URI">http://portal.getty.edu/books/gri_9925265090001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/4b179r</idno>
+            <idno>(OCoLC)16085154</idno>
             <idno type="cico">180</idno>
-            <idno type="dcl">kc0</idno>
+            <idno type="dcl">mrk</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Dialogue sur le coloris.</title>
+                  <title>Dissertation sur les ouvrages des plus fameux peintres.</title>
                   <respStmt>
                      <persName>Piles, Roger de, 1635-1709.</persName>
                      <resp>creator</resp>
@@ -154,17 +175,34 @@
                   <textLang>French</textLang>
                   <imprint>
                      <publisher>A Paris : Chez Nicolas Langlois</publisher>
-                     <date>1699</date>
+                     <date>[1681]</date>
+                     <date>1681</date>
                   </imprint>
-                  <extent>[2], 70, [2] p.</extent>
+                  <extent>140, [4], 38, [2] p.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ba3ac3bb-30ae-4de8-b968-c7f6a72c0f3f"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/d5a05e86-882c-4b56-9fd4-56acd781a5fc"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Richelieu, Armand Jean du Plessis, duc de, 1585-1642 -- Art collections.</term>
+               <term>Rubens, Peter Paul, 1577-1640</term>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Painters -- Biography -- Early works to 1800.</term>
+               <term>Richelieu, Armand Jean du Plessis, duc de, 1585-1642</term>
+               <term>Rubens, Peter Paul, 1577-1640</term>
+               <term>Art -- Private collections</term>
+               <term>Painters</term>
+               <term>Painting</term>
+               <term>ND1130 .P55 1681</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ba3ac3bb-30ae-4de8-b968-c7f6a72c0f3f">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d5a05e86-882c-4b56-9fd4-56acd781a5fc">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -210,9 +248,129 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Color -- Early works to 1800.</term>
+               <term>Painting -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1ca218ff-7135-4358-9831-8163018646d9/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogue sur le coloris [Pamphile &amp; Damon]</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786213504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/d89t17</idno>
+            <idno>(OCoLC)973438085</idno>
+            <idno type="cico">180</idno>
+            <idno type="dcl">kc0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogue sur le coloris [Pamphile &amp; Damon]</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Nicolas Langlois</publisher>
+                     <date>1699</date>
+                  </imprint>
+                  <extent>[2], 70, [2] p. (the last [2] p. blank)</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99786213504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painting -- Early works to 1800.</term>
+               <term>Color -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99786213504896.json">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialogue sur le coloris.</title>
+            <respStmt>
+               <orgName>Getty Research Institute</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/gri_9928979620001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/5g266d</idno>
+            <idno>(OCoLC)11886171</idno>
+            <idno type="cico">180</idno>
+            <idno type="dcl">kc0</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Dialogue sur le coloris.</title>
+                  <respStmt>
+                     <persName>Piles, Roger de, 1635-1709.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>A Paris : Chez Nicolas Langlois</publisher>
+                     <date>1699</date>
+                  </imprint>
+                  <extent>[2], 70, [2] p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/ba3ac3bb-30ae-4de8-b968-c7f6a72c0f3f"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Color -- Early works to 1800.</term>
+               <term>Painting -- Technique -- Early works to 1800.</term>
+               <term>Color</term>
+               <term>Painting -- Technique</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/ba3ac3bb-30ae-4de8-b968-c7f6a72c0f3f">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

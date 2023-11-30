@@ -25,55 +25,6 @@ elementari.</note>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Introduzione alla storia della pratica delle medaglie [microform] / di Carlo Pattino ; tradotta dal Francese da Constantin Belli ...</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985410123506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/920s2d</idno>
-            <idno type="cico">2963</idno>
-            <idno type="dcl">c5s</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Introduzione alla storia della pratica delle medaglie [microform] / di Carlo Pattino ; tradotta dal Francese da Constantin Belli ...</title>
-                  <respStmt>
-                     <persName>Patin, Charles, 1633-1693.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>Venetia : Presso Gio. Giacomo Herz</publisher>
-                     <date>1673</date>
-                  </imprint>
-                  <extent>168 p.</extent>
-                  <extent>3 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9d8a9878-dd15-43ef-a744-fc4e20bd45a0/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9d8a9878-dd15-43ef-a744-fc4e20bd45a0/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Introdvzione alla storia della pratica delle medaglie / di Carlo Pattino ; tradotta dal Francese da Constantin Belli ; all'illust.mo &amp; Eccell.mo signor Nicolo Michiel.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -112,9 +63,80 @@ elementari.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- Early works to 1800.</term>
+               <term>Numismatics.</term>
+               <term>Medals.</term>
+               <term>Numismatics.</term>
+               <term>CJ5538 .P38 1673</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/95d3f063-8a42-4b2d-96d0-fceec9ddad51">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Introduzione alla storia della pratica delle medaglie [microform] / di Carlo Pattino ; tradotta dal Francese da Constantin Belli ...</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985410123506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/920s2d</idno>
+            <idno type="cico">2963</idno>
+            <idno type="dcl">c5s</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Introduzione alla storia della pratica delle medaglie [microform] / di Carlo Pattino ; tradotta dal Francese da Constantin Belli ...</title>
+                  <respStmt>
+                     <persName>Patin, Charles, 1633-1693.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>Venetia : Presso Gio. Giacomo Herz</publisher>
+                     <date>1673</date>
+                  </imprint>
+                  <extent>168 p.</extent>
+                  <extent>3 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/9d8a9878-dd15-43ef-a744-fc4e20bd45a0/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- History.</term>
+               <term>Medals, Ancient.</term>
+               <term>Medals, Greek -- Early works to 1800.</term>
+               <term>Medals, Roman -- Early works to 1800.</term>
+               <term>Numismatics -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9d8a9878-dd15-43ef-a744-fc4e20bd45a0/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -161,96 +183,20 @@ elementari.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- History.</term>
+               <term>Medals, Ancient.</term>
+               <term>Medals, Greek -- Early works to 1800.</term>
+               <term>Medals, Roman -- Early works to 1800.</term>
+               <term>Numismatics -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/74ebf520-609e-4dd9-ab9b-05d5409ab4ae/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Caroli Patini ... Introductio ad historiam numismatum: Antehâc Gallicè bis edita ; Nunc Latinè versa, &amp; novis accessionibus locupletata</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Patin, Charles, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-290781</idno>
-            <idno type="URI">http://portal.getty.edu/api/pn8b3t</idno>
-            <idno type="cico">2963</idno>
-            <idno type="dcl">206</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Caroli Patini ... Introductio ad historiam numismatum: Antehâc Gallicè bis edita ; Nunc Latinè versa, &amp; novis accessionibus locupletata</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1683</date>
-                     <date>1683</date>
-                  </imprint>
-                  <extent>[6] Bl., 251, [1] S.</extent>
-                  <extent>Ill.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/patin1683/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/patin1683/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Josephi Mariae Suaresii ... De numismatis &amp; nummis antiquis dissertatio</title>
-            <respStmt>
-               <orgName>Heidelberg University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Suarès, Joseph Marie, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-290798</idno>
-            <idno type="URI">http://portal.getty.edu/api/9v8t4m</idno>
-            <idno type="cico">2963</idno>
-            <idno type="dcl">b8j</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Josephi Mariae Suaresii ... De numismatis &amp; nummis antiquis dissertatio</title>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <date>1683</date>
-                     <date>1683</date>
-                  </imprint>
-                  <extent>[4] Bl., 49, [2] S.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/suares1683/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/suares1683/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -297,6 +243,14 @@ elementari.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Numismatics -- Early works to 1800.</term>
+               <term>Numismatics, Ancient.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9c42c2e5-e19c-49a0-a228-6aefc0ab1da5/manifest">
@@ -346,6 +300,17 @@ elementari.</note>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Medals -- History.</term>
+               <term>Medals, Ancient.</term>
+               <term>Medals, Greek -- Early works to 1800.</term>
+               <term>Medals, Roman -- Early works to 1800.</term>
+               <term>Numismatics -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/e3344d42-b4cd-405c-8b45-d485ae0cef83/manifest">

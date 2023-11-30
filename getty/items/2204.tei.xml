@@ -23,55 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vita di Antonio Franchi Lucchese, pittor fiorentino [microform] / scritta da Sebastiano Benedetto Bartolozzi.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985449853506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/tq7p9c</idno>
-            <idno type="cico">2204</idno>
-            <idno type="dcl">wnn</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Vita di Antonio Franchi Lucchese, pittor fiorentino [microform] / scritta da Sebastiano Benedetto Bartolozzi.</title>
-                  <respStmt>
-                     <persName>Bartolozzi, Sebastiano Benedetto.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Italian</textLang>
-                  <imprint>
-                     <publisher>In Firenze : Per Gaetano Albizzini</publisher>
-                     <date>1754</date>
-                  </imprint>
-                  <extent>XXVI p.</extent>
-                  <extent>1 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1fa191b9-5471-4343-8d32-26e2063e8ba2/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1fa191b9-5471-4343-8d32-26e2063e8ba2/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Vita di Antonio Franchi Lucchese, pittor fiorentino / scritta da Sebastiano Benedetto Bartolozzi.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -112,9 +63,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Franchi, Antonio, 1638-1709.</term>
+               <term>Painters -- Italy -- Florence -- Biography -- Early works to 1800.</term>
+               <term>Franchi, Antonio, 1638-1709</term>
+               <term>Painters.</term>
+               <term>Italy -- Florence</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/7cb9ec98-8930-40ac-8d68-2d619c62a573">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vita di Antonio Franchi Lucchese, pittor fiorentino [microform] / scritta da Sebastiano Benedetto Bartolozzi.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985449853506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/tq7p9c</idno>
+            <idno type="cico">2204</idno>
+            <idno type="dcl">wnn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Vita di Antonio Franchi Lucchese, pittor fiorentino [microform] / scritta da Sebastiano Benedetto Bartolozzi.</title>
+                  <respStmt>
+                     <persName>Bartolozzi, Sebastiano Benedetto.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Firenze : Per Gaetano Albizzini</publisher>
+                     <date>1754</date>
+                  </imprint>
+                  <extent>XXVI p.</extent>
+                  <extent>1 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/1fa191b9-5471-4343-8d32-26e2063e8ba2/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Franchi, Antonio, 1638-1709.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/1fa191b9-5471-4343-8d32-26e2063e8ba2/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

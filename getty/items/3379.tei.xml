@@ -22,9 +22,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein .. [microform].</title>
+            <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein ... etc.</title>
             <respStmt>
-               <orgName>Princeton University Library</orgName>
+               <orgName>National Gallery of Art Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -33,36 +33,38 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985418303506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/mj3087</idno>
+            <idno type="URI">http://portal.getty.edu/books/nga_99786533504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/qx0n7x</idno>
+            <idno>(OCoLC)171103500</idno>
             <idno type="cico">3379</idno>
             <idno type="dcl">164</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein .. [microform].</title>
-                  <respStmt>
-                     <persName>Franz Joseph, Prince of Liechtenstein, 1726-1781.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
+                  <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein ... etc.</title>
                   <textLang>French</textLang>
                   <imprint>
                      <publisher>Vienne : Chez Jean Thom, nob. de Trattnern</publisher>
                      <date>1780</date>
                   </imprint>
                   <extent>268 p.</extent>
-                  <extent>5 microfiche : positive.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d6d7cac0-8559-4783-b4cf-2de432ad6cd6/manifest"/>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99786533504896.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Franz Joseph I, Prince of Liechtenstein, 1726-1781 -- Art collections -- Catalogs.</term>
+               <term>Private collections -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d6d7cac0-8559-4783-b4cf-2de432ad6cd6/manifest">
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99786533504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -110,9 +112,80 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Franz Joseph I, Prince of Liechtenstein, 1726-1781 -- Art collections -- Catalogs.</term>
+               <term>Fürstlich Liechtensteinsche Gemäldegalerie (Vienna, Austria) -- Catalogs.</term>
+               <term>Art -- Private collections -- Liechtenstein -- Vaduz -- Catalogs.</term>
+               <term>Franz Joseph I, Prince of Liechtenstein, 1726-1781</term>
+               <term>Fürstlich Liechtensteinsche Gemäldegalerie (Vienna, Austria)</term>
+               <term>Art -- Private collections.</term>
+               <term>Liechtenstein -- Vaduz.</term>
+               <term>708.364/8</term>
+               <term>N5280.L52 L54 1780</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/1b5ea6e7-b629-40df-adfb-b49c1b42922f">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein .. [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985418303506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/mj3087</idno>
+            <idno type="cico">3379</idno>
+            <idno type="dcl">164</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Description des tableaux, et des piéces de sculpture, que renferme la gallerie de Son Altesse François Joseph, chef et prince regnant de la maison de Liechtenstein .. [microform].</title>
+                  <respStmt>
+                     <persName>Franz Joseph, Prince of Liechtenstein, 1726-1781.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Vienne : Chez Jean Thom, nob. de Trattnern</publisher>
+                     <date>1780</date>
+                  </imprint>
+                  <extent>268 p.</extent>
+                  <extent>5 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d6d7cac0-8559-4783-b4cf-2de432ad6cd6/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Franz Joseph, Prince of Liechtenstein, 1726-1781 -- Art collections -- Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d6d7cac0-8559-4783-b4cf-2de432ad6cd6/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

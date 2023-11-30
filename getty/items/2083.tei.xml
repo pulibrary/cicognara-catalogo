@@ -31,9 +31,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Impostures innocentes, ou, Recueil d'estampes d'apres divers peintres illustres : tels que Rafael, Le Guide, Carlo Maratti, Le Poussin, Rembrandt, &amp;c. gravées à leur imitation, &amp; selon le gout particulier de chacun d'eux, &amp; accompagnées d'un discours sur les préjugés de certains curieux touchant la gravure / par Bernard Picart, dessinateur et graveur : avec son Eloge historique et le Catalogue de ses ouvrages.</title>
+            <title>Impostures innocentes, ou Recueil d'estampes d'après divers peintres illustres: tels que Rafael, le guide, Carlo Maratti ...</title>
             <respStmt>
-               <orgName>Getty Research Institute</orgName>
+               <orgName>Heidelberg University Library</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -42,36 +42,40 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <idno type="URI">http://portal.getty.edu/books/gri_9923877810001551</idno>
-            <idno type="URI">http://portal.getty.edu/api/md6g70</idno>
-            <idno>(OCoLC)43124620</idno>
+            <authority>Picart, Bernard, Author</authority>
+            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-80014</idno>
+            <idno type="URI">http://portal.getty.edu/api/9d5r21</idno>
             <idno type="cico">2083</idno>
             <idno type="dcl">g8c</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Impostures innocentes, ou, Recueil d'estampes d'apres divers peintres illustres : tels que Rafael, Le Guide, Carlo Maratti, Le Poussin, Rembrandt, &amp;c. gravées à leur imitation, &amp; selon le gout particulier de chacun d'eux, &amp; accompagnées d'un discours sur les préjugés de certains curieux touchant la gravure / par Bernard Picart, dessinateur et graveur : avec son Eloge historique et le Catalogue de ses ouvrages.</title>
-                  <respStmt>
-                     <persName>Picart, Bernard, 1673-1733</persName>
-                     <resp>creator</resp>
-                  </respStmt>
+                  <title>Impostures innocentes, ou Recueil d'estampes d'après divers peintres illustres: tels que Rafael, le guide, Carlo Maratti ...</title>
                   <textLang>French</textLang>
                   <imprint>
-                     <publisher>A Amsterdam : Chez la veuve de Bernard Picart</publisher>
-                     <pubPlace>France.</pubPlace>
-                     <date>M. DCC. XXXIV. [1734]</date>
+                     <date>1734</date>
                      <date>1734</date>
                   </imprint>
-                  <extent>[2], 10, [2], 12, 8 pages, [66] leaves of plates</extent>
+                  <extent>12, 8 S., [66] Bl.</extent>
+                  <extent>Ill.</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/33295e30-52c7-42dc-a028-e205d67680ae"/>
+               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/picart1734/manifest.json"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Cicognara</term>
+               <term>Parte Prima</term>
+               <term>Biblie figurate, Vite istoriate, Collezioni di Ritratti antiche e moderne, ed altre Opere figurate di vario genere</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/33295e30-52c7-42dc-a028-e205d67680ae">
+      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/picart1734/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
@@ -117,6 +121,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Picart, Bernard, 1673-1733.</term>
+               <term>Engraving, Dutch -- 17th-18th centuries.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/b58dbf61-26e0-4cef-8456-2faa9a069af7/manifest">
@@ -128,9 +140,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Impostures innocentes, ou Recueil d'estampes d'après divers peintres illustres: tels que Rafael, le guide, Carlo Maratti ...</title>
+            <title>Impostures innocentes, ou, Recueil d'estampes d'apres divers peintres illustres : tels que Rafael, Le Guide, Carlo Maratti, Le Poussin, Rembrandt, &amp;c. gravées à leur imitation, &amp; selon le gout particulier de chacun d'eux, &amp; accompagnées d'un discours sur les préjugés de certains curieux touchant la gravure / par Bernard Picart, dessinateur et graveur : avec son Eloge historique et le Catalogue de ses ouvrages.</title>
             <respStmt>
-               <orgName>Heidelberg University Library</orgName>
+               <orgName>Getty Research Institute</orgName>
                <resp>contributor</resp>
             </respStmt>
          </titleStmt>
@@ -139,31 +151,49 @@
                <orgName>Digital Cicognara Library</orgName>
                <ref>https://cicognara.org/</ref>
             </publisher>
-            <authority>Picart, Bernard, Author</authority>
-            <idno type="URI">http://portal.getty.edu/books/uh_urn:nbn:de:bsz:16-diglit-80014</idno>
-            <idno type="URI">http://portal.getty.edu/api/9d5r21</idno>
+            <idno type="URI">http://portal.getty.edu/books/gri_9923877810001551</idno>
+            <idno type="URI">http://portal.getty.edu/api/md6g70</idno>
+            <idno>(OCoLC)43124620</idno>
             <idno type="cico">2083</idno>
             <idno type="dcl">g8c</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>Impostures innocentes, ou Recueil d'estampes d'après divers peintres illustres: tels que Rafael, le guide, Carlo Maratti ...</title>
+                  <title>Impostures innocentes, ou, Recueil d'estampes d'apres divers peintres illustres : tels que Rafael, Le Guide, Carlo Maratti, Le Poussin, Rembrandt, &amp;c. gravées à leur imitation, &amp; selon le gout particulier de chacun d'eux, &amp; accompagnées d'un discours sur les préjugés de certains curieux touchant la gravure / par Bernard Picart, dessinateur et graveur : avec son Eloge historique et le Catalogue de ses ouvrages.</title>
+                  <respStmt>
+                     <persName>Picart, Bernard, 1673-1733</persName>
+                     <resp>creator</resp>
+                  </respStmt>
                   <textLang>French</textLang>
                   <imprint>
-                     <date>1734</date>
+                     <publisher>A Amsterdam : Chez la veuve de Bernard Picart</publisher>
+                     <pubPlace>France.</pubPlace>
+                     <date>M. DCC. XXXIV. [1734]</date>
                      <date>1734</date>
                   </imprint>
-                  <extent>12, 8 S., [66] Bl.</extent>
-                  <extent>Ill.</extent>
+                  <extent>[2], 10, [2], 12, 8 pages, [66] leaves of plates</extent>
                </monogr>
-               <relatedItem type="manifest" target="https://digi.ub.uni-heidelberg.de/diglit/iiif/picart1734/manifest.json"/>
+               <relatedItem type="manifest" target="https://media.getty.edu/iiif/manifest/33295e30-52c7-42dc-a028-e205d67680ae"/>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Picart, Bernard, 1673-1733 -- Catalogs.</term>
+               <term>Painting, European.</term>
+               <term>Picart, Bernard, 1673-1733</term>
+               <term>Engraving.</term>
+               <term>Painting, European.</term>
+               <term>France.</term>
+               <term>NE670.P53 A5 1734</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
-      <media mimeType="application/json" url="https://digi.ub.uni-heidelberg.de/diglit/iiif/picart1734/manifest.json">
+      <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/33295e30-52c7-42dc-a028-e205d67680ae">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

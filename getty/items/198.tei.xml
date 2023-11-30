@@ -65,9 +65,81 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Dufresnoy, Charles-Alphonse, 1611-1668. De arte graphica.</term>
+               <term>Art.</term>
+               <term>Painters.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/48f3a01a-3037-4903-8524-81504ee7dd84/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The works of Sir Joshua Reynolds, knight ... containing his Discourses, Idlers, A journey to Flanders and Holland, and his commentary on Du Fresnoy's art of painting; printed from his revised copies, (with his last corrections.) ... To which is prefixed an account of the life and writings of the author, by Edmund Malone, esq. ...</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Malone, Edmond, 1741-1812</authority>
+            <authority>Gray, Thomas, 1716-1771</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_99850083504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/0f627h</idno>
+            <idno>(OCoLC)06672793</idno>
+            <idno type="cico">198</idno>
+            <idno type="dcl">s51</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>The works of Sir Joshua Reynolds, knight ... containing his Discourses, Idlers, A journey to Flanders and Holland, and his commentary on Du Fresnoy's art of painting; printed from his revised copies, (with his last corrections.) ... To which is prefixed an account of the life and writings of the author, by Edmund Malone, esq. ...</title>
+                  <respStmt>
+                     <persName>Reynolds, Joshua, Sir, 1723-1792.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>English</textLang>
+                  <imprint>
+                     <publisher>London, Printed for T. Cadell, jun. and W. Davies</publisher>
+                     <pubPlace>Flanders</pubPlace>
+                     <pubPlace>Netherlands</pubPlace>
+                     <date>1801</date>
+                  </imprint>
+                  <extent>3 v.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/99850083504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Du Fresnoy, Charles Alphonse, 1611-1665. De arte graphica.</term>
+               <term>Art</term>
+               <term>Painters</term>
+               <term>Flanders -- Description and travel.</term>
+               <term>Netherlands -- Description and travel</term>
+               <term>N27 .R25 1801</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/99850083504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

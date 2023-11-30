@@ -23,55 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Prognosticatio eximii doctoris Theophrasti Paracelsi [microform].</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985338393506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/4b1s9t</idno>
-            <idno type="cico">1928</idno>
-            <idno type="dcl">szd</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Prognosticatio eximii doctoris Theophrasti Paracelsi [microform].</title>
-                  <respStmt>
-                     <persName>Paracelsus, 1493-1541.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[S.l. : s.n]</publisher>
-                     <date>[1536]</date>
-                     <date>1536</date>
-                  </imprint>
-                  <extent>[8], [6] p., [32] leaves of plates</extent>
-                  <extent>2 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d1d470e9-ff73-47f3-b549-4034aba4042d/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d1d470e9-ff73-47f3-b549-4034aba4042d/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Prognosticatio eximii doctoris Theophrasti Paracelsi.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -110,9 +61,76 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Prophecies (Occultism) -- Early works to 1800.</term>
+               <term>Paracelsus, 1493-1541.</term>
+               <term>Paracelsus, 1493-1541</term>
+               <term>Prophecies (Occultism)</term>
+               <term>BF1815.P37 P76 1500z</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/46e4bbf6-038f-483e-bf70-a1fd95ebdcad">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prognosticatio eximii doctoris Theophrasti Paracelsi [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985338393506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/4b1s9t</idno>
+            <idno type="cico">1928</idno>
+            <idno type="dcl">szd</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Prognosticatio eximii doctoris Theophrasti Paracelsi [microform].</title>
+                  <respStmt>
+                     <persName>Paracelsus, 1493-1541.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[S.l. : s.n]</publisher>
+                     <date>[1536]</date>
+                     <date>1536</date>
+                  </imprint>
+                  <extent>[8], [6] p., [32] leaves of plates</extent>
+                  <extent>2 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/d1d470e9-ff73-47f3-b549-4034aba4042d/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Prophecies (Occultism) -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d1d470e9-ff73-47f3-b549-4034aba4042d/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

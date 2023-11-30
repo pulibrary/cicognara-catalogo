@@ -60,9 +60,72 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Italy -- Messina -- Biography -- Early works to 1800.</term>
+               <term>Painting, Italian -- Italy -- Messina -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/4d5a1641-e08d-40a0-b14a-1a381c25d2f1/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorie de' pittori messinesi.</title>
+            <respStmt>
+               <orgName>National Gallery of Art Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Grano, Gaetano.</authority>
+            <authority>Hackert, Philipp, 1737-1807.</authority>
+            <idno type="URI">http://portal.getty.edu/books/nga_991123053504896</idno>
+            <idno type="URI">http://portal.getty.edu/api/735h2w</idno>
+            <idno>(OCoLC)77694477</idno>
+            <idno type="cico">2320</idno>
+            <idno type="dcl">t2b</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Memorie de' pittori messinesi.</title>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>[Napoli : Nella stamperia Regale]</publisher>
+                     <pubPlace>Italy</pubPlace>
+                     <date>[1792]</date>
+                     <date>1792</date>
+                  </imprint>
+                  <extent>72 p.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libraryimage.nga.gov/manifest/mms/991123053504896.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Painters -- Italy -- Messina -- Biography -- Early works to 1800.</term>
+               <term>Painting, Italian -- Italy -- Messina -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libraryimage.nga.gov/manifest/mms/991123053504896.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

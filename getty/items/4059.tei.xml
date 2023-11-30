@@ -23,57 +23,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Onuphrii Panuinii Veronensis Antiquitatum Veronensium libri VIII [microform] : nunc primum in lucem editi variisq[ue] iconibus et antiquis inscriptionibus locupletati.</title>
-            <respStmt>
-               <orgName>Princeton University Library</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Clodius, Marcus Antonius.</authority>
-            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
-            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
-            <idno type="URI">http://portal.getty.edu/books/princeton_9985441103506421</idno>
-            <idno type="URI">http://portal.getty.edu/api/k41g96</idno>
-            <idno type="cico">4059</idno>
-            <idno type="dcl">8gj</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Onuphrii Panuinii Veronensis Antiquitatum Veronensium libri VIII [microform] : nunc primum in lucem editi variisq[ue] iconibus et antiquis inscriptionibus locupletati.</title>
-                  <respStmt>
-                     <persName>Panvinio, Onofrio, 1529-1568.</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>Latin</textLang>
-                  <imprint>
-                     <publisher>[Padua] : Typis Pauli Frambotti</publisher>
-                     <pubPlace>Verona (Italy)</pubPlace>
-                     <date>1648</date>
-                  </imprint>
-                  <extent>244 p.</extent>
-                  <extent>6 microfiche : positive.</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3dea5b56-b4d2-42c5-8c9f-295a9c4c339c/manifest"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3dea5b56-b4d2-42c5-8c9f-295a9c4c339c/manifest">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Onuphrii Panuinii Veronensis Antiquitatum Veronensium libri VIII : nunc primum in lucem editi variisq[ue] iconibus et antiquis inscriptionibus locupletati.</title>
             <respStmt>
                <orgName>Getty Research Institute</orgName>
@@ -116,9 +65,84 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture, Roman -- Italy -- Verona -- Early works to 1800.</term>
+               <term>Inscriptions, Latin -- Italy -- Verona -- Early works to 1800.</term>
+               <term>Verona (Italy) -- Antiquities, Roman -- Early works to 1800.</term>
+               <term>Verona (Italy) -- History.</term>
+               <term>Verona (Italy) -- Biography -- Early works to 1800.</term>
+               <term>Architecture, Roman.</term>
+               <term>Classical antiquities.</term>
+               <term>Inscriptions, Latin.</term>
+               <term>Italy -- Verona.</term>
+               <term>DG70.V35 P36 1648</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://media.getty.edu/iiif/manifest/d7cfa08e-fa41-4466-b2b6-43d13ace25e3">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Onuphrii Panuinii Veronensis Antiquitatum Veronensium libri VIII [microform] : nunc primum in lucem editi variisq[ue] iconibus et antiquis inscriptionibus locupletati.</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Clodius, Marcus Antonius.</authority>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985441103506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/k41g96</idno>
+            <idno type="cico">4059</idno>
+            <idno type="dcl">8gj</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Onuphrii Panuinii Veronensis Antiquitatum Veronensium libri VIII [microform] : nunc primum in lucem editi variisq[ue] iconibus et antiquis inscriptionibus locupletati.</title>
+                  <respStmt>
+                     <persName>Panvinio, Onofrio, 1529-1568.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Latin</textLang>
+                  <imprint>
+                     <publisher>[Padua] : Typis Pauli Frambotti</publisher>
+                     <pubPlace>Verona (Italy)</pubPlace>
+                     <date>1648</date>
+                  </imprint>
+                  <extent>244 p.</extent>
+                  <extent>6 microfiche : positive.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/3dea5b56-b4d2-42c5-8c9f-295a9c4c339c/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Verona (Italy) -- Description and travel -- Early works to 1800.</term>
+               <term>Verona (Italy) -- History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/3dea5b56-b4d2-42c5-8c9f-295a9c4c339c/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

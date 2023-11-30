@@ -27,55 +27,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Studio elementare degli ordini di architettura / di Andrea Palladio ; pubblicato da Giovanni Battista
-                Berti.</title>
-            <respStmt>
-               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <authority>Berti, Giovanni Battista, 1787-1857.</authority>
-            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109289540203941</idno>
-            <idno type="URI">http://portal.getty.edu/api/d8910m</idno>
-            <idno>(OCoLC)464147124</idno>
-            <idno type="cico">429</idno>
-            <idno type="dcl">1p8</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Studio elementare degli ordini di architettura / di Andrea Palladio ; pubblicato da Giovanni Battista
-                Berti.</title>
-                  <respStmt>
-                     <persName>Palladio, Andrea, 1508-1580</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <imprint>
-                     <publisher>Milano : Batelli e Fanfani</publisher>
-                     <date>1818</date>
-                  </imprint>
-                  <extent>55 pages, xxviii pages of plates</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:448079062"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:448079062">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Studio elementare degli ordini di architettura [microform] / di Andrea Palladio ; pubblicato da Giovan Battista Berti ...</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -114,9 +65,79 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Details.</term>
+               <term>Architecture -- Orders.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/9142aec4-8dd3-4017-8fc7-7dbf28cb8c33/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studio elementare degli ordini di architettura / di Andrea Palladio ; pubblicato da Giovanni Battista
+                Berti.</title>
+            <respStmt>
+               <orgName>Biblioteca Berenson - I Tatti, The Harvard University Center for Italian Renaissance Studies</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Berti, Giovanni Battista, 1787-1857.</authority>
+            <idno type="URI">http://portal.getty.edu/books/hulitatti_990109289540203941</idno>
+            <idno type="URI">http://portal.getty.edu/api/d8910m</idno>
+            <idno>(OCoLC)464147124</idno>
+            <idno type="cico">429</idno>
+            <idno type="dcl">1p8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Studio elementare degli ordini di architettura / di Andrea Palladio ; pubblicato da Giovanni Battista
+                Berti.</title>
+                  <respStmt>
+                     <persName>Palladio, Andrea, 1508-1580</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <imprint>
+                     <publisher>Milano : Batelli e Fanfani</publisher>
+                     <date>1818</date>
+                  </imprint>
+                  <extent>55 pages, xxviii pages of plates</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://iiif.lib.harvard.edu/manifests/drs:448079062"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Architecture -- Early works to 1800.</term>
+               <term>Architecture -- Orders -- Early works to 1800.</term>
+               <term>Architecture -- Details -- Early works to 1800.</term>
+               <term>Architecture</term>
+               <term>Architecture -- Details</term>
+               <term>Architecture -- Orders</term>
+               <term>NA2810 .P33 1818</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://iiif.lib.harvard.edu/manifests/drs:448079062">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

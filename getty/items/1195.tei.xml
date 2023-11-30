@@ -73,9 +73,75 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Statues -- Italy -- Tuscany.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/fdd022af-a16d-4442-bd7f-15efb1d6865b/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De' marmi estratti dal Tevere e delle iscrizioni scolpite in essi a s. e. il sig. principe altieri [microform].</title>
+            <respStmt>
+               <orgName>Princeton University Library</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <authority>Fondo Cicognara (Biblioteca apostolica vaticana)</authority>
+            <authority>Leopoldo Cicognara Program (University of Illinois at Urbana-Champaign)</authority>
+            <idno type="URI">http://portal.getty.edu/books/princeton_9985461003506421</idno>
+            <idno type="URI">http://portal.getty.edu/api/t22m3b</idno>
+            <idno type="URI">http://portal.getty.edu/api/0p5t6s</idno>
+            <idno type="cico">1195</idno>
+            <idno type="cico">3841</idno>
+            <idno type="dcl">92p</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>De' marmi estratti dal Tevere e delle iscrizioni scolpite in essi a s. e. il sig. principe altieri [microform].</title>
+                  <respStmt>
+                     <persName>Poch, Bernardo.</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>Italian</textLang>
+                  <imprint>
+                     <publisher>In Roma : Pe'l Salomoni</publisher>
+                     <date>1773</date>
+                  </imprint>
+                  <extent>[4] p.</extent>
+                  <extent>1 microfiche : positive ; 11 x 15 cm.</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://figgy.princeton.edu/concern/scanned_resources/ec273823-4511-4938-a9e1-4891db26a8a1/manifest"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Inscriptions, Latin -- Early works to 1800.</term>
+               <term>Marble sculpture -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/ec273823-4511-4938-a9e1-4891db26a8a1/manifest">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>

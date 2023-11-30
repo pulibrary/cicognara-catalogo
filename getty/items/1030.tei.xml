@@ -24,51 +24,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Le paysage du Poussin, ou, Mes illusions, épitre à M. Bouniueu... et Dioclétion à salone, ou, Dialogue entre Dioclétion et Maximien</title>
-            <respStmt>
-               <orgName>Metropolitan Museum of Art</orgName>
-               <resp>contributor</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <orgName>Digital Cicognara Library</orgName>
-               <ref>https://cicognara.org/</ref>
-            </publisher>
-            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_38503</idno>
-            <idno type="dcl">sbx</idno>
-            <idno type="cico">1030</idno>
-            <idno type="URI">http://portal.getty.edu/api/tg6r1q</idno>
-         </publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title>Le paysage du Poussin, ou, Mes illusions, épitre à M. Bouniueu... et Dioclétion à salone, ou, Dialogue entre Dioclétion et Maximien</title>
-                  <respStmt>
-                     <persName>André-Murville, Pierre Nicolas, 1754-1815</persName>
-                     <resp>creator</resp>
-                  </respStmt>
-                  <textLang>French</textLang>
-                  <imprint>
-                     <publisher>Paris</publisher>
-                  </imprint>
-                  <extent>40 pages</extent>
-               </monogr>
-               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38503/manifest.json"/>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <facsimile>
-      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38503/manifest.json">
-         <desc>IIIF Manifest</desc>
-      </media>
-   </facsimile>
-</TEI>
-    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
             <title>Le payage du poussin, ou, Mes illusions épitre a M. Bounieu, peintre du Roi et de son Académie et Dioclétien a Salone, ou, Dialogue en vers entre Dioclétien et Maximien .. [microform] / par M. de Murville.</title>
             <respStmt>
                <orgName>Princeton University Library</orgName>
@@ -107,9 +62,68 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bounieu, Michel Honoré, 1740-1814.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
    </teiHeader>
    <facsimile>
       <media mimeType="application/json" url="https://figgy.princeton.edu/concern/scanned_resources/d1823dd5-976d-47af-95b9-3c75b4c961df/manifest">
+         <desc>IIIF Manifest</desc>
+      </media>
+   </facsimile>
+</TEI>
+    <TEI xmlns:gettyterms="http://portal.getty.edu/terms/gri/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:local="http://library.princeton.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le paysage du Poussin, ou, Mes illusions, épitre à M. Bouniueu... et Dioclétion à salone, ou, Dialogue entre Dioclétion et Maximien</title>
+            <respStmt>
+               <orgName>Metropolitan Museum of Art</orgName>
+               <resp>contributor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Digital Cicognara Library</orgName>
+               <ref>https://cicognara.org/</ref>
+            </publisher>
+            <idno type="URI">http://portal.getty.edu/books/met_p16028coll4_38503</idno>
+            <idno type="dcl">sbx</idno>
+            <idno type="cico">1030</idno>
+            <idno type="URI">http://portal.getty.edu/api/tg6r1q</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Le paysage du Poussin, ou, Mes illusions, épitre à M. Bouniueu... et Dioclétion à salone, ou, Dialogue entre Dioclétion et Maximien</title>
+                  <respStmt>
+                     <persName>André-Murville, Pierre Nicolas, 1754-1815</persName>
+                     <resp>creator</resp>
+                  </respStmt>
+                  <textLang>French</textLang>
+                  <imprint>
+                     <publisher>Paris</publisher>
+                  </imprint>
+                  <extent>40 pages</extent>
+               </monogr>
+               <relatedItem type="manifest" target="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38503/manifest.json"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>French poetry Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <media mimeType="application/json" url="https://libmma.contentdm.oclc.org/iiif/info/p16028coll4/38503/manifest.json">
          <desc>IIIF Manifest</desc>
       </media>
    </facsimile>
