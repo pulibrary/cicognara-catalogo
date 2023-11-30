@@ -1,76 +1,75 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
-require "fileutils"
-require "json"
-require "set"
-require "csv"
-require "logger"
+require 'fileutils'
+require 'json'
+require 'set'
+require 'csv'
+require 'logger'
 
-basedir = "#{File.dirname(__FILE__)}/.."
+basedir = "#{File.dirname(__FILE__)}/../.."
 
-logger = Logger.new(STDOUT)
+logger = Logger.new($stdout)
 
 records = []
 
 Dir["#{basedir}/tmp/resources/*.json"].each do |file|
   json = JSON.parse(File.open(file).read)
 
-  cico = json['identifier'].find {|id| id['@type'] == 'cicognaraNumber'}
-  dcl = json['identifier'].find {|id| id['@type'] == 'dclNumber'}
+  cico = json['identifier'].find { |id| id['@type'] == 'cicognaraNumber' }
+  dcl = json['identifier'].find { |id| id['@type'] == 'dclNumber' }
 
-  next unless (cico or dcl)
+  next unless cico || dcl
 
-  data = {id: json['@id'], file: File.basename(file), cico: ''}
+  data = { id: json['@id'], file: File.basename(file), cico: '' }
 
   if cico
-       data[:cico] = cico['value']
+    data[:cico] = cico['value']
   else
-      logger.warn("No cico number for #{file}")
+    logger.warn("No cico number for #{file}")
   end
 
   if dcl
-       data[:dcl] = dcl['value']
-    else
-      logger.warn("No dcl number for #{file}")
-      data[:dcl] = ''
+    data[:dcl] = dcl['value']
+  else
+    logger.warn("No dcl number for #{file}")
+    data[:dcl] = ''
   end
 
   data[:virtual_collection] = nil
-    if json["isPartOf"]
-    virtual_collection = json["isPartOf"].find { |x|
+  if json['isPartOf']
+    virtual_collection = json['isPartOf'].find do |x|
       x['@type'] == 'virtualCollection'
-    }
+    end
     if virtual_collection
       data[:virtual_collection] = virtual_collection['label']
     else
       logger.warn("not part of a virtual collection: #{file}")
     end
-    else
-      logger.warn("not part of anything: #{file}")
+  else
+    logger.warn("not part of anything: #{file}")
   end
 
   data[:manifest] = nil
 
   if json['hasFormat']
-    manifest = json['hasFormat'].find { |x| x['@type'] == "iiif"}
+    manifest = json['hasFormat'].find { |x| x['@type'] == 'iiif' }
     data[:manifest] = manifest['value']
   end
 
   records.append(data)
 end
 
-CSV.open("#{basedir}/tmp/getty_report.csv", "wb") do |csv|
-  csv << ["id", "filename", "cico", "dcl", "virtual_collection", "manifest"]
+CSV.open("#{basedir}/tmp/getty_report.csv", 'wb') do |csv|
+  csv << %w[id filename cico dcl virtual_collection manifest]
   records.each do |data|
     csv << [data[:id],
             data[:file],
             data[:cico],
             data[:dcl],
             data[:virtual_collection],
-            data[:manifest]
-           ]
+            data[:manifest]]
   end
 end
 
-
-  File.write("#{basedir}/tmp/getty_report.json", JSON.dump(records))
+File.write("#{basedir}/tmp/getty_report.json", JSON.dump(records))
