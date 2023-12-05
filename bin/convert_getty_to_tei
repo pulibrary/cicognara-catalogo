@@ -4,6 +4,8 @@ CUR=`dirname $0`
 SOURCEDIR=$CUR/../tmp/resources
 TARGETDIR=$CUR/../tmp/getty_tei
 XSL=$CUR/getty_to_tei.xsl
+SAXON=$CUR/saxon-he-12.4.jar
 
 mkdir -p $TARGETDIR
-java -cp $CUR/saxon-he-10.5.jar net.sf.saxon.Transform -s:$SOURCEDIR -xsl:$XSL -o:$TARGETDIR
+# java -cp $SAXON net.sf.saxon.Transform -s:$SOURCEDIR -xsl:$XSL -o:$TARGETDIR
+java -jar $SAXON -s:$SOURCEDIR -xsl:$XSL -o:$TARGETDIR
