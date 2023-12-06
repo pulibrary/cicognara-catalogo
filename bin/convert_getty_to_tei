@@ -7,5 +7,4 @@ XSL=$CUR/getty_to_tei.xsl
 SAXON=$CUR/saxon-he-12.4.jar
 
 mkdir -p $TARGETDIR
-# java -cp $SAXON net.sf.saxon.Transform -s:$SOURCEDIR -xsl:$XSL -o:$TARGETDIR
 java -jar $SAXON -s:$SOURCEDIR -xsl:$XSL -o:$TARGETDIR
