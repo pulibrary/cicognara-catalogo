@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # fetch_xml_getty_records - download the most recent dump of xml files from the getty research portal
-# requires wget and xq (on macos: `brew install wget python-yq`)
+# in XML format. Requires wget and xq (on macos: `brew install wget python-yq`)
 
 CUR=`dirname $0`
 mkdir -p $CUR/../tmp
